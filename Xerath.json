@@ -1,12 +1,12 @@
 [
   {
-    "index": 139,
+    "index": 56,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 19248,
-    "winRate": "47.38%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 14972,
+    "winRate": "48.62%",
+    "timestamp": 1709583153942,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ supp, 14.3.1",
+        "title": "[u.gg] Xerath @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 18406, win 47.55%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 13828, win 48.77%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8801, win 49.22%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 6846, win 50.67%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3871",
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -86,7 +86,7 @@
                 "count": 1
               },
               {
-                "id": "4628",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -99,11 +99,11 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -120,19 +120,19 @@
     "runes": [
       {
         "alias": "Xerath",
-        "name": "[u.gg] Xerath @ supp, win 47.95%, pick 7105",
+        "name": "[u.gg] Xerath @ supp, win 54.37%, pick 309",
         "position": "supp",
-        "pickCount": 7105,
-        "winRate": "47.95%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
+        "pickCount": 309,
+        "winRate": "54.37%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8369,
+          8229,
+          8210,
           8226,
           8237,
           8304,
           8345,
-          8347,
           5008,
           5008,
           5011
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 139,
+    "index": 56,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 16495,
-    "winRate": "49.01%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 13546,
+    "winRate": "48.55%",
+    "timestamp": 1709583153942,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "mid",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ mid, 14.3.1",
+        "title": "[u.gg] Xerath @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 15559, win 49.09%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 12769, win 48.70%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -188,7 +188,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 339, win 73.16%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3310, win 51.09%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6655",
@@ -199,7 +199,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -208,11 +208,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -225,11 +225,11 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -246,7 +246,7 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -263,20 +263,20 @@
     "runes": [
       {
         "alias": "Xerath",
-        "name": "[u.gg] Xerath @ mid, win 54.38%, pick 697",
+        "name": "[u.gg] Xerath @ mid, win 49.04%, pick 3705",
         "position": "mid",
-        "pickCount": 697,
-        "winRate": "54.38%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "pickCount": 3705,
+        "winRate": "49.04%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8214,
-          8009,
-          8014,
+          8369,
           8226,
-          8233,
           8237,
-          5005,
+          8304,
+          8345,
+          8347,
+          5008,
           5008,
           5001
         ],
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 139,
+    "index": 56,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 807,
-    "winRate": "51.80%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 742,
+    "winRate": "50.67%",
+    "timestamp": 1709583153942,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "adc",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ adc, 14.3.1",
+        "title": "[u.gg] Xerath @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -314,7 +314,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 721, win 52.15%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 661, win 50.98%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -331,7 +331,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 129, win 62.02%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 61, win 57.38%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6655",
@@ -342,7 +342,7 @@
                 "count": 1
               },
               {
-                "id": "4628",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -351,11 +351,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "4628",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -364,15 +364,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3135",
-                "count": 1
-              },
-              {
                 "id": "3041",
                 "count": 1
               },
               {
                 "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -381,15 +381,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6653",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "2065",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -406,20 +406,20 @@
     "runes": [
       {
         "alias": "Xerath",
-        "name": "[u.gg] Xerath @ adc, win 61.64%, pick 73",
+        "name": "[u.gg] Xerath @ adc, win 54.76%, pick 126",
         "position": "adc",
-        "pickCount": 73,
-        "winRate": "61.64%",
+        "pickCount": 126,
+        "winRate": "54.76%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
-          8214,
+          8229,
           8210,
           8226,
           8237,
-          8304,
-          8321,
-          5008,
+          8345,
+          8347,
+          5005,
           5008,
           5011
         ],
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 139,
+    "index": 56,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 91,
-    "winRate": "40.66%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 65,
+    "winRate": "41.54%",
+    "timestamp": 1709583153942,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "top",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ top, 14.3.1",
+        "title": "[u.gg] Xerath @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -457,31 +457,44 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 80, win 43.75%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 4, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
                 "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 10, win 50.00%, Q \u003e W \u003e E",
             "items": [
+              {
+                "id": "6655",
+                "count": 1
+              },
               {
                 "id": "3020",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3089",
                 "count": 1
               },
               {
@@ -491,27 +504,18 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "4628",
+                "count": 1
+              },
+              {
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -520,7 +524,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3135",
+                "id": "4628",
+                "count": 1
+              },
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -537,20 +549,20 @@
     "runes": [
       {
         "alias": "Xerath",
-        "name": "[u.gg] Xerath @ top, win 75.00%, pick 8",
+        "name": "[u.gg] Xerath @ top, win 58.82%, pick 17",
         "position": "top",
-        "pickCount": 8,
-        "winRate": "75.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "pickCount": 17,
+        "winRate": "58.82%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8229,
-          8009,
-          8014,
-          8210,
+          8369,
           8226,
           8237,
-          5008,
+          8304,
+          8345,
+          8347,
+          5005,
           5008,
           5001
         ],
@@ -560,13 +572,13 @@
     ]
   },
   {
-    "index": 139,
+    "index": 56,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 3,
-    "winRate": "33.33%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 7,
+    "winRate": "14.29%",
+    "timestamp": 1709583153942,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "jungle",
@@ -578,7 +590,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ jungle, 14.3.1",
+        "title": "[u.gg] Xerath @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -612,7 +624,7 @@
                 "count": 1
               },
               {
-                "id": "3118",
+                "id": "6655",
                 "count": 1
               },
               {
@@ -625,14 +637,19 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3157",
+                "id": "4628",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": null
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -650,22 +667,22 @@
     "runes": [
       {
         "alias": "Xerath",
-        "name": "[u.gg] Xerath @ jungle, win 50.00%, pick 2",
+        "name": "[u.gg] Xerath @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 2,
-        "winRate": "50.00%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8300,
-        "subStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8369,
-          8226,
-          8237,
+          8106,
+          8138,
           8304,
           8345,
           8347,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

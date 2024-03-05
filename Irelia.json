@@ -1,12 +1,12 @@
 [
   {
-    "index": 3,
+    "index": 6,
     "id": "39",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 26611,
-    "winRate": "50.40%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 23370,
+    "winRate": "50.32%",
+    "timestamp": 1709583153942,
     "alias": "Irelia",
     "name": "Irelia",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Irelia @ top, 14.3.1",
+        "title": "[u.gg] Irelia @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 23261, win 50.78%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 20159, win 50.60%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6375, win 54.13%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 5719, win 54.07%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3153",
@@ -82,7 +82,7 @@
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Irelia",
-        "name": "[u.gg] Irelia @ top, win 51.54%, pick 2010",
+        "name": "[u.gg] Irelia @ top, win 51.86%, pick 2127",
         "position": "top",
-        "pickCount": 2010,
-        "winRate": "51.54%",
+        "pickCount": 2127,
+        "winRate": "51.86%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -131,7 +131,7 @@
           9104,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 3,
+    "index": 6,
     "id": "39",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 24940,
-    "winRate": "49.76%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 19200,
+    "winRate": "49.64%",
+    "timestamp": 1709583153942,
     "alias": "Irelia",
     "name": "Irelia",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Irelia @ mid, 14.3.1",
+        "title": "[u.gg] Irelia @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 20596, win 50.38%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 15602, win 50.08%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -180,146 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3381, win 53.92%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3091",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Irelia",
-        "name": "[u.gg] Irelia @ mid, win 51.87%, pick 3634",
-        "position": "mid",
-        "pickCount": 3634,
-        "winRate": "51.87%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8010,
-          8009,
-          8299,
-          8345,
-          8347,
-          9104,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 3,
-    "id": "39",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 252,
-    "winRate": "45.63%",
-    "timestamp": 1708287146556,
-    "alias": "Irelia",
-    "name": "Irelia",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Irelia @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          39
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 203, win 46.80%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 61, win 50.82%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3310, win 54.86%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3153",
@@ -339,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3078",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -352,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "3110",
+                "id": "3053",
                 "count": 1
               },
               {
                 "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -369,15 +230,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3091",
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3110",
                 "count": 1
               },
               {
                 "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3075",
                 "count": 1
               }
             ]
@@ -394,18 +255,18 @@
     "runes": [
       {
         "alias": "Irelia",
-        "name": "[u.gg] Irelia @ adc, win 50.00%, pick 58",
-        "position": "adc",
-        "pickCount": 58,
-        "winRate": "50.00%",
+        "name": "[u.gg] Irelia @ mid, win 49.97%, pick 5213",
+        "position": "mid",
+        "pickCount": 5213,
+        "winRate": "49.97%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8010,
           8299,
-          8304,
           8345,
-          9103,
+          8347,
+          9104,
           9111,
           5005,
           5008,
@@ -417,13 +278,148 @@
     ]
   },
   {
-    "index": 3,
+    "index": 6,
     "id": "39",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 20,
-    "winRate": "30.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 175,
+    "winRate": "44.00%",
+    "timestamp": 1709583153942,
+    "alias": "Irelia",
+    "name": "Irelia",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Irelia @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          39
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 30, win 53.33%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 14, win 64.29%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3302",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6631",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Irelia",
+        "name": "[u.gg] Irelia @ adc, win 52.63%, pick 38",
+        "position": "adc",
+        "pickCount": 38,
+        "winRate": "52.63%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8010,
+          8299,
+          8345,
+          8347,
+          9104,
+          9111,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "id": "39",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 30,
+    "winRate": "33.33%",
+    "timestamp": 1709583153942,
     "alias": "Irelia",
     "name": "Irelia",
     "position": "supp",
@@ -435,7 +431,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Irelia @ supp, 14.3.1",
+        "title": "[u.gg] Irelia @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,24 +441,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 15, win 33.33%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 10, win 40.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2003",
+                "id": "1055",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 66.67%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3877",
@@ -482,11 +474,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6610",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "6631",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -495,15 +487,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6333",
+                "id": "6673",
                 "count": 1
               },
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3091",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -512,7 +500,11 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3302",
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -529,22 +521,22 @@
     "runes": [
       {
         "alias": "Irelia",
-        "name": "[u.gg] Irelia @ supp, win 100.00%, pick 1",
+        "name": "[u.gg] Irelia @ supp, win 100.00%, pick 2",
         "position": "supp",
-        "pickCount": 1,
+        "pickCount": 2,
         "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8010,
+          8009,
           8299,
-          8453,
-          8473,
+          8345,
+          8347,
           9104,
-          9111,
-          5005,
           5008,
-          5001
+          5008,
+          5013
         ],
         "score": 0,
         "type": ""
@@ -552,25 +544,25 @@
     ]
   },
   {
-    "index": 3,
+    "index": 6,
     "id": "39",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 14,
-    "winRate": "28.57%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 9,
+    "winRate": "22.22%",
+    "timestamp": 1709583153942,
     "alias": "Irelia",
     "name": "Irelia",
     "position": "jungle",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Irelia @ jungle, 14.3.1",
+        "title": "[u.gg] Irelia @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -580,10 +572,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8, win 37.50%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1101",
+                "id": "1102",
                 "count": 1
               },
               {
@@ -593,46 +585,41 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3153",
+                "id": "3074",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3047",
                 "count": 1
               },
-              {
-                "id": "3091",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
               {
                 "id": "6610",
                 "count": 1
-              },
-              {
-                "id": "3748",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3053",
+                "id": "3073",
+                "count": 1
+              },
+              {
+                "id": "3026",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": null
           }
         ],
@@ -647,22 +634,22 @@
     "runes": [
       {
         "alias": "Irelia",
-        "name": "[u.gg] Irelia @ jungle, win 50.00%, pick 4",
+        "name": "[u.gg] Irelia @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 4,
-        "winRate": "50.00%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8200,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8021,
-          8232,
-          8233,
+          8008,
           8299,
+          8453,
+          8473,
           9104,
           9111,
           5005,
           5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""

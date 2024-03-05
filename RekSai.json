@@ -1,12 +1,12 @@
 [
   {
-    "index": 52,
+    "index": 110,
     "id": "421",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 11207,
-    "winRate": "51.83%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 10223,
+    "winRate": "49.48%",
+    "timestamp": 1709583153942,
     "alias": "RekSai",
     "name": "Rek'Sai",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] RekSai @ jungle, 14.3.1",
+        "title": "[u.gg] RekSai @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,31 +28,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6275, win 52.61%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 398, win 56.28%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1102",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 659, win 55.08%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 533, win 53.66%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3142",
+                "id": "6631",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3111",
                 "count": 1
               },
               {
-                "id": "3748",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -65,7 +61,7 @@
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -74,7 +70,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3026",
+                "id": "6333",
                 "count": 1
               },
               {
@@ -82,7 +78,7 @@
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -95,11 +91,11 @@
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "6609",
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "6692",
                 "count": 1
               }
             ]
@@ -116,22 +112,22 @@
     "runes": [
       {
         "alias": "RekSai",
-        "name": "[u.gg] RekSai @ jungle, win 53.73%, pick 1113",
+        "name": "[u.gg] RekSai @ jungle, win 49.87%, pick 5971",
         "position": "jungle",
-        "pickCount": 1113,
-        "winRate": "53.73%",
+        "pickCount": 5971,
+        "winRate": "49.87%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8010,
           8014,
-          8135,
-          8138,
+          8304,
+          8347,
           9104,
           9111,
+          5005,
           5008,
-          5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -139,13 +135,13 @@
     ]
   },
   {
-    "index": 52,
+    "index": 110,
     "id": "421",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 292,
-    "winRate": "47.95%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 703,
+    "winRate": "49.64%",
+    "timestamp": 1709583153942,
     "alias": "RekSai",
     "name": "Rek'Sai",
     "position": "top",
@@ -157,7 +153,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] RekSai @ top, 14.3.1",
+        "title": "[u.gg] RekSai @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,10 +163,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 231, win 48.48%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 353, win 50.99%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -180,10 +176,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 27, win 59.26%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3748",
+                "id": "6692",
                 "count": 1
               },
               {
@@ -191,7 +187,7 @@
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -204,7 +200,7 @@
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "3181",
                 "count": 1
               }
             ]
@@ -213,15 +209,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3053",
+                "id": "3065",
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "3143",
                 "count": 1
               },
               {
-                "id": "3742",
+                "id": "6664",
                 "count": 1
               }
             ]
@@ -230,15 +226,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3153",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "8020",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "6695",
                 "count": 1
               }
             ]
@@ -255,19 +251,19 @@
     "runes": [
       {
         "alias": "RekSai",
-        "name": "[u.gg] RekSai @ top, win 100.00%, pick 7",
+        "name": "[u.gg] RekSai @ top, win 66.67%, pick 15",
         "position": "top",
-        "pickCount": 7,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "pickCount": 15,
+        "winRate": "66.67%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8010,
-          8299,
-          8453,
-          8473,
+          8437,
+          8014,
+          8444,
+          8446,
+          8451,
           9104,
-          9111,
           5008,
           5008,
           5001
@@ -278,152 +274,13 @@
     ]
   },
   {
-    "index": 52,
+    "index": 110,
     "id": "421",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 101,
-    "winRate": "55.45%",
-    "timestamp": 1708287146556,
-    "alias": "RekSai",
-    "name": "Rek'Sai",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] RekSai @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          421
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 67, win 59.70%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3748",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "6692",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "6609",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "RekSai",
-        "name": "[u.gg] RekSai @ mid, win 100.00%, pick 3",
-        "position": "mid",
-        "pickCount": 3,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          9923,
-          8014,
-          8120,
-          8126,
-          8135,
-          9104,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 52,
-    "id": "421",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 49,
-    "winRate": "51.02%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 162,
+    "winRate": "54.32%",
+    "timestamp": 1709583153942,
     "alias": "RekSai",
     "name": "Rek'Sai",
     "position": "supp",
@@ -435,7 +292,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] RekSai @ supp, 14.3.1",
+        "title": "[u.gg] RekSai @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,24 +302,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 42, win 52.38%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 10, win 80.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1055",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 16, win 75.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3869",
@@ -473,7 +326,7 @@
                 "count": 1
               },
               {
-                "id": "3869",
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -482,11 +335,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6698",
+                "id": "3109",
                 "count": 1
               },
               {
-                "id": "3179",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -495,15 +348,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3031",
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "3036",
                 "count": 1
               },
               {
                 "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "3179",
                 "count": 1
               }
             ]
@@ -512,15 +365,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3036",
+                "id": "6609",
                 "count": 1
               },
               {
-                "id": "6695",
-                "count": 1
-              },
-              {
-                "id": "6692",
+                "id": "6701",
                 "count": 1
               }
             ]
@@ -537,22 +386,22 @@
     "runes": [
       {
         "alias": "RekSai",
-        "name": "[u.gg] RekSai @ supp, win 100.00%, pick 3",
+        "name": "[u.gg] RekSai @ supp, win 88.89%, pick 9",
         "position": "supp",
-        "pickCount": 3,
-        "winRate": "100.00%",
+        "pickCount": 9,
+        "winRate": "88.89%",
         "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           9923,
-          8017,
-          8106,
+          8105,
+          8126,
           8138,
-          8143,
-          9111,
-          5005,
+          8451,
+          8473,
           5008,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -560,16 +409,16 @@
     ]
   },
   {
-    "index": 52,
+    "index": 110,
     "id": "421",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 7,
-    "winRate": "57.14%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 90,
+    "winRate": "51.11%",
+    "timestamp": 1709583153942,
     "alias": "RekSai",
     "name": "Rek'Sai",
-    "position": "adc",
+    "position": "mid",
     "skills": [
       "Q",
       "E",
@@ -578,7 +427,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] RekSai @ adc, 14.3.1",
+        "title": "[u.gg] RekSai @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -588,7 +437,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 7, win 57.14%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 64, win 57.81%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -601,10 +450,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 20, win 75.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6697",
+                "id": "6692",
                 "count": 1
               },
               {
@@ -612,7 +461,7 @@
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -621,7 +470,138 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3814",
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "6698",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3071",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "RekSai",
+        "name": "[u.gg] RekSai @ mid, win 65.71%, pick 35",
+        "position": "mid",
+        "pickCount": 35,
+        "winRate": "65.71%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8005,
+          8014,
+          8138,
+          8143,
+          9104,
+          9111,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 110,
+    "id": "421",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 4,
+    "winRate": "25.00%",
+    "timestamp": 1709583153942,
+    "alias": "RekSai",
+    "name": "Rek'Sai",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] RekSai @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          421
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6631",
+                "count": 1
+              },
+              {
+                "id": "3143",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3742",
                 "count": 1
               }
             ]
@@ -650,16 +630,16 @@
         "position": "adc",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          9923,
+          8005,
           8014,
-          8135,
-          8138,
-          8143,
+          8444,
+          8451,
+          9104,
           9111,
-          5008,
+          5005,
           5008,
           5011
         ],

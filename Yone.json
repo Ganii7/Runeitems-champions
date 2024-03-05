@@ -1,12 +1,12 @@
 [
   {
-    "index": 81,
+    "index": 164,
     "id": "777",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 54181,
-    "winRate": "48.97%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 38633,
+    "winRate": "48.02%",
+    "timestamp": 1709583153942,
     "alias": "Yone",
     "name": "Yone",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yone @ top, 14.3.1",
+        "title": "[u.gg] Yone @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 39534, win 49.75%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 27155, win 48.50%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 11672, win 54.25%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 7958, win 52.84%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "6333",
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "6333",
                 "count": 1
               },
               {
-                "id": "3072",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -116,17 +116,17 @@
     "runes": [
       {
         "alias": "Yone",
-        "name": "[u.gg] Yone @ top, win 51.90%, pick 6409",
+        "name": "[u.gg] Yone @ top, win 50.73%, pick 5427",
         "position": "top",
-        "pickCount": 6409,
-        "winRate": "51.90%",
+        "pickCount": 5427,
+        "winRate": "50.73%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
           8299,
-          8444,
           8451,
+          8473,
           9104,
           9111,
           5005,
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 164,
     "id": "777",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 50971,
-    "winRate": "50.05%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 35827,
+    "winRate": "48.28%",
+    "timestamp": 1709583153942,
     "alias": "Yone",
     "name": "Yone",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yone @ mid, 14.3.1",
+        "title": "[u.gg] Yone @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 25142, win 51.35%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 16808, win 49.21%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 12708, win 54.97%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 8784, win 53.57%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -213,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "6662",
+                "count": 1
+              },
+              {
                 "id": "3031",
                 "count": 1
               },
               {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3026",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -234,11 +234,11 @@
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -255,10 +255,10 @@
     "runes": [
       {
         "alias": "Yone",
-        "name": "[u.gg] Yone @ mid, win 52.41%, pick 10967",
+        "name": "[u.gg] Yone @ mid, win 50.03%, pick 7989",
         "position": "mid",
-        "pickCount": 10967,
-        "winRate": "52.41%",
+        "pickCount": 7989,
+        "winRate": "50.03%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 164,
     "id": "777",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 555,
-    "winRate": "49.91%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 400,
+    "winRate": "45.00%",
+    "timestamp": 1709583153942,
     "alias": "Yone",
     "name": "Yone",
     "position": "adc",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yone @ adc, 14.3.1",
+        "title": "[u.gg] Yone @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 252, win 50.40%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 206, win 47.09%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -319,7 +319,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 145, win 54.48%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 90, win 56.67%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -343,7 +343,7 @@
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "3072",
                 "count": 1
               }
             ]
@@ -352,15 +352,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "6662",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "7041",
                 "count": 1
               }
             ]
@@ -369,15 +369,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
                 "id": "3026",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -394,21 +394,21 @@
     "runes": [
       {
         "alias": "Yone",
-        "name": "[u.gg] Yone @ adc, win 56.90%, pick 58",
+        "name": "[u.gg] Yone @ adc, win 49.54%, pick 109",
         "position": "adc",
-        "pickCount": 58,
-        "winRate": "56.90%",
+        "pickCount": 109,
+        "winRate": "49.54%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
           8299,
           8444,
-          8453,
+          8451,
           9104,
           9111,
           5005,
-          5001,
+          5008,
           5001
         ],
         "score": 0,
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 164,
     "id": "777",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 159,
-    "winRate": "42.14%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 162,
+    "winRate": "42.59%",
+    "timestamp": 1709583153942,
     "alias": "Yone",
     "name": "Yone",
     "position": "jungle",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yone @ jungle, 14.3.1",
+        "title": "[u.gg] Yone @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,7 +445,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 42, win 50.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 35, win 60.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1101",
@@ -454,7 +454,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 24, win 50.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 43, win 55.81%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -478,7 +478,7 @@
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -487,15 +487,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3091",
-                "count": 1
-              },
-              {
                 "id": "6665",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "3031",
+                "count": 1
+              },
+              {
+                "id": "3153",
                 "count": 1
               }
             ]
@@ -504,7 +504,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "8020",
+                "count": 1
+              },
+              {
+                "id": "3302",
                 "count": 1
               }
             ]
@@ -521,10 +529,10 @@
     "runes": [
       {
         "alias": "Yone",
-        "name": "[u.gg] Yone @ jungle, win 56.41%, pick 39",
+        "name": "[u.gg] Yone @ jungle, win 54.39%, pick 57",
         "position": "jungle",
-        "pickCount": 39,
-        "winRate": "56.41%",
+        "pickCount": 57,
+        "winRate": "54.39%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -544,13 +552,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 164,
     "id": "777",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 71,
-    "winRate": "32.39%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 65,
+    "winRate": "32.31%",
+    "timestamp": 1709583153942,
     "alias": "Yone",
     "name": "Yone",
     "position": "supp",
@@ -562,7 +570,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yone @ supp, 14.3.1",
+        "title": "[u.gg] Yone @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -572,23 +580,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 46, win 36.96%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1054",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 21, win 57.14%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3869",
+                "id": "3877",
                 "count": 1
               },
               {
@@ -596,7 +608,7 @@
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "6672",
                 "count": 1
               }
             ]
@@ -605,11 +617,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6673",
+                "id": "3153",
                 "count": 1
               },
               {
-                "id": "3877",
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -618,15 +630,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
                 "id": "3031",
-                "count": 1
-              },
-              {
-                "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "3110",
                 "count": 1
               }
             ]
@@ -635,15 +647,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6672",
-                "count": 1
-              },
-              {
                 "id": "6673",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3139",
                 "count": 1
               }
             ]
@@ -660,22 +672,22 @@
     "runes": [
       {
         "alias": "Yone",
-        "name": "[u.gg] Yone @ supp, win 37.04%, pick 27",
+        "name": "[u.gg] Yone @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 27,
-        "winRate": "37.04%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8008,
-          8242,
-          8299,
-          8444,
-          9104,
-          9111,
-          5005,
+          8128,
+          8106,
+          8138,
+          8139,
+          8210,
+          8236,
           5008,
-          5013
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""

@@ -1,12 +1,12 @@
 [
   {
-    "index": 26,
+    "index": 166,
     "id": "223",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 10183,
-    "winRate": "49.98%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 7390,
+    "winRate": "49.76%",
+    "timestamp": 1709583153942,
     "alias": "TahmKench",
     "name": "Tahm Kench",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] TahmKench @ top, 14.3.1",
+        "title": "[u.gg] TahmKench @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9385, win 49.95%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 6827, win 49.74%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 875, win 56.80%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 520, win 55.19%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3084",
@@ -53,6 +53,288 @@
               },
               {
                 "id": "3068",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "2502",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "TahmKench",
+        "name": "[u.gg] TahmKench @ top, win 58.56%, pick 181",
+        "position": "top",
+        "pickCount": 181,
+        "winRate": "58.56%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8437,
+          8304,
+          8410,
+          8444,
+          8446,
+          8451,
+          5005,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 166,
+    "id": "223",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 5907,
+    "winRate": "49.33%",
+    "timestamp": 1709583153942,
+    "alias": "TahmKench",
+    "name": "Tahm Kench",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] TahmKench @ supp, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          223
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 5386, win 49.76%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 471, win 52.87%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3876",
+                "count": 1
+              },
+              {
+                "id": "3084",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3068",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "4643",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "TahmKench",
+        "name": "[u.gg] TahmKench @ supp, win 50.56%, pick 1169",
+        "position": "supp",
+        "pickCount": 1169,
+        "winRate": "50.56%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8437,
+          8242,
+          8401,
+          8444,
+          9104,
+          9111,
+          5005,
+          5001,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 166,
+    "id": "223",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 2508,
+    "winRate": "53.51%",
+    "timestamp": 1709583153942,
+    "alias": "TahmKench",
+    "name": "Tahm Kench",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] TahmKench @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          223
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2360, win 53.60%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 36, win 72.22%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3084",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6664",
                 "count": 1
               }
             ]
@@ -78,11 +360,11 @@
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -91,15 +373,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "2504",
+                "count": 1
+              },
+              {
+                "id": "2502",
+                "count": 1
+              },
+              {
                 "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "4401",
                 "count": 1
               }
             ]
@@ -116,299 +398,17 @@
     "runes": [
       {
         "alias": "TahmKench",
-        "name": "[u.gg] TahmKench @ top, win 53.10%, pick 435",
-        "position": "top",
-        "pickCount": 435,
-        "winRate": "53.10%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8437,
-          8401,
-          8444,
-          8451,
-          9104,
-          9111,
-          5005,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 26,
-    "id": "223",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 4576,
-    "winRate": "50.09%",
-    "timestamp": 1708287146556,
-    "alias": "TahmKench",
-    "name": "Tahm Kench",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] TahmKench @ supp, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          223
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 4246, win 49.95%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 267, win 63.67%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3876",
-                "count": 1
-              },
-              {
-                "id": "3084",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "TahmKench",
-        "name": "[u.gg] TahmKench @ supp, win 54.21%, pick 190",
-        "position": "supp",
-        "pickCount": 190,
-        "winRate": "54.21%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8437,
-          8106,
-          8126,
-          8401,
-          8444,
-          8453,
-          5005,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 26,
-    "id": "223",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1896,
-    "winRate": "53.32%",
-    "timestamp": 1708287146556,
-    "alias": "TahmKench",
-    "name": "Tahm Kench",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] TahmKench @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          223
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1798, win 53.28%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 163, win 56.44%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3084",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "8001",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "TahmKench",
-        "name": "[u.gg] TahmKench @ adc, win 84.62%, pick 13",
+        "name": "[u.gg] TahmKench @ adc, win 54.08%, pick 797",
         "position": "adc",
-        "pickCount": 13,
-        "winRate": "84.62%",
+        "pickCount": 797,
+        "winRate": "54.08%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
           8437,
           8242,
+          8401,
           8444,
-          8463,
           9104,
           9111,
           5005,
@@ -421,25 +421,25 @@
     ]
   },
   {
-    "index": 26,
+    "index": 166,
     "id": "223",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 276,
-    "winRate": "48.55%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 290,
+    "winRate": "51.72%",
+    "timestamp": 1709583153942,
     "alias": "TahmKench",
     "name": "Tahm Kench",
     "position": "mid",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] TahmKench @ mid, 14.3.1",
+        "title": "[u.gg] TahmKench @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -449,7 +449,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 242, win 49.59%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 262, win 53.05%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -462,65 +462,65 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 14, win 71.43%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 16, win 75.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3084",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "6664",
+                "id": "3068",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3748",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3065",
-                "count": 1
-              },
               {
                 "id": "3075",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3110",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "8001",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3083",
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "4629",
+                "count": 1
+              },
+              {
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -537,22 +537,22 @@
     "runes": [
       {
         "alias": "TahmKench",
-        "name": "[u.gg] TahmKench @ mid, win 54.17%, pick 96",
+        "name": "[u.gg] TahmKench @ mid, win 72.22%, pick 18",
         "position": "mid",
-        "pickCount": 96,
-        "winRate": "54.17%",
+        "pickCount": 18,
+        "winRate": "72.22%",
         "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8437,
-          8242,
+          8304,
           8401,
+          8410,
           8444,
-          9104,
-          9111,
-          5005,
+          8451,
+          5007,
           5001,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 26,
+    "index": 166,
     "id": "223",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 9,
-    "winRate": "22.22%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 8,
+    "winRate": "0.00%",
+    "timestamp": 1709583153942,
     "alias": "TahmKench",
     "name": "Tahm Kench",
     "position": "jungle",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] TahmKench @ jungle, 14.3.1",
+        "title": "[u.gg] TahmKench @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -588,7 +588,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9, win 22.22%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 3, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1103",
@@ -601,18 +601,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3084",
-                "count": 1
-              },
-              {
-                "id": "3006",
+                "id": "3111",
                 "count": 1
               },
               {
                 "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3084",
                 "count": 1
               }
             ]
@@ -621,23 +621,18 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3075",
+                "id": "6664",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3075",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -655,19 +650,19 @@
     "runes": [
       {
         "alias": "TahmKench",
-        "name": "[u.gg] TahmKench @ jungle, win 50.00%, pick 4",
+        "name": "[u.gg] TahmKench @ jungle, win 0.00%, pick 1",
         "position": "jungle",
-        "pickCount": 4,
-        "winRate": "50.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8437,
-          8106,
+          9923,
+          8105,
           8126,
+          8138,
           8401,
-          8444,
-          8453,
+          8473,
           5005,
           5001,
           5001

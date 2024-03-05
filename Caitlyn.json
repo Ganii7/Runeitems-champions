@@ -1,12 +1,12 @@
 [
   {
-    "index": 111,
+    "index": 75,
     "id": "51",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 60198,
-    "winRate": "47.87%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 41978,
+    "winRate": "47.66%",
+    "timestamp": 1709583153942,
     "alias": "Caitlyn",
     "name": "Caitlyn",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Caitlyn @ adc, 14.3.1",
+        "title": "[u.gg] Caitlyn @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 56455, win 48.20%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 39479, win 47.73%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 12723, win 50.67%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 8969, win 50.57%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3006",
@@ -99,7 +99,7 @@
                 "count": 1
               },
               {
-                "id": "3094",
+                "id": "3036",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Caitlyn",
-        "name": "[u.gg] Caitlyn @ adc, win 48.36%, pick 28372",
+        "name": "[u.gg] Caitlyn @ adc, win 47.62%, pick 20324",
         "position": "adc",
-        "pickCount": 28372,
-        "winRate": "48.36%",
+        "pickCount": 20324,
+        "winRate": "47.62%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -131,145 +131,6 @@
           9103,
           5005,
           5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 111,
-    "id": "51",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 691,
-    "winRate": "45.88%",
-    "timestamp": 1708287146556,
-    "alias": "Caitlyn",
-    "name": "Caitlyn",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Caitlyn @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          51
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 526, win 48.10%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 45, win 60.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3142",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "6676",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "6701",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Caitlyn",
-        "name": "[u.gg] Caitlyn @ mid, win 58.82%, pick 34",
-        "position": "mid",
-        "pickCount": 34,
-        "winRate": "58.82%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8369,
-          8233,
-          8236,
-          8304,
-          8321,
-          8347,
-          5008,
-          5008,
           5011
         ],
         "score": 0,
@@ -278,13 +139,13 @@
     ]
   },
   {
-    "index": 111,
+    "index": 75,
     "id": "51",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 650,
-    "winRate": "35.23%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 526,
+    "winRate": "41.44%",
+    "timestamp": 1709583153942,
     "alias": "Caitlyn",
     "name": "Caitlyn",
     "position": "supp",
@@ -296,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Caitlyn @ supp, 14.3.1",
+        "title": "[u.gg] Caitlyn @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,20 +167,24 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 142, win 40.14%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 318, win 41.51%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1055",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 13, win 69.23%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 25, win 64.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3877",
@@ -339,11 +204,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3142",
+                "id": "3814",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -352,7 +217,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6676",
+                "id": "3142",
                 "count": 1
               },
               {
@@ -360,7 +225,7 @@
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "3036",
                 "count": 1
               }
             ]
@@ -369,15 +234,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3814",
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "3033",
                 "count": 1
               },
               {
                 "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "6701",
                 "count": 1
               }
             ]
@@ -394,22 +259,22 @@
     "runes": [
       {
         "alias": "Caitlyn",
-        "name": "[u.gg] Caitlyn @ supp, win 45.00%, pick 60",
+        "name": "[u.gg] Caitlyn @ supp, win 60.98%, pick 41",
         "position": "supp",
-        "pickCount": 60,
-        "winRate": "45.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8300,
+        "pickCount": 41,
+        "winRate": "60.98%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          9923,
-          8135,
-          8136,
-          8139,
-          8304,
-          8345,
-          5005,
+          8021,
+          8009,
+          8014,
+          8233,
+          8236,
+          9103,
           5008,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -417,16 +282,16 @@
     ]
   },
   {
-    "index": 111,
+    "index": 75,
     "id": "51",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 230,
-    "winRate": "41.74%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 495,
+    "winRate": "42.83%",
+    "timestamp": 1709583153942,
     "alias": "Caitlyn",
     "name": "Caitlyn",
-    "position": "top",
+    "position": "mid",
     "skills": [
       "Q",
       "W",
@@ -435,7 +300,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Caitlyn @ top, 14.3.1",
+        "title": "[u.gg] Caitlyn @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,7 +310,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 51, win 47.06%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 72, win 45.83%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1083",
@@ -458,18 +323,157 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 13, win 84.62%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3006",
-                "count": 1
-              },
               {
                 "id": "6676",
                 "count": 1
               },
               {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
                 "id": "3031",
+                "count": 1
+              },
+              {
+                "id": "3094",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3031",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3072",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3072",
+                "count": 1
+              },
+              {
+                "id": "6697",
+                "count": 1
+              },
+              {
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Caitlyn",
+        "name": "[u.gg] Caitlyn @ mid, win 45.27%, pick 148",
+        "position": "mid",
+        "pickCount": 148,
+        "winRate": "45.27%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8369,
+          8233,
+          8236,
+          8304,
+          8345,
+          8347,
+          5008,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 75,
+    "id": "51",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 256,
+    "winRate": "39.45%",
+    "timestamp": 1709583153942,
+    "alias": "Caitlyn",
+    "name": "Caitlyn",
+    "position": "top",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Caitlyn @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          51
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 33, win 42.42%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1083",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -491,15 +495,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "3033",
+                "count": 1
+              },
+              {
                 "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3094",
                 "count": 1
               }
             ]
@@ -508,11 +512,11 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6701",
+                "id": "3072",
                 "count": 1
               },
               {
-                "id": "6699",
+                "id": "3031",
                 "count": 1
               },
               {
@@ -533,20 +537,20 @@
     "runes": [
       {
         "alias": "Caitlyn",
-        "name": "[u.gg] Caitlyn @ top, win 72.22%, pick 18",
+        "name": "[u.gg] Caitlyn @ top, win 44.64%, pick 56",
         "position": "top",
-        "pickCount": 18,
-        "winRate": "72.22%",
+        "pickCount": 56,
+        "winRate": "44.64%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8021,
+          8009,
           8014,
           8233,
           8236,
-          9101,
           9103,
-          5008,
+          5005,
           5008,
           5001
         ],
@@ -556,13 +560,13 @@
     ]
   },
   {
-    "index": 111,
+    "index": 75,
     "id": "51",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
+    "officialVersion": "14.4.1",
     "pickCount": 6,
-    "winRate": "16.67%",
-    "timestamp": 1708287146556,
+    "winRate": "0.00%",
+    "timestamp": 1709583153942,
     "alias": "Caitlyn",
     "name": "Caitlyn",
     "position": "jungle",
@@ -574,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Caitlyn @ jungle, 14.3.1",
+        "title": "[u.gg] Caitlyn @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -584,7 +588,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1101",
@@ -597,39 +601,29 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3006",
-                "count": 1
-              },
               {
                 "id": "6672",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "3078",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3031",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -647,22 +641,22 @@
     "runes": [
       {
         "alias": "Caitlyn",
-        "name": "[u.gg] Caitlyn @ jungle, win 100.00%, pick 1",
+        "name": "[u.gg] Caitlyn @ jungle, win 0.00%, pick 3",
         "position": "jungle",
-        "pickCount": 1,
-        "winRate": "100.00%",
+        "pickCount": 3,
+        "winRate": "0.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8021,
+          8009,
           8014,
-          8126,
-          8135,
-          9104,
-          9111,
+          8233,
+          8236,
+          9103,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

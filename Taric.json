@@ -1,24 +1,24 @@
 [
   {
-    "index": 73,
+    "index": 60,
     "id": "44",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 9450,
-    "winRate": "52.56%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 8252,
+    "winRate": "52.05%",
+    "timestamp": 1709583153942,
     "alias": "Taric",
     "name": "Taric",
     "position": "supp",
     "skills": [
       "E",
-      "W",
-      "Q"
+      "Q",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taric @ supp, 14.3.1",
+        "title": "[u.gg] Taric @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9163, win 52.48%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 7930, win 52.14%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 168, win 61.90%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 203, win 58.13%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3876",
@@ -62,427 +62,14 @@
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3109",
-                "count": 1
-              },
-              {
-                "id": "3119",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3109",
-                "count": 1
-              },
-              {
-                "id": "3119",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Taric",
-        "name": "[u.gg] Taric @ supp, win 58.35%, pick 413",
-        "position": "supp",
-        "pickCount": 413,
-        "winRate": "58.35%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8351,
-          8306,
-          8345,
-          8347,
-          8444,
-          8453,
-          5005,
-          5010,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 73,
-    "id": "44",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 492,
-    "winRate": "50.61%",
-    "timestamp": 1708287146556,
-    "alias": "Taric",
-    "name": "Taric",
-    "position": "jungle",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Taric @ jungle, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          44
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 217, win 52.53%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 13, win 69.23%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "3119",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "2065",
-                "count": 1
-              },
-              {
-                "id": "6664",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6617",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Taric",
-        "name": "[u.gg] Taric @ jungle, win 53.66%, pick 123",
-        "position": "jungle",
-        "pickCount": 123,
-        "winRate": "53.66%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8230,
-          8224,
-          8232,
-          8234,
-          8429,
-          8453,
-          5007,
-          5010,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 73,
-    "id": "44",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 150,
-    "winRate": "44.67%",
-    "timestamp": 1708287146556,
-    "alias": "Taric",
-    "name": "Taric",
-    "position": "top",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Taric @ top, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          44
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 48, win 50.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 15, win 66.67%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "3119",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3004",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3742",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Taric",
-        "name": "[u.gg] Taric @ top, win 85.71%, pick 7",
-        "position": "top",
-        "pickCount": 7,
-        "winRate": "85.71%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8008,
-          8009,
-          8299,
-          8429,
-          8453,
-          9104,
-          5005,
-          5010,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 73,
-    "id": "44",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 56,
-    "winRate": "51.79%",
-    "timestamp": 1708287146556,
-    "alias": "Taric",
-    "name": "Taric",
-    "position": "mid",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Taric @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          44
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 4, win 75.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3869",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3110",
+                "id": "3119",
                 "count": 1
               },
               {
-                "id": "3119",
+                "id": "3109",
                 "count": 1
               }
             ]
@@ -497,6 +84,10 @@
               {
                 "id": "3119",
                 "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
               }
             ]
           },
@@ -504,7 +95,15 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "4643",
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -521,20 +120,155 @@
     "runes": [
       {
         "alias": "Taric",
-        "name": "[u.gg] Taric @ mid, win 100.00%, pick 2",
-        "position": "mid",
-        "pickCount": 2,
-        "winRate": "100.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "name": "[u.gg] Taric @ supp, win 55.91%, pick 381",
+        "position": "supp",
+        "pickCount": 381,
+        "winRate": "55.91%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8465,
-          8106,
-          8138,
+          8351,
+          8304,
+          8345,
+          8347,
+          8444,
           8453,
-          8463,
-          8473,
-          5007,
+          5005,
+          5010,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "id": "44",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 368,
+    "winRate": "48.64%",
+    "timestamp": 1709583153942,
+    "alias": "Taric",
+    "name": "Taric",
+    "position": "jungle",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Taric @ jungle, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          44
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 81, win 53.09%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "1103",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 10, win 80.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "8001",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3002",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "3003",
+                "count": 1
+              },
+              {
+                "id": "3109",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Taric",
+        "name": "[u.gg] Taric @ jungle, win 83.33%, pick 18",
+        "position": "jungle",
+        "pickCount": 18,
+        "winRate": "83.33%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8008,
+          8009,
+          8299,
+          8401,
+          8453,
+          9104,
+          5005,
           5001,
           5001
         ],
@@ -544,13 +278,140 @@
     ]
   },
   {
-    "index": 73,
+    "index": 60,
     "id": "44",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 39,
-    "winRate": "58.97%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 111,
+    "winRate": "44.14%",
+    "timestamp": 1709583153942,
+    "alias": "Taric",
+    "name": "Taric",
+    "position": "top",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Taric @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          44
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3070",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3119",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "8020",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Taric",
+        "name": "[u.gg] Taric @ top, win 60.00%, pick 10",
+        "position": "top",
+        "pickCount": 10,
+        "winRate": "60.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8230,
+          8234,
+          8236,
+          8275,
+          8444,
+          8453,
+          5005,
+          5010,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "id": "44",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 51,
+    "winRate": "35.29%",
+    "timestamp": 1709583153942,
     "alias": "Taric",
     "name": "Taric",
     "position": "adc",
@@ -562,7 +423,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taric @ adc, 14.3.1",
+        "title": "[u.gg] Taric @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -572,18 +433,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4, win 75.00%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 29, win 44.83%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "2003",
+                "id": "1054",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
                 "count": 1
               }
             ]
@@ -600,7 +457,7 @@
                 "count": 1
               },
               {
-                "id": "3119",
+                "id": "3109",
                 "count": 1
               }
             ]
@@ -609,7 +466,7 @@
             "type": "Fourth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "8001",
+                "id": "2504",
                 "count": 1
               },
               {
@@ -622,23 +479,14 @@
             "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "3107",
+                "id": "8001",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6616",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -656,18 +504,149 @@
         "position": "adc",
         "pickCount": 4,
         "winRate": "100.00%",
-        "primaryStyleId": 8300,
+        "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8351,
-          8306,
-          8345,
-          8347,
+          8005,
+          8009,
+          8299,
           8444,
           8453,
+          9104,
           5005,
           5010,
           5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "id": "44",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 46,
+    "winRate": "52.17%",
+    "timestamp": 1709583153942,
+    "alias": "Taric",
+    "name": "Taric",
+    "position": "mid",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Taric @ mid, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          44
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 14, win 78.57%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 9, win 77.78%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3109",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3119",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3119",
+                "count": 1
+              },
+              {
+                "id": "2065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "6617",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Taric",
+        "name": "[u.gg] Taric @ mid, win 77.78%, pick 9",
+        "position": "mid",
+        "pickCount": 9,
+        "winRate": "77.78%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8465,
+          8106,
+          8126,
+          8444,
+          8453,
+          8463,
+          5007,
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""

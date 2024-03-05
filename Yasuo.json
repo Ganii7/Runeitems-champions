@@ -1,12 +1,12 @@
 [
   {
-    "index": 33,
+    "index": 74,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 50696,
-    "winRate": "49.67%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 40825,
+    "winRate": "49.03%",
+    "timestamp": 1709583153942,
     "alias": "Yasuo",
     "name": "Yasuo",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ mid, 14.3.1",
+        "title": "[u.gg] Yasuo @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 37291, win 50.24%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 29042, win 49.55%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 12753, win 52.80%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 10078, win 52.12%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "3026",
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -92,149 +92,10 @@
             "items": [
               {
                 "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Yasuo",
-        "name": "[u.gg] Yasuo @ mid, win 51.47%, pick 8668",
-        "position": "mid",
-        "pickCount": 8668,
-        "winRate": "51.47%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8008,
-          8299,
-          8444,
-          8451,
-          9104,
-          9111,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 33,
-    "id": "157",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 10617,
-    "winRate": "52.28%",
-    "timestamp": 1708287146556,
-    "alias": "Yasuo",
-    "name": "Yasuo",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Yasuo @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          157
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 6757, win 52.82%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 3506, win 54.62%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3006",
-                "count": 1
-              },
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3153",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3046",
                 "count": 1
               },
               {
                 "id": "6662",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3091",
                 "count": 1
               },
               {
@@ -255,17 +116,17 @@
     "runes": [
       {
         "alias": "Yasuo",
-        "name": "[u.gg] Yasuo @ adc, win 53.97%, pick 2190",
-        "position": "adc",
-        "pickCount": 2190,
-        "winRate": "53.97%",
+        "name": "[u.gg] Yasuo @ mid, win 51.21%, pick 4292",
+        "position": "mid",
+        "pickCount": 4292,
+        "winRate": "51.21%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
           8299,
-          8444,
           8451,
+          8473,
           9104,
           9111,
           5005,
@@ -278,13 +139,13 @@
     ]
   },
   {
-    "index": 33,
+    "index": 74,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 10601,
-    "winRate": "47.93%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 9187,
+    "winRate": "47.87%",
+    "timestamp": 1709583153942,
     "alias": "Yasuo",
     "name": "Yasuo",
     "position": "top",
@@ -296,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ top, 14.3.1",
+        "title": "[u.gg] Yasuo @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8819, win 47.77%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 7487, win 48.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -319,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2055, win 51.53%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1776, win 51.86%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -352,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6673",
-                "count": 1
-              },
-              {
                 "id": "6662",
                 "count": 1
               },
               {
                 "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -373,11 +234,11 @@
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "6662",
                 "count": 1
               }
             ]
@@ -394,10 +255,10 @@
     "runes": [
       {
         "alias": "Yasuo",
-        "name": "[u.gg] Yasuo @ top, win 52.41%, pick 1164",
+        "name": "[u.gg] Yasuo @ top, win 52.10%, pick 1119",
         "position": "top",
-        "pickCount": 1164,
-        "winRate": "52.41%",
+        "pickCount": 1119,
+        "winRate": "52.10%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -408,8 +269,8 @@
           9104,
           9111,
           5005,
-          5008,
-          5013
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -417,16 +278,16 @@
     ]
   },
   {
-    "index": 33,
+    "index": 74,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 148,
-    "winRate": "35.14%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 7231,
+    "winRate": "51.29%",
+    "timestamp": 1709583153942,
     "alias": "Yasuo",
     "name": "Yasuo",
-    "position": "supp",
+    "position": "adc",
     "skills": [
       "Q",
       "E",
@@ -435,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ supp, 14.3.1",
+        "title": "[u.gg] Yasuo @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,35 +306,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 109, win 37.61%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4776, win 51.59%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1055",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 31, win 41.94%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2516, win 54.97%, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "3877",
-                "count": 1
-              },
               {
                 "id": "3006",
                 "count": 1
               },
               {
                 "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -482,11 +339,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3031",
+                "id": "6673",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6662",
                 "count": 1
               }
             ]
@@ -495,15 +352,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3072",
+                "id": "3026",
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -512,11 +369,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "3026",
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "3091",
                 "count": 1
               },
               {
@@ -537,19 +394,154 @@
     "runes": [
       {
         "alias": "Yasuo",
-        "name": "[u.gg] Yasuo @ supp, win 61.11%, pick 18",
-        "position": "supp",
-        "pickCount": 18,
-        "winRate": "61.11%",
+        "name": "[u.gg] Yasuo @ adc, win 52.51%, pick 1356",
+        "position": "adc",
+        "pickCount": 1356,
+        "winRate": "52.51%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
           8299,
-          8304,
-          8410,
+          8444,
+          8451,
           9104,
           9111,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 74,
+    "id": "157",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 105,
+    "winRate": "32.38%",
+    "timestamp": 1709583153942,
+    "alias": "Yasuo",
+    "name": "Yasuo",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Yasuo @ supp, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          157
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 20, win 45.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 28, win 39.29%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3031",
+                "count": 1
+              },
+              {
+                "id": "3046",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3742",
+                "count": 1
+              },
+              {
+                "id": "3091",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3109",
+                "count": 1
+              },
+              {
+                "id": "3033",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Yasuo",
+        "name": "[u.gg] Yasuo @ supp, win 50.00%, pick 8",
+        "position": "supp",
+        "pickCount": 8,
+        "winRate": "50.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8008,
+          8014,
+          8446,
+          8473,
+          9101,
+          9104,
           5005,
           5008,
           5013
@@ -560,13 +552,13 @@
     ]
   },
   {
-    "index": 33,
+    "index": 74,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 50,
-    "winRate": "24.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 58,
+    "winRate": "29.31%",
+    "timestamp": 1709583153942,
     "alias": "Yasuo",
     "name": "Yasuo",
     "position": "jungle",
@@ -578,7 +570,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ jungle, 14.3.1",
+        "title": "[u.gg] Yasuo @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -588,10 +580,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 20, win 30.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 15, win 53.33%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1101",
+                "id": "1103",
                 "count": 1
               },
               {
@@ -601,7 +593,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 14, win 35.71%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 11, win 45.45%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -621,11 +613,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6662",
+                "id": "3072",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "6662",
                 "count": 1
               }
             ]
@@ -634,23 +626,22 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "2504",
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3072",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3302",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -664,17 +655,17 @@
     "runes": [
       {
         "alias": "Yasuo",
-        "name": "[u.gg] Yasuo @ jungle, win 100.00%, pick 1",
+        "name": "[u.gg] Yasuo @ jungle, win 46.15%, pick 13",
         "position": "jungle",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "pickCount": 13,
+        "winRate": "46.15%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          9923,
-          8105,
-          8138,
-          8143,
+          8008,
+          8242,
+          8299,
+          8473,
           9104,
           9111,
           5005,

@@ -1,12 +1,12 @@
 [
   {
-    "index": 119,
+    "index": 61,
     "id": "254",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 36044,
-    "winRate": "49.52%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 32104,
+    "winRate": "49.12%",
+    "timestamp": 1709583153942,
     "alias": "Vi",
     "name": "Vi",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vi @ jungle, 14.3.1",
+        "title": "[u.gg] Vi @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9380, win 50.21%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 9816, win 49.52%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1102",
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3448, win 54.81%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 4396, win 51.96%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6610",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3047",
                 "count": 1
               },
               {
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3026",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "2504",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Vi",
-        "name": "[u.gg] Vi @ jungle, win 50.74%, pick 11138",
+        "name": "[u.gg] Vi @ jungle, win 50.37%, pick 8922",
         "position": "jungle",
-        "pickCount": 11138,
-        "winRate": "50.74%",
+        "pickCount": 8922,
+        "winRate": "50.37%",
         "primaryStyleId": 8100,
         "subStyleId": 8000,
         "selectedPerkIds": [
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 119,
+    "index": 61,
     "id": "254",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1368,
-    "winRate": "46.86%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 740,
+    "winRate": "47.57%",
+    "timestamp": 1709583153942,
     "alias": "Vi",
     "name": "Vi",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vi @ mid, 14.3.1",
+        "title": "[u.gg] Vi @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,23 +167,23 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 151, win 49.67%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 500, win 50.60%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1036",
+                "id": "1055",
                 "count": 1
               },
               {
-                "id": "2031",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 26, win 73.08%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 66, win 54.55%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3078",
+                "id": "3142",
                 "count": 1
               },
               {
@@ -191,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "3508",
                 "count": 1
               }
             ]
@@ -204,7 +204,7 @@
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "6698",
                 "count": 1
               }
             ]
@@ -213,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3814",
+                "id": "3031",
                 "count": 1
               },
               {
                 "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -230,15 +230,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6698",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "3053",
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -255,22 +255,22 @@
     "runes": [
       {
         "alias": "Vi",
-        "name": "[u.gg] Vi @ mid, win 47.75%, pick 601",
+        "name": "[u.gg] Vi @ mid, win 57.78%, pick 90",
         "position": "mid",
-        "pickCount": 601,
-        "winRate": "47.75%",
+        "pickCount": 90,
+        "winRate": "57.78%",
         "primaryStyleId": 8100,
-        "subStyleId": 8400,
+        "subStyleId": 8000,
         "selectedPerkIds": [
           9923,
           8105,
           8138,
           8143,
-          8401,
-          8473,
+          9104,
+          9111,
+          5005,
           5008,
-          5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -278,13 +278,152 @@
     ]
   },
   {
-    "index": 119,
+    "index": 61,
     "id": "254",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 324,
-    "winRate": "47.84%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 188,
+    "winRate": "45.21%",
+    "timestamp": 1709583153942,
+    "alias": "Vi",
+    "name": "Vi",
+    "position": "top",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Vi @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          254
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 121, win 47.11%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3071",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3078",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Vi",
+        "name": "[u.gg] Vi @ top, win 66.67%, pick 6",
+        "position": "top",
+        "pickCount": 6,
+        "winRate": "66.67%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8229,
+          8210,
+          8226,
+          8237,
+          8444,
+          8451,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "id": "254",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 184,
+    "winRate": "47.28%",
+    "timestamp": 1709583153942,
     "alias": "Vi",
     "name": "Vi",
     "position": "supp",
@@ -296,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vi @ supp, 14.3.1",
+        "title": "[u.gg] Vi @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +445,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 275, win 49.82%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 155, win 49.03%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -323,18 +462,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 16, win 62.50%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 5, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -343,11 +482,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6610",
+                "id": "3071",
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -356,15 +495,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6676",
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3110",
                 "count": 1
               },
               {
                 "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "3156",
                 "count": 1
               }
             ]
@@ -373,15 +512,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3814",
+                "id": "3075",
                 "count": 1
               },
               {
-                "id": "3053",
+                "id": "3748",
                 "count": 1
               },
               {
-                "id": "3033",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -398,22 +537,22 @@
     "runes": [
       {
         "alias": "Vi",
-        "name": "[u.gg] Vi @ supp, win 57.43%, pick 101",
+        "name": "[u.gg] Vi @ supp, win 56.52%, pick 23",
         "position": "supp",
-        "pickCount": 101,
-        "winRate": "57.43%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "pickCount": 23,
+        "winRate": "56.52%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          9923,
-          8105,
-          8138,
+          8439,
+          8106,
           8143,
-          9104,
-          9111,
+          8401,
+          8444,
+          8453,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -421,16 +560,16 @@
     ]
   },
   {
-    "index": 119,
+    "index": 61,
     "id": "254",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 269,
-    "winRate": "43.87%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 37,
+    "winRate": "56.76%",
+    "timestamp": 1709583153942,
     "alias": "Vi",
     "name": "Vi",
-    "position": "top",
+    "position": "adc",
     "skills": [
       "Q",
       "E",
@@ -439,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vi @ top, 14.3.1",
+        "title": "[u.gg] Vi @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -449,7 +588,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 85, win 49.41%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 31, win 61.29%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -462,18 +601,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3078",
+                "id": "3508",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "6698",
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "3047",
                 "count": 1
               }
             ]
@@ -482,153 +621,9 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3036",
+                "id": "6701",
                 "count": 1
               },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3508",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Vi",
-        "name": "[u.gg] Vi @ top, win 64.71%, pick 34",
-        "position": "top",
-        "pickCount": 34,
-        "winRate": "64.71%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8437,
-          8134,
-          8139,
-          8401,
-          8444,
-          8453,
-          5005,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 119,
-    "id": "254",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 8,
-    "winRate": "12.50%",
-    "timestamp": 1708287146556,
-    "alias": "Vi",
-    "name": "Vi",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Vi @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          254
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3142",
-                "count": 1
-              },
-              {
-                "id": "3508",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
               {
                 "id": "3156",
                 "count": 1
@@ -636,8 +631,38 @@
             ]
           },
           {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
+            "items": [
+              {
+                "id": "6695",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
           }
         ],
         "map": "any",
@@ -651,10 +676,10 @@
     "runes": [
       {
         "alias": "Vi",
-        "name": "[u.gg] Vi @ adc, win 100.00%, pick 1",
+        "name": "[u.gg] Vi @ adc, win 60.00%, pick 25",
         "position": "adc",
-        "pickCount": 1,
-        "winRate": "100.00%",
+        "pickCount": 25,
+        "winRate": "60.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -662,11 +687,11 @@
           8105,
           8138,
           8143,
-          8401,
-          8473,
+          8444,
+          8451,
           5008,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""

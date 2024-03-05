@@ -1,12 +1,12 @@
 [
   {
-    "index": 100,
+    "index": 17,
     "id": "8",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 26225,
-    "winRate": "49.07%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 17326,
+    "winRate": "48.79%",
+    "timestamp": 1709583153942,
     "alias": "Vladimir",
     "name": "Vladimir",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vladimir @ mid, 14.3.1",
+        "title": "[u.gg] Vladimir @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 21621, win 49.57%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 14491, win 49.30%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5685, win 50.47%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 4123, win 50.38%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3158",
@@ -83,6 +83,288 @@
               },
               {
                 "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Vladimir",
+        "name": "[u.gg] Vladimir @ mid, win 51.30%, pick 3314",
+        "position": "mid",
+        "pickCount": 3314,
+        "winRate": "51.30%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8237,
+          8275,
+          8299,
+          9111,
+          5007,
+          5010,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "id": "8",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 5972,
+    "winRate": "49.93%",
+    "timestamp": 1709583153942,
+    "alias": "Vladimir",
+    "name": "Vladimir",
+    "position": "top",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Vladimir @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          8
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 5165, win 50.51%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1315, win 51.86%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Vladimir",
+        "name": "[u.gg] Vladimir @ top, win 53.95%, pick 873",
+        "position": "top",
+        "pickCount": 873,
+        "winRate": "53.95%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8237,
+          8275,
+          8299,
+          9111,
+          5007,
+          5010,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "id": "8",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 213,
+    "winRate": "52.58%",
+    "timestamp": 1709583153942,
+    "alias": "Vladimir",
+    "name": "Vladimir",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Vladimir @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          8
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 43, win 55.81%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1082",
+                "count": 1
+              },
+              {
+                "id": "2031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 27, win 62.96%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4629",
+                "count": 1
+              },
+              {
+                "id": "3089",
                 "count": 1
               },
               {
@@ -95,306 +377,16 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3135",
-                "count": 1
-              },
-              {
                 "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Vladimir",
-        "name": "[u.gg] Vladimir @ mid, win 50.37%, pick 4189",
-        "position": "mid",
-        "pickCount": 4189,
-        "winRate": "50.37%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8237,
-          8275,
-          8299,
-          9111,
-          5007,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 100,
-    "id": "8",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 7691,
-    "winRate": "48.11%",
-    "timestamp": 1708287146556,
-    "alias": "Vladimir",
-    "name": "Vladimir",
-    "position": "top",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Vladimir @ top, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          8
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 6464, win 48.53%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1766, win 52.38%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "4633",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Vladimir",
-        "name": "[u.gg] Vladimir @ top, win 50.17%, pick 893",
-        "position": "top",
-        "pickCount": 893,
-        "winRate": "50.17%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8237,
-          8275,
-          8299,
-          9111,
-          5007,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 100,
-    "id": "8",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 202,
-    "winRate": "49.01%",
-    "timestamp": 1708287146556,
-    "alias": "Vladimir",
-    "name": "Vladimir",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Vladimir @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          8
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1082",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4629",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4633",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "4646",
                 "count": 1
               },
               {
                 "id": "4645",
                 "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
               }
             ]
           }
@@ -410,10 +402,10 @@
     "runes": [
       {
         "alias": "Vladimir",
-        "name": "[u.gg] Vladimir @ adc, win 76.92%, pick 13",
+        "name": "[u.gg] Vladimir @ adc, win 77.78%, pick 9",
         "position": "adc",
-        "pickCount": 13,
-        "winRate": "76.92%",
+        "pickCount": 9,
+        "winRate": "77.78%",
         "primaryStyleId": 8200,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -433,13 +425,13 @@
     ]
   },
   {
-    "index": 100,
+    "index": 17,
     "id": "8",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 20,
-    "winRate": "30.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 8,
+    "winRate": "25.00%",
+    "timestamp": 1709583153942,
     "alias": "Vladimir",
     "name": "Vladimir",
     "position": "supp",
@@ -451,7 +443,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vladimir @ supp, 14.3.1",
+        "title": "[u.gg] Vladimir @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -461,8 +453,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 3, win 33.33%, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
               {
                 "id": "3865",
                 "count": 1
@@ -473,15 +473,15 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3871",
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3158",
                 "count": 1
               },
               {
                 "id": "4633",
-                "count": 1
-              },
-              {
-                "id": "3020",
                 "count": 1
               }
             ]
@@ -490,11 +490,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "4005",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -503,7 +499,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4005",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -512,7 +508,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3165",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -529,22 +525,22 @@
     "runes": [
       {
         "alias": "Vladimir",
-        "name": "[u.gg] Vladimir @ supp, win 100.00%, pick 2",
+        "name": "[u.gg] Vladimir @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 2,
+        "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8214,
+          8112,
+          8106,
+          8138,
+          8139,
           8210,
-          8237,
           8275,
-          8299,
-          9111,
+          5007,
           5008,
-          5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -552,25 +548,21 @@
     ]
   },
   {
-    "index": 100,
+    "index": 17,
     "id": "8",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 5,
-    "winRate": "20.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709583153942,
     "alias": "Vladimir",
     "name": "Vladimir",
     "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
+    "skills": [],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vladimir @ jungle, 14.3.1",
+        "title": "[u.gg] Vladimir @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -580,7 +572,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 0.00%, ",
             "items": [
               {
                 "id": "1101",
@@ -593,32 +585,19 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4629",
-                "count": 1
-              },
-              {
-                "id": "4633",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
             "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, ",
             "items": null
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, ",
             "items": null
           }
         ],
@@ -633,10 +612,10 @@
     "runes": [
       {
         "alias": "Vladimir",
-        "name": "[u.gg] Vladimir @ jungle, win 50.00%, pick 2",
+        "name": "[u.gg] Vladimir @ jungle, win 0.00%, pick 1",
         "position": "jungle",
-        "pickCount": 2,
-        "winRate": "50.00%",
+        "pickCount": 1,
+        "winRate": "0.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [

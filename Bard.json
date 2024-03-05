@@ -1,12 +1,12 @@
 [
   {
-    "index": 12,
+    "index": 162,
     "id": "432",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 56146,
-    "winRate": "51.71%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 31615,
+    "winRate": "50.56%",
+    "timestamp": 1709583153942,
     "alias": "Bard",
     "name": "Bard",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Bard @ supp, 14.3.1",
+        "title": "[u.gg] Bard @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 55071, win 51.73%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 30574, win 50.67%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3400, win 55.71%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1864, win 56.28%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3876",
@@ -56,7 +56,7 @@
                 "count": 1
               },
               {
-                "id": "3002",
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -82,11 +82,11 @@
                 "count": 1
               },
               {
-                "id": "3190",
+                "id": "2504",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "4005",
-                "count": 1
-              },
-              {
                 "id": "4643",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "Bard",
-        "name": "[u.gg] Bard @ supp, win 54.15%, pick 2231",
+        "name": "[u.gg] Bard @ supp, win 51.69%, pick 6454",
         "position": "supp",
-        "pickCount": 2231,
-        "winRate": "54.15%",
+        "pickCount": 6454,
+        "winRate": "51.69%",
         "primaryStyleId": 8400,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -131,11 +131,11 @@
           8105,
           8136,
           8242,
-          8444,
           8463,
+          8473,
           5005,
-          5010,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 12,
+    "index": 162,
     "id": "432",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 85,
-    "winRate": "51.76%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 117,
+    "winRate": "39.32%",
+    "timestamp": 1709583153942,
     "alias": "Bard",
     "name": "Bard",
     "position": "top",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Bard @ top, 14.3.1",
+        "title": "[u.gg] Bard @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -171,7 +171,142 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 40, win 55.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 10, win 70.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1083",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 7, win 71.43%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3876",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3094",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "4629",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3742",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "8020",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Bard",
+        "name": "[u.gg] Bard @ top, win 66.67%, pick 15",
+        "position": "top",
+        "pickCount": 15,
+        "winRate": "66.67%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8437,
+          8304,
+          8316,
+          8429,
+          8446,
+          8451,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 162,
+    "id": "432",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 47,
+    "winRate": "40.43%",
+    "timestamp": 1709583153942,
+    "alias": "Bard",
+    "name": "Bard",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Bard @ mid, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          432
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 28, win 46.43%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -188,157 +323,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 12, win 66.67%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3877",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "2065",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4643",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "8001",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Bard",
-        "name": "[u.gg] Bard @ top, win 100.00%, pick 3",
-        "position": "top",
-        "pickCount": 3,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8021,
-          8014,
-          8429,
-          8451,
-          9105,
-          9111,
-          5005,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 12,
-    "id": "432",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 49,
-    "winRate": "30.61%",
-    "timestamp": 1708287146556,
-    "alias": "Bard",
-    "name": "Bard",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Bard @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          432
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 4, win 50.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3877",
+                "id": "6655",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3020",
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -351,7 +347,7 @@
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -360,7 +356,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4645",
+                "id": "3002",
                 "count": 1
               }
             ]
@@ -369,7 +365,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6665",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -386,21 +382,21 @@
     "runes": [
       {
         "alias": "Bard",
-        "name": "[u.gg] Bard @ mid, win 60.00%, pick 5",
+        "name": "[u.gg] Bard @ mid, win 66.67%, pick 9",
         "position": "mid",
-        "pickCount": 5,
-        "winRate": "60.00%",
+        "pickCount": 9,
+        "winRate": "66.67%",
         "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8021,
-          8299,
-          8429,
-          8451,
+          8014,
+          8210,
+          8237,
           9105,
           9111,
           5005,
-          5001,
+          5008,
           5001
         ],
         "score": 0,
@@ -409,13 +405,13 @@
     ]
   },
   {
-    "index": 12,
+    "index": 162,
     "id": "432",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 44,
-    "winRate": "43.18%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 31,
+    "winRate": "45.16%",
+    "timestamp": 1709583153942,
     "alias": "Bard",
     "name": "Bard",
     "position": "adc",
@@ -427,7 +423,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Bard @ adc, 14.3.1",
+        "title": "[u.gg] Bard @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -437,7 +433,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 16, win 50.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 12, win 66.67%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -453,41 +449,11 @@
             "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3047",
+                "id": "3087",
                 "count": 1
               },
               {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "8001",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3869",
-                "count": 1
-              },
-              {
-                "id": "3109",
+                "id": "3006",
                 "count": 1
               },
               {
@@ -497,119 +463,14 @@
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4005",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Bard",
-        "name": "[u.gg] Bard @ adc, win 100.00%, pick 1",
-        "position": "adc",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          9923,
-          8009,
-          8135,
-          8138,
-          8139,
-          9103,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 12,
-    "id": "432",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 17,
-    "winRate": "23.53%",
-    "timestamp": 1708287146556,
-    "alias": "Bard",
-    "name": "Bard",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Bard @ jungle, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          432
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 8, win 37.50%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "4629",
-                "count": 1
-              },
-              {
-                "id": "3152",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3115",
+                "id": "4646",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3115",
                 "count": 1
               }
             ]
@@ -618,7 +479,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3102",
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3002",
                 "count": 1
               }
             ]
@@ -639,22 +504,126 @@
     "runes": [
       {
         "alias": "Bard",
-        "name": "[u.gg] Bard @ jungle, win 100.00%, pick 2",
-        "position": "jungle",
-        "pickCount": 2,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
+        "name": "[u.gg] Bard @ adc, win 66.67%, pick 6",
+        "position": "adc",
+        "pickCount": 6,
+        "winRate": "66.67%",
+        "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
-          8112,
-          8126,
-          8134,
-          8136,
+          8021,
+          8014,
           8210,
-          8224,
-          5007,
-          5010,
-          5013
+          8237,
+          9105,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 162,
+    "id": "432",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 14,
+    "winRate": "7.14%",
+    "timestamp": 1709583153942,
+    "alias": "Bard",
+    "name": "Bard",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Bard @ jungle, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          432
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 3, win 33.33%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1101",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3115",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Bard",
+        "name": "[u.gg] Bard @ jungle, win 25.00%, pick 4",
+        "position": "jungle",
+        "pickCount": 4,
+        "winRate": "25.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8021,
+          8014,
+          8210,
+          8237,
+          9105,
+          9111,
+          5005,
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""

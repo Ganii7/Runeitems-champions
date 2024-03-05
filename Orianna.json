@@ -1,12 +1,12 @@
 [
   {
-    "index": 24,
+    "index": 141,
     "id": "61",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 31919,
-    "winRate": "47.53%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 26639,
+    "winRate": "48.09%",
+    "timestamp": 1709583153942,
     "alias": "Orianna",
     "name": "Orianna",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Orianna @ mid, 14.3.1",
+        "title": "[u.gg] Orianna @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 30110, win 47.69%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 25057, win 48.34%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -45,428 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1341, win 51.45%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Orianna",
-        "name": "[u.gg] Orianna @ mid, win 51.97%, pick 941",
-        "position": "mid",
-        "pickCount": 941,
-        "winRate": "51.97%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8214,
-          8226,
-          8233,
-          8237,
-          8313,
-          8345,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 24,
-    "id": "61",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 439,
-    "winRate": "51.03%",
-    "timestamp": 1708287146556,
-    "alias": "Orianna",
-    "name": "Orianna",
-    "position": "supp",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Orianna @ supp, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          61
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 33, win 57.58%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3504",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "4005",
-                "count": 1
-              },
-              {
-                "id": "6620",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3222",
-                "count": 1
-              },
-              {
-                "id": "4643",
-                "count": 1
-              },
-              {
-                "id": "2065",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Orianna",
-        "name": "[u.gg] Orianna @ supp, win 72.73%, pick 22",
-        "position": "supp",
-        "pickCount": 22,
-        "winRate": "72.73%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8304,
-          8345,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 24,
-    "id": "61",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 237,
-    "winRate": "51.90%",
-    "timestamp": 1708287146556,
-    "alias": "Orianna",
-    "name": "Orianna",
-    "position": "top",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Orianna @ top, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          61
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 204, win 52.94%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Orianna",
-        "name": "[u.gg] Orianna @ top, win 55.77%, pick 52",
-        "position": "top",
-        "pickCount": 52,
-        "winRate": "55.77%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8237,
-          8345,
-          8347,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 24,
-    "id": "61",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 62,
-    "winRate": "38.71%",
-    "timestamp": 1708287146556,
-    "alias": "Orianna",
-    "name": "Orianna",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Orianna @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          61
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 55, win 40.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 552, win 54.53%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3158",
@@ -486,11 +65,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -499,15 +78,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3165",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -516,7 +95,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3118",
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -533,10 +120,10 @@
     "runes": [
       {
         "alias": "Orianna",
-        "name": "[u.gg] Orianna @ adc, win 50.00%, pick 16",
-        "position": "adc",
-        "pickCount": 16,
-        "winRate": "50.00%",
+        "name": "[u.gg] Orianna @ mid, win 52.66%, pick 1373",
+        "position": "mid",
+        "pickCount": 1373,
+        "winRate": "52.66%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -544,8 +131,286 @@
           8210,
           8226,
           8237,
+          8313,
           8345,
-          8347,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 141,
+    "id": "61",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 397,
+    "winRate": "49.62%",
+    "timestamp": 1709583153942,
+    "alias": "Orianna",
+    "name": "Orianna",
+    "position": "supp",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Orianna @ supp, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          61
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 362, win 50.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 11, win 81.82%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3871",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3003",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "4643",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Orianna",
+        "name": "[u.gg] Orianna @ supp, win 58.70%, pick 46",
+        "position": "supp",
+        "pickCount": 46,
+        "winRate": "58.70%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8214,
+          8009,
+          8234,
+          8237,
+          8275,
+          9105,
+          5007,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 141,
+    "id": "61",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 219,
+    "winRate": "57.53%",
+    "timestamp": 1709583153942,
+    "alias": "Orianna",
+    "name": "Orianna",
+    "position": "top",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Orianna @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          61
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 199, win 60.30%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 9, win 77.78%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "6655",
+                "count": 1
+              },
+              {
+                "id": "3003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Orianna",
+        "name": "[u.gg] Orianna @ top, win 85.71%, pick 7",
+        "position": "top",
+        "pickCount": 7,
+        "winRate": "85.71%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8214,
+          8226,
+          8233,
+          8237,
+          8313,
+          8345,
           5005,
           5008,
           5001
@@ -556,25 +421,25 @@
     ]
   },
   {
-    "index": 24,
+    "index": 141,
     "id": "61",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 5,
-    "winRate": "20.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 59,
+    "winRate": "47.46%",
+    "timestamp": 1709583153942,
     "alias": "Orianna",
     "name": "Orianna",
-    "position": "jungle",
+    "position": "adc",
     "skills": [
-      "W",
       "Q",
+      "W",
       "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Orianna @ jungle, 14.3.1",
+        "title": "[u.gg] Orianna @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -584,20 +449,24 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 7, win 57.14%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1102",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3070",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6655",
@@ -608,21 +477,156 @@
                 "count": 1
               },
               {
+                "id": "3003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4629",
+                "count": 1
+              },
+              {
+                "id": "3165",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Orianna",
+        "name": "[u.gg] Orianna @ adc, win 57.14%, pick 14",
+        "position": "adc",
+        "pickCount": 14,
+        "winRate": "57.14%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8237,
+          8345,
+          8347,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 141,
+    "id": "61",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 2,
+    "winRate": "0.00%",
+    "timestamp": 1709583153942,
+    "alias": "Orianna",
+    "name": "Orianna",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Orianna @ jungle, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          61
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1101",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "6655",
+                "count": 1
+              },
+              {
                 "id": "4645",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": null
           },
           {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": null
           },
           {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": null
           }
         ],
@@ -637,20 +641,20 @@
     "runes": [
       {
         "alias": "Orianna",
-        "name": "[u.gg] Orianna @ jungle, win 100.00%, pick 1",
+        "name": "[u.gg] Orianna @ jungle, win 0.00%, pick 1",
         "position": "jungle",
         "pickCount": 1,
-        "winRate": "100.00%",
+        "winRate": "0.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8230,
           8210,
-          8232,
-          8275,
-          8304,
+          8226,
+          8237,
+          8345,
           8347,
-          5005,
+          5008,
           5008,
           5001
         ],

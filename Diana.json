@@ -1,12 +1,12 @@
 [
   {
-    "index": 82,
+    "index": 136,
     "id": "131",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 16643,
-    "winRate": "49.63%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 12023,
+    "winRate": "50.22%",
+    "timestamp": 1709583153942,
     "alias": "Diana",
     "name": "Diana",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Diana @ mid, 14.3.1",
+        "title": "[u.gg] Diana @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 16165, win 49.77%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 11731, win 50.33%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 717, win 58.16%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 865, win 54.57%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3100",
@@ -56,7 +56,7 @@
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3157",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
@@ -95,11 +95,11 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3135",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3102",
                 "count": 1
               },
               {
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Diana",
-        "name": "[u.gg] Diana @ mid, win 58.49%, pick 265",
+        "name": "[u.gg] Diana @ mid, win 55.24%, pick 630",
         "position": "mid",
-        "pickCount": 265,
-        "winRate": "58.49%",
+        "pickCount": 630,
+        "winRate": "55.24%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8112,
-          8135,
+          8105,
           8138,
           8143,
-          8233,
-          8236,
+          8226,
+          8237,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 82,
+    "index": 136,
     "id": "131",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 15398,
-    "winRate": "47.41%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 11681,
+    "winRate": "45.84%",
+    "timestamp": 1709583153942,
     "alias": "Diana",
     "name": "Diana",
     "position": "jungle",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Diana @ jungle, 14.3.1",
+        "title": "[u.gg] Diana @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -171,23 +171,19 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6873, win 47.75%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 634, win 51.10%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1103",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 613, win 54.49%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 343, win 53.35%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3115",
+                "id": "3100",
                 "count": 1
               },
               {
@@ -195,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "3152",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -234,15 +230,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3041",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -259,10 +255,10 @@
     "runes": [
       {
         "alias": "Diana",
-        "name": "[u.gg] Diana @ jungle, win 47.72%, pick 7945",
+        "name": "[u.gg] Diana @ jungle, win 46.12%, pick 5878",
         "position": "jungle",
-        "pickCount": 7945,
-        "winRate": "47.72%",
+        "pickCount": 5878,
+        "winRate": "46.12%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -282,13 +278,13 @@
     ]
   },
   {
-    "index": 82,
+    "index": 136,
     "id": "131",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 396,
-    "winRate": "44.44%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 346,
+    "winRate": "48.27%",
+    "timestamp": 1709583153942,
     "alias": "Diana",
     "name": "Diana",
     "position": "top",
@@ -300,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Diana @ top, 14.3.1",
+        "title": "[u.gg] Diana @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -310,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 368, win 44.57%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 324, win 49.38%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -327,300 +323,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 10, win 70.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Diana",
-        "name": "[u.gg] Diana @ top, win 49.15%, pick 59",
-        "position": "top",
-        "pickCount": 59,
-        "winRate": "49.15%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8112,
-          8135,
-          8138,
-          8143,
-          8226,
-          8237,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 82,
-    "id": "131",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 118,
-    "winRate": "43.22%",
-    "timestamp": 1708287146556,
-    "alias": "Diana",
-    "name": "Diana",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Diana @ supp, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          131
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 115, win 44.35%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3152",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "4629",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Diana",
-        "name": "[u.gg] Diana @ supp, win 53.57%, pick 28",
-        "position": "supp",
-        "pickCount": 28,
-        "winRate": "53.57%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8112,
-          8135,
-          8138,
-          8143,
-          8226,
-          8237,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 82,
-    "id": "131",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 36,
-    "winRate": "44.44%",
-    "timestamp": 1708287146556,
-    "alias": "Diana",
-    "name": "Diana",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Diana @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          131
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 32, win 46.88%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 22, win 63.64%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6657",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3115",
                 "count": 1
               }
             ]
@@ -642,11 +356,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3102",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -659,7 +377,11 @@
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -676,22 +398,300 @@
     "runes": [
       {
         "alias": "Diana",
-        "name": "[u.gg] Diana @ adc, win 100.00%, pick 2",
-        "position": "adc",
-        "pickCount": 2,
-        "winRate": "100.00%",
+        "name": "[u.gg] Diana @ top, win 70.73%, pick 41",
+        "position": "top",
+        "pickCount": 41,
+        "winRate": "70.73%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8014,
-          8304,
-          8347,
+          8299,
+          8401,
+          8451,
           9104,
           9111,
           5005,
           5008,
           5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 136,
+    "id": "131",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 60,
+    "winRate": "35.00%",
+    "timestamp": 1709583153942,
+    "alias": "Diana",
+    "name": "Diana",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Diana @ supp, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          131
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1082",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 6, win 66.67%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3871",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Diana",
+        "name": "[u.gg] Diana @ supp, win 75.00%, pick 4",
+        "position": "supp",
+        "pickCount": 4,
+        "winRate": "75.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8135,
+          8138,
+          8143,
+          8233,
+          8236,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 136,
+    "id": "131",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 34,
+    "winRate": "52.94%",
+    "timestamp": 1709583153942,
+    "alias": "Diana",
+    "name": "Diana",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Diana @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          131
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 31, win 58.06%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3115",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Diana",
+        "name": "[u.gg] Diana @ adc, win 85.71%, pick 7",
+        "position": "adc",
+        "pickCount": 7,
+        "winRate": "85.71%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8112,
+          8135,
+          8138,
+          8143,
+          8444,
+          8451,
+          5008,
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""

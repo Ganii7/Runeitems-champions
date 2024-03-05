@@ -1,12 +1,12 @@
 [
   {
-    "index": 23,
+    "index": 98,
     "id": "2",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 16237,
-    "winRate": "51.37%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 14572,
+    "winRate": "52.22%",
+    "timestamp": 1709583153942,
     "alias": "Olaf",
     "name": "Olaf",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Olaf @ top, 14.3.1",
+        "title": "[u.gg] Olaf @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14051, win 51.65%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 12478, win 52.73%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 895, win 56.98%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 771, win 61.09%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3047",
+                "id": "6631",
                 "count": 1
               },
               {
-                "id": "6631",
+                "id": "3047",
                 "count": 1
               },
               {
@@ -82,7 +82,7 @@
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "3073",
                 "count": 1
               }
             ]
@@ -91,11 +91,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3065",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "6333",
                 "count": 1
               },
               {
@@ -116,284 +116,10 @@
     "runes": [
       {
         "alias": "Olaf",
-        "name": "[u.gg] Olaf @ top, win 55.80%, pick 1095",
+        "name": "[u.gg] Olaf @ top, win 52.55%, pick 10033",
         "position": "top",
-        "pickCount": 1095,
-        "winRate": "55.80%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8010,
-          8299,
-          8304,
-          8410,
-          9104,
-          9111,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 23,
-    "id": "2",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1192,
-    "winRate": "47.15%",
-    "timestamp": 1708287146556,
-    "alias": "Olaf",
-    "name": "Olaf",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Olaf @ jungle, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          2
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 97, win 60.82%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1103",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 121, win 56.20%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6631",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3073",
-                "count": 1
-              },
-              {
-                "id": "3026",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Olaf",
-        "name": "[u.gg] Olaf @ jungle, win 58.97%, pick 39",
-        "position": "jungle",
-        "pickCount": 39,
-        "winRate": "58.97%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8010,
-          8299,
-          8304,
-          8347,
-          9104,
-          9111,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 23,
-    "id": "2",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 252,
-    "winRate": "50.00%",
-    "timestamp": 1708287146556,
-    "alias": "Olaf",
-    "name": "Olaf",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Olaf @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          2
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 181, win 54.70%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 9, win 88.89%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3074",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "2502",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3073",
-                "count": 1
-              },
-              {
-                "id": "6609",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Olaf",
-        "name": "[u.gg] Olaf @ mid, win 50.70%, pick 142",
-        "position": "mid",
-        "pickCount": 142,
-        "winRate": "50.70%",
+        "pickCount": 10033,
+        "winRate": "52.55%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -413,25 +139,25 @@
     ]
   },
   {
-    "index": 23,
+    "index": 98,
     "id": "2",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 15,
-    "winRate": "26.67%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 1021,
+    "winRate": "48.48%",
+    "timestamp": 1709583153942,
     "alias": "Olaf",
     "name": "Olaf",
-    "position": "adc",
+    "position": "jungle",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Olaf @ adc, 14.3.1",
+        "title": "[u.gg] Olaf @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -441,7 +167,146 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14, win 28.57%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 448, win 49.11%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 91, win 60.44%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6631",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "3073",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Olaf",
+        "name": "[u.gg] Olaf @ jungle, win 49.74%, pick 768",
+        "position": "jungle",
+        "pickCount": 768,
+        "winRate": "49.74%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8010,
+          8299,
+          8304,
+          8410,
+          9104,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 98,
+    "id": "2",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 216,
+    "winRate": "56.48%",
+    "timestamp": 1709583153942,
+    "alias": "Olaf",
+    "name": "Olaf",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Olaf @ mid, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          2
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 147, win 59.86%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -454,44 +319,27 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3153",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "6631",
                 "count": 1
               },
               {
-                "id": "3073",
+                "id": "6610",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3181",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3143",
+                "id": "3053",
                 "count": 1
               },
               {
@@ -501,14 +349,162 @@
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3143",
+                "id": "6333",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Olaf",
+        "name": "[u.gg] Olaf @ mid, win 100.00%, pick 4",
+        "position": "mid",
+        "pickCount": 4,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8010,
+          8299,
+          8453,
+          8473,
+          9104,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 98,
+    "id": "2",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 16,
+    "winRate": "62.50%",
+    "timestamp": 1709583153942,
+    "alias": "Olaf",
+    "name": "Olaf",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Olaf @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          2
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 10, win 70.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6631",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3161",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3073",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -532,13 +528,13 @@
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8008,
+          8010,
           8299,
-          8444,
           8453,
+          8473,
           9104,
           9111,
-          5005,
+          5008,
           5008,
           5011
         ],
@@ -548,25 +544,25 @@
     ]
   },
   {
-    "index": 23,
+    "index": 98,
     "id": "2",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 13,
-    "winRate": "23.08%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 9,
+    "winRate": "22.22%",
+    "timestamp": 1709583153942,
     "alias": "Olaf",
     "name": "Olaf",
     "position": "supp",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Olaf @ supp, 14.3.1",
+        "title": "[u.gg] Olaf @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -576,23 +572,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3865",
+                "id": "1001",
+                "count": 1
+              },
+              {
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3877",
+                "id": "3876",
                 "count": 1
               },
               {
-                "id": "6631",
+                "id": "3119",
                 "count": 1
               },
               {
@@ -602,39 +602,30 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "3050",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3002",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3742",
+                "id": "6631",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": null
           }
         ],
         "map": "any",
@@ -653,14 +644,14 @@
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8229,
+          8105,
+          8126,
+          8226,
+          8232,
           8234,
-          8237,
-          8275,
-          8345,
-          8410,
           5005,
           5008,
           5011

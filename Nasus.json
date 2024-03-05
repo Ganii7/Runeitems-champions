@@ -1,12 +1,12 @@
 [
   {
-    "index": 137,
+    "index": 132,
     "id": "75",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 11600,
-    "winRate": "48.25%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 9922,
+    "winRate": "49.08%",
+    "timestamp": 1709583153942,
     "alias": "Nasus",
     "name": "Nasus",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nasus @ top, 14.3.1",
+        "title": "[u.gg] Nasus @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,150 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2637, win 49.64%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1792, win 52.85%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3742",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Nasus",
-        "name": "[u.gg] Nasus @ top, win 55.38%, pick 251",
-        "position": "top",
-        "pickCount": 251,
-        "winRate": "55.38%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8021,
-          8299,
-          8444,
-          8451,
-          9105,
-          9111,
-          5007,
-          5010,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 137,
-    "id": "75",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 2400,
-    "winRate": "49.63%",
-    "timestamp": 1708287146556,
-    "alias": "Nasus",
-    "name": "Nasus",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Nasus @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          75
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1798, win 50.11%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 6401, win 49.23%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -184,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 541, win 55.45%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1556, win 52.83%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3158",
@@ -208,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3053",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -217,15 +74,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
                 "id": "3065",
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -234,7 +91,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6610",
+                "id": "3053",
                 "count": 1
               },
               {
@@ -259,22 +116,22 @@
     "runes": [
       {
         "alias": "Nasus",
-        "name": "[u.gg] Nasus @ mid, win 53.01%, pick 349",
-        "position": "mid",
-        "pickCount": 349,
-        "winRate": "53.01%",
+        "name": "[u.gg] Nasus @ top, win 50.60%, pick 3014",
+        "position": "top",
+        "pickCount": 3014,
+        "winRate": "50.60%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8008,
+          8021,
+          8242,
           8299,
           8444,
-          8451,
           9105,
           9111,
-          5005,
-          5010,
-          5013
+          5007,
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -282,25 +139,25 @@
     ]
   },
   {
-    "index": 137,
+    "index": 132,
     "id": "75",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 308,
-    "winRate": "40.91%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 1552,
+    "winRate": "46.65%",
+    "timestamp": 1709583153942,
     "alias": "Nasus",
     "name": "Nasus",
-    "position": "supp",
+    "position": "mid",
     "skills": [
-      "E",
+      "Q",
       "W",
-      "Q"
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nasus @ supp, 14.3.1",
+        "title": "[u.gg] Nasus @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -310,14 +167,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 26, win 57.69%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 1161, win 46.60%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -327,7 +180,285 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 60, win 48.33%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 113, win 53.98%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3078",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3742",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "2504",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Nasus",
+        "name": "[u.gg] Nasus @ mid, win 49.55%, pick 331",
+        "position": "mid",
+        "pickCount": 331,
+        "winRate": "49.55%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8021,
+          8242,
+          8299,
+          8444,
+          9105,
+          9111,
+          5007,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 132,
+    "id": "75",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 231,
+    "winRate": "41.99%",
+    "timestamp": 1709583153942,
+    "alias": "Nasus",
+    "name": "Nasus",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Nasus @ jungle, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          75
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 101, win 50.50%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 26, win 57.69%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3078",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "4401",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "8001",
+                "count": 1
+              },
+              {
+                "id": "4401",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3742",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "8020",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Nasus",
+        "name": "[u.gg] Nasus @ jungle, win 65.22%, pick 23",
+        "position": "jungle",
+        "pickCount": 23,
+        "winRate": "65.22%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8230,
+          8232,
+          8234,
+          8275,
+          8321,
+          8410,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 132,
+    "id": "75",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 226,
+    "winRate": "41.15%",
+    "timestamp": 1709583153942,
+    "alias": "Nasus",
+    "name": "Nasus",
+    "position": "supp",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Nasus @ supp, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          75
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 176, win 43.18%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 24, win 50.00%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "3876",
@@ -344,23 +475,40 @@
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "8001",
+                "id": "2065",
                 "count": 1
               },
+              {
+                "id": "3116",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
               {
                 "id": "3119",
                 "count": 1
+              },
+              {
+                "id": "4643",
+                "count": 1
+              },
+              {
+                "id": "8020",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "4005",
+                "id": "8020",
                 "count": 1
               },
               {
@@ -368,24 +516,7 @@
                 "count": 1
               },
               {
-                "id": "3165",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3190",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -402,10 +533,10 @@
     "runes": [
       {
         "alias": "Nasus",
-        "name": "[u.gg] Nasus @ supp, win 71.43%, pick 7",
+        "name": "[u.gg] Nasus @ supp, win 56.52%, pick 23",
         "position": "supp",
-        "pickCount": 7,
-        "winRate": "71.43%",
+        "pickCount": 23,
+        "winRate": "56.52%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -414,10 +545,10 @@
           8226,
           8237,
           8345,
-          8347,
+          8410,
           5007,
-          5010,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -425,16 +556,16 @@
     ]
   },
   {
-    "index": 137,
+    "index": 132,
     "id": "75",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 195,
-    "winRate": "47.69%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 47,
+    "winRate": "34.04%",
+    "timestamp": 1709583153942,
     "alias": "Nasus",
     "name": "Nasus",
-    "position": "jungle",
+    "position": "adc",
     "skills": [
       "Q",
       "W",
@@ -443,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nasus @ jungle, 14.3.1",
+        "title": "[u.gg] Nasus @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -453,27 +584,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 10, win 80.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1101",
+                "id": "2033",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
               {
                 "id": "3110",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3078",
                 "count": 1
               }
             ]
@@ -482,11 +613,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6665",
+                "id": "3065",
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -495,15 +626,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "6609",
+                "count": 1
+              },
+              {
                 "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3053",
                 "count": 1
               }
             ]
@@ -516,11 +643,7 @@
                 "count": 1
               },
               {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "8001",
+                "id": "3161",
                 "count": 1
               }
             ]
@@ -537,153 +660,22 @@
     "runes": [
       {
         "alias": "Nasus",
-        "name": "[u.gg] Nasus @ jungle, win 100.00%, pick 5",
-        "position": "jungle",
-        "pickCount": 5,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8021,
-          8242,
-          8299,
-          8429,
-          9105,
-          9111,
-          5005,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 137,
-    "id": "75",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 65,
-    "winRate": "47.69%",
-    "timestamp": 1708287146556,
-    "alias": "Nasus",
-    "name": "Nasus",
-    "position": "adc",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Nasus @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          75
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 17, win 58.82%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3109",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Nasus",
-        "name": "[u.gg] Nasus @ adc, win 83.33%, pick 6",
+        "name": "[u.gg] Nasus @ adc, win 66.67%, pick 3",
         "position": "adc",
-        "pickCount": 6,
-        "winRate": "83.33%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "pickCount": 3,
+        "winRate": "66.67%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8021,
-          8242,
-          8299,
-          8444,
-          9105,
-          9111,
+          8229,
+          8210,
+          8226,
+          8237,
+          8321,
+          8347,
           5007,
           5001,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""

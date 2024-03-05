@@ -1,9 +1,0 @@
-{
-  "name": "@champ-r/u.gg",
-  "version": "14.3.1-v1708287146556",
-  "sourceVersion": "14.3.1",
-  "description": "LoL champion statistics from u.gg.",
-  "main": "index.json",
-  "author": "Al Cheung",
-  "license": "LGPL-2.1 license"
-}

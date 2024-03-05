@@ -1,12 +1,12 @@
 [
   {
-    "index": 49,
+    "index": 59,
     "id": "41",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 17933,
-    "winRate": "50.32%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 14420,
+    "winRate": "49.82%",
+    "timestamp": 1709583153942,
     "alias": "Gangplank",
     "name": "Gangplank",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gangplank @ top, 14.3.1",
+        "title": "[u.gg] Gangplank @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8012, win 51.29%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 6792, win 50.44%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1086, win 58.93%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 657, win 56.01%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3508",
@@ -52,7 +52,7 @@
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -61,7 +61,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3036",
+                "id": "6676",
                 "count": 1
               },
               {
@@ -78,7 +78,7 @@
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "6676",
                 "count": 1
               },
               {
@@ -99,7 +99,7 @@
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3036",
                 "count": 1
               }
             ]
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Gangplank",
-        "name": "[u.gg] Gangplank @ top, win 52.88%, pick 1352",
+        "name": "[u.gg] Gangplank @ top, win 51.61%, pick 930",
         "position": "top",
-        "pickCount": 1352,
-        "winRate": "52.88%",
+        "pickCount": 930,
+        "winRate": "51.61%",
         "primaryStyleId": 8300,
-        "subStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8369,
-          8017,
-          8313,
+          8304,
           8321,
           8347,
-          9104,
-          5005,
+          8451,
+          8473,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 49,
+    "index": 59,
     "id": "41",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1698,
-    "winRate": "49.41%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 1448,
+    "winRate": "47.58%",
+    "timestamp": 1709583153942,
     "alias": "Gangplank",
     "name": "Gangplank",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gangplank @ mid, 14.3.1",
+        "title": "[u.gg] Gangplank @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 645, win 51.78%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 597, win 49.25%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,18 +180,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 315, win 55.24%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 85, win 61.18%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3508",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "6675",
                 "count": 1
               },
               {
-                "id": "6675",
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -200,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6676",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "6701",
                 "count": 1
               }
             ]
@@ -213,7 +213,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3036",
+                "id": "6673",
                 "count": 1
               },
               {
@@ -221,7 +221,7 @@
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "3036",
                 "count": 1
               }
             ]
@@ -230,7 +230,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6673",
+                "id": "3036",
                 "count": 1
               },
               {
@@ -238,7 +238,7 @@
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -255,22 +255,22 @@
     "runes": [
       {
         "alias": "Gangplank",
-        "name": "[u.gg] Gangplank @ mid, win 56.58%, pick 76",
+        "name": "[u.gg] Gangplank @ mid, win 100.00%, pick 6",
         "position": "mid",
-        "pickCount": 76,
-        "winRate": "56.58%",
+        "pickCount": 6,
+        "winRate": "100.00%",
         "primaryStyleId": 8300,
-        "subStyleId": 8400,
+        "subStyleId": 8000,
         "selectedPerkIds": [
           8369,
-          8313,
-          8321,
+          8304,
+          8345,
           8347,
-          8451,
-          8473,
-          5005,
+          9104,
+          9111,
           5008,
-          5011
+          5008,
+          5013
         ],
         "score": 0,
         "type": ""
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 49,
+    "index": 59,
     "id": "41",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 20,
-    "winRate": "15.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 16,
+    "winRate": "6.25%",
+    "timestamp": 1709583153942,
     "alias": "Gangplank",
     "name": "Gangplank",
     "position": "supp",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gangplank @ supp, 14.3.1",
+        "title": "[u.gg] Gangplank @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 16, win 18.75%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 14, win 7.14%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -330,11 +330,11 @@
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "3100",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3118",
                 "count": 1
               }
             ]
@@ -343,11 +343,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2065",
+                "id": "6697",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -356,15 +356,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3179",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              },
-              {
-                "id": "3031",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -373,7 +365,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3156",
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -390,22 +382,22 @@
     "runes": [
       {
         "alias": "Gangplank",
-        "name": "[u.gg] Gangplank @ supp, win 100.00%, pick 2",
+        "name": "[u.gg] Gangplank @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 2,
+        "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8444,
-          8463,
-          5007,
+          8369,
+          8106,
+          8126,
+          8304,
+          8345,
+          8347,
+          5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -413,13 +405,13 @@
     ]
   },
   {
-    "index": 49,
+    "index": 59,
     "id": "41",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 8,
-    "winRate": "25.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 9,
+    "winRate": "22.22%",
+    "timestamp": 1709583153942,
     "alias": "Gangplank",
     "name": "Gangplank",
     "position": "adc",
@@ -431,7 +423,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gangplank @ adc, 14.3.1",
+        "title": "[u.gg] Gangplank @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -441,10 +433,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3, win 33.33%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -454,18 +446,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 33.33%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3508",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "6675",
                 "count": 1
               }
             ]
@@ -474,7 +466,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6675",
+                "id": "3033",
+                "count": 1
+              },
+              {
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -514,17 +510,17 @@
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8369,
-          8135,
-          8138,
-          8313,
+          8237,
+          8275,
+          8304,
           8345,
           8347,
+          5005,
           5008,
-          5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -532,25 +528,21 @@
     ]
   },
   {
-    "index": 49,
+    "index": 59,
     "id": "41",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 3,
-    "winRate": "33.33%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 2,
+    "winRate": "0.00%",
+    "timestamp": 1709583153942,
     "alias": "Gangplank",
     "name": "Gangplank",
     "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
+    "skills": [],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gangplank @ jungle, 14.3.1",
+        "title": "[u.gg] Gangplank @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -560,7 +552,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 0.00%, ",
             "items": [
               {
                 "id": "1101",
@@ -573,32 +565,19 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3508",
-                "count": 1
-              },
-              {
-                "id": "6675",
-                "count": 1
-              },
-              {
-                "id": "6676",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
             "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, ",
             "items": null
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, ",
             "items": null
           }
         ],
@@ -613,19 +592,19 @@
     "runes": [
       {
         "alias": "Gangplank",
-        "name": "[u.gg] Gangplank @ jungle, win 100.00%, pick 1",
+        "name": "[u.gg] Gangplank @ jungle, win 0.00%, pick 1",
         "position": "jungle",
         "pickCount": 1,
-        "winRate": "100.00%",
+        "winRate": "0.00%",
         "primaryStyleId": 8300,
-        "subStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8369,
-          8304,
+          8135,
+          8139,
+          8313,
           8321,
           8347,
-          8451,
-          8473,
           5008,
           5008,
           5001

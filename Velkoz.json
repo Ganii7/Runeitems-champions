@@ -1,12 +1,12 @@
 [
   {
-    "index": 163,
+    "index": 143,
     "id": "161",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 8838,
-    "winRate": "50.35%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 7588,
+    "winRate": "50.13%",
+    "timestamp": 1709583153942,
     "alias": "Velkoz",
     "name": "Vel'Koz",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Velkoz @ supp, 14.3.1",
+        "title": "[u.gg] Velkoz @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8527, win 50.36%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 7079, win 50.19%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,18 +45,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 290, win 55.17%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 536, win 57.28%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3009",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "2065",
                 "count": 1
               }
             ]
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4646",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -78,15 +78,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
                 "id": "3041",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3165",
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               },
               {
                 "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
                 "count": 1
               }
             ]
@@ -120,21 +120,21 @@
     "runes": [
       {
         "alias": "Velkoz",
-        "name": "[u.gg] Velkoz @ supp, win 53.39%, pick 560",
+        "name": "[u.gg] Velkoz @ supp, win 51.20%, pick 1750",
         "position": "supp",
-        "pickCount": 560,
-        "winRate": "53.39%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "pickCount": 1750,
+        "winRate": "51.20%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8128,
-          8105,
-          8120,
-          8126,
+          8229,
+          8210,
           8226,
           8237,
+          8345,
+          8347,
           5008,
-          5008,
+          5010,
           5011
         ],
         "score": 0,
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 163,
+    "index": 143,
     "id": "161",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 5739,
-    "winRate": "49.03%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 4588,
+    "winRate": "49.28%",
+    "timestamp": 1709583153942,
     "alias": "Velkoz",
     "name": "Vel'Koz",
     "position": "mid",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Velkoz @ mid, 14.3.1",
+        "title": "[u.gg] Velkoz @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4916, win 49.63%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 4033, win 49.99%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -188,10 +188,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 89, win 60.67%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 323, win 55.73%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4628",
+                "id": "6655",
                 "count": 1
               },
               {
@@ -199,7 +199,7 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -208,11 +208,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -221,11 +221,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3041",
                 "count": 1
               },
               {
@@ -238,15 +238,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "3089",
+                "count": 1
+              },
+              {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "6653",
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -263,18 +263,18 @@
     "runes": [
       {
         "alias": "Velkoz",
-        "name": "[u.gg] Velkoz @ mid, win 49.60%, pick 1115",
+        "name": "[u.gg] Velkoz @ mid, win 69.14%, pick 81",
         "position": "mid",
-        "pickCount": 1115,
-        "winRate": "49.60%",
+        "pickCount": 81,
+        "winRate": "69.14%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8229,
           8210,
-          8226,
+          8224,
           8237,
-          8345,
+          8304,
           8347,
           5008,
           5008,
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 163,
+    "index": 143,
     "id": "161",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 551,
-    "winRate": "53.54%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 668,
+    "winRate": "52.25%",
+    "timestamp": 1709583153942,
     "alias": "Velkoz",
     "name": "Vel'Koz",
     "position": "adc",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Velkoz @ adc, 14.3.1",
+        "title": "[u.gg] Velkoz @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -314,146 +314,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 36, win 66.67%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1027",
-                "count": 1
-              },
-              {
-                "id": "2031",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 10, win 90.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6657",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4628",
-                "count": 1
-              },
-              {
-                "id": "8001",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Velkoz",
-        "name": "[u.gg] Velkoz @ adc, win 76.47%, pick 17",
-        "position": "adc",
-        "pickCount": 17,
-        "winRate": "76.47%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8304,
-          8347,
-          5008,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 163,
-    "id": "161",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 245,
-    "winRate": "53.06%",
-    "timestamp": 1708287146556,
-    "alias": "Velkoz",
-    "name": "Vel'Koz",
-    "position": "top",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Velkoz @ top, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          161
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 185, win 55.68%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 619, win 53.31%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -470,14 +331,44 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 26, win 76.92%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6655",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "4628",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3165",
                 "count": 1
               },
               {
@@ -487,48 +378,18 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
               {
                 "id": "3110",
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -545,21 +406,164 @@
     "runes": [
       {
         "alias": "Velkoz",
-        "name": "[u.gg] Velkoz @ top, win 61.54%, pick 13",
-        "position": "top",
-        "pickCount": 13,
-        "winRate": "61.54%",
+        "name": "[u.gg] Velkoz @ adc, win 62.50%, pick 48",
+        "position": "adc",
+        "pickCount": 48,
+        "winRate": "62.50%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8229,
           8210,
-          8226,
-          8236,
-          8313,
+          8224,
+          8237,
+          8345,
+          8347,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 143,
+    "id": "161",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 125,
+    "winRate": "50.40%",
+    "timestamp": 1709583153942,
+    "alias": "Velkoz",
+    "name": "Vel'Koz",
+    "position": "top",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Velkoz @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          161
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 97, win 55.67%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6655",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3116",
+                "count": 1
+              },
+              {
+                "id": "3083",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Velkoz",
+        "name": "[u.gg] Velkoz @ top, win 100.00%, pick 4",
+        "position": "top",
+        "pickCount": 4,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8229,
+          8210,
+          8224,
+          8237,
+          8345,
           8347,
           5008,
-          5008,
+          5010,
           5001
         ],
         "score": 0,
@@ -568,13 +572,13 @@
     ]
   },
   {
-    "index": 163,
+    "index": 143,
     "id": "161",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1,
+    "officialVersion": "14.4.1",
+    "pickCount": 2,
     "winRate": "0.00%",
-    "timestamp": 1708287146556,
+    "timestamp": 1709583153942,
     "alias": "Velkoz",
     "name": "Vel'Koz",
     "position": "jungle",
@@ -586,7 +590,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Velkoz @ jungle, 14.3.1",
+        "title": "[u.gg] Velkoz @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -599,7 +603,7 @@
             "type": "Starting Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1102",
+                "id": "1101",
                 "count": 1
               },
               {
@@ -612,11 +616,11 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3020",
+                "id": "4646",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3020",
                 "count": 1
               },
               {
@@ -654,15 +658,15 @@
         "pickCount": 1,
         "winRate": "0.00%",
         "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8369,
-          8105,
-          8126,
           8304,
           8321,
           8347,
-          5005,
+          8444,
+          8451,
+          5008,
           5008,
           5001
         ],

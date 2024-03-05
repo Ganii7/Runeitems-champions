@@ -1,12 +1,12 @@
 [
   {
-    "index": 15,
+    "index": 94,
     "id": "80",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 15386,
-    "winRate": "49.21%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 12502,
+    "winRate": "49.54%",
+    "timestamp": 1709583153942,
     "alias": "Pantheon",
     "name": "Pantheon",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Pantheon @ top, 14.3.1",
+        "title": "[u.gg] Pantheon @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 12324, win 49.39%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 9714, win 49.62%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1174, win 51.96%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1038, win 53.56%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6692",
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
                 "id": "3161",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -95,7 +95,7 @@
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "3814",
                 "count": 1
               },
               {
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Pantheon",
-        "name": "[u.gg] Pantheon @ top, win 57.78%, pick 135",
+        "name": "[u.gg] Pantheon @ top, win 49.98%, pick 2255",
         "position": "top",
-        "pickCount": 135,
-        "winRate": "57.78%",
+        "pickCount": 2255,
+        "winRate": "49.98%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
-          8010,
+          8005,
           8009,
           8210,
           8237,
           8299,
-          9104,
+          9105,
           5008,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 15,
+    "index": 94,
     "id": "80",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 12355,
-    "winRate": "49.45%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 10119,
+    "winRate": "49.88%",
+    "timestamp": 1709583153942,
     "alias": "Pantheon",
     "name": "Pantheon",
     "position": "supp",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Pantheon @ supp, 14.3.1",
+        "title": "[u.gg] Pantheon @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11546, win 49.43%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 8906, win 50.12%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -184,18 +184,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 454, win 54.41%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 364, win 54.40%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "3179",
+                "id": "3047",
                 "count": 1
               }
             ]
@@ -204,24 +204,7 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "3814",
+                "id": "3153",
                 "count": 1
               },
               {
@@ -231,18 +214,35 @@
             ]
           },
           {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          },
+          {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3026",
+                "id": "3153",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "6698",
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -259,10 +259,149 @@
     "runes": [
       {
         "alias": "Pantheon",
-        "name": "[u.gg] Pantheon @ supp, win 55.27%, pick 237",
+        "name": "[u.gg] Pantheon @ supp, win 49.88%, pick 4180",
         "position": "supp",
-        "pickCount": 237,
-        "winRate": "55.27%",
+        "pickCount": 4180,
+        "winRate": "49.88%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8005,
+          8014,
+          8105,
+          8126,
+          9105,
+          9111,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 94,
+    "id": "80",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 5026,
+    "winRate": "51.41%",
+    "timestamp": 1709583153942,
+    "alias": "Pantheon",
+    "name": "Pantheon",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Pantheon @ mid, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          80
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 3292, win 52.49%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 43, win 76.74%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3161",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3161",
+                "count": 1
+              },
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3071",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Pantheon",
+        "name": "[u.gg] Pantheon @ mid, win 52.95%, pick 1084",
+        "position": "mid",
+        "pickCount": 1084,
+        "winRate": "52.95%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -282,16 +421,16 @@
     ]
   },
   {
-    "index": 15,
+    "index": 94,
     "id": "80",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 6832,
-    "winRate": "50.86%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 1873,
+    "winRate": "48.69%",
+    "timestamp": 1709583153942,
     "alias": "Pantheon",
     "name": "Pantheon",
-    "position": "mid",
+    "position": "jungle",
     "skills": [
       "Q",
       "W",
@@ -300,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Pantheon @ mid, 14.3.1",
+        "title": "[u.gg] Pantheon @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -310,7 +449,146 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4522, win 51.46%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 752, win 50.27%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1101",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 91, win 56.04%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3161",
+                "count": 1
+              },
+              {
+                "id": "3071",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3161",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Pantheon",
+        "name": "[u.gg] Pantheon @ jungle, win 53.04%, pick 230",
+        "position": "jungle",
+        "pickCount": 230,
+        "winRate": "53.04%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8010,
+          8014,
+          8304,
+          8347,
+          9104,
+          9111,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 94,
+    "id": "80",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 222,
+    "winRate": "51.35%",
+    "timestamp": 1709583153942,
+    "alias": "Pantheon",
+    "name": "Pantheon",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Pantheon @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          80
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 120, win 53.33%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -323,281 +601,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 495, win 54.34%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3161",
-                "count": 1
-              },
-              {
-                "id": "3071",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3161",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Pantheon",
-        "name": "[u.gg] Pantheon @ mid, win 53.97%, pick 378",
-        "position": "mid",
-        "pickCount": 378,
-        "winRate": "53.97%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8010,
-          8014,
-          8105,
-          8126,
-          9105,
-          9111,
-          5008,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 15,
-    "id": "80",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 2316,
-    "winRate": "47.54%",
-    "timestamp": 1708287146556,
-    "alias": "Pantheon",
-    "name": "Pantheon",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Pantheon @ jungle, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          80
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 212, win 56.13%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 81, win 56.79%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3153",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3071",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Pantheon",
-        "name": "[u.gg] Pantheon @ jungle, win 56.90%, pick 297",
-        "position": "jungle",
-        "pickCount": 297,
-        "winRate": "56.90%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8010,
-          8014,
-          8304,
-          8347,
-          9104,
-          9111,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 15,
-    "id": "80",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 203,
-    "winRate": "42.86%",
-    "timestamp": 1708287146556,
-    "alias": "Pantheon",
-    "name": "Pantheon",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Pantheon @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          80
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 70, win 44.29%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1036",
-                "count": 1
-              },
-              {
-                "id": "2031",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 40, win 55.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 30, win 60.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3142",
@@ -614,48 +618,48 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3156",
+                "id": "6610",
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "6694",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6694",
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "6695",
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "6676",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3026",
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "6662",
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -672,22 +676,22 @@
     "runes": [
       {
         "alias": "Pantheon",
-        "name": "[u.gg] Pantheon @ adc, win 66.67%, pick 6",
+        "name": "[u.gg] Pantheon @ adc, win 64.52%, pick 31",
         "position": "adc",
-        "pickCount": 6,
-        "winRate": "66.67%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "pickCount": 31,
+        "winRate": "64.52%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          9923,
-          8135,
-          8138,
-          8143,
-          8210,
-          8236,
+          8005,
+          8014,
+          8105,
+          8126,
+          9104,
+          9111,
+          5005,
           5008,
-          5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""

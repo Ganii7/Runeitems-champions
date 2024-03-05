@@ -1,12 +1,12 @@
 [
   {
-    "index": 2,
+    "index": 137,
     "id": "420",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 35832,
-    "winRate": "51.69%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 21078,
+    "winRate": "48.33%",
+    "timestamp": 1709583153942,
     "alias": "Illaoi",
     "name": "Illaoi",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Illaoi @ top, 14.3.1",
+        "title": "[u.gg] Illaoi @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 5422, win 54.78%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 3002, win 50.53%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,18 +41,157 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1203, win 54.36%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 377, win 54.91%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "3071",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Illaoi",
+        "name": "[u.gg] Illaoi @ top, win 48.32%, pick 8498",
+        "position": "top",
+        "pickCount": 8498,
+        "winRate": "48.32%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8437,
+          8009,
+          8299,
+          8446,
+          8451,
+          8473,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 137,
+    "id": "420",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 710,
+    "winRate": "48.17%",
+    "timestamp": 1709583153942,
+    "alias": "Illaoi",
+    "name": "Illaoi",
+    "position": "mid",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Illaoi @ mid, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          420
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 326, win 48.16%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 10, win 90.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6610",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "6662",
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "3047",
                 "count": 1
               }
             ]
@@ -74,11 +213,11 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3053",
+                "id": "3065",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "3053",
                 "count": 1
               },
               {
@@ -91,146 +230,11 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Illaoi",
-        "name": "[u.gg] Illaoi @ top, win 53.35%, pick 4030",
-        "position": "top",
-        "pickCount": 4030,
-        "winRate": "53.35%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8437,
-          8009,
-          8299,
-          8444,
-          8446,
-          8451,
-          5008,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 2,
-    "id": "420",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1122,
-    "winRate": "51.69%",
-    "timestamp": 1708287146556,
-    "alias": "Illaoi",
-    "name": "Illaoi",
-    "position": "mid",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Illaoi @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          420
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 500, win 52.60%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "2033",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 26, win 73.08%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "6662",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
                 "id": "3065",
                 "count": 1
               },
               {
                 "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3075",
                 "count": 1
               },
               {
@@ -251,20 +255,20 @@
     "runes": [
       {
         "alias": "Illaoi",
-        "name": "[u.gg] Illaoi @ mid, win 54.72%, pick 307",
+        "name": "[u.gg] Illaoi @ mid, win 55.06%, pick 89",
         "position": "mid",
-        "pickCount": 307,
-        "winRate": "54.72%",
+        "pickCount": 89,
+        "winRate": "55.06%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
           8437,
           8009,
           8299,
+          8444,
           8446,
           8451,
-          8473,
-          5008,
+          5007,
           5008,
           5001
         ],
@@ -274,25 +278,25 @@
     ]
   },
   {
-    "index": 2,
+    "index": 137,
     "id": "420",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 82,
-    "winRate": "42.68%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 42,
+    "winRate": "33.33%",
+    "timestamp": 1709583153942,
     "alias": "Illaoi",
     "name": "Illaoi",
     "position": "supp",
     "skills": [
       "E",
-      "Q",
-      "W"
+      "W",
+      "Q"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Illaoi @ supp, 14.3.1",
+        "title": "[u.gg] Illaoi @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -302,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 73, win 43.84%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 33, win 36.36%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "2003",
@@ -319,68 +323,51 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3869",
-                "count": 1
-              },
-              {
-                "id": "6662",
+                "id": "3877",
                 "count": 1
               },
               {
                 "id": "3047",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3071",
-                "count": 1
               },
               {
-                "id": "3179",
+                "id": "6610",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3071",
+                "id": "3075",
                 "count": 1
               },
               {
-                "id": "3179",
-                "count": 1
-              },
-              {
-                "id": "6694",
+                "id": "6662",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "8001",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3053",
+                "id": "2504",
                 "count": 1
               }
             ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": null
           }
         ],
         "map": "any",
@@ -394,22 +381,22 @@
     "runes": [
       {
         "alias": "Illaoi",
-        "name": "[u.gg] Illaoi @ supp, win 100.00%, pick 4",
+        "name": "[u.gg] Illaoi @ supp, win 66.67%, pick 3",
         "position": "supp",
-        "pickCount": 4,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "pickCount": 3,
+        "winRate": "66.67%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8010,
-          8009,
-          8299,
-          8446,
-          8453,
-          9105,
-          5007,
+          8465,
+          8106,
+          8138,
+          8429,
+          8451,
+          8463,
           5008,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -417,13 +404,13 @@
     ]
   },
   {
-    "index": 2,
+    "index": 137,
     "id": "420",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 31,
-    "winRate": "54.84%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 13,
+    "winRate": "53.85%",
+    "timestamp": 1709583153942,
     "alias": "Illaoi",
     "name": "Illaoi",
     "position": "adc",
@@ -435,7 +422,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Illaoi @ adc, 14.3.1",
+        "title": "[u.gg] Illaoi @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,10 +432,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6, win 66.67%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 10, win 60.00%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "2033",
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
@@ -457,15 +448,15 @@
             "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6662",
-                "count": 1
-              },
-              {
                 "id": "3047",
                 "count": 1
               },
               {
-                "id": "3161",
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -474,11 +465,11 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3053",
+                "id": "3119",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -487,11 +478,11 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "6610",
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "3156",
                 "count": 1
               },
               {
@@ -502,7 +493,12 @@
           },
           {
             "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": null
+            "items": [
+              {
+                "id": "6609",
+                "count": 1
+              }
+            ]
           }
         ],
         "map": "any",
@@ -516,22 +512,22 @@
     "runes": [
       {
         "alias": "Illaoi",
-        "name": "[u.gg] Illaoi @ adc, win 87.50%, pick 8",
+        "name": "[u.gg] Illaoi @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 8,
-        "winRate": "87.50%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
           8437,
-          8009,
           8299,
           8446,
-          8451,
+          8453,
           8473,
+          9111,
           5008,
-          5001,
-          5013
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -539,25 +535,25 @@
     ]
   },
   {
-    "index": 2,
+    "index": 137,
     "id": "420",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 7,
-    "winRate": "14.29%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 9,
+    "winRate": "33.33%",
+    "timestamp": 1709583153942,
     "alias": "Illaoi",
     "name": "Illaoi",
     "position": "jungle",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Illaoi @ jungle, 14.3.1",
+        "title": "[u.gg] Illaoi @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -567,46 +563,55 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1102",
+                "id": "1101",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6631",
-                "count": 1
-              },
-              {
-                "id": "3071",
+                "id": "6697",
                 "count": 1
               },
               {
                 "id": "3009",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
+              },
               {
-                "id": "3161",
+                "id": "3142",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": null
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": null
           }
         ],
@@ -625,18 +630,18 @@
         "position": "jungle",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "primaryStyleId": 8300,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8010,
-          8106,
-          8120,
-          8299,
+          8360,
+          8304,
+          8321,
+          8410,
           9105,
           9111,
           5008,
-          5010,
-          5013
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""

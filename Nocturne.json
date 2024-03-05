@@ -1,12 +1,12 @@
 [
   {
-    "index": 129,
+    "index": 34,
     "id": "56",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 43967,
-    "winRate": "49.68%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 28475,
+    "winRate": "48.03%",
+    "timestamp": 1709583153942,
     "alias": "Nocturne",
     "name": "Nocturne",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nocturne @ jungle, 14.3.1",
+        "title": "[u.gg] Nocturne @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,31 +28,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 24340, win 49.68%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4455, win 49.74%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3090, win 51.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 695, win 54.96%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3073",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "6631",
                 "count": 1
               }
             ]
@@ -65,7 +61,7 @@
                 "count": 1
               },
               {
-                "id": "3053",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -74,7 +70,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3156",
+                "id": "3026",
                 "count": 1
               },
               {
@@ -82,7 +78,7 @@
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -95,11 +91,11 @@
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "3814",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "6692",
                 "count": 1
               }
             ]
@@ -116,10 +112,10 @@
     "runes": [
       {
         "alias": "Nocturne",
-        "name": "[u.gg] Nocturne @ jungle, win 49.78%, pick 31082",
+        "name": "[u.gg] Nocturne @ jungle, win 47.97%, pick 18858",
         "position": "jungle",
-        "pickCount": 31082,
-        "winRate": "49.78%",
+        "pickCount": 18858,
+        "winRate": "47.97%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -139,13 +135,13 @@
     ]
   },
   {
-    "index": 129,
+    "index": 34,
     "id": "56",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 783,
-    "winRate": "49.68%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 580,
+    "winRate": "52.76%",
+    "timestamp": 1709583153942,
     "alias": "Nocturne",
     "name": "Nocturne",
     "position": "top",
@@ -157,7 +153,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nocturne @ top, 14.3.1",
+        "title": "[u.gg] Nocturne @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 340, win 53.53%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 302, win 54.30%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2033",
@@ -176,10 +172,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 25, win 72.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 17, win 82.35%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3074",
+                "id": "6631",
                 "count": 1
               },
               {
@@ -187,7 +183,7 @@
                 "count": 1
               },
               {
-                "id": "3073",
+                "id": "6692",
                 "count": 1
               }
             ]
@@ -200,7 +196,7 @@
                 "count": 1
               },
               {
-                "id": "3053",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -209,15 +205,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3091",
+                "id": "3053",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3071",
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "6672",
                 "count": 1
               }
             ]
@@ -226,15 +222,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3091",
+                "id": "3026",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "3143",
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -251,17 +247,17 @@
     "runes": [
       {
         "alias": "Nocturne",
-        "name": "[u.gg] Nocturne @ top, win 58.87%, pick 141",
+        "name": "[u.gg] Nocturne @ top, win 63.64%, pick 44",
         "position": "top",
-        "pickCount": 141,
-        "winRate": "58.87%",
+        "pickCount": 44,
+        "winRate": "63.64%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8010,
           8299,
           8345,
-          8352,
+          8347,
           9104,
           9111,
           5005,
@@ -274,25 +270,25 @@
     ]
   },
   {
-    "index": 129,
+    "index": 34,
     "id": "56",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 439,
-    "winRate": "46.24%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 264,
+    "winRate": "49.24%",
+    "timestamp": 1709583153942,
     "alias": "Nocturne",
     "name": "Nocturne",
     "position": "mid",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nocturne @ mid, 14.3.1",
+        "title": "[u.gg] Nocturne @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -302,49 +298,23 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 100, win 49.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 38, win 63.16%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2033",
+                "id": "1036",
+                "count": 1
+              },
+              {
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 71.43%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 9, win 100.00%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "6631",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3073",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
               {
                 "id": "6698",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
                 "count": 1
               },
               {
@@ -352,24 +322,54 @@
                 "count": 1
               },
               {
-                "id": "3004",
+                "id": "3158",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6694",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "2504",
                 "count": 1
               },
               {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
                 "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6692",
                 "count": 1
               }
             ]
@@ -386,22 +386,22 @@
     "runes": [
       {
         "alias": "Nocturne",
-        "name": "[u.gg] Nocturne @ mid, win 52.83%, pick 53",
+        "name": "[u.gg] Nocturne @ mid, win 71.43%, pick 7",
         "position": "mid",
-        "pickCount": 53,
-        "winRate": "52.83%",
+        "pickCount": 7,
+        "winRate": "71.43%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8008,
           8009,
           8014,
-          8106,
-          8138,
+          8304,
+          8345,
           9104,
           5005,
           5008,
-          5013
+          5011
         ],
         "score": 0,
         "type": ""
@@ -409,13 +409,13 @@
     ]
   },
   {
-    "index": 129,
+    "index": 34,
     "id": "56",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 10,
-    "winRate": "40.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 15,
+    "winRate": "46.67%",
+    "timestamp": 1709583153942,
     "alias": "Nocturne",
     "name": "Nocturne",
     "position": "supp",
@@ -427,7 +427,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nocturne @ supp, 14.3.1",
+        "title": "[u.gg] Nocturne @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -437,18 +437,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9, win 44.44%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1055",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
                 "count": 1
               }
             ]
@@ -457,7 +453,7 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3877",
+                "id": "6631",
                 "count": 1
               },
               {
@@ -474,7 +470,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6696",
+                "id": "6699",
+                "count": 1
+              },
+              {
+                "id": "6698",
                 "count": 1
               }
             ]
@@ -483,23 +483,22 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6609",
+                "id": "6698",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3053",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -518,17 +517,17 @@
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           9923,
           8106,
-          8136,
+          8138,
           8143,
-          8232,
-          8275,
+          8304,
+          8347,
           5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -536,13 +535,13 @@
     ]
   },
   {
-    "index": 129,
+    "index": 34,
     "id": "56",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 6,
+    "officialVersion": "14.4.1",
+    "pickCount": 1,
     "winRate": "0.00%",
-    "timestamp": 1708287146556,
+    "timestamp": 1709583153942,
     "alias": "Nocturne",
     "name": "Nocturne",
     "position": "adc",
@@ -554,7 +553,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nocturne @ adc, 14.3.1",
+        "title": "[u.gg] Nocturne @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -564,10 +563,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3, win 0.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1054",
+                "id": "1101",
                 "count": 1
               },
               {
@@ -580,15 +579,15 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3153",
+                "id": "6631",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "3073",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -622,9 +621,9 @@
     "runes": [
       {
         "alias": "Nocturne",
-        "name": "[u.gg] Nocturne @ adc, win 0.00%, pick 2",
+        "name": "[u.gg] Nocturne @ adc, win 0.00%, pick 1",
         "position": "adc",
-        "pickCount": 2,
+        "pickCount": 1,
         "winRate": "0.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,

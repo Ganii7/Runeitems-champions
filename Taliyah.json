@@ -1,12 +1,12 @@
 [
   {
-    "index": 58,
+    "index": 124,
     "id": "163",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 26055,
-    "winRate": "51.11%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 22095,
+    "winRate": "51.59%",
+    "timestamp": 1709583153942,
     "alias": "Taliyah",
     "name": "Taliyah",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taliyah @ jungle, 14.3.1",
+        "title": "[u.gg] Taliyah @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 16615, win 51.41%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 14294, win 52.19%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1101",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 348, win 83.62%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 342, win 85.96%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6655",
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -74,444 +74,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3089",
                 "count": 1
               },
               {
                 "id": "3102",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Taliyah",
-        "name": "[u.gg] Taliyah @ jungle, win 52.00%, pick 6385",
-        "position": "jungle",
-        "pickCount": 6385,
-        "winRate": "52.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8128,
-          8126,
-          8135,
-          8138,
-          8304,
-          8347,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 58,
-    "id": "163",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 16092,
-    "winRate": "53.39%",
-    "timestamp": 1708287146556,
-    "alias": "Taliyah",
-    "name": "Taliyah",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Taliyah @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          163
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 14808, win 53.42%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 132, win 82.58%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Taliyah",
-        "name": "[u.gg] Taliyah @ mid, win 55.28%, pick 984",
-        "position": "mid",
-        "pickCount": 984,
-        "winRate": "55.28%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8128,
-          8126,
-          8135,
-          8138,
-          8451,
-          8473,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 58,
-    "id": "163",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1311,
-    "winRate": "50.65%",
-    "timestamp": 1708287146556,
-    "alias": "Taliyah",
-    "name": "Taliyah",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Taliyah @ supp, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          163
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1246, win 51.04%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 186, win 55.38%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "4005",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Taliyah",
-        "name": "[u.gg] Taliyah @ supp, win 68.42%, pick 19",
-        "position": "supp",
-        "pickCount": 19,
-        "winRate": "68.42%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8128,
-          8126,
-          8135,
-          8138,
-          8451,
-          8473,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 58,
-    "id": "163",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 464,
-    "winRate": "52.59%",
-    "timestamp": 1708287146556,
-    "alias": "Taliyah",
-    "name": "Taliyah",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Taliyah @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          163
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 425, win 52.47%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "4628",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3089",
                 "count": 1
               }
             ]
@@ -528,7 +99,7 @@
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -545,10 +116,10 @@
     "runes": [
       {
         "alias": "Taliyah",
-        "name": "[u.gg] Taliyah @ adc, win 71.43%, pick 14",
-        "position": "adc",
-        "pickCount": 14,
-        "winRate": "71.43%",
+        "name": "[u.gg] Taliyah @ jungle, win 51.84%, pick 4217",
+        "position": "jungle",
+        "pickCount": 4217,
+        "winRate": "51.84%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -568,16 +139,16 @@
     ]
   },
   {
-    "index": 58,
+    "index": 124,
     "id": "163",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 251,
-    "winRate": "52.59%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 16748,
+    "winRate": "53.16%",
+    "timestamp": 1709583153942,
     "alias": "Taliyah",
     "name": "Taliyah",
-    "position": "top",
+    "position": "mid",
     "skills": [
       "Q",
       "E",
@@ -586,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taliyah @ top, 14.3.1",
+        "title": "[u.gg] Taliyah @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -596,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 212, win 52.83%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 15521, win 53.16%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -613,14 +184,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 9, win 77.78%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1245, win 55.34%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3020",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "3003",
                 "count": 1
               },
               {
@@ -633,11 +204,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3157",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -646,15 +217,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3135",
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               },
               {
                 "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3157",
                 "count": 1
               }
             ]
@@ -663,7 +234,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3102",
+                "id": "3157",
                 "count": 1
               },
               {
@@ -671,7 +242,7 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -688,20 +259,449 @@
     "runes": [
       {
         "alias": "Taliyah",
-        "name": "[u.gg] Taliyah @ top, win 66.67%, pick 36",
-        "position": "top",
-        "pickCount": 36,
-        "winRate": "66.67%",
-        "primaryStyleId": 8300,
+        "name": "[u.gg] Taliyah @ mid, win 57.82%, pick 934",
+        "position": "mid",
+        "pickCount": 934,
+        "winRate": "57.82%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8128,
+          8126,
+          8135,
+          8138,
+          8451,
+          8473,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 124,
+    "id": "163",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 1262,
+    "winRate": "52.30%",
+    "timestamp": 1709583153942,
+    "alias": "Taliyah",
+    "name": "Taliyah",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Taliyah @ supp, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          163
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 171, win 59.65%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 59, win 66.10%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3871",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4629",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Taliyah",
+        "name": "[u.gg] Taliyah @ supp, win 62.00%, pick 50",
+        "position": "supp",
+        "pickCount": 50,
+        "winRate": "62.00%",
+        "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
-          8369,
+          8128,
+          8126,
+          8135,
+          8138,
+          8226,
+          8237,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 124,
+    "id": "163",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 441,
+    "winRate": "53.97%",
+    "timestamp": 1709583153942,
+    "alias": "Taliyah",
+    "name": "Taliyah",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Taliyah @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          163
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 404, win 54.70%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 40, win 67.50%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6655",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Taliyah",
+        "name": "[u.gg] Taliyah @ adc, win 68.97%, pick 29",
+        "position": "adc",
+        "pickCount": 29,
+        "winRate": "68.97%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8128,
+          8009,
+          8014,
+          8126,
+          8135,
+          8138,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 124,
+    "id": "163",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 214,
+    "winRate": "51.87%",
+    "timestamp": 1709583153942,
+    "alias": "Taliyah",
+    "name": "Taliyah",
+    "position": "top",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Taliyah @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          163
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 28, win 64.29%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 11, win 72.73%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3003",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Taliyah",
+        "name": "[u.gg] Taliyah @ top, win 81.82%, pick 11",
+        "position": "top",
+        "pickCount": 11,
+        "winRate": "81.82%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8230,
           8210,
           8226,
-          8304,
+          8237,
           8345,
           8347,
-          5008,
+          5005,
           5008,
           5001
         ],

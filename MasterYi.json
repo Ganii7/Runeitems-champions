@@ -1,12 +1,12 @@
 [
   {
-    "index": 21,
+    "index": 107,
     "id": "11",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 42498,
-    "winRate": "51.53%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 34468,
+    "winRate": "50.66%",
+    "timestamp": 1709583153942,
     "alias": "MasterYi",
     "name": "Master Yi",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] MasterYi @ jungle, 14.3.1",
+        "title": "[u.gg] MasterYi @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 16699, win 53.39%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 14352, win 52.16%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1102",
@@ -37,7 +37,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4020, win 55.62%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 4688, win 54.31%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6672",
@@ -74,11 +74,11 @@
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "3748",
                 "count": 1
               },
               {
-                "id": "3748",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -87,15 +87,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3026",
-                "count": 1
-              },
-              {
                 "id": "3053",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -112,10 +112,10 @@
     "runes": [
       {
         "alias": "MasterYi",
-        "name": "[u.gg] MasterYi @ jungle, win 53.01%, pick 11020",
+        "name": "[u.gg] MasterYi @ jungle, win 53.29%, pick 9741",
         "position": "jungle",
-        "pickCount": 11020,
-        "winRate": "53.01%",
+        "pickCount": 9741,
+        "winRate": "53.29%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -135,13 +135,13 @@
     ]
   },
   {
-    "index": 21,
+    "index": 107,
     "id": "11",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1644,
-    "winRate": "50.30%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 1130,
+    "winRate": "48.94%",
+    "timestamp": 1709583153942,
     "alias": "MasterYi",
     "name": "Master Yi",
     "position": "top",
@@ -153,7 +153,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] MasterYi @ top, 14.3.1",
+        "title": "[u.gg] MasterYi @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -163,7 +163,150 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1495, win 50.43%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 8, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1036",
+                "count": 1
+              },
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 48, win 66.67%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3124",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "6672",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "6672",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "3073",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "MasterYi",
+        "name": "[u.gg] MasterYi @ top, win 72.97%, pick 37",
+        "position": "top",
+        "pickCount": 37,
+        "winRate": "72.97%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8008,
+          8299,
+          8446,
+          8451,
+          9104,
+          9111,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 107,
+    "id": "11",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 435,
+    "winRate": "46.21%",
+    "timestamp": 1709583153942,
+    "alias": "MasterYi",
+    "name": "Master Yi",
+    "position": "mid",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] MasterYi @ mid, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          11
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 334, win 48.50%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "1055",
@@ -176,44 +319,44 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 154, win 63.64%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3153",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3124",
                 "count": 1
               },
               {
-                "id": "3124",
+                "id": "3111",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3091",
                 "count": 1
               },
               {
-                "id": "6672",
+                "id": "6676",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "6333",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "3748",
                 "count": 1
               },
               {
@@ -223,157 +366,18 @@
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "3748",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "MasterYi",
-        "name": "[u.gg] MasterYi @ top, win 54.12%, pick 279",
-        "position": "top",
-        "pickCount": 279,
-        "winRate": "54.12%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8008,
-          8299,
-          8451,
-          8473,
-          9104,
-          9111,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 21,
-    "id": "11",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 712,
-    "winRate": "54.21%",
-    "timestamp": 1708287146556,
-    "alias": "MasterYi",
-    "name": "Master Yi",
-    "position": "mid",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] MasterYi @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          11
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 94, win 59.57%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 100.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3047",
+                "id": "3026",
                 "count": 1
               },
               {
                 "id": "6672",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3091",
-                "count": 1
               },
-              {
-                "id": "3124",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
               {
                 "id": "3748",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3026",
                 "count": 1
               }
             ]
@@ -390,17 +394,17 @@
     "runes": [
       {
         "alias": "MasterYi",
-        "name": "[u.gg] MasterYi @ mid, win 73.91%, pick 23",
+        "name": "[u.gg] MasterYi @ mid, win 100.00%, pick 4",
         "position": "mid",
-        "pickCount": 23,
-        "winRate": "73.91%",
+        "pickCount": 4,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
           8299,
-          8313,
-          8410,
+          8429,
+          8451,
           9104,
           9111,
           5005,
@@ -413,25 +417,25 @@
     ]
   },
   {
-    "index": 21,
+    "index": 107,
     "id": "11",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 264,
-    "winRate": "47.73%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 142,
+    "winRate": "45.07%",
+    "timestamp": 1709583153942,
     "alias": "MasterYi",
     "name": "Master Yi",
     "position": "supp",
     "skills": [
-      "E",
       "Q",
+      "E",
       "W"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] MasterYi @ supp, 14.3.1",
+        "title": "[u.gg] MasterYi @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -441,8 +445,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 80, win 53.75%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 92, win 50.00%, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
               {
                 "id": "3865",
                 "count": 1
@@ -450,10 +462,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 13, win 69.23%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 22, win 63.64%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3869",
+                "id": "3877",
                 "count": 1
               },
               {
@@ -461,54 +473,54 @@
                 "count": 1
               },
               {
-                "id": "6698",
+                "id": "3047",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3124",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6672",
                 "count": 1
               },
               {
-                "id": "3124",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3084",
-                "count": 1
-              },
-              {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
                 "id": "3091",
                 "count": 1
               },
               {
                 "id": "3124",
                 "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
               },
               {
-                "id": "3053",
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -525,22 +537,22 @@
     "runes": [
       {
         "alias": "MasterYi",
-        "name": "[u.gg] MasterYi @ supp, win 50.42%, pick 119",
+        "name": "[u.gg] MasterYi @ supp, win 100.00%, pick 3",
         "position": "supp",
-        "pickCount": 119,
-        "winRate": "50.42%",
+        "pickCount": 3,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8008,
-          8014,
-          8135,
+          8017,
           8138,
+          8139,
           9104,
           9111,
-          5005,
           5008,
-          5013
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -548,13 +560,13 @@
     ]
   },
   {
-    "index": 21,
+    "index": 107,
     "id": "11",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 117,
-    "winRate": "47.86%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 93,
+    "winRate": "44.09%",
+    "timestamp": 1709583153942,
     "alias": "MasterYi",
     "name": "Master Yi",
     "position": "adc",
@@ -566,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] MasterYi @ adc, 14.3.1",
+        "title": "[u.gg] MasterYi @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -576,7 +588,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 87, win 52.87%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 78, win 47.44%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -589,7 +601,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 19, win 84.21%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 14, win 71.43%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -609,11 +621,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3091",
+                "id": "3748",
                 "count": 1
               },
               {
-                "id": "3748",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -626,11 +638,11 @@
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "6672",
                 "count": 1
               },
               {
-                "id": "6672",
+                "id": "3139",
                 "count": 1
               }
             ]
@@ -643,11 +655,11 @@
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3748",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -664,22 +676,22 @@
     "runes": [
       {
         "alias": "MasterYi",
-        "name": "[u.gg] MasterYi @ adc, win 56.25%, pick 32",
+        "name": "[u.gg] MasterYi @ adc, win 85.71%, pick 7",
         "position": "adc",
-        "pickCount": 32,
-        "winRate": "56.25%",
+        "pickCount": 7,
+        "winRate": "85.71%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
           8014,
-          8105,
-          8138,
+          8446,
+          8451,
           9104,
           9111,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

@@ -1,12 +1,12 @@
 [
   {
-    "index": 39,
+    "index": 145,
     "id": "10",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 16686,
-    "winRate": "51.01%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 13442,
+    "winRate": "50.97%",
+    "timestamp": 1709583153942,
     "alias": "Kayle",
     "name": "Kayle",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kayle @ top, 14.3.1",
+        "title": "[u.gg] Kayle @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 10667, win 51.41%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 8150, win 51.84%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 864, win 59.38%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 700, win 63.86%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3009",
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3100",
+                "id": "3302",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "3135",
                 "count": 1
               },
               {
-                "id": "3100",
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Kayle",
-        "name": "[u.gg] Kayle @ top, win 53.23%, pick 1238",
+        "name": "[u.gg] Kayle @ top, win 55.75%, pick 992",
         "position": "top",
-        "pickCount": 1238,
-        "winRate": "53.23%",
+        "pickCount": 992,
+        "winRate": "55.75%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -130,7 +130,7 @@
           9101,
           9104,
           5005,
-          5001,
+          5010,
           5001
         ],
         "score": 0,
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 39,
+    "index": 145,
     "id": "10",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 3306,
-    "winRate": "52.42%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 2308,
+    "winRate": "49.83%",
+    "timestamp": 1709583153942,
     "alias": "Kayle",
     "name": "Kayle",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kayle @ mid, 14.3.1",
+        "title": "[u.gg] Kayle @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1461, win 54.14%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 933, win 51.55%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 384, win 58.85%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 260, win 64.62%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3009",
@@ -217,11 +217,11 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -230,11 +230,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3100",
+                "id": "3116",
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "3135",
                 "count": 1
               },
               {
@@ -255,10 +255,10 @@
     "runes": [
       {
         "alias": "Kayle",
-        "name": "[u.gg] Kayle @ mid, win 57.57%, pick 608",
+        "name": "[u.gg] Kayle @ mid, win 55.28%, pick 407",
         "position": "mid",
-        "pickCount": 608,
-        "winRate": "57.57%",
+        "pickCount": 407,
+        "winRate": "55.28%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -278,13 +278,152 @@
     ]
   },
   {
-    "index": 39,
+    "index": 145,
     "id": "10",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 70,
-    "winRate": "41.43%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 85,
+    "winRate": "42.35%",
+    "timestamp": 1709583153942,
+    "alias": "Kayle",
+    "name": "Kayle",
+    "position": "supp",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Kayle @ supp, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          10
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 75, win 44.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3869",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6621",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Kayle",
+        "name": "[u.gg] Kayle @ supp, win 100.00%, pick 2",
+        "position": "supp",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8465,
+          8345,
+          8347,
+          8444,
+          8453,
+          8463,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 145,
+    "id": "10",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 39,
+    "winRate": "64.10%",
+    "timestamp": 1709583153942,
     "alias": "Kayle",
     "name": "Kayle",
     "position": "adc",
@@ -296,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kayle @ adc, 14.3.1",
+        "title": "[u.gg] Kayle @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,10 +445,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 20, win 50.00%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 14, win 71.43%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -319,10 +458,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3047",
+                "id": "3006",
                 "count": 1
               },
               {
@@ -330,7 +469,7 @@
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "3124",
                 "count": 1
               }
             ]
@@ -352,11 +491,11 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3102",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "4645",
                 "count": 1
               },
               {
@@ -369,15 +508,15 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3302",
+                "id": "4645",
                 "count": 1
               },
               {
                 "id": "3139",
+                "count": 1
+              },
+              {
+                "id": "3115",
                 "count": 1
               }
             ]
@@ -394,10 +533,10 @@
     "runes": [
       {
         "alias": "Kayle",
-        "name": "[u.gg] Kayle @ adc, win 50.00%, pick 16",
+        "name": "[u.gg] Kayle @ adc, win 100.00%, pick 2",
         "position": "adc",
-        "pickCount": 16,
-        "winRate": "50.00%",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -417,25 +556,25 @@
     ]
   },
   {
-    "index": 39,
+    "index": 145,
     "id": "10",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 56,
-    "winRate": "30.36%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 28,
+    "winRate": "57.14%",
+    "timestamp": 1709583153942,
     "alias": "Kayle",
     "name": "Kayle",
-    "position": "supp",
+    "position": "jungle",
     "skills": [
-      "W",
+      "E",
       "Q",
-      "E"
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kayle @ supp, 14.3.1",
+        "title": "[u.gg] Kayle @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,10 +584,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 21, win 61.90%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "1054",
+                "id": "1102",
                 "count": 1
               },
               {
@@ -458,44 +597,27 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3870",
+                "id": "6672",
                 "count": 1
               },
               {
-                "id": "3107",
+                "id": "3009",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3046",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3504",
-                "count": 1
-              },
-              {
-                "id": "8001",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "3190",
+                "id": "3094",
                 "count": 1
               },
               {
@@ -505,132 +627,10 @@
             ]
           },
           {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3302",
-                "count": 1
-              },
-              {
-                "id": "3119",
-                "count": 1
-              },
-              {
-                "id": "2065",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Kayle",
-        "name": "[u.gg] Kayle @ supp, win 54.55%, pick 11",
-        "position": "supp",
-        "pickCount": 11,
-        "winRate": "54.55%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8214,
-          8106,
-          8139,
-          8210,
-          8226,
-          8237,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 39,
-    "id": "10",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 51,
-    "winRate": "33.33%",
-    "timestamp": 1708287146556,
-    "alias": "Kayle",
-    "name": "Kayle",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Kayle @ jungle, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          10
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 5, win 60.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3091",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3135",
+                "id": "3094",
                 "count": 1
               },
               {
@@ -638,16 +638,24 @@
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3116",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3302",
+                "count": 1
+              },
+              {
+                "id": "3095",
+                "count": 1
+              },
+              {
+                "id": "3094",
                 "count": 1
               }
             ]
@@ -664,22 +672,22 @@
     "runes": [
       {
         "alias": "Kayle",
-        "name": "[u.gg] Kayle @ jungle, win 60.00%, pick 5",
+        "name": "[u.gg] Kayle @ jungle, win 80.00%, pick 10",
         "position": "jungle",
-        "pickCount": 5,
-        "winRate": "60.00%",
+        "pickCount": 10,
+        "winRate": "80.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
-          8021,
-          8017,
+          8008,
+          8014,
+          8232,
           8234,
-          8236,
-          9105,
+          9104,
           9111,
           5005,
           5010,
-          5013
+          5011
         ],
         "score": 0,
         "type": ""

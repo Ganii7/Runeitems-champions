@@ -1,12 +1,12 @@
 [
   {
-    "index": 89,
+    "index": 135,
     "id": "106",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 14800,
-    "winRate": "48.34%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 38028,
+    "winRate": "49.57%",
+    "timestamp": 1709583153942,
     "alias": "Volibear",
     "name": "Volibear",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Volibear @ top, 14.3.1",
+        "title": "[u.gg] Volibear @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11984, win 49.15%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 31138, win 50.32%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -45,18 +45,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 303, win 55.78%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2242, win 55.71%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3115",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "2502",
                 "count": 1
               },
               {
-                "id": "4633",
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3181",
+                "id": "3119",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -78,15 +78,15 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3053",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "6662",
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
+                "id": "3110",
+                "count": 1
+              },
+              {
                 "id": "6665",
                 "count": 1
               },
               {
                 "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3110",
                 "count": 1
               }
             ]
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Volibear",
-        "name": "[u.gg] Volibear @ top, win 51.85%, pick 405",
+        "name": "[u.gg] Volibear @ top, win 50.49%, pick 3543",
         "position": "top",
-        "pickCount": 405,
-        "winRate": "51.85%",
+        "pickCount": 3543,
+        "winRate": "50.49%",
         "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8437,
-          8009,
-          8299,
+          8134,
+          8139,
           8401,
           8444,
           8453,
-          5008,
-          5008,
-          5011
+          5007,
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 89,
+    "index": 135,
     "id": "106",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 2316,
-    "winRate": "47.80%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 15575,
+    "winRate": "51.26%",
+    "timestamp": 1709583153942,
     "alias": "Volibear",
     "name": "Volibear",
     "position": "jungle",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Volibear @ jungle, 14.3.1",
+        "title": "[u.gg] Volibear @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -171,20 +171,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 486, win 49.18%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 4473, win 53.03%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1103",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1102",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 110, win 51.82%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1683, win 54.43%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3158",
@@ -217,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "3110",
+                "count": 1
+              },
+              {
                 "id": "3065",
                 "count": 1
               },
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3041",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -238,11 +234,11 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -259,22 +255,22 @@
     "runes": [
       {
         "alias": "Volibear",
-        "name": "[u.gg] Volibear @ jungle, win 68.52%, pick 54",
+        "name": "[u.gg] Volibear @ jungle, win 54.11%, pick 1303",
         "position": "jungle",
-        "pickCount": 54,
-        "winRate": "68.52%",
+        "pickCount": 1303,
+        "winRate": "54.11%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8005,
+          8014,
+          8232,
           8234,
-          8275,
-          8299,
           9104,
           9111,
           5005,
           5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -282,13 +278,13 @@
     ]
   },
   {
-    "index": 89,
+    "index": 135,
     "id": "106",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 243,
-    "winRate": "49.38%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 482,
+    "winRate": "47.30%",
+    "timestamp": 1709583153942,
     "alias": "Volibear",
     "name": "Volibear",
     "position": "mid",
@@ -300,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Volibear @ mid, 14.3.1",
+        "title": "[u.gg] Volibear @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -310,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 198, win 51.01%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 377, win 49.87%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -327,18 +323,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 11, win 63.64%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 100.00%, W \u003e Q \u003e E",
             "items": [
-              {
-                "id": "3115",
-                "count": 1
-              },
               {
                 "id": "3047",
                 "count": 1
               },
               {
-                "id": "4633",
+                "id": "2502",
+                "count": 1
+              },
+              {
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -347,11 +343,11 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3110",
+                "id": "3119",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3181",
                 "count": 1
               }
             ]
@@ -360,15 +356,15 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3075",
-                "count": 1
-              },
-              {
                 "id": "3110",
                 "count": 1
               },
               {
-                "id": "8001",
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "4629",
                 "count": 1
               }
             ]
@@ -377,15 +373,15 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "8020",
-                "count": 1
-              },
-              {
                 "id": "6665",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "6662",
                 "count": 1
               }
             ]
@@ -402,22 +398,22 @@
     "runes": [
       {
         "alias": "Volibear",
-        "name": "[u.gg] Volibear @ mid, win 100.00%, pick 5",
+        "name": "[u.gg] Volibear @ mid, win 56.25%, pick 32",
         "position": "mid",
-        "pickCount": 5,
-        "winRate": "100.00%",
+        "pickCount": 32,
+        "winRate": "56.25%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
           8437,
           8009,
-          8299,
           8401,
           8444,
           8453,
-          5005,
+          9105,
+          5007,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -425,13 +421,13 @@
     ]
   },
   {
-    "index": 89,
+    "index": 135,
     "id": "106",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 30,
-    "winRate": "46.67%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 133,
+    "winRate": "47.37%",
+    "timestamp": 1709583153942,
     "alias": "Volibear",
     "name": "Volibear",
     "position": "supp",
@@ -443,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Volibear @ supp, 14.3.1",
+        "title": "[u.gg] Volibear @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -453,10 +449,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 115, win 51.30%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2055",
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -466,10 +466,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 16, win 68.75%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3876",
+                "id": "3869",
                 "count": 1
               },
               {
@@ -477,7 +477,7 @@
                 "count": 1
               },
               {
-                "id": "3002",
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -486,11 +486,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4401",
+                "id": "3083",
                 "count": 1
               },
               {
-                "id": "3742",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -499,22 +499,35 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "4401",
+                "count": 1
+              },
+              {
                 "id": "3110",
                 "count": 1
               },
               {
-                "id": "3119",
-                "count": 1
-              },
-              {
-                "id": "3109",
+                "id": "4643",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
+            "items": [
+              {
+                "id": "8001",
+                "count": 1
+              },
+              {
+                "id": "3083",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
           }
         ],
         "map": "any",
@@ -528,21 +541,21 @@
     "runes": [
       {
         "alias": "Volibear",
-        "name": "[u.gg] Volibear @ supp, win 75.00%, pick 4",
+        "name": "[u.gg] Volibear @ supp, win 59.26%, pick 27",
         "position": "supp",
-        "pickCount": 4,
-        "winRate": "75.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "pickCount": 27,
+        "winRate": "59.26%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8437,
-          8009,
-          8401,
-          8444,
-          8453,
-          9105,
+          8351,
+          8242,
+          8306,
+          8345,
+          8347,
+          8473,
           5008,
-          5001,
+          5010,
           5001
         ],
         "score": 0,
@@ -551,13 +564,13 @@
     ]
   },
   {
-    "index": 89,
+    "index": 135,
     "id": "106",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 13,
-    "winRate": "30.77%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 40,
+    "winRate": "57.50%",
+    "timestamp": 1709583153942,
     "alias": "Volibear",
     "name": "Volibear",
     "position": "adc",
@@ -569,7 +582,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Volibear @ adc, 14.3.1",
+        "title": "[u.gg] Volibear @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -579,7 +592,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6, win 33.33%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 12, win 66.67%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -599,15 +612,15 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3047",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "3748",
+                "id": "3009",
                 "count": 1
               },
               {
-                "id": "3742",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -616,11 +629,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6665",
+                "id": "3065",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -629,11 +642,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3165",
+                "id": "3084",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -642,7 +659,11 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6698",
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -659,22 +680,22 @@
     "runes": [
       {
         "alias": "Volibear",
-        "name": "[u.gg] Volibear @ adc, win 100.00%, pick 1",
+        "name": "[u.gg] Volibear @ adc, win 75.00%, pick 4",
         "position": "adc",
-        "pickCount": 1,
-        "winRate": "100.00%",
+        "pickCount": 4,
+        "winRate": "75.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8437,
-          8009,
-          8429,
+          8134,
+          8139,
+          8444,
           8446,
-          8451,
-          9104,
+          8453,
           5005,
-          5008,
-          5013
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""

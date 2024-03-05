@@ -1,12 +1,12 @@
 [
   {
-    "index": 161,
+    "index": 140,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 18021,
-    "winRate": "49.54%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 14703,
+    "winRate": "48.98%",
+    "timestamp": 1709583153942,
     "alias": "Lissandra",
     "name": "Lissandra",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ mid, 14.3.1",
+        "title": "[u.gg] Lissandra @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 17163, win 49.68%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 14084, win 49.16%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2434, win 51.73%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2352, win 51.40%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3118",
@@ -86,7 +86,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "3137",
+                "count": 1
+              },
+              {
                 "id": "3089",
                 "count": 1
               },
               {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3102",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -120,19 +120,19 @@
     "runes": [
       {
         "alias": "Lissandra",
-        "name": "[u.gg] Lissandra @ mid, win 49.41%, pick 6724",
+        "name": "[u.gg] Lissandra @ mid, win 50.53%, pick 942",
         "position": "mid",
-        "pickCount": 6724,
-        "winRate": "49.41%",
+        "pickCount": 942,
+        "winRate": "50.53%",
         "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8112,
           8106,
           8126,
           8138,
-          8210,
-          8226,
+          8345,
+          8347,
           5005,
           5008,
           5001
@@ -143,25 +143,25 @@
     ]
   },
   {
-    "index": 161,
+    "index": 140,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 841,
-    "winRate": "49.11%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 767,
+    "winRate": "46.02%",
+    "timestamp": 1709583153942,
     "alias": "Lissandra",
     "name": "Lissandra",
     "position": "supp",
     "skills": [
       "W",
-      "E",
-      "Q"
+      "Q",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ supp, 14.3.1",
+        "title": "[u.gg] Lissandra @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -171,8 +171,12 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 810, win 49.01%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 30, win 60.00%, W \u003e Q \u003e E",
             "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
               {
                 "id": "2003",
                 "count": 1
@@ -180,45 +184,28 @@
               {
                 "id": "2003",
                 "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 23, win 73.91%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 64, win 56.25%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3876",
+                "id": "3871",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3118",
                 "count": 1
               },
               {
-                "id": "2065",
+                "id": "3020",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "4005",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "3157",
@@ -227,26 +214,39 @@
               {
                 "id": "3110",
                 "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4005",
+                "count": 1
               },
               {
-                "id": "3041",
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3137",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3157",
+                "id": "4005",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "8001",
                 "count": 1
               }
             ]
@@ -263,22 +263,22 @@
     "runes": [
       {
         "alias": "Lissandra",
-        "name": "[u.gg] Lissandra @ supp, win 61.22%, pick 49",
+        "name": "[u.gg] Lissandra @ supp, win 54.00%, pick 100",
         "position": "supp",
-        "pickCount": 49,
-        "winRate": "61.22%",
+        "pickCount": 100,
+        "winRate": "54.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8439,
-          8106,
-          8126,
-          8451,
+          8242,
+          8345,
+          8347,
           8463,
           8473,
           5007,
-          5008,
-          5011
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 161,
+    "index": 140,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 550,
-    "winRate": "41.27%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 528,
+    "winRate": "52.84%",
+    "timestamp": 1709583153942,
     "alias": "Lissandra",
     "name": "Lissandra",
     "position": "top",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ top, 14.3.1",
+        "title": "[u.gg] Lissandra @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -314,7 +314,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 482, win 41.91%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 483, win 54.04%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -331,150 +331,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Lissandra",
-        "name": "[u.gg] Lissandra @ top, win 63.64%, pick 11",
-        "position": "top",
-        "pickCount": 11,
-        "winRate": "63.64%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8229,
-          8106,
-          8126,
-          8210,
-          8226,
-          8236,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 161,
-    "id": "127",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 52,
-    "winRate": "51.92%",
-    "timestamp": 1708287146556,
-    "alias": "Lissandra",
-    "name": "Lissandra",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Lissandra @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          127
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 57, win 63.16%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3118",
@@ -494,11 +351,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4646",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "4005",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -507,15 +364,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3135",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3003",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -524,7 +381,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "8020",
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -541,22 +406,22 @@
     "runes": [
       {
         "alias": "Lissandra",
-        "name": "[u.gg] Lissandra @ adc, win 63.64%, pick 11",
-        "position": "adc",
-        "pickCount": 11,
-        "winRate": "63.64%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
+        "name": "[u.gg] Lissandra @ top, win 100.00%, pick 6",
+        "position": "top",
+        "pickCount": 6,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8229,
+          8112,
           8106,
           8126,
+          8138,
           8210,
-          8226,
           8237,
-          5005,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -564,16 +429,16 @@
     ]
   },
   {
-    "index": 161,
+    "index": 140,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 5,
-    "winRate": "0.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 39,
+    "winRate": "30.77%",
+    "timestamp": 1709583153942,
     "alias": "Lissandra",
     "name": "Lissandra",
-    "position": "jungle",
+    "position": "adc",
     "skills": [
       "Q",
       "W",
@@ -582,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ jungle, 14.3.1",
+        "title": "[u.gg] Lissandra @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -592,10 +457,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3, win 0.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 34, win 32.35%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1102",
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -605,10 +474,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3003",
+                "id": "3118",
                 "count": 1
               },
               {
@@ -616,21 +485,166 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3157",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": null
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3165",
+                "count": 1
+              }
+            ]
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": null
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Lissandra",
+        "name": "[u.gg] Lissandra @ adc, win 38.46%, pick 13",
+        "position": "adc",
+        "pickCount": 13,
+        "winRate": "38.46%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8106,
+          8126,
+          8138,
+          8210,
+          8226,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 140,
+    "id": "127",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 6,
+    "winRate": "66.67%",
+    "timestamp": 1709583153942,
+    "alias": "Lissandra",
+    "name": "Lissandra",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Lissandra @ jungle, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          127
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1101",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": null
           }
         ],
@@ -645,18 +659,18 @@
     "runes": [
       {
         "alias": "Lissandra",
-        "name": "[u.gg] Lissandra @ jungle, win 0.00%, pick 2",
+        "name": "[u.gg] Lissandra @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 2,
-        "winRate": "0.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8300,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8112,
+          8369,
           8106,
-          8126,
-          8138,
-          8345,
+          8143,
+          8304,
+          8321,
           8347,
           5008,
           5008,

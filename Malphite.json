@@ -1,24 +1,24 @@
 [
   {
-    "index": 66,
+    "index": 83,
     "id": "54",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 31466,
-    "winRate": "50.38%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 26226,
+    "winRate": "50.80%",
+    "timestamp": 1709583153942,
     "alias": "Malphite",
     "name": "Malphite",
     "position": "top",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Malphite @ top, 14.3.1",
+        "title": "[u.gg] Malphite @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14250, win 50.88%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 13404, win 51.23%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2548, win 53.06%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1646, win 54.86%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3047",
@@ -56,54 +56,54 @@
                 "count": 1
               },
               {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "2504",
+                "count": 1
+              },
+              {
                 "id": "3075",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
               {
                 "id": "6665",
                 "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
+              {
+                "id": "6665",
+                "count": 1
+              },
               {
                 "id": "2502",
                 "count": 1
               },
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "2504",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -120,18 +120,18 @@
     "runes": [
       {
         "alias": "Malphite",
-        "name": "[u.gg] Malphite @ top, win 50.97%, pick 9418",
+        "name": "[u.gg] Malphite @ top, win 52.55%, pick 7802",
         "position": "top",
-        "pickCount": 9418,
-        "winRate": "50.97%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8200,
+        "pickCount": 7802,
+        "winRate": "52.55%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8437,
+          8229,
           8210,
           8226,
-          8401,
-          8429,
+          8237,
+          8444,
           8451,
           5005,
           5001,
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 83,
     "id": "54",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 4267,
-    "winRate": "49.96%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 3498,
+    "winRate": "49.71%",
+    "timestamp": 1709583153942,
     "alias": "Malphite",
     "name": "Malphite",
     "position": "mid",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Malphite @ mid, 14.3.1",
+        "title": "[u.gg] Malphite @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2744, win 50.44%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2265, win 49.93%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -188,18 +188,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 134, win 55.97%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 86, win 60.47%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3118",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3115",
+                "id": "3068",
                 "count": 1
               }
             ]
@@ -208,11 +208,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3110",
+                "id": "3075",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "6662",
                 "count": 1
               }
             ]
@@ -221,7 +221,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3075",
+                "id": "3089",
                 "count": 1
               },
               {
@@ -229,7 +229,7 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -242,11 +242,11 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -263,22 +263,22 @@
     "runes": [
       {
         "alias": "Malphite",
-        "name": "[u.gg] Malphite @ mid, win 58.49%, pick 106",
+        "name": "[u.gg] Malphite @ mid, win 51.35%, pick 923",
         "position": "mid",
-        "pickCount": 106,
-        "winRate": "58.49%",
+        "pickCount": 923,
+        "winRate": "51.35%",
         "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8229,
+          8106,
+          8126,
           8210,
           8226,
           8237,
-          8429,
-          8451,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 83,
     "id": "54",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 803,
-    "winRate": "44.08%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 682,
+    "winRate": "40.47%",
+    "timestamp": 1709583153942,
     "alias": "Malphite",
     "name": "Malphite",
     "position": "supp",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Malphite @ supp, 14.3.1",
+        "title": "[u.gg] Malphite @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -314,7 +314,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 758, win 44.46%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 616, win 40.91%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -331,18 +331,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 80, win 52.50%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 39, win 51.28%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "3118",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3118",
                 "count": 1
               }
             ]
@@ -355,298 +355,24 @@
                 "count": 1
               },
               {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
                 "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Malphite",
-        "name": "[u.gg] Malphite @ supp, win 46.58%, pick 146",
-        "position": "supp",
-        "pickCount": 146,
-        "winRate": "46.58%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8229,
-          8106,
-          8126,
-          8210,
-          8226,
-          8237,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 66,
-    "id": "54",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 237,
-    "winRate": "38.82%",
-    "timestamp": 1708287146556,
-    "alias": "Malphite",
-    "name": "Malphite",
-    "position": "jungle",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Malphite @ jungle, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          54
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 74, win 43.24%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "1103",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 10, win 60.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "8001",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Malphite",
-        "name": "[u.gg] Malphite @ jungle, win 50.00%, pick 20",
-        "position": "jungle",
-        "pickCount": 20,
-        "winRate": "50.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8437,
-          8210,
-          8226,
-          8401,
-          8429,
-          8451,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 66,
-    "id": "54",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 64,
-    "winRate": "50.00%",
-    "timestamp": 1708287146556,
-    "alias": "Malphite",
-    "name": "Malphite",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Malphite @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          54
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1082",
-                "count": 1
-              },
-              {
-                "id": "2031",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "4401",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "8001",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "4645",
                 "count": 1
               }
             ]
@@ -659,7 +385,11 @@
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -676,21 +406,274 @@
     "runes": [
       {
         "alias": "Malphite",
-        "name": "[u.gg] Malphite @ adc, win 71.43%, pick 7",
-        "position": "adc",
-        "pickCount": 7,
-        "winRate": "71.43%",
+        "name": "[u.gg] Malphite @ supp, win 52.08%, pick 48",
+        "position": "supp",
+        "pickCount": 48,
+        "winRate": "52.08%",
         "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8229,
           8210,
           8226,
-          8236,
-          8444,
-          8451,
+          8237,
+          8345,
+          8352,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "id": "54",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 211,
+    "winRate": "36.49%",
+    "timestamp": 1709583153942,
+    "alias": "Malphite",
+    "name": "Malphite",
+    "position": "jungle",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Malphite @ jungle, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          54
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 77, win 41.56%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1101",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Malphite",
+        "name": "[u.gg] Malphite @ jungle, win 57.14%, pick 7",
+        "position": "jungle",
+        "pickCount": 7,
+        "winRate": "57.14%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8369,
+          8106,
+          8143,
+          8304,
+          8321,
+          8347,
           5005,
-          5001,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "id": "54",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 45,
+    "winRate": "44.44%",
+    "timestamp": 1709583153942,
+    "alias": "Malphite",
+    "name": "Malphite",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Malphite @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          54
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 22, win 50.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3118",
+                "count": 1
+              },
+              {
+                "id": "6664",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "2504",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Malphite",
+        "name": "[u.gg] Malphite @ adc, win 62.50%, pick 8",
+        "position": "adc",
+        "pickCount": 8,
+        "winRate": "62.50%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8229,
+          8210,
+          8226,
+          8237,
+          8345,
+          8352,
+          5008,
+          5008,
           5001
         ],
         "score": 0,

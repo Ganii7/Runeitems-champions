@@ -1,12 +1,12 @@
 [
   {
-    "index": 115,
+    "index": 65,
     "id": "99",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 26153,
-    "winRate": "47.16%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 21235,
+    "winRate": "47.77%",
+    "timestamp": 1709583153942,
     "alias": "Lux",
     "name": "Lux",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lux @ supp, 14.3.1",
+        "title": "[u.gg] Lux @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 25078, win 47.20%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 19509, win 47.94%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5937, win 49.01%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 5065, win 49.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3871",
@@ -82,11 +82,11 @@
                 "count": 1
               },
               {
-                "id": "4628",
+                "id": "4646",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -99,11 +99,11 @@
                 "count": 1
               },
               {
-                "id": "4628",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "Lux",
-        "name": "[u.gg] Lux @ supp, win 47.03%, pick 8642",
+        "name": "[u.gg] Lux @ supp, win 47.58%, pick 7492",
         "position": "supp",
-        "pickCount": 8642,
-        "winRate": "47.03%",
+        "pickCount": 7492,
+        "winRate": "47.58%",
         "primaryStyleId": 8200,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 65,
     "id": "99",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 17748,
-    "winRate": "49.64%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 15452,
+    "winRate": "49.83%",
+    "timestamp": 1709583153942,
     "alias": "Lux",
     "name": "Lux",
     "position": "mid",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lux @ mid, 14.3.1",
+        "title": "[u.gg] Lux @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 16805, win 49.87%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 14599, win 50.13%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -188,7 +188,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 218, win 74.31%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2066, win 51.84%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6655",
@@ -199,7 +199,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -208,11 +208,11 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -225,11 +225,11 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -238,11 +238,11 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3089",
                 "count": 1
               },
               {
@@ -263,22 +263,22 @@
     "runes": [
       {
         "alias": "Lux",
-        "name": "[u.gg] Lux @ mid, win 51.62%, pick 924",
+        "name": "[u.gg] Lux @ mid, win 52.37%, pick 548",
         "position": "mid",
-        "pickCount": 924,
-        "winRate": "51.62%",
-        "primaryStyleId": 8200,
+        "pickCount": 548,
+        "winRate": "52.37%",
+        "primaryStyleId": 8300,
         "subStyleId": 8100,
         "selectedPerkIds": [
-          8229,
+          8369,
           8106,
           8126,
-          8210,
-          8226,
-          8236,
+          8313,
+          8345,
+          8347,
+          5005,
           5008,
-          5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 65,
     "id": "99",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1420,
-    "winRate": "52.39%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 1029,
+    "winRate": "52.67%",
+    "timestamp": 1709583153942,
     "alias": "Lux",
     "name": "Lux",
     "position": "adc",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lux @ adc, 14.3.1",
+        "title": "[u.gg] Lux @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -314,7 +314,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1330, win 53.01%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 927, win 53.07%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -331,14 +331,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 333, win 55.56%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 44, win 61.36%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3118",
+                "id": "3020",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3118",
                 "count": 1
               },
               {
@@ -372,7 +372,7 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -385,7 +385,7 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "4646",
                 "count": 1
               },
               {
@@ -406,22 +406,22 @@
     "runes": [
       {
         "alias": "Lux",
-        "name": "[u.gg] Lux @ adc, win 70.18%, pick 57",
+        "name": "[u.gg] Lux @ adc, win 60.22%, pick 93",
         "position": "adc",
-        "pickCount": 57,
-        "winRate": "70.18%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
+        "pickCount": 93,
+        "winRate": "60.22%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8369,
-          8233,
+          8229,
+          8106,
+          8126,
+          8210,
+          8226,
           8236,
-          8313,
-          8345,
-          8347,
-          5007,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 65,
     "id": "99",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 186,
-    "winRate": "43.01%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 141,
+    "winRate": "53.90%",
+    "timestamp": 1709583153942,
     "alias": "Lux",
     "name": "Lux",
     "position": "top",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lux @ top, 14.3.1",
+        "title": "[u.gg] Lux @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -457,7 +457,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 159, win 44.65%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 116, win 57.76%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -474,18 +474,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 15, win 53.33%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 15, win 73.33%, E \u003e Q \u003e W",
             "items": [
-              {
-                "id": "6655",
-                "count": 1
-              },
               {
                 "id": "3020",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "6655",
+                "count": 1
+              },
+              {
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -498,7 +498,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -507,15 +507,15 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3135",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "2502",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -524,15 +524,11 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
+                "id": "4628",
+                "count": 1
+              },
+              {
                 "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
                 "count": 1
               }
             ]
@@ -549,21 +545,21 @@
     "runes": [
       {
         "alias": "Lux",
-        "name": "[u.gg] Lux @ top, win 83.33%, pick 6",
+        "name": "[u.gg] Lux @ top, win 90.91%, pick 11",
         "position": "top",
-        "pickCount": 6,
-        "winRate": "83.33%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "pickCount": 11,
+        "winRate": "90.91%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8112,
-          8106,
-          8120,
+          8229,
+          8105,
           8126,
           8210,
           8226,
-          5008,
-          5001,
+          8236,
+          5007,
+          5010,
           5001
         ],
         "score": 0,
@@ -572,13 +568,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 65,
     "id": "99",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 22,
-    "winRate": "13.64%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 17,
+    "winRate": "11.76%",
+    "timestamp": 1709583153942,
     "alias": "Lux",
     "name": "Lux",
     "position": "jungle",
@@ -590,7 +586,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lux @ jungle, 14.3.1",
+        "title": "[u.gg] Lux @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -600,10 +596,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14, win 21.43%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "1101",
+                "id": "1103",
                 "count": 1
               },
               {
@@ -616,15 +612,15 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3041",
+                "id": "6655",
                 "count": 1
               },
               {
                 "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -633,11 +629,7 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -662,10 +654,10 @@
     "runes": [
       {
         "alias": "Lux",
-        "name": "[u.gg] Lux @ jungle, win 37.50%, pick 8",
+        "name": "[u.gg] Lux @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 8,
-        "winRate": "37.50%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -673,11 +665,11 @@
           8106,
           8126,
           8138,
-          8233,
+          8210,
           8236,
-          5005,
           5008,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""

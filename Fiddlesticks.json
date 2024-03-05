@@ -1,12 +1,12 @@
 [
   {
-    "index": 113,
+    "index": 127,
     "id": "9",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 15387,
-    "winRate": "51.04%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 11816,
+    "winRate": "49.54%",
+    "timestamp": 1709583153942,
     "alias": "Fiddlesticks",
     "name": "Fiddlesticks",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fiddlesticks @ jungle, 14.3.1",
+        "title": "[u.gg] Fiddlesticks @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 7585, win 51.63%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 5879, win 49.72%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1102",
@@ -37,18 +37,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1403, win 52.53%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 659, win 52.81%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "3020",
                 "count": 1
               },
               {
-                "id": "3152",
+                "id": "3118",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3152",
                 "count": 1
               }
             ]
@@ -57,7 +57,7 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "4645",
+                "id": "3157",
                 "count": 1
               },
               {
@@ -70,15 +70,15 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3041",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3165",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -87,15 +87,15 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
                 "id": "3089",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -112,10 +112,10 @@
     "runes": [
       {
         "alias": "Fiddlesticks",
-        "name": "[u.gg] Fiddlesticks @ jungle, win 52.47%, pick 1723",
+        "name": "[u.gg] Fiddlesticks @ jungle, win 51.82%, pick 1015",
         "position": "jungle",
-        "pickCount": 1723,
-        "winRate": "52.47%",
+        "pickCount": 1015,
+        "winRate": "51.82%",
         "primaryStyleId": 8300,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -135,13 +135,13 @@
     ]
   },
   {
-    "index": 113,
+    "index": 127,
     "id": "9",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 2581,
-    "winRate": "49.05%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 2544,
+    "winRate": "49.49%",
+    "timestamp": 1709583153942,
     "alias": "Fiddlesticks",
     "name": "Fiddlesticks",
     "position": "supp",
@@ -153,7 +153,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fiddlesticks @ supp, 14.3.1",
+        "title": "[u.gg] Fiddlesticks @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -163,7 +163,428 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2468, win 49.15%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 46, win 65.22%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "2055",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 114, win 58.77%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3876",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "4643",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Fiddlesticks",
+        "name": "[u.gg] Fiddlesticks @ supp, win 69.23%, pick 39",
+        "position": "supp",
+        "pickCount": 39,
+        "winRate": "69.23%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8229,
+          8106,
+          8136,
+          8226,
+          8233,
+          8237,
+          5007,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 127,
+    "id": "9",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 833,
+    "winRate": "51.98%",
+    "timestamp": 1709583153942,
+    "alias": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "position": "top",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Fiddlesticks @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          9
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 761, win 52.17%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 20, win 85.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "4629",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Fiddlesticks",
+        "name": "[u.gg] Fiddlesticks @ top, win 70.37%, pick 27",
+        "position": "top",
+        "pickCount": 27,
+        "winRate": "70.37%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8229,
+          8210,
+          8226,
+          8237,
+          8451,
+          8473,
+          5007,
+          5001,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 127,
+    "id": "9",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 830,
+    "winRate": "52.41%",
+    "timestamp": 1709583153942,
+    "alias": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "position": "mid",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Fiddlesticks @ mid, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          9
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 797, win 52.70%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 65, win 60.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Fiddlesticks",
+        "name": "[u.gg] Fiddlesticks @ mid, win 58.54%, pick 82",
+        "position": "mid",
+        "pickCount": 82,
+        "winRate": "58.54%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8229,
+          8106,
+          8126,
+          8210,
+          8226,
+          8237,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 127,
+    "id": "9",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 17,
+    "winRate": "35.29%",
+    "timestamp": 1709583153942,
+    "alias": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Fiddlesticks @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          9
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -180,300 +601,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 91, win 56.04%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "3152",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Fiddlesticks",
-        "name": "[u.gg] Fiddlesticks @ supp, win 58.62%, pick 116",
-        "position": "supp",
-        "pickCount": 116,
-        "winRate": "58.62%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8439,
-          8237,
-          8242,
-          8275,
-          8463,
-          8473,
-          5008,
-          5001,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 113,
-    "id": "9",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 934,
-    "winRate": "52.68%",
-    "timestamp": 1708287146556,
-    "alias": "Fiddlesticks",
-    "name": "Fiddlesticks",
-    "position": "top",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Fiddlesticks @ top, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          9
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 837, win 53.05%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 52, win 63.46%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "4633",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Fiddlesticks",
-        "name": "[u.gg] Fiddlesticks @ top, win 55.19%, pick 154",
-        "position": "top",
-        "pickCount": 154,
-        "winRate": "55.19%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8453,
-          8473,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 113,
-    "id": "9",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 928,
-    "winRate": "54.85%",
-    "timestamp": 1708287146556,
-    "alias": "Fiddlesticks",
-    "name": "Fiddlesticks",
-    "position": "mid",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Fiddlesticks @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          9
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 896, win 55.47%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 66, win 68.18%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3118",
+                "id": "3158",
                 "count": 1
               },
               {
@@ -483,27 +618,10 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3165",
                 "count": 1
               },
               {
@@ -513,148 +631,12 @@
             ]
           },
           {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Fiddlesticks",
-        "name": "[u.gg] Fiddlesticks @ mid, win 67.74%, pick 62",
-        "position": "mid",
-        "pickCount": 62,
-        "winRate": "67.74%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8229,
-          8106,
-          8143,
-          8210,
-          8224,
-          8237,
-          5008,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 113,
-    "id": "9",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 16,
-    "winRate": "31.25%",
-    "timestamp": 1708287146556,
-    "alias": "Fiddlesticks",
-    "name": "Fiddlesticks",
-    "position": "adc",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Fiddlesticks @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          9
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 12, win 41.67%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
           }
         ],
         "map": "any",
@@ -672,17 +654,17 @@
         "position": "adc",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8369,
-          8106,
-          8138,
-          8313,
-          8321,
-          8347,
+          8124,
+          8105,
+          8136,
+          8143,
+          8232,
+          8234,
           5008,
-          5008,
+          5001,
           5001
         ],
         "score": 0,

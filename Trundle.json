@@ -1,12 +1,12 @@
 [
   {
-    "index": 99,
+    "index": 14,
     "id": "48",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 23330,
-    "winRate": "50.98%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 13420,
+    "winRate": "50.89%",
+    "timestamp": 1709583153942,
     "alias": "Trundle",
     "name": "Trundle",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Trundle @ top, 14.3.1",
+        "title": "[u.gg] Trundle @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 18467, win 51.72%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 10414, win 51.62%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1214, win 57.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 768, win 58.20%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3074",
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -74,7 +74,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3053",
+                "id": "3065",
                 "count": 1
               },
               {
@@ -82,7 +82,7 @@
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "3143",
+                "id": "3075",
                 "count": 1
               },
               {
                 "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Trundle",
-        "name": "[u.gg] Trundle @ top, win 53.23%, pick 665",
+        "name": "[u.gg] Trundle @ top, win 56.98%, pick 351",
         "position": "top",
-        "pickCount": 665,
-        "winRate": "53.23%",
+        "pickCount": 351,
+        "winRate": "56.98%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
-          8014,
-          8304,
-          8410,
+          8299,
+          8446,
+          8451,
           9104,
           9111,
           5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 99,
+    "index": 14,
     "id": "48",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 3428,
-    "winRate": "49.18%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 2117,
+    "winRate": "48.09%",
+    "timestamp": 1709583153942,
     "alias": "Trundle",
     "name": "Trundle",
     "position": "jungle",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Trundle @ jungle, 14.3.1",
+        "title": "[u.gg] Trundle @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,10 +167,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 675, win 52.30%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 851, win 48.88%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1102",
+                "id": "1103",
                 "count": 1
               },
               {
@@ -180,10 +180,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 337, win 56.97%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 48, win 64.58%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3748",
+                "id": "3078",
                 "count": 1
               },
               {
@@ -191,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "3078",
+                "id": "3748",
                 "count": 1
               }
             ]
@@ -200,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3110",
+                "id": "3153",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -213,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3110",
-                "count": 1
-              },
-              {
                 "id": "3075",
                 "count": 1
               },
               {
-                "id": "3053",
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -230,15 +230,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3075",
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3153",
                 "count": 1
               },
               {
                 "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3091",
                 "count": 1
               }
             ]
@@ -255,10 +255,10 @@
     "runes": [
       {
         "alias": "Trundle",
-        "name": "[u.gg] Trundle @ jungle, win 49.83%, pick 1758",
+        "name": "[u.gg] Trundle @ jungle, win 49.49%, pick 1073",
         "position": "jungle",
-        "pickCount": 1758,
-        "winRate": "49.83%",
+        "pickCount": 1073,
+        "winRate": "49.49%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -278,25 +278,25 @@
     ]
   },
   {
-    "index": 99,
+    "index": 14,
     "id": "48",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 304,
-    "winRate": "45.72%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 224,
+    "winRate": "45.54%",
+    "timestamp": 1709583153942,
     "alias": "Trundle",
     "name": "Trundle",
     "position": "supp",
     "skills": [
-      "Q",
+      "E",
       "W",
-      "E"
+      "Q"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Trundle @ supp, 14.3.1",
+        "title": "[u.gg] Trundle @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 281, win 46.98%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 191, win 48.17%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "2003",
@@ -323,14 +323,27 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 71.43%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3876",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3109",
                 "count": 1
               },
               {
@@ -340,48 +353,35 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3109",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3050",
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3002",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3109",
+                "id": "3074",
                 "count": 1
               },
               {
-                "id": "3190",
+                "id": "3068",
                 "count": 1
               },
               {
-                "id": "3050",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4643",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "3107",
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -398,21 +398,21 @@
     "runes": [
       {
         "alias": "Trundle",
-        "name": "[u.gg] Trundle @ supp, win 72.73%, pick 11",
+        "name": "[u.gg] Trundle @ supp, win 100.00%, pick 2",
         "position": "supp",
-        "pickCount": 11,
-        "winRate": "72.73%",
-        "primaryStyleId": 8000,
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8005,
-          8299,
+          8351,
+          8304,
+          8321,
+          8347,
           8453,
           8473,
-          9105,
-          9111,
-          5007,
-          5001,
+          5008,
+          5008,
           5011
         ],
         "score": 0,
@@ -421,13 +421,13 @@
     ]
   },
   {
-    "index": 99,
+    "index": 14,
     "id": "48",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 285,
-    "winRate": "50.18%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 180,
+    "winRate": "54.44%",
+    "timestamp": 1709583153942,
     "alias": "Trundle",
     "name": "Trundle",
     "position": "mid",
@@ -439,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Trundle @ mid, 14.3.1",
+        "title": "[u.gg] Trundle @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -449,146 +449,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 99, win 53.54%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 10, win 80.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3074",
-                "count": 1
-              },
-              {
-                "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3181",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3073",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Trundle",
-        "name": "[u.gg] Trundle @ mid, win 53.21%, pick 109",
-        "position": "mid",
-        "pickCount": 109,
-        "winRate": "53.21%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8008,
-          8299,
-          8446,
-          8473,
-          9104,
-          9111,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 99,
-    "id": "48",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 25,
-    "winRate": "68.00%",
-    "timestamp": 1708287146556,
-    "alias": "Trundle",
-    "name": "Trundle",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Trundle @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          48
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 7, win 85.71%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 111, win 55.86%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -601,14 +462,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 15, win 93.33%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3074",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3074",
                 "count": 1
               },
               {
@@ -621,11 +482,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3181",
+                "id": "3153",
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -638,11 +499,11 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -651,15 +512,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6662",
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3091",
                 "count": 1
               },
               {
                 "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "3053",
                 "count": 1
               }
             ]
@@ -676,22 +537,144 @@
     "runes": [
       {
         "alias": "Trundle",
-        "name": "[u.gg] Trundle @ adc, win 100.00%, pick 2",
-        "position": "adc",
-        "pickCount": 2,
-        "winRate": "100.00%",
+        "name": "[u.gg] Trundle @ mid, win 55.95%, pick 84",
+        "position": "mid",
+        "pickCount": 84,
+        "winRate": "55.95%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
           8299,
           8446,
-          8453,
+          8473,
           9104,
           9111,
           5005,
-          5008,
-          5011
+          5010,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "id": "48",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 39,
+    "winRate": "53.85%",
+    "timestamp": 1709583153942,
+    "alias": "Trundle",
+    "name": "Trundle",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Trundle @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          48
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 24, win 70.83%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3074",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3181",
+                "count": 1
+              },
+              {
+                "id": "3742",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "3143",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Trundle",
+        "name": "[u.gg] Trundle @ adc, win 71.43%, pick 7",
+        "position": "adc",
+        "pickCount": 7,
+        "winRate": "71.43%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8008,
+          8299,
+          8444,
+          8451,
+          9104,
+          9111,
+          5005,
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""

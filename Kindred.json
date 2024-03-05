@@ -1,12 +1,12 @@
 [
   {
-    "index": 147,
+    "index": 92,
     "id": "203",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 24883,
-    "winRate": "51.82%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 27089,
+    "winRate": "51.84%",
+    "timestamp": 1709583153942,
     "alias": "Kindred",
     "name": "Kindred",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kindred @ jungle, 14.3.1",
+        "title": "[u.gg] Kindred @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,10 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14428, win 51.90%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2924, win 53.59%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1101",
+                "id": "1102",
                 "count": 1
               },
               {
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1709, win 59.74%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3529, win 56.70%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6672",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3047",
                 "count": 1
               },
               {
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "3026",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3302",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Kindred",
-        "name": "[u.gg] Kindred @ jungle, win 55.29%, pick 1474",
+        "name": "[u.gg] Kindred @ jungle, win 56.25%, pick 1607",
         "position": "jungle",
-        "pickCount": 1474,
-        "winRate": "55.29%",
+        "pickCount": 1607,
+        "winRate": "56.25%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -139,25 +139,25 @@
     ]
   },
   {
-    "index": 147,
+    "index": 92,
     "id": "203",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 189,
-    "winRate": "48.68%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 232,
+    "winRate": "50.00%",
+    "timestamp": 1709583153942,
     "alias": "Kindred",
     "name": "Kindred",
-    "position": "mid",
+    "position": "adc",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kindred @ mid, 14.3.1",
+        "title": "[u.gg] Kindred @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 173, win 49.13%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 224, win 50.45%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,14 +180,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 30, win 66.67%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "6672",
                 "count": 1
               },
               {
@@ -197,7 +197,7 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3031",
@@ -210,153 +210,10 @@
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3094",
-                "count": 1
-              },
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3072",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "7041",
-                "count": 1
-              },
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3742",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Kindred",
-        "name": "[u.gg] Kindred @ mid, win 58.33%, pick 48",
-        "position": "mid",
-        "pickCount": 48,
-        "winRate": "58.33%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8021,
-          8009,
-          8299,
-          8345,
-          8347,
-          9104,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 147,
-    "id": "203",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 157,
-    "winRate": "49.04%",
-    "timestamp": 1708287146556,
-    "alias": "Kindred",
-    "name": "Kindred",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Kindred @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          203
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1036",
-                "count": 1
-              },
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 22, win 59.09%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3006",
-                "count": 1
-              },
-              {
-                "id": "3078",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3302",
-                "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3153",
+                "id": "3072",
                 "count": 1
               },
               {
@@ -373,15 +230,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
                 "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "7041",
-                "count": 1
-              },
-              {
-                "id": "6698",
                 "count": 1
               }
             ]
@@ -398,18 +255,149 @@
     "runes": [
       {
         "alias": "Kindred",
-        "name": "[u.gg] Kindred @ adc, win 71.43%, pick 7",
+        "name": "[u.gg] Kindred @ adc, win 85.71%, pick 7",
         "position": "adc",
         "pickCount": 7,
-        "winRate": "71.43%",
+        "winRate": "85.71%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8008,
+          8014,
+          8453,
+          8473,
+          9104,
+          9111,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "id": "203",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 126,
+    "winRate": "45.24%",
+    "timestamp": 1709583153942,
+    "alias": "Kindred",
+    "name": "Kindred",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Kindred @ mid, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          203
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1083",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "3302",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3091",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "8001",
+                "count": 1
+              },
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3072",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Kindred",
+        "name": "[u.gg] Kindred @ mid, win 57.14%, pick 28",
+        "position": "mid",
+        "pickCount": 28,
+        "winRate": "57.14%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8005,
-          8299,
-          8304,
-          8321,
-          9103,
+          8014,
+          8105,
+          8143,
+          9104,
           9111,
           5005,
           5008,
@@ -421,13 +409,13 @@
     ]
   },
   {
-    "index": 147,
+    "index": 92,
     "id": "203",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 85,
-    "winRate": "40.00%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 80,
+    "winRate": "27.50%",
+    "timestamp": 1709583153942,
     "alias": "Kindred",
     "name": "Kindred",
     "position": "top",
@@ -439,7 +427,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kindred @ top, 14.3.1",
+        "title": "[u.gg] Kindred @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -452,15 +440,7 @@
             "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1036",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1101",
                 "count": 1
               },
               {
@@ -470,18 +450,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
               {
                 "id": "3006",
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3302",
                 "count": 1
               }
             ]
@@ -490,7 +470,7 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3031",
+                "id": "3091",
                 "count": 1
               },
               {
@@ -503,15 +483,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3036",
+                "id": "6673",
                 "count": 1
               },
               {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3071",
+                "id": "3072",
                 "count": 1
               }
             ]
@@ -520,11 +496,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3302",
+                "id": "3085",
                 "count": 1
               }
             ]
@@ -541,19 +513,19 @@
     "runes": [
       {
         "alias": "Kindred",
-        "name": "[u.gg] Kindred @ top, win 58.33%, pick 12",
+        "name": "[u.gg] Kindred @ top, win 40.00%, pick 15",
         "position": "top",
-        "pickCount": 12,
-        "winRate": "58.33%",
+        "pickCount": 15,
+        "winRate": "40.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8005,
-          8009,
           8014,
-          8226,
-          8237,
+          8135,
+          8143,
           9104,
+          9111,
           5005,
           5008,
           5001
@@ -564,25 +536,25 @@
     ]
   },
   {
-    "index": 147,
+    "index": 92,
     "id": "203",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 18,
-    "winRate": "38.89%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 17,
+    "winRate": "41.18%",
+    "timestamp": 1709583153942,
     "alias": "Kindred",
     "name": "Kindred",
     "position": "supp",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kindred @ supp, 14.3.1",
+        "title": "[u.gg] Kindred @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -592,67 +564,71 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 12, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1101",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 57.14%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "3006",
                 "count": 1
               },
               {
-                "id": "6699",
+                "id": "6672",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3091",
+                "id": "6675",
                 "count": 1
               },
               {
-                "id": "3002",
+                "id": "3094",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6692",
+                "id": "3302",
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "3033",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": null
           }
         ],
@@ -667,22 +643,22 @@
     "runes": [
       {
         "alias": "Kindred",
-        "name": "[u.gg] Kindred @ supp, win 50.00%, pick 8",
+        "name": "[u.gg] Kindred @ supp, win 75.00%, pick 4",
         "position": "supp",
-        "pickCount": 8,
-        "winRate": "50.00%",
+        "pickCount": 4,
+        "winRate": "75.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8005,
           8014,
-          8135,
+          8106,
           8143,
           9104,
           9111,
           5005,
-          5010,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""

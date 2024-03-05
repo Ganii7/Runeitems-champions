@@ -1,12 +1,12 @@
 [
   {
-    "index": 85,
+    "index": 66,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 10437,
-    "winRate": "46.30%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 9265,
+    "winRate": "45.89%",
+    "timestamp": 1709583153942,
     "alias": "Sejuani",
     "name": "Sejuani",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ jungle, 14.3.1",
+        "title": "[u.gg] Sejuani @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,10 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1947, win 48.59%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 6161, win 46.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1102",
+                "id": "1103",
                 "count": 1
               },
               {
@@ -41,18 +41,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 338, win 52.07%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 395, win 48.86%, W \u003e Q \u003e E",
             "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
               {
                 "id": "3068",
                 "count": 1
               },
               {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "3075",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "2504",
+                "id": "3075",
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3143",
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3075",
                 "count": 1
               },
               {
                 "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3110",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "4401",
+                "id": "8001",
                 "count": 1
               },
               {
                 "id": "3109",
+                "count": 1
+              },
+              {
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Sejuani",
-        "name": "[u.gg] Sejuani @ jungle, win 46.87%, pick 5684",
+        "name": "[u.gg] Sejuani @ jungle, win 47.03%, pick 5394",
         "position": "jungle",
-        "pickCount": 5684,
-        "winRate": "46.87%",
+        "pickCount": 5394,
+        "winRate": "47.03%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 85,
+    "index": 66,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1286,
-    "winRate": "48.13%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 862,
+    "winRate": "48.61%",
+    "timestamp": 1709583153942,
     "alias": "Sejuani",
     "name": "Sejuani",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ top, 14.3.1",
+        "title": "[u.gg] Sejuani @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 910, win 48.46%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 578, win 50.52%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -180,14 +180,27 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 35, win 62.86%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 9, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3047",
+                "id": "6664",
                 "count": 1
               },
               {
-                "id": "3068",
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6665",
                 "count": 1
               },
               {
@@ -197,31 +210,18 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
+                "id": "2502",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
                 "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3143",
                 "count": 1
               }
             ]
@@ -230,15 +230,15 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "8020",
+                "id": "2502",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6662",
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -255,22 +255,22 @@
     "runes": [
       {
         "alias": "Sejuani",
-        "name": "[u.gg] Sejuani @ top, win 58.33%, pick 60",
+        "name": "[u.gg] Sejuani @ top, win 53.04%, pick 296",
         "position": "top",
-        "pickCount": 60,
-        "winRate": "58.33%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "pickCount": 296,
+        "winRate": "53.04%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
+          8437,
+          8345,
+          8347,
           8444,
+          8446,
           8451,
           5005,
           5001,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -278,13 +278,152 @@
     ]
   },
   {
-    "index": 85,
+    "index": 66,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 166,
-    "winRate": "42.77%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 156,
+    "winRate": "45.51%",
+    "timestamp": 1709583153942,
+    "alias": "Sejuani",
+    "name": "Sejuani",
+    "position": "supp",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Sejuani @ supp, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          113
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 13, win 61.54%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3876",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3068",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "6664",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "2504",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4643",
+                "count": 1
+              },
+              {
+                "id": "3084",
+                "count": 1
+              },
+              {
+                "id": "3050",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Sejuani",
+        "name": "[u.gg] Sejuani @ supp, win 100.00%, pick 3",
+        "position": "supp",
+        "pickCount": 3,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8351,
+          8306,
+          8345,
+          8347,
+          8451,
+          8473,
+          5005,
+          5010,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "id": "113",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 138,
+    "winRate": "45.65%",
+    "timestamp": 1709583153942,
     "alias": "Sejuani",
     "name": "Sejuani",
     "position": "mid",
@@ -296,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ mid, 14.3.1",
+        "title": "[u.gg] Sejuani @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,14 +445,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 53, win 56.60%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 69, win 49.28%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1028",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -323,7 +458,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 100.00%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "6657",
@@ -334,7 +469,7 @@
                 "count": 1
               },
               {
-                "id": "8020",
+                "id": "3068",
                 "count": 1
               }
             ]
@@ -343,11 +478,11 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3068",
+                "id": "3075",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -360,11 +495,11 @@
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "2504",
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -377,11 +512,11 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "8020",
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -398,10 +533,10 @@
     "runes": [
       {
         "alias": "Sejuani",
-        "name": "[u.gg] Sejuani @ mid, win 59.26%, pick 54",
+        "name": "[u.gg] Sejuani @ mid, win 55.56%, pick 27",
         "position": "mid",
-        "pickCount": 54,
-        "winRate": "59.26%",
+        "pickCount": 27,
+        "winRate": "55.56%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
@@ -421,16 +556,16 @@
     ]
   },
   {
-    "index": 85,
+    "index": 66,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 148,
-    "winRate": "48.65%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 15,
+    "winRate": "33.33%",
+    "timestamp": 1709583153942,
     "alias": "Sejuani",
     "name": "Sejuani",
-    "position": "supp",
+    "position": "adc",
     "skills": [
       "W",
       "Q",
@@ -439,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ supp, 14.3.1",
+        "title": "[u.gg] Sejuani @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -449,7 +584,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8, win 75.00%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 14, win 35.71%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -462,153 +597,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3876",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "3002",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "3083",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sejuani",
-        "name": "[u.gg] Sejuani @ supp, win 75.00%, pick 4",
-        "position": "supp",
-        "pickCount": 4,
-        "winRate": "75.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8230,
-          8232,
-          8234,
-          8275,
-          9104,
-          9111,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 85,
-    "id": "113",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 9,
-    "winRate": "22.22%",
-    "timestamp": 1708287146556,
-    "alias": "Sejuani",
-    "name": "Sejuani",
-    "position": "adc",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sejuani @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          113
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 3, win 33.33%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3047",
+                "id": "3158",
                 "count": 1
               },
               {
@@ -625,18 +617,32 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6653",
+                "id": "6665",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": null
+            "items": [
+              {
+                "id": "8020",
+                "count": 1
+              },
+              {
+                "id": "3083",
+                "count": 1
+              }
+            ]
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": null
+            "items": [
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
           }
         ],
         "map": "any",
@@ -654,18 +660,18 @@
         "position": "adc",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8200,
+        "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8345,
+          8439,
+          8316,
           8347,
+          8444,
+          8451,
+          8463,
+          5005,
           5008,
-          5008,
-          5013
+          5011
         ],
         "score": 0,
         "type": ""

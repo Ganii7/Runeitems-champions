@@ -1,12 +1,12 @@
 [
   {
-    "index": 144,
+    "index": 138,
     "id": "13",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 9283,
-    "winRate": "48.62%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 7284,
+    "winRate": "49.18%",
+    "timestamp": 1709583153942,
     "alias": "Ryze",
     "name": "Ryze",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ryze @ mid, 14.3.1",
+        "title": "[u.gg] Ryze @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,289 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1411, win 51.67%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1027",
-                "count": 1
-              },
-              {
-                "id": "2031",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1177, win 52.76%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6657",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Ryze",
-        "name": "[u.gg] Ryze @ mid, win 52.75%, pick 582",
-        "position": "mid",
-        "pickCount": 582,
-        "winRate": "52.75%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8230,
-          8210,
-          8226,
-          8236,
-          8429,
-          8451,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 144,
-    "id": "13",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 3116,
-    "winRate": "49.68%",
-    "timestamp": 1708287146556,
-    "alias": "Ryze",
-    "name": "Ryze",
-    "position": "top",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Ryze @ top, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          13
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2241, win 50.51%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 509, win 55.01%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6657",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Ryze",
-        "name": "[u.gg] Ryze @ top, win 55.41%, pick 148",
-        "position": "top",
-        "pickCount": 148,
-        "winRate": "55.41%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8230,
-          8210,
-          8226,
-          8236,
-          8304,
-          8345,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 144,
-    "id": "13",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 46,
-    "winRate": "43.48%",
-    "timestamp": 1708287146556,
-    "alias": "Ryze",
-    "name": "Ryze",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Ryze @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          13
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 15, win 53.33%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1746, win 50.69%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -327,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 12, win 66.67%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1285, win 53.62%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6657",
@@ -351,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -360,15 +78,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6655",
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
                 "count": 1
               },
               {
                 "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "4645",
                 "count": 1
               }
             ]
@@ -377,11 +95,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3116",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -398,10 +120,10 @@
     "runes": [
       {
         "alias": "Ryze",
-        "name": "[u.gg] Ryze @ adc, win 100.00%, pick 3",
-        "position": "adc",
-        "pickCount": 3,
-        "winRate": "100.00%",
+        "name": "[u.gg] Ryze @ mid, win 50.59%, pick 593",
+        "position": "mid",
+        "pickCount": 593,
+        "winRate": "50.59%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -409,11 +131,11 @@
           8210,
           8226,
           8236,
-          8304,
           8345,
+          8347,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -421,13 +143,279 @@
     ]
   },
   {
-    "index": 144,
+    "index": 138,
     "id": "13",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 2405,
+    "winRate": "48.90%",
+    "timestamp": 1709583153942,
+    "alias": "Ryze",
+    "name": "Ryze",
+    "position": "top",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Ryze @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          13
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1656, win 48.85%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 242, win 57.02%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6657",
+                "count": 1
+              },
+              {
+                "id": "3003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Ryze",
+        "name": "[u.gg] Ryze @ top, win 54.95%, pick 313",
+        "position": "top",
+        "pickCount": 313,
+        "winRate": "54.95%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8230,
+          8210,
+          8226,
+          8236,
+          8451,
+          8473,
+          5008,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 138,
+    "id": "13",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
     "pickCount": 29,
     "winRate": "27.59%",
-    "timestamp": 1708287146556,
+    "timestamp": 1709583153942,
+    "alias": "Ryze",
+    "name": "Ryze",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Ryze @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          13
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "0",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6657",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4629",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Ryze",
+        "name": "[u.gg] Ryze @ adc, win 100.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8230,
+          8226,
+          8234,
+          8236,
+          8345,
+          8347,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 138,
+    "id": "13",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 25,
+    "winRate": "36.00%",
+    "timestamp": 1709583153942,
     "alias": "Ryze",
     "name": "Ryze",
     "position": "supp",
@@ -439,7 +427,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ryze @ supp, 14.3.1",
+        "title": "[u.gg] Ryze @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -449,7 +437,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 21, win 38.10%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -460,24 +448,24 @@
                 "count": 1
               },
               {
-                "id": "3865",
+                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
                 "id": "6657",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3876",
                 "count": 1
               }
             ]
@@ -486,11 +474,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3110",
+                "id": "3190",
                 "count": 1
               },
               {
-                "id": "3107",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -499,11 +487,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3003",
+                "id": "8020",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3165",
                 "count": 1
               },
               {
@@ -516,11 +504,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3869",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -541,18 +525,18 @@
         "position": "supp",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8300,
+        "primaryStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8465,
+          8351,
+          8313,
           8345,
           8347,
-          8444,
-          8453,
           8463,
+          8473,
+          5005,
           5008,
-          5010,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -560,13 +544,13 @@
     ]
   },
   {
-    "index": 144,
+    "index": 138,
     "id": "13",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 12,
-    "winRate": "33.33%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 9,
+    "winRate": "44.44%",
+    "timestamp": 1709583153942,
     "alias": "Ryze",
     "name": "Ryze",
     "position": "jungle",
@@ -578,7 +562,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ryze @ jungle, 14.3.1",
+        "title": "[u.gg] Ryze @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -588,10 +572,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1103",
+                "id": "1102",
                 "count": 1
               },
               {
@@ -612,7 +596,7 @@
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -621,23 +605,18 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4646",
+                "id": "6655",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "4629",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
@@ -655,22 +634,22 @@
     "runes": [
       {
         "alias": "Ryze",
-        "name": "[u.gg] Ryze @ jungle, win 66.67%, pick 3",
+        "name": "[u.gg] Ryze @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 3,
-        "winRate": "66.67%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8230,
           8210,
           8226,
-          8232,
-          8345,
+          8236,
+          8313,
           8347,
-          5005,
+          5007,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""

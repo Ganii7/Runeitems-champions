@@ -1,12 +1,12 @@
 [
   {
-    "index": 1,
+    "index": 41,
     "id": "53",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 54913,
-    "winRate": "50.62%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 44423,
+    "winRate": "51.77%",
+    "timestamp": 1709583153942,
     "alias": "Blitzcrank",
     "name": "Blitzcrank",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Blitzcrank @ supp, 14.3.1",
+        "title": "[u.gg] Blitzcrank @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 53571, win 50.76%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 43047, win 51.80%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6715, win 53.28%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 5259, win 54.25%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3876",
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -82,11 +82,11 @@
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3190",
                 "count": 1
               },
               {
-                "id": "3050",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3190",
+                "id": "3109",
                 "count": 1
               },
               {
-                "id": "3109",
+                "id": "3050",
                 "count": 1
               },
               {
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "Blitzcrank",
-        "name": "[u.gg] Blitzcrank @ supp, win 51.56%, pick 16652",
+        "name": "[u.gg] Blitzcrank @ supp, win 52.91%, pick 14277",
         "position": "supp",
-        "pickCount": 16652,
-        "winRate": "51.56%",
+        "pickCount": 14277,
+        "winRate": "52.91%",
         "primaryStyleId": 8300,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -134,124 +134,6 @@
           8345,
           8347,
           5007,
-          5010,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 1,
-    "id": "53",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 42,
-    "winRate": "23.81%",
-    "timestamp": 1708287146556,
-    "alias": "Blitzcrank",
-    "name": "Blitzcrank",
-    "position": "mid",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Blitzcrank @ mid, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          53
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 4, win 50.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6664",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "4629",
-                "count": 1
-              },
-              {
-                "id": "3869",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Blitzcrank",
-        "name": "[u.gg] Blitzcrank @ mid, win 66.67%, pick 3",
-        "position": "mid",
-        "pickCount": 3,
-        "winRate": "66.67%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8351,
-          8242,
-          8306,
-          8345,
-          8347,
-          8473,
-          5008,
           5001,
           5001
         ],
@@ -261,25 +143,25 @@
     ]
   },
   {
-    "index": 1,
+    "index": 41,
     "id": "53",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 27,
-    "winRate": "33.33%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 36,
+    "winRate": "25.00%",
+    "timestamp": 1709583153942,
     "alias": "Blitzcrank",
     "name": "Blitzcrank",
-    "position": "adc",
+    "position": "mid",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Blitzcrank @ adc, 14.3.1",
+        "title": "[u.gg] Blitzcrank @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -289,40 +171,44 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6, win 50.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 3, win 66.67%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1054",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
               {
                 "id": "6655",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "4646",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2504",
+                "id": "3742",
                 "count": 1
               },
               {
@@ -332,131 +218,17 @@
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3046",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Blitzcrank",
-        "name": "[u.gg] Blitzcrank @ adc, win 45.45%, pick 11",
-        "position": "adc",
-        "pickCount": 11,
-        "winRate": "45.45%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8351,
-          8242,
-          8306,
-          8345,
-          8347,
-          8473,
-          5007,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 1,
-    "id": "53",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 25,
-    "winRate": "8.00%",
-    "timestamp": 1708287146556,
-    "alias": "Blitzcrank",
-    "name": "Blitzcrank",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Blitzcrank @ jungle, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          53
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 5, win 40.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1103",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "6662",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "3073",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": null
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3002",
+                "count": 1
+              }
+            ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -474,22 +246,22 @@
     "runes": [
       {
         "alias": "Blitzcrank",
-        "name": "[u.gg] Blitzcrank @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Blitzcrank @ mid, win 100.00%, pick 1",
+        "position": "mid",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8400,
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8351,
-          8306,
-          8321,
-          8410,
-          8429,
-          8451,
-          5007,
-          5001,
-          5001
+          9923,
+          8105,
+          8138,
+          8139,
+          8234,
+          8275,
+          5008,
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -497,25 +269,25 @@
     ]
   },
   {
-    "index": 1,
+    "index": 41,
     "id": "53",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 19,
-    "winRate": "36.84%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 27,
+    "winRate": "18.52%",
+    "timestamp": 1709583153942,
     "alias": "Blitzcrank",
     "name": "Blitzcrank",
-    "position": "top",
+    "position": "jungle",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Blitzcrank @ top, 14.3.1",
+        "title": "[u.gg] Blitzcrank @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -525,14 +297,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 6, win 33.33%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1103",
                 "count": 1
               },
               {
@@ -542,14 +310,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6662",
+                "id": "3117",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3068",
                 "count": 1
               },
               {
@@ -559,29 +327,29 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6655",
+                "id": "3109",
                 "count": 1
               },
               {
-                "id": "3742",
+                "id": "3075",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "6665",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": null
           }
         ],
@@ -596,21 +364,265 @@
     "runes": [
       {
         "alias": "Blitzcrank",
-        "name": "[u.gg] Blitzcrank @ top, win 100.00%, pick 1",
-        "position": "top",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "name": "[u.gg] Blitzcrank @ jungle, win 40.00%, pick 5",
+        "position": "jungle",
+        "pickCount": 5,
+        "winRate": "40.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8214,
-          8009,
-          8226,
-          8232,
+          8351,
           8234,
-          9104,
+          8275,
+          8306,
+          8345,
+          8347,
+          5007,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "id": "53",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 27,
+    "winRate": "44.44%",
+    "timestamp": 1709583153942,
+    "alias": "Blitzcrank",
+    "name": "Blitzcrank",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Blitzcrank @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          53
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 9, win 66.67%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3116",
+                "count": 1
+              },
+              {
+                "id": "3046",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3118",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Blitzcrank",
+        "name": "[u.gg] Blitzcrank @ adc, win 80.00%, pick 5",
+        "position": "adc",
+        "pickCount": 5,
+        "winRate": "80.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8439,
+          8345,
+          8347,
+          8429,
+          8446,
+          8451,
+          5007,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "id": "53",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 26,
+    "winRate": "46.15%",
+    "timestamp": 1709583153942,
+    "alias": "Blitzcrank",
+    "name": "Blitzcrank",
+    "position": "top",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Blitzcrank @ top, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          53
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 4, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3876",
+                "count": 1
+              },
+              {
+                "id": "3117",
+                "count": 1
+              },
+              {
+                "id": "3742",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4401",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Blitzcrank",
+        "name": "[u.gg] Blitzcrank @ top, win 100.00%, pick 2",
+        "position": "top",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8351,
+          8234,
+          8275,
+          8313,
+          8345,
+          8347,
           5008,
-          5010,
+          5008,
           5011
         ],
         "score": 0,

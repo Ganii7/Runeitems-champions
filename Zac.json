@@ -1,12 +1,12 @@
 [
   {
-    "index": 140,
+    "index": 67,
     "id": "154",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 27233,
-    "winRate": "49.34%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 21525,
+    "winRate": "49.76%",
+    "timestamp": 1709583153942,
     "alias": "Zac",
     "name": "Zac",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zac @ jungle, 14.3.1",
+        "title": "[u.gg] Zac @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 7518, win 50.40%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 6051, win 51.08%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "1103",
@@ -37,14 +37,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 506, win 57.51%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 448, win 58.93%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3158",
+                "id": "3068",
                 "count": 1
               },
               {
-                "id": "3068",
+                "id": "3158",
                 "count": 1
               },
               {
@@ -74,11 +74,11 @@
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "3065",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -91,11 +91,11 @@
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "2502",
                 "count": 1
               }
             ]
@@ -112,10 +112,10 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ jungle, win 50.45%, pick 8145",
+        "name": "[u.gg] Zac @ jungle, win 50.53%, pick 5840",
         "position": "jungle",
-        "pickCount": 8145,
-        "winRate": "50.45%",
+        "pickCount": 5840,
+        "winRate": "50.53%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -135,13 +135,13 @@
     ]
   },
   {
-    "index": 140,
+    "index": 67,
     "id": "154",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 23021,
-    "winRate": "50.64%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 18204,
+    "winRate": "51.38%",
+    "timestamp": 1709583153942,
     "alias": "Zac",
     "name": "Zac",
     "position": "top",
@@ -153,7 +153,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zac @ top, 14.3.1",
+        "title": "[u.gg] Zac @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -163,7 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 22438, win 50.66%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 17785, win 51.39%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "1054",
@@ -176,14 +176,27 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1342, win 52.31%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 465, win 56.99%, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3047",
+                "id": "3068",
                 "count": 1
               },
               {
-                "id": "3068",
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "2502",
                 "count": 1
               },
               {
@@ -193,31 +206,18 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, W \u003e E \u003e Q",
             "items": [
               {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
                 "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "2502",
                 "count": 1
               }
             ]
@@ -226,15 +226,15 @@
             "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
                 "id": "2502",
                 "count": 1
               },
               {
-                "id": "8001",
+                "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -251,10 +251,10 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ top, win 50.87%, pick 15276",
+        "name": "[u.gg] Zac @ top, win 51.75%, pick 12385",
         "position": "top",
-        "pickCount": 15276,
-        "winRate": "50.87%",
+        "pickCount": 12385,
+        "winRate": "51.75%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
@@ -274,13 +274,13 @@
     ]
   },
   {
-    "index": 140,
+    "index": 67,
     "id": "154",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 6532,
-    "winRate": "50.52%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 5315,
+    "winRate": "50.84%",
+    "timestamp": 1709583153942,
     "alias": "Zac",
     "name": "Zac",
     "position": "supp",
@@ -292,7 +292,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zac @ supp, 14.3.1",
+        "title": "[u.gg] Zac @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -302,7 +302,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6157, win 50.58%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 4946, win 51.21%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "2003",
@@ -319,7 +319,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 343, win 55.10%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 445, win 56.18%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3876",
@@ -352,15 +352,15 @@
             "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3143",
-                "count": 1
-              },
-              {
                 "id": "3065",
                 "count": 1
               },
               {
                 "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -369,15 +369,15 @@
             "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3065",
-                "count": 1
-              },
-              {
                 "id": "3041",
                 "count": 1
               },
               {
-                "id": "4643",
+                "id": "3109",
+                "count": 1
+              },
+              {
+                "id": "4633",
                 "count": 1
               }
             ]
@@ -394,19 +394,19 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ supp, win 51.72%, pick 638",
+        "name": "[u.gg] Zac @ supp, win 55.53%, pick 407",
         "position": "supp",
-        "pickCount": 638,
-        "winRate": "51.72%",
+        "pickCount": 407,
+        "winRate": "55.53%",
         "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8439,
-          8444,
+          8304,
+          8347,
+          8429,
           8453,
           8463,
-          9105,
-          9111,
           5007,
           5001,
           5001
@@ -417,25 +417,25 @@
     ]
   },
   {
-    "index": 140,
+    "index": 67,
     "id": "154",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 3544,
-    "winRate": "53.24%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 2726,
+    "winRate": "52.71%",
+    "timestamp": 1709583153942,
     "alias": "Zac",
     "name": "Zac",
     "position": "mid",
     "skills": [
-      "W",
       "E",
+      "W",
       "Q"
     ],
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zac @ mid, 14.3.1",
+        "title": "[u.gg] Zac @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,7 +445,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3348, win 53.76%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 2557, win 53.07%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "1054",
@@ -458,14 +458,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 100, win 60.00%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 51, win 64.71%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "6664",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "6664",
                 "count": 1
               },
               {
@@ -475,153 +475,10 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "2502",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "2502",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "2502",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Zac",
-        "name": "[u.gg] Zac @ mid, win 54.46%, pick 942",
-        "position": "mid",
-        "pickCount": 942,
-        "winRate": "54.46%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8010,
-          8299,
-          8444,
-          8453,
-          9105,
-          9111,
-          5007,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 140,
-    "id": "154",
-    "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 112,
-    "winRate": "47.32%",
-    "timestamp": 1708287146556,
-    "alias": "Zac",
-    "name": "Zac",
-    "position": "adc",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Zac @ adc, 14.3.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          154
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3068",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fourth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "6665",
+                "id": "2502",
                 "count": 1
               },
               {
@@ -634,15 +491,15 @@
             "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "2502",
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               },
               {
                 "id": "4633",
-                "count": 1
-              },
-              {
-                "id": "3075",
                 "count": 1
               }
             ]
@@ -650,6 +507,14 @@
           {
             "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": [
+              {
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              },
               {
                 "id": "3075",
                 "count": 1
@@ -668,17 +533,156 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ adc, win 57.14%, pick 14",
-        "position": "adc",
-        "pickCount": 14,
-        "winRate": "57.14%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "name": "[u.gg] Zac @ mid, win 54.71%, pick 541",
+        "position": "mid",
+        "pickCount": 541,
+        "winRate": "54.71%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8439,
+          8010,
+          8299,
           8444,
           8453,
-          8463,
+          9105,
+          9111,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "id": "154",
+    "version": "14.3.1",
+    "officialVersion": "14.4.1",
+    "pickCount": 127,
+    "winRate": "49.61%",
+    "timestamp": 1709583153942,
+    "alias": "Zac",
+    "name": "Zac",
+    "position": "adc",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Zac @ adc, 14.4.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          154
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 113, win 50.44%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3068",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "2502",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "4633",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Zac",
+        "name": "[u.gg] Zac @ adc, win 61.11%, pick 18",
+        "position": "adc",
+        "pickCount": 18,
+        "winRate": "61.11%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8010,
+          8299,
+          8444,
+          8453,
           9105,
           9111,
           5007,

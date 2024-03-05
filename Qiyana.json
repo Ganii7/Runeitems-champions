@@ -1,12 +1,12 @@
 [
   {
-    "index": 79,
+    "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 27797,
-    "winRate": "52.06%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 22283,
+    "winRate": "52.69%",
+    "timestamp": 1709583153942,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ mid, 14.3.1",
+        "title": "[u.gg] Qiyana @ mid, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -28,20 +28,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11474, win 52.88%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 6283, win 53.91%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1055",
+                "id": "1036",
                 "count": 1
               },
               {
-                "id": "2003",
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2262, win 55.35%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2778, win 55.51%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6698",
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "3026",
+                "count": 1
+              },
+              {
                 "id": "3814",
                 "count": 1
               },
               {
                 "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6696",
                 "count": 1
               }
             ]
@@ -116,19 +116,19 @@
     "runes": [
       {
         "alias": "Qiyana",
-        "name": "[u.gg] Qiyana @ mid, win 55.65%, pick 1700",
+        "name": "[u.gg] Qiyana @ mid, win 53.95%, pick 2330",
         "position": "mid",
-        "pickCount": 1700,
-        "winRate": "55.65%",
+        "pickCount": 2330,
+        "winRate": "53.95%",
         "primaryStyleId": 8100,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8112,
           8135,
           8138,
           8143,
-          8313,
-          8316,
+          8444,
+          8451,
           5008,
           5008,
           5011
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 79,
+    "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 2985,
-    "winRate": "48.41%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 2103,
+    "winRate": "48.03%",
+    "timestamp": 1709583153942,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "jungle",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ jungle, 14.3.1",
+        "title": "[u.gg] Qiyana @ jungle, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -167,10 +167,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2076, win 50.19%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 403, win 49.63%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1102",
+                "id": "1101",
                 "count": 1
               },
               {
@@ -180,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 192, win 52.60%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 191, win 56.02%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6698",
@@ -191,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -200,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6694",
+                "id": "3814",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6694",
                 "count": 1
               }
             ]
@@ -230,7 +230,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6696",
+                "id": "6694",
                 "count": 1
               },
               {
@@ -238,7 +238,7 @@
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -255,10 +255,10 @@
     "runes": [
       {
         "alias": "Qiyana",
-        "name": "[u.gg] Qiyana @ jungle, win 52.24%, pick 268",
+        "name": "[u.gg] Qiyana @ jungle, win 55.33%, pick 197",
         "position": "jungle",
-        "pickCount": 268,
-        "winRate": "52.24%",
+        "pickCount": 197,
+        "winRate": "55.33%",
         "primaryStyleId": 8300,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 79,
+    "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 1101,
-    "winRate": "53.13%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 1015,
+    "winRate": "52.41%",
+    "timestamp": 1709583153942,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "top",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ top, 14.3.1",
+        "title": "[u.gg] Qiyana @ top, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 558, win 54.48%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 472, win 54.87%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -319,14 +319,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 36, win 77.78%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 26, win 69.23%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6698",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "3004",
                 "count": 1
               },
               {
@@ -339,7 +339,7 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6701",
+                "id": "6694",
                 "count": 1
               },
               {
@@ -356,11 +356,11 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6696",
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -369,15 +369,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3814",
+                "id": "6697",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "6694",
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -394,22 +394,22 @@
     "runes": [
       {
         "alias": "Qiyana",
-        "name": "[u.gg] Qiyana @ top, win 64.71%, pick 51",
+        "name": "[u.gg] Qiyana @ top, win 56.20%, pick 137",
         "position": "top",
-        "pickCount": 51,
-        "winRate": "64.71%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8200,
+        "pickCount": 137,
+        "winRate": "56.20%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8010,
-          8210,
-          8236,
-          8299,
-          9104,
-          9111,
+          8369,
+          8135,
+          8143,
+          8304,
+          8345,
+          8347,
+          5005,
           5008,
-          5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 79,
+    "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 250,
-    "winRate": "56.40%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 235,
+    "winRate": "49.36%",
+    "timestamp": 1709583153942,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ supp, 14.3.1",
+        "title": "[u.gg] Qiyana @ supp, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -445,31 +445,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 231, win 57.58%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 21, win 76.19%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2003",
+                "id": "1055",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 46, win 65.22%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 23, win 65.22%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "3179",
+                "id": "6699",
                 "count": 1
               },
               {
@@ -482,7 +478,7 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3142",
+                "id": "6698",
                 "count": 1
               },
               {
@@ -499,11 +495,11 @@
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "6698",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -512,15 +508,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
                 "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "6696",
                 "count": 1
               }
             ]
@@ -537,22 +533,22 @@
     "runes": [
       {
         "alias": "Qiyana",
-        "name": "[u.gg] Qiyana @ supp, win 69.05%, pick 42",
+        "name": "[u.gg] Qiyana @ supp, win 68.42%, pick 19",
         "position": "supp",
-        "pickCount": 42,
-        "winRate": "69.05%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "pickCount": 19,
+        "winRate": "68.42%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8112,
-          8009,
-          8014,
+          8369,
           8135,
-          8138,
           8143,
+          8304,
+          8321,
+          8347,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -560,13 +556,13 @@
     ]
   },
   {
-    "index": 79,
+    "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.3.1",
-    "pickCount": 91,
-    "winRate": "58.24%",
-    "timestamp": 1708287146556,
+    "officialVersion": "14.4.1",
+    "pickCount": 56,
+    "winRate": "51.79%",
+    "timestamp": 1709583153942,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "adc",
@@ -578,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ adc, 14.3.1",
+        "title": "[u.gg] Qiyana @ adc, 14.4.1",
         "associatedMaps": [
           11,
           12
@@ -588,10 +584,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11, win 81.82%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 10, win 60.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1054",
+                "id": "1055",
                 "count": 1
               },
               {
@@ -604,15 +600,15 @@
             "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3158",
-                "count": 1
-              },
-              {
                 "id": "6698",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6697",
                 "count": 1
               }
             ]
@@ -621,11 +617,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6701",
+                "id": "3142",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6694",
                 "count": 1
               }
             ]
@@ -634,15 +630,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6694",
-                "count": 1
-              },
-              {
                 "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "6701",
                 "count": 1
               }
             ]
@@ -655,11 +643,11 @@
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "6696",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -676,10 +664,10 @@
     "runes": [
       {
         "alias": "Qiyana",
-        "name": "[u.gg] Qiyana @ adc, win 100.00%, pick 4",
+        "name": "[u.gg] Qiyana @ adc, win 83.33%, pick 6",
         "position": "adc",
-        "pickCount": 4,
-        "winRate": "100.00%",
+        "pickCount": 6,
+        "winRate": "83.33%",
         "primaryStyleId": 8100,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -691,7 +679,7 @@
           8451,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
