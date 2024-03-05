@@ -1,0 +1,642 @@
+[
+  {
+    "index": 112,
+    "id": "28",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 40127,
+    "winRate": "52.03%",
+    "timestamp": 1708287146556,
+    "alias": "Evelynn",
+    "name": "Evelynn",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Evelynn @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          28
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 12315, win 53.37%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3474, win 72.45%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Evelynn",
+        "name": "[u.gg] Evelynn @ jungle, win 52.41%, pick 25982",
+        "position": "jungle",
+        "pickCount": 25982,
+        "winRate": "52.41%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8105,
+          8138,
+          8143,
+          8233,
+          8236,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 112,
+    "id": "28",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 90,
+    "winRate": "47.78%",
+    "timestamp": 1708287146556,
+    "alias": "Evelynn",
+    "name": "Evelynn",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Evelynn @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          28
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 16, win 75.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 24, win 62.50%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Evelynn",
+        "name": "[u.gg] Evelynn @ supp, win 56.25%, pick 32",
+        "position": "supp",
+        "pickCount": 32,
+        "winRate": "56.25%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8105,
+          8138,
+          8143,
+          8233,
+          8236,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 112,
+    "id": "28",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 50,
+    "winRate": "38.00%",
+    "timestamp": 1708287146556,
+    "alias": "Evelynn",
+    "name": "Evelynn",
+    "position": "top",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Evelynn @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          28
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3115",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Evelynn",
+        "name": "[u.gg] Evelynn @ top, win 100.00%, pick 2",
+        "position": "top",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8010,
+          8009,
+          8105,
+          8143,
+          8299,
+          9104,
+          5008,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 112,
+    "id": "28",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 39,
+    "winRate": "25.64%",
+    "timestamp": 1708287146556,
+    "alias": "Evelynn",
+    "name": "Evelynn",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Evelynn @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          28
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 33, win 30.30%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Evelynn",
+        "name": "[u.gg] Evelynn @ mid, win 80.00%, pick 5",
+        "position": "mid",
+        "pickCount": 5,
+        "winRate": "80.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8369,
+          8134,
+          8138,
+          8304,
+          8345,
+          8347,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 112,
+    "id": "28",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 5,
+    "winRate": "40.00%",
+    "timestamp": 1708287146556,
+    "alias": "Evelynn",
+    "name": "Evelynn",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Evelynn @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          28
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 5, win 40.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Evelynn",
+        "name": "[u.gg] Evelynn @ adc, win 100.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8105,
+          8138,
+          8143,
+          8226,
+          8236,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

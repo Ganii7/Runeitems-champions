@@ -1,0 +1,681 @@
+[
+  {
+    "index": 28,
+    "id": "105",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 21072,
+    "winRate": "48.50%",
+    "timestamp": 1708287146556,
+    "alias": "Fizz",
+    "name": "Fizz",
+    "position": "mid",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Fizz @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          105
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 17564, win 48.54%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 319, win 73.04%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Fizz",
+        "name": "[u.gg] Fizz @ mid, win 51.57%, pick 2226",
+        "position": "mid",
+        "pickCount": 2226,
+        "winRate": "51.57%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8134,
+          8138,
+          8143,
+          8210,
+          8226,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "id": "105",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 271,
+    "winRate": "46.86%",
+    "timestamp": 1708287146556,
+    "alias": "Fizz",
+    "name": "Fizz",
+    "position": "top",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Fizz @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          105
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 214, win 49.07%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 9, win 66.67%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3165",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Fizz",
+        "name": "[u.gg] Fizz @ top, win 58.18%, pick 55",
+        "position": "top",
+        "pickCount": 55,
+        "winRate": "58.18%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8112,
+          8014,
+          8135,
+          8138,
+          8143,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "id": "105",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 105,
+    "winRate": "40.95%",
+    "timestamp": 1708287146556,
+    "alias": "Fizz",
+    "name": "Fizz",
+    "position": "supp",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Fizz @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          105
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 3, win 66.67%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 12, win 66.67%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3871",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Fizz",
+        "name": "[u.gg] Fizz @ supp, win 100.00%, pick 2",
+        "position": "supp",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8106,
+          8138,
+          8143,
+          8210,
+          8237,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "id": "105",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 37,
+    "winRate": "43.24%",
+    "timestamp": 1708287146556,
+    "alias": "Fizz",
+    "name": "Fizz",
+    "position": "adc",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Fizz @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          105
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Fizz",
+        "name": "[u.gg] Fizz @ adc, win 100.00%, pick 2",
+        "position": "adc",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8105,
+          8138,
+          8143,
+          8233,
+          8236,
+          5008,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "id": "105",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 25,
+    "winRate": "36.00%",
+    "timestamp": 1708287146556,
+    "alias": "Fizz",
+    "name": "Fizz",
+    "position": "jungle",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Fizz @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          105
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "0",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Fizz",
+        "name": "[u.gg] Fizz @ jungle, win 100.00%, pick 1",
+        "position": "jungle",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8128,
+          8135,
+          8138,
+          8143,
+          8210,
+          8237,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

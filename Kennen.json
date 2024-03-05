@@ -1,0 +1,666 @@
+[
+  {
+    "index": 136,
+    "id": "85",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 10798,
+    "winRate": "50.05%",
+    "timestamp": 1708287146556,
+    "alias": "Kennen",
+    "name": "Kennen",
+    "position": "top",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Kennen @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          85
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1923, win 51.38%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 936, win 55.56%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Kennen",
+        "name": "[u.gg] Kennen @ top, win 64.52%, pick 62",
+        "position": "top",
+        "pickCount": 62,
+        "winRate": "64.52%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8021,
+          8236,
+          8275,
+          8299,
+          9105,
+          9111,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 136,
+    "id": "85",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 2710,
+    "winRate": "53.51%",
+    "timestamp": 1708287146556,
+    "alias": "Kennen",
+    "name": "Kennen",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Kennen @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          85
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1597, win 55.54%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 145, win 63.45%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Kennen",
+        "name": "[u.gg] Kennen @ mid, win 69.05%, pick 42",
+        "position": "mid",
+        "pickCount": 42,
+        "winRate": "69.05%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8135,
+          8138,
+          8139,
+          8237,
+          8275,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 136,
+    "id": "85",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 419,
+    "winRate": "51.79%",
+    "timestamp": 1708287146556,
+    "alias": "Kennen",
+    "name": "Kennen",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Kennen @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          85
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 404, win 51.73%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 158, win 56.96%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3871",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Kennen",
+        "name": "[u.gg] Kennen @ supp, win 54.55%, pick 99",
+        "position": "supp",
+        "pickCount": 99,
+        "winRate": "54.55%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8229,
+          8234,
+          8237,
+          8275,
+          8304,
+          8347,
+          5005,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 136,
+    "id": "85",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 44,
+    "winRate": "52.27%",
+    "timestamp": 1708287146556,
+    "alias": "Kennen",
+    "name": "Kennen",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Kennen @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          85
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Kennen",
+        "name": "[u.gg] Kennen @ adc, win 80.00%, pick 5",
+        "position": "adc",
+        "pickCount": 5,
+        "winRate": "80.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8106,
+          8138,
+          8139,
+          8233,
+          8237,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 136,
+    "id": "85",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 2,
+    "winRate": "0.00%",
+    "timestamp": 1708287146556,
+    "alias": "Kennen",
+    "name": "Kennen",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Kennen @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          85
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2, win 0.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3152",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Kennen",
+        "name": "[u.gg] Kennen @ jungle, win 0.00%, pick 1",
+        "position": "jungle",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8128,
+          8105,
+          8126,
+          8138,
+          8232,
+          8275,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

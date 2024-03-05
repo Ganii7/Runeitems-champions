@@ -1,0 +1,685 @@
+[
+  {
+    "index": 157,
+    "id": "200",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 43667,
+    "winRate": "52.09%",
+    "timestamp": 1708287146556,
+    "alias": "Belveth",
+    "name": "Bel'Veth",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Belveth @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          200
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 15671, win 52.82%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5030, win 55.63%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "6631",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "3302",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "3302",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "3091",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Belveth",
+        "name": "[u.gg] Belveth @ jungle, win 53.62%, pick 2971",
+        "position": "jungle",
+        "pickCount": 2971,
+        "winRate": "53.62%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8010,
+          8014,
+          8105,
+          8138,
+          9104,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 157,
+    "id": "200",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 1011,
+    "winRate": "53.91%",
+    "timestamp": 1708287146556,
+    "alias": "Belveth",
+    "name": "Bel'Veth",
+    "position": "top",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Belveth @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          200
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 884, win 54.52%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 41, win 63.41%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6672",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3084",
+                "count": 1
+              },
+              {
+                "id": "6631",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3748",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Belveth",
+        "name": "[u.gg] Belveth @ top, win 73.68%, pick 38",
+        "position": "top",
+        "pickCount": 38,
+        "winRate": "73.68%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8010,
+          8014,
+          8224,
+          8237,
+          9104,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 157,
+    "id": "200",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 476,
+    "winRate": "53.36%",
+    "timestamp": 1708287146556,
+    "alias": "Belveth",
+    "name": "Bel'Veth",
+    "position": "mid",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Belveth @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          200
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 166, win 54.22%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 15, win 73.33%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3124",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3124",
+                "count": 1
+              },
+              {
+                "id": "8020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3181",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Belveth",
+        "name": "[u.gg] Belveth @ mid, win 56.15%, pick 130",
+        "position": "mid",
+        "pickCount": 130,
+        "winRate": "56.15%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8010,
+          8014,
+          8135,
+          8143,
+          9104,
+          9111,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 157,
+    "id": "200",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 469,
+    "winRate": "48.40%",
+    "timestamp": 1708287146556,
+    "alias": "Belveth",
+    "name": "Bel'Veth",
+    "position": "supp",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Belveth @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          200
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 59, win 55.93%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 29, win 62.07%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3071",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3002",
+                "count": 1
+              },
+              {
+                "id": "6672",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3002",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Belveth",
+        "name": "[u.gg] Belveth @ supp, win 62.00%, pick 100",
+        "position": "supp",
+        "pickCount": 100,
+        "winRate": "62.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8005,
+          8014,
+          8135,
+          8143,
+          9105,
+          9111,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 157,
+    "id": "200",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 25,
+    "winRate": "52.00%",
+    "timestamp": 1708287146556,
+    "alias": "Belveth",
+    "name": "Bel'Veth",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Belveth @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          200
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 13, win 76.92%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6631",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "6675",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "3071",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Belveth",
+        "name": "[u.gg] Belveth @ adc, win 85.71%, pick 7",
+        "position": "adc",
+        "pickCount": 7,
+        "winRate": "85.71%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8010,
+          8299,
+          8444,
+          8453,
+          9104,
+          9111,
+          5005,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

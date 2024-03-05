@@ -1,0 +1,668 @@
+[
+  {
+    "index": 76,
+    "id": "427",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 16321,
+    "winRate": "51.34%",
+    "timestamp": 1708287146556,
+    "alias": "Ivern",
+    "name": "Ivern",
+    "position": "jungle",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Ivern @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          427
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 6679, win 52.78%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 4790, win 52.86%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6616",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "4005",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Ivern",
+        "name": "[u.gg] Ivern @ jungle, win 51.73%, pick 5476",
+        "position": "jungle",
+        "pickCount": 5476,
+        "winRate": "51.73%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8214,
+          8105,
+          8138,
+          8210,
+          8232,
+          8275,
+          5007,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "id": "427",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 796,
+    "winRate": "52.26%",
+    "timestamp": 1708287146556,
+    "alias": "Ivern",
+    "name": "Ivern",
+    "position": "supp",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Ivern @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          427
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 702, win 52.56%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 236, win 55.08%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3870",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6616",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              },
+              {
+                "id": "3222",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "4643",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Ivern",
+        "name": "[u.gg] Ivern @ supp, win 54.49%, pick 167",
+        "position": "supp",
+        "pickCount": 167,
+        "winRate": "54.49%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8237,
+          8453,
+          8463,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "id": "427",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 231,
+    "winRate": "54.98%",
+    "timestamp": 1708287146556,
+    "alias": "Ivern",
+    "name": "Ivern",
+    "position": "mid",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Ivern @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          427
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 40, win 62.50%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1082",
+                "count": 1
+              },
+              {
+                "id": "2031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 17, win 76.47%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3222",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3109",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Ivern",
+        "name": "[u.gg] Ivern @ mid, win 73.08%, pick 26",
+        "position": "mid",
+        "pickCount": 26,
+        "winRate": "73.08%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8236,
+          8444,
+          8453,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "id": "427",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 159,
+    "winRate": "47.17%",
+    "timestamp": 1708287146556,
+    "alias": "Ivern",
+    "name": "Ivern",
+    "position": "top",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Ivern @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          427
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 29, win 55.17%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1101",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 7, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              },
+              {
+                "id": "3870",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Ivern",
+        "name": "[u.gg] Ivern @ top, win 69.23%, pick 13",
+        "position": "top",
+        "pickCount": 13,
+        "winRate": "69.23%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8128,
+          8106,
+          8126,
+          8138,
+          8306,
+          8347,
+          5007,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 76,
+    "id": "427",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 35,
+    "winRate": "34.29%",
+    "timestamp": 1708287146556,
+    "alias": "Ivern",
+    "name": "Ivern",
+    "position": "adc",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Ivern @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          427
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 21, win 52.38%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "4005",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3190",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Ivern",
+        "name": "[u.gg] Ivern @ adc, win 75.00%, pick 4",
+        "position": "adc",
+        "pickCount": 4,
+        "winRate": "75.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8232,
+          8275,
+          8321,
+          8347,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,689 @@
+[
+  {
+    "index": 158,
+    "id": "126",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 26296,
+    "winRate": "47.43%",
+    "timestamp": 1708287146556,
+    "alias": "Jayce",
+    "name": "Jayce",
+    "position": "top",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jayce @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          126
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 23232, win 47.69%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 4201, win 49.70%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3004",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6692",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jayce",
+        "name": "[u.gg] Jayce @ top, win 48.17%, pick 7175",
+        "position": "top",
+        "pickCount": 7175,
+        "winRate": "48.17%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8230,
+          8226,
+          8233,
+          8236,
+          8304,
+          8345,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 158,
+    "id": "126",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 10338,
+    "winRate": "47.54%",
+    "timestamp": 1708287146556,
+    "alias": "Jayce",
+    "name": "Jayce",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jayce @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          126
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 8766, win 47.78%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 625, win 52.16%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3004",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jayce",
+        "name": "[u.gg] Jayce @ mid, win 54.70%, pick 468",
+        "position": "mid",
+        "pickCount": 468,
+        "winRate": "54.70%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8230,
+          8226,
+          8233,
+          8237,
+          8304,
+          8345,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 158,
+    "id": "126",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 99,
+    "winRate": "45.45%",
+    "timestamp": 1708287146556,
+    "alias": "Jayce",
+    "name": "Jayce",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jayce @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          126
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 81, win 51.85%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 29, win 62.07%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3004",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "6692",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6695",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6694",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jayce",
+        "name": "[u.gg] Jayce @ adc, win 61.11%, pick 18",
+        "position": "adc",
+        "pickCount": 18,
+        "winRate": "61.11%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8369,
+          8210,
+          8226,
+          8304,
+          8345,
+          8347,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 158,
+    "id": "126",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 68,
+    "winRate": "47.06%",
+    "timestamp": 1708287146556,
+    "alias": "Jayce",
+    "name": "Jayce",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jayce @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          126
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 7, win 71.43%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 7, win 71.43%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3004",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "6609",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6697",
+                "count": 1
+              },
+              {
+                "id": "6695",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3179",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jayce",
+        "name": "[u.gg] Jayce @ supp, win 100.00%, pick 2",
+        "position": "supp",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8230,
+          8226,
+          8233,
+          8236,
+          8345,
+          8347,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 158,
+    "id": "126",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 44,
+    "winRate": "29.55%",
+    "timestamp": 1708287146556,
+    "alias": "Jayce",
+    "name": "Jayce",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jayce @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          126
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 33, win 33.33%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1101",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6697",
+                "count": 1
+              },
+              {
+                "id": "6694",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6695",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3179",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jayce",
+        "name": "[u.gg] Jayce @ jungle, win 66.67%, pick 3",
+        "position": "jungle",
+        "pickCount": 3,
+        "winRate": "66.67%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8369,
+          8210,
+          8226,
+          8304,
+          8345,
+          8347,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

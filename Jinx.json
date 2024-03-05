@@ -1,0 +1,676 @@
+[
+  {
+    "index": 5,
+    "id": "222",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 42289,
+    "winRate": "50.71%",
+    "timestamp": 1708287146556,
+    "alias": "Jinx",
+    "name": "Jinx",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jinx @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          222
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 39458, win 50.90%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 12728, win 53.43%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3094",
+                "count": 1
+              },
+              {
+                "id": "3085",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "3072",
+                "count": 1
+              },
+              {
+                "id": "3094",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3072",
+                "count": 1
+              },
+              {
+                "id": "6673",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jinx",
+        "name": "[u.gg] Jinx @ adc, win 52.35%, pick 4791",
+        "position": "adc",
+        "pickCount": 4791,
+        "winRate": "52.35%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8008,
+          8009,
+          8017,
+          8233,
+          8236,
+          9103,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "id": "222",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 274,
+    "winRate": "55.11%",
+    "timestamp": 1708287146556,
+    "alias": "Jinx",
+    "name": "Jinx",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jinx @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          222
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 115, win 59.13%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1036",
+                "count": 1
+              },
+              {
+                "id": "2031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 30, win 63.33%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3072",
+                "count": 1
+              },
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3094",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3072",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6696",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jinx",
+        "name": "[u.gg] Jinx @ mid, win 62.32%, pick 69",
+        "position": "mid",
+        "pickCount": 69,
+        "winRate": "62.32%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8008,
+          8014,
+          8105,
+          8138,
+          9104,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "id": "222",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 38,
+    "winRate": "39.47%",
+    "timestamp": 1708287146556,
+    "alias": "Jinx",
+    "name": "Jinx",
+    "position": "top",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jinx @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          222
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1083",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3072",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jinx",
+        "name": "[u.gg] Jinx @ top, win 100.00%, pick 2",
+        "position": "top",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8008,
+          8009,
+          8014,
+          8135,
+          8139,
+          9103,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "id": "222",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 34,
+    "winRate": "41.18%",
+    "timestamp": 1708287146556,
+    "alias": "Jinx",
+    "name": "Jinx",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jinx @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          222
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1083",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 60.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3094",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3085",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3072",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jinx",
+        "name": "[u.gg] Jinx @ supp, win 63.64%, pick 11",
+        "position": "supp",
+        "pickCount": 11,
+        "winRate": "63.64%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8008,
+          8009,
+          8014,
+          8233,
+          8236,
+          9103,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "id": "222",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 11,
+    "winRate": "45.45%",
+    "timestamp": 1708287146556,
+    "alias": "Jinx",
+    "name": "Jinx",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Jinx @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          222
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 5, win 80.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1036",
+                "count": 1
+              },
+              {
+                "id": "2031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "3072",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "3085",
+                "count": 1
+              },
+              {
+                "id": "3072",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Jinx",
+        "name": "[u.gg] Jinx @ jungle, win 75.00%, pick 4",
+        "position": "jungle",
+        "pickCount": 4,
+        "winRate": "75.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8008,
+          8014,
+          8105,
+          8138,
+          9104,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

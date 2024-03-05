@@ -1,0 +1,697 @@
+[
+  {
+    "index": 54,
+    "id": "555",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 58898,
+    "winRate": "51.21%",
+    "timestamp": 1708287146556,
+    "alias": "Pyke",
+    "name": "Pyke",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Pyke @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          555
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 52854, win 51.24%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 14825, win 52.46%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3117",
+                "count": 1
+              },
+              {
+                "id": "3179",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Pyke",
+        "name": "[u.gg] Pyke @ supp, win 53.27%, pick 4483",
+        "position": "supp",
+        "pickCount": 4483,
+        "winRate": "53.27%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          9923,
+          8105,
+          8126,
+          8136,
+          8242,
+          8473,
+          5008,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "id": "555",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 1818,
+    "winRate": "50.17%",
+    "timestamp": 1708287146556,
+    "alias": "Pyke",
+    "name": "Pyke",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Pyke @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          555
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1341, win 51.23%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 208, win 56.25%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6698",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6696",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Pyke",
+        "name": "[u.gg] Pyke @ mid, win 51.89%, pick 503",
+        "position": "mid",
+        "pickCount": 503,
+        "winRate": "51.89%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          9923,
+          8106,
+          8126,
+          8138,
+          8242,
+          8444,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "id": "555",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 191,
+    "winRate": "51.31%",
+    "timestamp": 1708287146556,
+    "alias": "Pyke",
+    "name": "Pyke",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Pyke @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          555
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 73, win 57.53%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6698",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6699",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6696",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6696",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Pyke",
+        "name": "[u.gg] Pyke @ adc, win 83.33%, pick 6",
+        "position": "adc",
+        "pickCount": 6,
+        "winRate": "83.33%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          9923,
+          8106,
+          8138,
+          8143,
+          8304,
+          8347,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "id": "555",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 136,
+    "winRate": "45.59%",
+    "timestamp": 1708287146556,
+    "alias": "Pyke",
+    "name": "Pyke",
+    "position": "top",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Pyke @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          555
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 92, win 46.74%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 17, win 64.71%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6698",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6696",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "6699",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "6697",
+                "count": 1
+              },
+              {
+                "id": "3033",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Pyke",
+        "name": "[u.gg] Pyke @ top, win 57.14%, pick 35",
+        "position": "top",
+        "pickCount": 35,
+        "winRate": "57.14%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          9923,
+          8105,
+          8126,
+          8138,
+          8304,
+          8316,
+          5005,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 54,
+    "id": "555",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 44,
+    "winRate": "40.91%",
+    "timestamp": 1708287146556,
+    "alias": "Pyke",
+    "name": "Pyke",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Pyke @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          555
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 18, win 66.67%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1101",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 7, win 71.43%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6698",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "6699",
+                "count": 1
+              },
+              {
+                "id": "6694",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Pyke",
+        "name": "[u.gg] Pyke @ jungle, win 78.57%, pick 14",
+        "position": "jungle",
+        "pickCount": 14,
+        "winRate": "78.57%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          9923,
+          8135,
+          8138,
+          8143,
+          9104,
+          9111,
+          5005,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

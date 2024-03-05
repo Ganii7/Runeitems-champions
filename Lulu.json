@@ -1,0 +1,663 @@
+[
+  {
+    "index": 134,
+    "id": "117",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 32242,
+    "winRate": "47.38%",
+    "timestamp": 1708287146556,
+    "alias": "Lulu",
+    "name": "Lulu",
+    "position": "supp",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Lulu @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          117
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 31572, win 47.42%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3033, win 52.59%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3870",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "2065",
+                "count": 1
+              },
+              {
+                "id": "3222",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "3222",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "3222",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Lulu",
+        "name": "[u.gg] Lulu @ supp, win 50.64%, pick 2200",
+        "position": "supp",
+        "pickCount": 2200,
+        "winRate": "50.64%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8237,
+          8453,
+          8463,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 134,
+    "id": "117",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 227,
+    "winRate": "43.17%",
+    "timestamp": 1708287146556,
+    "alias": "Lulu",
+    "name": "Lulu",
+    "position": "mid",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Lulu @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          117
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 182, win 45.05%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 13, win 61.54%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "2065",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6616",
+                "count": 1
+              },
+              {
+                "id": "4629",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6616",
+                "count": 1
+              },
+              {
+                "id": "4005",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3109",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Lulu",
+        "name": "[u.gg] Lulu @ mid, win 47.92%, pick 48",
+        "position": "mid",
+        "pickCount": 48,
+        "winRate": "47.92%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8237,
+          8453,
+          8473,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 134,
+    "id": "117",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 139,
+    "winRate": "45.32%",
+    "timestamp": 1708287146556,
+    "alias": "Lulu",
+    "name": "Lulu",
+    "position": "top",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Lulu @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          117
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 49, win 57.14%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "2033",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "2065",
+                "count": 1
+              },
+              {
+                "id": "3222",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "6621",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Lulu",
+        "name": "[u.gg] Lulu @ top, win 60.47%, pick 43",
+        "position": "top",
+        "pickCount": 43,
+        "winRate": "60.47%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8237,
+          8345,
+          8352,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 134,
+    "id": "117",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 87,
+    "winRate": "54.02%",
+    "timestamp": 1708287146556,
+    "alias": "Lulu",
+    "name": "Lulu",
+    "position": "adc",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Lulu @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          117
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 73, win 56.16%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 8, win 75.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3870",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "2065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3222",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              },
+              {
+                "id": "3222",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "4643",
+                "count": 1
+              },
+              {
+                "id": "3222",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Lulu",
+        "name": "[u.gg] Lulu @ adc, win 77.78%, pick 18",
+        "position": "adc",
+        "pickCount": 18,
+        "winRate": "77.78%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8237,
+          8453,
+          8473,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 134,
+    "id": "117",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 11,
+    "winRate": "9.09%",
+    "timestamp": 1708287146556,
+    "alias": "Lulu",
+    "name": "Lulu",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Lulu @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          117
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 3, win 33.33%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1103",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3117",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6616",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Lulu",
+        "name": "[u.gg] Lulu @ jungle, win 100.00%, pick 1",
+        "position": "jungle",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
+          8232,
+          8234,
+          8275,
+          8429,
+          8451,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

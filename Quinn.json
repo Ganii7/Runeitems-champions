@@ -1,0 +1,693 @@
+[
+  {
+    "index": 80,
+    "id": "133",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 8658,
+    "winRate": "50.89%",
+    "timestamp": 1708287146556,
+    "alias": "Quinn",
+    "name": "Quinn",
+    "position": "top",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Quinn @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          133
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 6458, win 51.11%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 626, win 53.67%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3095",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "6699",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Quinn",
+        "name": "[u.gg] Quinn @ top, win 54.48%, pick 536",
+        "position": "top",
+        "pickCount": 536,
+        "winRate": "54.48%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8021,
+          8009,
+          8014,
+          8451,
+          8473,
+          9104,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "id": "133",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 1672,
+    "winRate": "54.19%",
+    "timestamp": 1708287146556,
+    "alias": "Quinn",
+    "name": "Quinn",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Quinn @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          133
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1318, win 53.95%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 11, win 90.91%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "6699",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6697",
+                "count": 1
+              },
+              {
+                "id": "6699",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Quinn",
+        "name": "[u.gg] Quinn @ mid, win 59.63%, pick 109",
+        "position": "mid",
+        "pickCount": 109,
+        "winRate": "59.63%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8005,
+          8014,
+          8138,
+          8143,
+          9104,
+          9111,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "id": "133",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 204,
+    "winRate": "51.96%",
+    "timestamp": 1708287146556,
+    "alias": "Quinn",
+    "name": "Quinn",
+    "position": "adc",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Quinn @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          133
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 180, win 52.78%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 14, win 71.43%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "3046",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3072",
+                "count": 1
+              },
+              {
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Quinn",
+        "name": "[u.gg] Quinn @ adc, win 68.18%, pick 22",
+        "position": "adc",
+        "pickCount": 22,
+        "winRate": "68.18%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8005,
+          8017,
+          8444,
+          8451,
+          9104,
+          9111,
+          5005,
+          5010,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "id": "133",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 138,
+    "winRate": "50.72%",
+    "timestamp": 1708287146556,
+    "alias": "Quinn",
+    "name": "Quinn",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Quinn @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          133
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 19, win 57.89%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 6, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "3142",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6698",
+                "count": 1
+              },
+              {
+                "id": "6697",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "6694",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3095",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Quinn",
+        "name": "[u.gg] Quinn @ supp, win 83.33%, pick 6",
+        "position": "supp",
+        "pickCount": 6,
+        "winRate": "83.33%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8112,
+          8135,
+          8138,
+          8143,
+          8233,
+          8236,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 80,
+    "id": "133",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 65,
+    "winRate": "40.00%",
+    "timestamp": 1708287146556,
+    "alias": "Quinn",
+    "name": "Quinn",
+    "position": "jungle",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Quinn @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          133
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 20, win 50.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6699",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3095",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "6698",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Quinn",
+        "name": "[u.gg] Quinn @ jungle, win 100.00%, pick 4",
+        "position": "jungle",
+        "pickCount": 4,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8021,
+          8014,
+          8135,
+          8143,
+          9101,
+          9104,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

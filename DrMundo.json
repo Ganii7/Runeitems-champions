@@ -1,0 +1,676 @@
+[
+  {
+    "index": 83,
+    "id": "36",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 12503,
+    "winRate": "49.91%",
+    "timestamp": 1708287146556,
+    "alias": "DrMundo",
+    "name": "Dr. Mundo",
+    "position": "top",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] DrMundo @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          36
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 11622, win 50.20%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1494, win 54.48%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3084",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "3068",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "2502",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "DrMundo",
+        "name": "[u.gg] DrMundo @ top, win 50.79%, pick 8053",
+        "position": "top",
+        "pickCount": 8053,
+        "winRate": "50.79%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8437,
+          8304,
+          8410,
+          8444,
+          8446,
+          8451,
+          5005,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "id": "36",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 501,
+    "winRate": "42.71%",
+    "timestamp": 1708287146556,
+    "alias": "DrMundo",
+    "name": "Dr. Mundo",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] DrMundo @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          36
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 33, win 66.67%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1103",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 9, win 66.67%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3084",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3068",
+                "count": 1
+              },
+              {
+                "id": "6664",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "2502",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3742",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "DrMundo",
+        "name": "[u.gg] DrMundo @ jungle, win 49.35%, pick 77",
+        "position": "jungle",
+        "pickCount": 77,
+        "winRate": "49.35%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8021,
+          8299,
+          8304,
+          8410,
+          9104,
+          9111,
+          5008,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "id": "36",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 221,
+    "winRate": "43.89%",
+    "timestamp": 1708287146556,
+    "alias": "DrMundo",
+    "name": "Dr. Mundo",
+    "position": "mid",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] DrMundo @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          36
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 210, win 44.76%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 15, win 60.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3084",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "3068",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "2502",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "2502",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "DrMundo",
+        "name": "[u.gg] DrMundo @ mid, win 48.06%, pick 129",
+        "position": "mid",
+        "pickCount": 129,
+        "winRate": "48.06%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8437,
+          8304,
+          8410,
+          8444,
+          8446,
+          8451,
+          5005,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "id": "36",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 102,
+    "winRate": "43.14%",
+    "timestamp": 1708287146556,
+    "alias": "DrMundo",
+    "name": "Dr. Mundo",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] DrMundo @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          36
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 88, win 44.32%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 12, win 58.33%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3876",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "3083",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "8001",
+                "count": 1
+              },
+              {
+                "id": "3002",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "8020",
+                "count": 1
+              },
+              {
+                "id": "3222",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "DrMundo",
+        "name": "[u.gg] DrMundo @ supp, win 61.11%, pick 18",
+        "position": "supp",
+        "pickCount": 18,
+        "winRate": "61.11%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8465,
+          8304,
+          8410,
+          8444,
+          8451,
+          8463,
+          5007,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 83,
+    "id": "36",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 33,
+    "winRate": "33.33%",
+    "timestamp": 1708287146556,
+    "alias": "DrMundo",
+    "name": "Dr. Mundo",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] DrMundo @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          36
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1028",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "3068",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3748",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4401",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "DrMundo",
+        "name": "[u.gg] DrMundo @ adc, win 100.00%, pick 3",
+        "position": "adc",
+        "pickCount": 3,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8437,
+          8299,
+          8444,
+          8446,
+          8451,
+          9111,
+          5005,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

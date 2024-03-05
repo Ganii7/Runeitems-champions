@@ -1,0 +1,705 @@
+[
+  {
+    "index": 120,
+    "id": "5",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 42806,
+    "winRate": "50.35%",
+    "timestamp": 1708287146556,
+    "alias": "XinZhao",
+    "name": "Xin Zhao",
+    "position": "jungle",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] XinZhao @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          5
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 10498, win 51.06%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5630, win 55.52%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3091",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "3026",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "XinZhao",
+        "name": "[u.gg] XinZhao @ jungle, win 53.58%, pick 1859",
+        "position": "jungle",
+        "pickCount": 1859,
+        "winRate": "53.58%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8008,
+          8299,
+          8304,
+          8347,
+          9104,
+          9111,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 120,
+    "id": "5",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 1888,
+    "winRate": "47.19%",
+    "timestamp": 1708287146556,
+    "alias": "XinZhao",
+    "name": "Xin Zhao",
+    "position": "top",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] XinZhao @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          5
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1518, win 47.63%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 48, win 68.75%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3161",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "3033",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "XinZhao",
+        "name": "[u.gg] XinZhao @ top, win 51.77%, pick 226",
+        "position": "top",
+        "pickCount": 226,
+        "winRate": "51.77%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8008,
+          8299,
+          8304,
+          8321,
+          9104,
+          9111,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 120,
+    "id": "5",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 809,
+    "winRate": "51.92%",
+    "timestamp": 1708287146556,
+    "alias": "XinZhao",
+    "name": "Xin Zhao",
+    "position": "mid",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] XinZhao @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          5
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 54, win 59.26%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 8, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "3004",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6697",
+                "count": 1
+              },
+              {
+                "id": "3071",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              },
+              {
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "XinZhao",
+        "name": "[u.gg] XinZhao @ mid, win 59.68%, pick 62",
+        "position": "mid",
+        "pickCount": 62,
+        "winRate": "59.68%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          9923,
+          8135,
+          8138,
+          8143,
+          8444,
+          8453,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 120,
+    "id": "5",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 247,
+    "winRate": "51.42%",
+    "timestamp": 1708287146556,
+    "alias": "XinZhao",
+    "name": "Xin Zhao",
+    "position": "supp",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] XinZhao @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          5
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 213, win 52.11%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3748",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3053",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "8020",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "XinZhao",
+        "name": "[u.gg] XinZhao @ supp, win 61.97%, pick 71",
+        "position": "supp",
+        "pickCount": 71,
+        "winRate": "61.97%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          9923,
+          8105,
+          8138,
+          8143,
+          9104,
+          9111,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 120,
+    "id": "5",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 60,
+    "winRate": "53.33%",
+    "timestamp": 1708287146556,
+    "alias": "XinZhao",
+    "name": "Xin Zhao",
+    "position": "adc",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] XinZhao @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          5
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 54, win 55.56%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3508",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6695",
+                "count": 1
+              },
+              {
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "4633",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "XinZhao",
+        "name": "[u.gg] XinZhao @ adc, win 64.71%, pick 17",
+        "position": "adc",
+        "pickCount": 17,
+        "winRate": "64.71%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          9923,
+          8134,
+          8138,
+          8143,
+          8304,
+          8345,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]

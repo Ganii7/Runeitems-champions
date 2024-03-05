@@ -1,0 +1,638 @@
+[
+  {
+    "index": 156,
+    "id": "412",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 49978,
+    "winRate": "48.60%",
+    "timestamp": 1708287146556,
+    "alias": "Thresh",
+    "name": "Thresh",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Thresh @ supp, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          412
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 48818, win 48.66%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5049, win 51.42%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3876",
+                "count": 1
+              },
+              {
+                "id": "3117",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3109",
+                "count": 1
+              },
+              {
+                "id": "3050",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3109",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3050",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3109",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Thresh",
+        "name": "[u.gg] Thresh @ supp, win 53.48%, pick 1122",
+        "position": "supp",
+        "pickCount": 1122,
+        "winRate": "53.48%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8351,
+          8242,
+          8306,
+          8345,
+          8347,
+          8444,
+          5007,
+          5010,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 156,
+    "id": "412",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 112,
+    "winRate": "39.29%",
+    "timestamp": 1708287146556,
+    "alias": "Thresh",
+    "name": "Thresh",
+    "position": "top",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Thresh @ top, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          412
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 5, win 60.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1083",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3087",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "3094",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "8020",
+                "count": 1
+              },
+              {
+                "id": "6675",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6664",
+                "count": 1
+              },
+              {
+                "id": "6662",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Thresh",
+        "name": "[u.gg] Thresh @ top, win 100.00%, pick 6",
+        "position": "top",
+        "pickCount": 6,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8351,
+          8304,
+          8345,
+          8347,
+          8429,
+          8451,
+          5005,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 156,
+    "id": "412",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 33,
+    "winRate": "30.30%",
+    "timestamp": 1708287146556,
+    "alias": "Thresh",
+    "name": "Thresh",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Thresh @ adc, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          412
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "3742",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "6664",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3109",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Thresh",
+        "name": "[u.gg] Thresh @ adc, win 100.00%, pick 2",
+        "position": "adc",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8439,
+          8242,
+          8345,
+          8347,
+          8463,
+          8473,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 156,
+    "id": "412",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 25,
+    "winRate": "16.00%",
+    "timestamp": 1708287146556,
+    "alias": "Thresh",
+    "name": "Thresh",
+    "position": "mid",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Thresh @ mid, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          412
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 6, win 33.33%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "6664",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3109",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3050",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Thresh",
+        "name": "[u.gg] Thresh @ mid, win 100.00%, pick 1",
+        "position": "mid",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8439,
+          8210,
+          8226,
+          8444,
+          8451,
+          8463,
+          5007,
+          5010,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 156,
+    "id": "412",
+    "version": "14.3.1",
+    "officialVersion": "14.3.1",
+    "pickCount": 10,
+    "winRate": "40.00%",
+    "timestamp": 1708287146556,
+    "alias": "Thresh",
+    "name": "Thresh",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Thresh @ jungle, 14.3.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          412
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 9, win 44.44%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1103",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6664",
+                "count": 1
+              },
+              {
+                "id": "3117",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Thresh",
+        "name": "[u.gg] Thresh @ jungle, win 100.00%, pick 2",
+        "position": "jungle",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8439,
+          8242,
+          8313,
+          8345,
+          8463,
+          8473,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  }
+]
