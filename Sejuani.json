@@ -1,12 +1,12 @@
 [
   {
-    "index": 66,
+    "index": 15,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9265,
     "winRate": "45.89%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sejuani",
     "name": "Sejuani",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ jungle, 14.4.1",
+        "title": "[u.gg] Sejuani @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 15,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 862,
     "winRate": "48.61%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sejuani",
     "name": "Sejuani",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ top, 14.4.1",
+        "title": "[u.gg] Sejuani @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 15,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 156,
     "winRate": "45.51%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sejuani",
     "name": "Sejuani",
     "position": "supp",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ supp, 14.4.1",
+        "title": "[u.gg] Sejuani @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 15,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 138,
     "winRate": "45.65%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sejuani",
     "name": "Sejuani",
     "position": "mid",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ mid, 14.4.1",
+        "title": "[u.gg] Sejuani @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -556,13 +556,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 15,
     "id": "113",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 15,
     "winRate": "33.33%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sejuani",
     "name": "Sejuani",
     "position": "adc",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sejuani @ adc, 14.4.1",
+        "title": "[u.gg] Sejuani @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

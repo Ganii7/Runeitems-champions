@@ -1,12 +1,12 @@
 [
   {
-    "index": 142,
+    "index": 42,
     "id": "875",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 15717,
     "winRate": "49.88%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sett",
     "name": "Sett",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sett @ top, 14.4.1",
+        "title": "[u.gg] Sett @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 142,
+    "index": 42,
     "id": "875",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 903,
     "winRate": "50.61%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sett",
     "name": "Sett",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sett @ mid, 14.4.1",
+        "title": "[u.gg] Sett @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 142,
+    "index": 42,
     "id": "875",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 889,
     "winRate": "40.38%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sett",
     "name": "Sett",
     "position": "supp",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sett @ supp, 14.4.1",
+        "title": "[u.gg] Sett @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 142,
+    "index": 42,
     "id": "875",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 119,
     "winRate": "50.42%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sett",
     "name": "Sett",
     "position": "adc",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sett @ adc, 14.4.1",
+        "title": "[u.gg] Sett @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -548,13 +548,13 @@
     ]
   },
   {
-    "index": 142,
+    "index": 42,
     "id": "875",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 69,
     "winRate": "39.13%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sett",
     "name": "Sett",
     "position": "jungle",
@@ -566,7 +566,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sett @ jungle, 14.4.1",
+        "title": "[u.gg] Sett @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

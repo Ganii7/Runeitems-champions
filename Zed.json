@@ -1,12 +1,12 @@
 [
   {
-    "index": 19,
+    "index": 162,
     "id": "238",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 37277,
-    "winRate": "49.96%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 52358,
+    "winRate": "49.56%",
+    "timestamp": 1709669544430,
     "alias": "Zed",
     "name": "Zed",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zed @ mid, 14.4.1",
+        "title": "[u.gg] Zed @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11004, win 50.97%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 15571, win 50.28%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1036",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5276, win 52.79%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 7716, win 52.38%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Zed",
-        "name": "[u.gg] Zed @ mid, win 52.81%, pick 3170",
+        "name": "[u.gg] Zed @ mid, win 51.81%, pick 4418",
         "position": "mid",
-        "pickCount": 3170,
-        "winRate": "52.81%",
+        "pickCount": 4418,
+        "winRate": "51.81%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 19,
+    "index": 162,
     "id": "238",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 3998,
-    "winRate": "49.90%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 5623,
+    "winRate": "49.78%",
+    "timestamp": 1709669544430,
     "alias": "Zed",
     "name": "Zed",
     "position": "jungle",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zed @ jungle, 14.4.1",
+        "title": "[u.gg] Zed @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1124, win 51.42%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1540, win 51.30%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1102",
@@ -180,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 362, win 54.42%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 512, win 54.88%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6698",
@@ -255,16 +255,16 @@
     "runes": [
       {
         "alias": "Zed",
-        "name": "[u.gg] Zed @ jungle, win 62.50%, pick 72",
+        "name": "[u.gg] Zed @ jungle, win 52.44%, pick 616",
         "position": "jungle",
-        "pickCount": 72,
-        "winRate": "62.50%",
+        "pickCount": 616,
+        "winRate": "52.44%",
         "primaryStyleId": 8300,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8369,
           8135,
-          8138,
+          8143,
           8304,
           8321,
           8347,
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 19,
+    "index": 162,
     "id": "238",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 1413,
-    "winRate": "48.34%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 2021,
+    "winRate": "48.59%",
+    "timestamp": 1709669544430,
     "alias": "Zed",
     "name": "Zed",
     "position": "top",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zed @ top, 14.4.1",
+        "title": "[u.gg] Zed @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 471, win 52.87%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 716, win 51.40%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1036",
@@ -319,7 +319,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 166, win 56.02%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 253, win 53.36%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
@@ -356,7 +356,7 @@
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "6698",
                 "count": 1
               },
               {
@@ -373,11 +373,11 @@
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "3161",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6695",
                 "count": 1
               }
             ]
@@ -394,10 +394,10 @@
     "runes": [
       {
         "alias": "Zed",
-        "name": "[u.gg] Zed @ top, win 69.23%, pick 26",
+        "name": "[u.gg] Zed @ top, win 64.10%, pick 39",
         "position": "top",
-        "pickCount": 26,
-        "winRate": "69.23%",
+        "pickCount": 39,
+        "winRate": "64.10%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -407,9 +407,9 @@
           8143,
           8313,
           8321,
+          5005,
           5008,
-          5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 19,
+    "index": 162,
     "id": "238",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 98,
-    "winRate": "38.78%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 135,
+    "winRate": "38.52%",
+    "timestamp": 1709669544430,
     "alias": "Zed",
     "name": "Zed",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zed @ supp, 14.4.1",
+        "title": "[u.gg] Zed @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -458,14 +458,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 22, win 45.45%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "6699",
                 "count": 1
               },
               {
@@ -482,7 +482,7 @@
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -495,11 +495,11 @@
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "6695",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -512,11 +512,11 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -533,9 +533,9 @@
     "runes": [
       {
         "alias": "Zed",
-        "name": "[u.gg] Zed @ supp, win 50.00%, pick 6",
+        "name": "[u.gg] Zed @ supp, win 50.00%, pick 8",
         "position": "supp",
-        "pickCount": 6,
+        "pickCount": 8,
         "winRate": "50.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
@@ -556,13 +556,13 @@
     ]
   },
   {
-    "index": 19,
+    "index": 162,
     "id": "238",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 44,
-    "winRate": "34.09%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 73,
+    "winRate": "34.25%",
+    "timestamp": 1709669544430,
     "alias": "Zed",
     "name": "Zed",
     "position": "adc",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zed @ adc, 14.4.1",
+        "title": "[u.gg] Zed @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -584,7 +584,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 10, win 50.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 15, win 46.67%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -597,7 +597,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 60.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6699",
@@ -608,7 +608,7 @@
                 "count": 1
               },
               {
-                "id": "6698",
+                "id": "6692",
                 "count": 1
               }
             ]
@@ -621,7 +621,7 @@
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "6698",
                 "count": 1
               }
             ]
@@ -634,11 +634,11 @@
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "6698",
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -651,11 +651,11 @@
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "6696",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -672,19 +672,19 @@
     "runes": [
       {
         "alias": "Zed",
-        "name": "[u.gg] Zed @ adc, win 100.00%, pick 1",
+        "name": "[u.gg] Zed @ adc, win 100.00%, pick 2",
         "position": "adc",
-        "pickCount": 1,
+        "pickCount": 2,
         "winRate": "100.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8128,
-          8009,
-          8014,
+          8112,
           8106,
           8138,
           8139,
+          8313,
+          8321,
           5008,
           5008,
           5011

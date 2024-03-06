@@ -1,12 +1,12 @@
 [
   {
-    "index": 132,
+    "index": 65,
     "id": "75",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9922,
     "winRate": "49.08%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nasus",
     "name": "Nasus",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nasus @ top, 14.4.1",
+        "title": "[u.gg] Nasus @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 132,
+    "index": 65,
     "id": "75",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1552,
     "winRate": "46.65%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nasus",
     "name": "Nasus",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nasus @ mid, 14.4.1",
+        "title": "[u.gg] Nasus @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 132,
+    "index": 65,
     "id": "75",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 231,
     "winRate": "41.99%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nasus",
     "name": "Nasus",
     "position": "jungle",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nasus @ jungle, 14.4.1",
+        "title": "[u.gg] Nasus @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -413,13 +413,13 @@
     ]
   },
   {
-    "index": 132,
+    "index": 65,
     "id": "75",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 226,
     "winRate": "41.15%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nasus",
     "name": "Nasus",
     "position": "supp",
@@ -431,7 +431,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nasus @ supp, 14.4.1",
+        "title": "[u.gg] Nasus @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -556,13 +556,13 @@
     ]
   },
   {
-    "index": 132,
+    "index": 65,
     "id": "75",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 47,
     "winRate": "34.04%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nasus",
     "name": "Nasus",
     "position": "adc",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nasus @ adc, 14.4.1",
+        "title": "[u.gg] Nasus @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

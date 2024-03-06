@@ -1,12 +1,12 @@
 [
   {
-    "index": 156,
+    "index": 83,
     "id": "114",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 34094,
     "winRate": "51.98%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fiora @ top, 14.4.1",
+        "title": "[u.gg] Fiora @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 156,
+    "index": 83,
     "id": "114",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 386,
     "winRate": "49.74%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fiora @ mid, 14.4.1",
+        "title": "[u.gg] Fiora @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -274,13 +274,13 @@
     ]
   },
   {
-    "index": 156,
+    "index": 83,
     "id": "114",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 94,
     "winRate": "52.13%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "adc",
@@ -292,7 +292,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fiora @ adc, 14.4.1",
+        "title": "[u.gg] Fiora @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -413,13 +413,13 @@
     ]
   },
   {
-    "index": 156,
+    "index": 83,
     "id": "114",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 68,
     "winRate": "50.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "supp",
@@ -431,7 +431,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fiora @ supp, 14.4.1",
+        "title": "[u.gg] Fiora @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -556,13 +556,13 @@
     ]
   },
   {
-    "index": 156,
+    "index": 83,
     "id": "114",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 7,
     "winRate": "57.14%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "jungle",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fiora @ jungle, 14.4.1",
+        "title": "[u.gg] Fiora @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

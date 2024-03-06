@@ -1,12 +1,12 @@
 [
   {
-    "index": 84,
+    "index": 59,
     "id": "133",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 7172,
     "winRate": "51.84%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Quinn",
     "name": "Quinn",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Quinn @ top, 14.4.1",
+        "title": "[u.gg] Quinn @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 84,
+    "index": 59,
     "id": "133",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1324,
     "winRate": "51.66%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Quinn",
     "name": "Quinn",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Quinn @ mid, 14.4.1",
+        "title": "[u.gg] Quinn @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 84,
+    "index": 59,
     "id": "133",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 276,
     "winRate": "57.97%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Quinn",
     "name": "Quinn",
     "position": "supp",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Quinn @ supp, 14.4.1",
+        "title": "[u.gg] Quinn @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -421,13 +421,13 @@
     ]
   },
   {
-    "index": 84,
+    "index": 59,
     "id": "133",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 113,
     "winRate": "47.79%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Quinn",
     "name": "Quinn",
     "position": "adc",
@@ -439,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Quinn @ adc, 14.4.1",
+        "title": "[u.gg] Quinn @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 84,
+    "index": 59,
     "id": "133",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 97,
     "winRate": "40.21%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Quinn",
     "name": "Quinn",
     "position": "jungle",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Quinn @ jungle, 14.4.1",
+        "title": "[u.gg] Quinn @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

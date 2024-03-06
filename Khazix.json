@@ -1,12 +1,12 @@
 [
   {
-    "index": 157,
+    "index": 144,
     "id": "121",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 46913,
     "winRate": "50.68%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Khazix",
     "name": "Kha'Zix",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Khazix @ jungle, 14.4.1",
+        "title": "[u.gg] Khazix @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 157,
+    "index": 144,
     "id": "121",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 53,
     "winRate": "37.74%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Khazix",
     "name": "Kha'Zix",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Khazix @ top, 14.4.1",
+        "title": "[u.gg] Khazix @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 157,
+    "index": 144,
     "id": "121",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 50,
     "winRate": "38.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Khazix",
     "name": "Kha'Zix",
     "position": "mid",
@@ -300,7 +300,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Khazix @ mid, 14.4.1",
+        "title": "[u.gg] Khazix @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -413,13 +413,13 @@
     ]
   },
   {
-    "index": 157,
+    "index": 144,
     "id": "121",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 16,
     "winRate": "37.50%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Khazix",
     "name": "Kha'Zix",
     "position": "supp",
@@ -431,7 +431,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Khazix @ supp, 14.4.1",
+        "title": "[u.gg] Khazix @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -532,13 +532,13 @@
     ]
   },
   {
-    "index": 157,
+    "index": 144,
     "id": "121",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 4,
     "winRate": "0.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Khazix",
     "name": "Kha'Zix",
     "position": "adc",
@@ -550,7 +550,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Khazix @ adc, 14.4.1",
+        "title": "[u.gg] Khazix @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

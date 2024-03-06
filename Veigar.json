@@ -1,12 +1,12 @@
 [
   {
-    "index": 86,
+    "index": 133,
     "id": "45",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 8659,
     "winRate": "46.76%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Veigar",
     "name": "Veigar",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Veigar @ mid, 14.4.1",
+        "title": "[u.gg] Veigar @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 86,
+    "index": 133,
     "id": "45",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1555,
     "winRate": "52.35%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Veigar",
     "name": "Veigar",
     "position": "adc",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Veigar @ adc, 14.4.1",
+        "title": "[u.gg] Veigar @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 86,
+    "index": 133,
     "id": "45",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 835,
     "winRate": "43.11%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Veigar",
     "name": "Veigar",
     "position": "supp",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Veigar @ supp, 14.4.1",
+        "title": "[u.gg] Veigar @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 86,
+    "index": 133,
     "id": "45",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 291,
     "winRate": "52.92%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Veigar",
     "name": "Veigar",
     "position": "top",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Veigar @ top, 14.4.1",
+        "title": "[u.gg] Veigar @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -572,13 +572,13 @@
     ]
   },
   {
-    "index": 86,
+    "index": 133,
     "id": "45",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2,
     "winRate": "0.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Veigar",
     "name": "Veigar",
     "position": "jungle",
@@ -590,7 +590,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Veigar @ jungle, 14.4.1",
+        "title": "[u.gg] Veigar @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

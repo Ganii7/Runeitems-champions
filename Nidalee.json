@@ -1,12 +1,12 @@
 [
   {
-    "index": 146,
+    "index": 154,
     "id": "76",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 48146,
     "winRate": "53.58%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nidalee",
     "name": "Nidalee",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nidalee @ jungle, 14.4.1",
+        "title": "[u.gg] Nidalee @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 146,
+    "index": 154,
     "id": "76",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 941,
     "winRate": "52.71%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nidalee",
     "name": "Nidalee",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nidalee @ top, 14.4.1",
+        "title": "[u.gg] Nidalee @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 146,
+    "index": 154,
     "id": "76",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 837,
     "winRate": "50.78%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nidalee",
     "name": "Nidalee",
     "position": "supp",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nidalee @ supp, 14.4.1",
+        "title": "[u.gg] Nidalee @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -421,13 +421,13 @@
     ]
   },
   {
-    "index": 146,
+    "index": 154,
     "id": "76",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 218,
     "winRate": "53.67%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nidalee",
     "name": "Nidalee",
     "position": "mid",
@@ -439,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nidalee @ mid, 14.4.1",
+        "title": "[u.gg] Nidalee @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 146,
+    "index": 154,
     "id": "76",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 17,
     "winRate": "41.18%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Nidalee",
     "name": "Nidalee",
     "position": "adc",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Nidalee @ adc, 14.4.1",
+        "title": "[u.gg] Nidalee @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

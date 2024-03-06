@@ -1,12 +1,12 @@
 [
   {
-    "index": 102,
+    "index": 7,
     "id": "90",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9524,
     "winRate": "48.12%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Malzahar",
     "name": "Malzahar",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Malzahar @ mid, 14.4.1",
+        "title": "[u.gg] Malzahar @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 102,
+    "index": 7,
     "id": "90",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 514,
     "winRate": "48.25%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Malzahar",
     "name": "Malzahar",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Malzahar @ top, 14.4.1",
+        "title": "[u.gg] Malzahar @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 102,
+    "index": 7,
     "id": "90",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 112,
     "winRate": "44.64%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Malzahar",
     "name": "Malzahar",
     "position": "supp",
@@ -300,7 +300,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Malzahar @ supp, 14.4.1",
+        "title": "[u.gg] Malzahar @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -421,13 +421,13 @@
     ]
   },
   {
-    "index": 102,
+    "index": 7,
     "id": "90",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 103,
     "winRate": "38.83%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Malzahar",
     "name": "Malzahar",
     "position": "adc",
@@ -439,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Malzahar @ adc, 14.4.1",
+        "title": "[u.gg] Malzahar @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 102,
+    "index": 7,
     "id": "90",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 17,
     "winRate": "35.29%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Malzahar",
     "name": "Malzahar",
     "position": "jungle",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Malzahar @ jungle, 14.4.1",
+        "title": "[u.gg] Malzahar @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

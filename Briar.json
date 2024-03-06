@@ -1,12 +1,12 @@
 [
   {
-    "index": 68,
+    "index": 19,
     "id": "233",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 22961,
     "winRate": "49.51%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Briar",
     "name": "Briar",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Briar @ jungle, 14.4.1",
+        "title": "[u.gg] Briar @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 68,
+    "index": 19,
     "id": "233",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2446,
     "winRate": "50.08%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Briar",
     "name": "Briar",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Briar @ top, 14.4.1",
+        "title": "[u.gg] Briar @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 68,
+    "index": 19,
     "id": "233",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 548,
     "winRate": "51.46%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Briar",
     "name": "Briar",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Briar @ mid, 14.4.1",
+        "title": "[u.gg] Briar @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 68,
+    "index": 19,
     "id": "233",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 133,
     "winRate": "45.11%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Briar",
     "name": "Briar",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Briar @ supp, 14.4.1",
+        "title": "[u.gg] Briar @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 68,
+    "index": 19,
     "id": "233",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 21,
     "winRate": "33.33%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Briar",
     "name": "Briar",
     "position": "adc",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Briar @ adc, 14.4.1",
+        "title": "[u.gg] Briar @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

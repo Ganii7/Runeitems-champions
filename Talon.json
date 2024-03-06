@@ -1,12 +1,12 @@
 [
   {
-    "index": 149,
+    "index": 54,
     "id": "91",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 17684,
     "winRate": "50.77%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Talon",
     "name": "Talon",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Talon @ mid, 14.4.1",
+        "title": "[u.gg] Talon @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 149,
+    "index": 54,
     "id": "91",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9587,
     "winRate": "50.30%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Talon",
     "name": "Talon",
     "position": "jungle",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Talon @ jungle, 14.4.1",
+        "title": "[u.gg] Talon @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -274,13 +274,13 @@
     ]
   },
   {
-    "index": 149,
+    "index": 54,
     "id": "91",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 328,
     "winRate": "50.30%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Talon",
     "name": "Talon",
     "position": "top",
@@ -292,7 +292,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Talon @ top, 14.4.1",
+        "title": "[u.gg] Talon @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -413,13 +413,13 @@
     ]
   },
   {
-    "index": 149,
+    "index": 54,
     "id": "91",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 41,
     "winRate": "46.34%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Talon",
     "name": "Talon",
     "position": "adc",
@@ -431,7 +431,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Talon @ adc, 14.4.1",
+        "title": "[u.gg] Talon @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -552,13 +552,13 @@
     ]
   },
   {
-    "index": 149,
+    "index": 54,
     "id": "91",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 35,
     "winRate": "37.14%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Talon",
     "name": "Talon",
     "position": "supp",
@@ -570,7 +570,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Talon @ supp, 14.4.1",
+        "title": "[u.gg] Talon @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12

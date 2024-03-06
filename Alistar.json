@@ -1,12 +1,12 @@
 [
   {
-    "index": 152,
+    "index": 39,
     "id": "12",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 26103,
     "winRate": "50.61%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Alistar",
     "name": "Alistar",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Alistar @ supp, 14.4.1",
+        "title": "[u.gg] Alistar @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 152,
+    "index": 39,
     "id": "12",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 232,
     "winRate": "37.93%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Alistar",
     "name": "Alistar",
     "position": "top",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Alistar @ top, 14.4.1",
+        "title": "[u.gg] Alistar @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 152,
+    "index": 39,
     "id": "12",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 114,
     "winRate": "35.09%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Alistar",
     "name": "Alistar",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Alistar @ mid, 14.4.1",
+        "title": "[u.gg] Alistar @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -396,13 +396,13 @@
     ]
   },
   {
-    "index": 152,
+    "index": 39,
     "id": "12",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 52,
     "winRate": "44.23%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Alistar",
     "name": "Alistar",
     "position": "adc",
@@ -414,7 +414,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Alistar @ adc, 14.4.1",
+        "title": "[u.gg] Alistar @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -527,13 +527,13 @@
     ]
   },
   {
-    "index": 152,
+    "index": 39,
     "id": "12",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 30,
     "winRate": "30.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Alistar",
     "name": "Alistar",
     "position": "jungle",
@@ -545,7 +545,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Alistar @ jungle, 14.4.1",
+        "title": "[u.gg] Alistar @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

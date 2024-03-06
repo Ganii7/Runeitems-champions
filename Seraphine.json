@@ -1,12 +1,12 @@
 [
   {
-    "index": 2,
+    "index": 145,
     "id": "147",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 15221,
     "winRate": "53.17%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Seraphine",
     "name": "Seraphine",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Seraphine @ adc, 14.4.1",
+        "title": "[u.gg] Seraphine @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 2,
+    "index": 145,
     "id": "147",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9159,
     "winRate": "47.70%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Seraphine",
     "name": "Seraphine",
     "position": "supp",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Seraphine @ supp, 14.4.1",
+        "title": "[u.gg] Seraphine @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 2,
+    "index": 145,
     "id": "147",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2135,
     "winRate": "51.43%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Seraphine",
     "name": "Seraphine",
     "position": "mid",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Seraphine @ mid, 14.4.1",
+        "title": "[u.gg] Seraphine @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 2,
+    "index": 145,
     "id": "147",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 82,
     "winRate": "46.34%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Seraphine",
     "name": "Seraphine",
     "position": "top",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Seraphine @ top, 14.4.1",
+        "title": "[u.gg] Seraphine @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -564,13 +564,13 @@
     ]
   },
   {
-    "index": 2,
+    "index": 145,
     "id": "147",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 4,
     "winRate": "0.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Seraphine",
     "name": "Seraphine",
     "position": "jungle",
@@ -582,7 +582,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Seraphine @ jungle, 14.4.1",
+        "title": "[u.gg] Seraphine @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

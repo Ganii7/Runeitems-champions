@@ -1,12 +1,12 @@
 [
   {
-    "index": 130,
+    "index": 26,
     "id": "145",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 117417,
     "winRate": "49.25%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kaisa @ adc, 14.4.1",
+        "title": "[u.gg] Kaisa @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 130,
+    "index": 26,
     "id": "145",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2680,
     "winRate": "44.07%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kaisa @ mid, 14.4.1",
+        "title": "[u.gg] Kaisa @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 130,
+    "index": 26,
     "id": "145",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 876,
     "winRate": "48.74%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "top",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kaisa @ top, 14.4.1",
+        "title": "[u.gg] Kaisa @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 130,
+    "index": 26,
     "id": "145",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 327,
     "winRate": "39.45%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kaisa @ supp, 14.4.1",
+        "title": "[u.gg] Kaisa @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -556,13 +556,13 @@
     ]
   },
   {
-    "index": 130,
+    "index": 26,
     "id": "145",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 291,
     "winRate": "41.58%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "jungle",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kaisa @ jungle, 14.4.1",
+        "title": "[u.gg] Kaisa @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

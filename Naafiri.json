@@ -1,12 +1,12 @@
 [
   {
-    "index": 8,
+    "index": 1,
     "id": "950",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 9872,
-    "winRate": "51.20%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 14110,
+    "winRate": "51.03%",
+    "timestamp": 1709669544430,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Naafiri @ mid, 14.4.1",
+        "title": "[u.gg] Naafiri @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3100, win 53.45%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4606, win 52.65%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1036",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1994, win 55.17%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2936, win 54.19%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ mid, win 52.58%, pick 3882",
+        "name": "[u.gg] Naafiri @ mid, win 52.06%, pick 5753",
         "position": "mid",
-        "pickCount": 3882,
-        "winRate": "52.58%",
+        "pickCount": 5753,
+        "winRate": "52.06%",
         "primaryStyleId": 8300,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 8,
+    "index": 1,
     "id": "950",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 2417,
-    "winRate": "51.59%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 3362,
+    "winRate": "51.78%",
+    "timestamp": 1709669544430,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Naafiri @ top, 14.4.1",
+        "title": "[u.gg] Naafiri @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1484, win 52.43%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2030, win 52.02%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 529, win 55.95%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 776, win 56.19%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
@@ -230,15 +230,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6701",
-                "count": 1
-              },
-              {
                 "id": "3814",
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "3026",
                 "count": 1
               }
             ]
@@ -255,16 +255,16 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ top, win 57.08%, pick 226",
+        "name": "[u.gg] Naafiri @ top, win 53.61%, pick 761",
         "position": "top",
-        "pickCount": 226,
-        "winRate": "57.08%",
+        "pickCount": 761,
+        "winRate": "53.61%",
         "primaryStyleId": 8300,
-        "subStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8369,
-          8210,
-          8236,
+          8135,
+          8143,
           8304,
           8345,
           8347,
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 8,
+    "index": 1,
     "id": "950",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 388,
-    "winRate": "41.49%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 528,
+    "winRate": "42.23%",
+    "timestamp": 1709669544430,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "jungle",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Naafiri @ jungle, 14.4.1",
+        "title": "[u.gg] Naafiri @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 200, win 43.50%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 276, win 46.01%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1101",
@@ -319,7 +319,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 9, win 77.78%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 13, win 69.23%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
@@ -343,7 +343,7 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6701",
                 "count": 1
               }
             ]
@@ -352,15 +352,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6694",
-                "count": 1
-              },
-              {
                 "id": "3814",
                 "count": 1
               },
               {
-                "id": "3161",
+                "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -373,11 +373,11 @@
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "3156",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "6694",
                 "count": 1
               }
             ]
@@ -394,10 +394,10 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ jungle, win 47.41%, pick 135",
+        "name": "[u.gg] Naafiri @ jungle, win 50.28%, pick 181",
         "position": "jungle",
-        "pickCount": 135,
-        "winRate": "47.41%",
+        "pickCount": 181,
+        "winRate": "50.28%",
         "primaryStyleId": 8300,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 8,
+    "index": 1,
     "id": "950",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 29,
-    "winRate": "51.72%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 38,
+    "winRate": "44.74%",
+    "timestamp": 1709669544430,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Naafiri @ supp, 14.4.1",
+        "title": "[u.gg] Naafiri @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -445,7 +445,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 25, win 56.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 33, win 48.48%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -462,14 +462,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 8, win 62.50%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "6692",
                 "count": 1
               },
               {
@@ -482,7 +482,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6692",
+                "id": "6698",
                 "count": 1
               },
               {
@@ -503,7 +503,7 @@
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "6631",
                 "count": 1
               }
             ]
@@ -529,20 +529,20 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ supp, win 62.50%, pick 8",
+        "name": "[u.gg] Naafiri @ supp, win 100.00%, pick 2",
         "position": "supp",
-        "pickCount": 8,
-        "winRate": "62.50%",
-        "primaryStyleId": 8300,
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
         "subStyleId": 8100,
         "selectedPerkIds": [
-          8369,
-          8135,
+          8229,
+          8105,
           8143,
-          8304,
-          8345,
-          8347,
-          5008,
+          8210,
+          8226,
+          8237,
+          5005,
           5008,
           5011
         ],
@@ -552,13 +552,13 @@
     ]
   },
   {
-    "index": 8,
+    "index": 1,
     "id": "950",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 18,
-    "winRate": "38.89%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 32,
+    "winRate": "37.50%",
+    "timestamp": 1709669544430,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "adc",
@@ -570,7 +570,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Naafiri @ adc, 14.4.1",
+        "title": "[u.gg] Naafiri @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -580,7 +580,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1036",
@@ -626,11 +626,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6695",
+                "id": "6694",
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "6695",
                 "count": 1
               },
               {
@@ -660,16 +660,16 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ adc, win 60.00%, pick 5",
+        "name": "[u.gg] Naafiri @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 5,
-        "winRate": "60.00%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8369,
-          8135,
-          8143,
+          8233,
+          8236,
           8304,
           8345,
           8347,

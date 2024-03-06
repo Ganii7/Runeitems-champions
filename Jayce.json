@@ -1,12 +1,12 @@
 [
   {
-    "index": 147,
+    "index": 45,
     "id": "126",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 36364,
     "winRate": "49.54%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jayce",
     "name": "Jayce",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jayce @ top, 14.4.1",
+        "title": "[u.gg] Jayce @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 147,
+    "index": 45,
     "id": "126",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 13048,
     "winRate": "50.04%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jayce",
     "name": "Jayce",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jayce @ mid, 14.4.1",
+        "title": "[u.gg] Jayce @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 147,
+    "index": 45,
     "id": "126",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 105,
     "winRate": "43.81%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jayce",
     "name": "Jayce",
     "position": "jungle",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jayce @ jungle, 14.4.1",
+        "title": "[u.gg] Jayce @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 147,
+    "index": 45,
     "id": "126",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 91,
     "winRate": "46.15%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jayce",
     "name": "Jayce",
     "position": "adc",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jayce @ adc, 14.4.1",
+        "title": "[u.gg] Jayce @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -556,13 +556,13 @@
     ]
   },
   {
-    "index": 147,
+    "index": 45,
     "id": "126",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 46,
     "winRate": "45.65%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jayce",
     "name": "Jayce",
     "position": "supp",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jayce @ supp, 14.4.1",
+        "title": "[u.gg] Jayce @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12

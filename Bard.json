@@ -1,12 +1,12 @@
 [
   {
-    "index": 162,
+    "index": 102,
     "id": "432",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 31615,
     "winRate": "50.56%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Bard",
     "name": "Bard",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Bard @ supp, 14.4.1",
+        "title": "[u.gg] Bard @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 162,
+    "index": 102,
     "id": "432",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 117,
     "winRate": "39.32%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Bard",
     "name": "Bard",
     "position": "top",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Bard @ top, 14.4.1",
+        "title": "[u.gg] Bard @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 162,
+    "index": 102,
     "id": "432",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 47,
     "winRate": "40.43%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Bard",
     "name": "Bard",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Bard @ mid, 14.4.1",
+        "title": "[u.gg] Bard @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -405,13 +405,13 @@
     ]
   },
   {
-    "index": 162,
+    "index": 102,
     "id": "432",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 31,
     "winRate": "45.16%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Bard",
     "name": "Bard",
     "position": "adc",
@@ -423,7 +423,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Bard @ adc, 14.4.1",
+        "title": "[u.gg] Bard @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -527,13 +527,13 @@
     ]
   },
   {
-    "index": 162,
+    "index": 102,
     "id": "432",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 14,
     "winRate": "7.14%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Bard",
     "name": "Bard",
     "position": "jungle",
@@ -545,7 +545,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Bard @ jungle, 14.4.1",
+        "title": "[u.gg] Bard @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

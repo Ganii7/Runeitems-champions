@@ -1,12 +1,12 @@
 [
   {
-    "index": 122,
+    "index": 4,
     "id": "105",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 15975,
     "winRate": "48.56%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fizz",
     "name": "Fizz",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fizz @ mid, 14.4.1",
+        "title": "[u.gg] Fizz @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 122,
+    "index": 4,
     "id": "105",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 227,
     "winRate": "44.05%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fizz",
     "name": "Fizz",
     "position": "top",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fizz @ top, 14.4.1",
+        "title": "[u.gg] Fizz @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 122,
+    "index": 4,
     "id": "105",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 63,
     "winRate": "31.75%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fizz",
     "name": "Fizz",
     "position": "supp",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fizz @ supp, 14.4.1",
+        "title": "[u.gg] Fizz @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -425,13 +425,13 @@
     ]
   },
   {
-    "index": 122,
+    "index": 4,
     "id": "105",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 31,
     "winRate": "38.71%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fizz",
     "name": "Fizz",
     "position": "adc",
@@ -443,7 +443,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fizz @ adc, 14.4.1",
+        "title": "[u.gg] Fizz @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -564,13 +564,13 @@
     ]
   },
   {
-    "index": 122,
+    "index": 4,
     "id": "105",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 18,
     "winRate": "11.11%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Fizz",
     "name": "Fizz",
     "position": "jungle",
@@ -582,7 +582,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Fizz @ jungle, 14.4.1",
+        "title": "[u.gg] Fizz @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

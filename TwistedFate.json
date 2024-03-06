@@ -1,12 +1,12 @@
 [
   {
-    "index": 52,
+    "index": 43,
     "id": "4",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 41348,
     "winRate": "53.11%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "TwistedFate",
     "name": "Twisted Fate",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] TwistedFate @ adc, 14.4.1",
+        "title": "[u.gg] TwistedFate @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 52,
+    "index": 43,
     "id": "4",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 36708,
     "winRate": "51.67%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "TwistedFate",
     "name": "Twisted Fate",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] TwistedFate @ mid, 14.4.1",
+        "title": "[u.gg] TwistedFate @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 52,
+    "index": 43,
     "id": "4",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 15493,
     "winRate": "53.99%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "TwistedFate",
     "name": "Twisted Fate",
     "position": "top",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] TwistedFate @ top, 14.4.1",
+        "title": "[u.gg] TwistedFate @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 52,
+    "index": 43,
     "id": "4",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 913,
     "winRate": "45.89%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "TwistedFate",
     "name": "Twisted Fate",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] TwistedFate @ supp, 14.4.1",
+        "title": "[u.gg] TwistedFate @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -556,13 +556,13 @@
     ]
   },
   {
-    "index": 52,
+    "index": 43,
     "id": "4",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 270,
     "winRate": "44.81%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "TwistedFate",
     "name": "Twisted Fate",
     "position": "jungle",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] TwistedFate @ jungle, 14.4.1",
+        "title": "[u.gg] TwistedFate @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

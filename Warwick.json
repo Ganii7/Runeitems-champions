@@ -1,12 +1,12 @@
 [
   {
-    "index": 18,
+    "index": 47,
     "id": "19",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9906,
     "winRate": "49.58%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Warwick",
     "name": "Warwick",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Warwick @ jungle, 14.4.1",
+        "title": "[u.gg] Warwick @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 18,
+    "index": 47,
     "id": "19",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 7212,
     "winRate": "51.87%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Warwick",
     "name": "Warwick",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Warwick @ top, 14.4.1",
+        "title": "[u.gg] Warwick @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 18,
+    "index": 47,
     "id": "19",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 215,
     "winRate": "46.05%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Warwick",
     "name": "Warwick",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Warwick @ mid, 14.4.1",
+        "title": "[u.gg] Warwick @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 18,
+    "index": 47,
     "id": "19",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 83,
     "winRate": "45.78%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Warwick",
     "name": "Warwick",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Warwick @ supp, 14.4.1",
+        "title": "[u.gg] Warwick @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 18,
+    "index": 47,
     "id": "19",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 14,
     "winRate": "64.29%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Warwick",
     "name": "Warwick",
     "position": "adc",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Warwick @ adc, 14.4.1",
+        "title": "[u.gg] Warwick @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

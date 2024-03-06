@@ -3,10 +3,10 @@
     "index": 12,
     "id": "69",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9964,
     "winRate": "51.23%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Cassiopeia @ mid, 14.4.1",
+        "title": "[u.gg] Cassiopeia @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -146,10 +146,10 @@
     "index": 12,
     "id": "69",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 5649,
     "winRate": "53.48%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "top",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Cassiopeia @ top, 14.4.1",
+        "title": "[u.gg] Cassiopeia @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -289,10 +289,10 @@
     "index": 12,
     "id": "69",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1487,
     "winRate": "55.48%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "adc",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Cassiopeia @ adc, 14.4.1",
+        "title": "[u.gg] Cassiopeia @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -432,10 +432,10 @@
     "index": 12,
     "id": "69",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 49,
     "winRate": "32.65%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "supp",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Cassiopeia @ supp, 14.4.1",
+        "title": "[u.gg] Cassiopeia @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -571,10 +571,10 @@
     "index": 12,
     "id": "69",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1,
     "winRate": "0.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "jungle",
@@ -586,7 +586,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Cassiopeia @ jungle, 14.4.1",
+        "title": "[u.gg] Cassiopeia @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

@@ -1,12 +1,12 @@
 [
   {
-    "index": 69,
+    "index": 93,
     "id": "245",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 23433,
     "winRate": "49.53%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ekko @ jungle, 14.4.1",
+        "title": "[u.gg] Ekko @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 69,
+    "index": 93,
     "id": "245",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 17584,
     "winRate": "50.73%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ekko @ mid, 14.4.1",
+        "title": "[u.gg] Ekko @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 69,
+    "index": 93,
     "id": "245",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 323,
     "winRate": "44.58%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "top",
@@ -300,7 +300,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ekko @ top, 14.4.1",
+        "title": "[u.gg] Ekko @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -425,13 +425,13 @@
     ]
   },
   {
-    "index": 69,
+    "index": 93,
     "id": "245",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 192,
     "winRate": "41.67%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "supp",
@@ -443,7 +443,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ekko @ supp, 14.4.1",
+        "title": "[u.gg] Ekko @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -568,13 +568,13 @@
     ]
   },
   {
-    "index": 69,
+    "index": 93,
     "id": "245",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 32,
     "winRate": "46.88%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "adc",
@@ -586,7 +586,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ekko @ adc, 14.4.1",
+        "title": "[u.gg] Ekko @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

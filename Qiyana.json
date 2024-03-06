@@ -3,10 +3,10 @@
     "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 22283,
     "winRate": "52.69%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ mid, 14.4.1",
+        "title": "[u.gg] Qiyana @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -142,10 +142,10 @@
     "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2103,
     "winRate": "48.03%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "jungle",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ jungle, 14.4.1",
+        "title": "[u.gg] Qiyana @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -281,10 +281,10 @@
     "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1015,
     "winRate": "52.41%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "top",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ top, 14.4.1",
+        "title": "[u.gg] Qiyana @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -420,10 +420,10 @@
     "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 235,
     "winRate": "49.36%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ supp, 14.4.1",
+        "title": "[u.gg] Qiyana @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -559,10 +559,10 @@
     "index": 71,
     "id": "246",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 56,
     "winRate": "51.79%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Qiyana",
     "name": "Qiyana",
     "position": "adc",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Qiyana @ adc, 14.4.1",
+        "title": "[u.gg] Qiyana @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

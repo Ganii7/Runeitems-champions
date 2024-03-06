@@ -1,12 +1,12 @@
 [
   {
-    "index": 129,
+    "index": 146,
     "id": "498",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 18503,
     "winRate": "48.90%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xayah @ adc, 14.4.1",
+        "title": "[u.gg] Xayah @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 129,
+    "index": 146,
     "id": "498",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 40,
     "winRate": "52.50%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xayah @ mid, 14.4.1",
+        "title": "[u.gg] Xayah @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -274,13 +274,13 @@
     ]
   },
   {
-    "index": 129,
+    "index": 146,
     "id": "498",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 16,
     "winRate": "43.75%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "top",
@@ -292,7 +292,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xayah @ top, 14.4.1",
+        "title": "[u.gg] Xayah @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -405,13 +405,13 @@
     ]
   },
   {
-    "index": 129,
+    "index": 146,
     "id": "498",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 10,
     "winRate": "40.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "supp",
@@ -423,7 +423,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xayah @ supp, 14.4.1",
+        "title": "[u.gg] Xayah @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -532,13 +532,13 @@
     ]
   },
   {
-    "index": 129,
+    "index": 146,
     "id": "498",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2,
     "winRate": "0.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "jungle",
@@ -550,7 +550,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xayah @ jungle, 14.4.1",
+        "title": "[u.gg] Xayah @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

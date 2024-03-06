@@ -1,12 +1,12 @@
 [
   {
-    "index": 53,
+    "index": 88,
     "id": "887",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 18103,
-    "winRate": "50.56%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 25434,
+    "winRate": "50.89%",
+    "timestamp": 1709669544430,
     "alias": "Gwen",
     "name": "Gwen",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gwen @ top, 14.4.1",
+        "title": "[u.gg] Gwen @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14168, win 50.52%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 19864, win 50.94%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1326, win 57.62%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1854, win 58.68%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "4633",
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -99,11 +99,11 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "3165",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "Gwen",
-        "name": "[u.gg] Gwen @ top, win 53.19%, pick 1378",
+        "name": "[u.gg] Gwen @ top, win 53.16%, pick 1992",
         "position": "top",
-        "pickCount": 1378,
-        "winRate": "53.19%",
+        "pickCount": 1992,
+        "winRate": "53.16%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 53,
+    "index": 88,
     "id": "887",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 4060,
-    "winRate": "50.44%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 5684,
+    "winRate": "50.72%",
+    "timestamp": 1709669544430,
     "alias": "Gwen",
     "name": "Gwen",
     "position": "jungle",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gwen @ jungle, 14.4.1",
+        "title": "[u.gg] Gwen @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -171,16 +171,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 452, win 54.42%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2614, win 51.07%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1101",
+                "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 596, win 56.21%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 859, win 55.06%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3115",
@@ -217,11 +221,11 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -238,7 +242,7 @@
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -255,10 +259,10 @@
     "runes": [
       {
         "alias": "Gwen",
-        "name": "[u.gg] Gwen @ jungle, win 51.05%, pick 2619",
+        "name": "[u.gg] Gwen @ jungle, win 50.78%, pick 3576",
         "position": "jungle",
-        "pickCount": 2619,
-        "winRate": "51.05%",
+        "pickCount": 3576,
+        "winRate": "50.78%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -278,13 +282,13 @@
     ]
   },
   {
-    "index": 53,
+    "index": 88,
     "id": "887",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 604,
-    "winRate": "52.98%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 836,
+    "winRate": "54.31%",
+    "timestamp": 1709669544430,
     "alias": "Gwen",
     "name": "Gwen",
     "position": "mid",
@@ -296,7 +300,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gwen @ mid, 14.4.1",
+        "title": "[u.gg] Gwen @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -306,7 +310,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 203, win 56.65%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 300, win 56.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -319,7 +323,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 16, win 81.25%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 20, win 85.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "4633",
@@ -356,11 +360,11 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3135",
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "4629",
                 "count": 1
               }
             ]
@@ -369,15 +373,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
                 "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -394,10 +398,10 @@
     "runes": [
       {
         "alias": "Gwen",
-        "name": "[u.gg] Gwen @ mid, win 68.00%, pick 25",
+        "name": "[u.gg] Gwen @ mid, win 62.86%, pick 35",
         "position": "mid",
-        "pickCount": 25,
-        "winRate": "68.00%",
+        "pickCount": 35,
+        "winRate": "62.86%",
         "primaryStyleId": 8300,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -417,13 +421,13 @@
     ]
   },
   {
-    "index": 53,
+    "index": 88,
     "id": "887",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 12,
-    "winRate": "25.00%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 15,
+    "winRate": "26.67%",
+    "timestamp": 1709669544430,
     "alias": "Gwen",
     "name": "Gwen",
     "position": "adc",
@@ -435,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gwen @ adc, 14.4.1",
+        "title": "[u.gg] Gwen @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -445,7 +449,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6, win 50.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 7, win 57.14%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -484,6 +488,10 @@
               {
                 "id": "3165",
                 "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
               }
             ]
           },
@@ -492,6 +500,10 @@
             "items": [
               {
                 "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -517,19 +529,19 @@
     "runes": [
       {
         "alias": "Gwen",
-        "name": "[u.gg] Gwen @ adc, win 50.00%, pick 4",
+        "name": "[u.gg] Gwen @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 4,
-        "winRate": "50.00%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8009,
-          8242,
           8299,
+          8446,
           8473,
           9104,
+          9111,
           5005,
           5008,
           5001
@@ -540,13 +552,13 @@
     ]
   },
   {
-    "index": 53,
+    "index": 88,
     "id": "887",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
-    "pickCount": 7,
-    "winRate": "28.57%",
-    "timestamp": 1709583153942,
+    "officialVersion": "14.5.1",
+    "pickCount": 10,
+    "winRate": "30.00%",
+    "timestamp": 1709669544430,
     "alias": "Gwen",
     "name": "Gwen",
     "position": "supp",
@@ -558,7 +570,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Gwen @ supp, 14.4.1",
+        "title": "[u.gg] Gwen @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12

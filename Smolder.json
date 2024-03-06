@@ -1,12 +1,12 @@
 [
   {
-    "index": 160,
+    "index": 23,
     "id": "901",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 123111,
     "winRate": "48.91%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Smolder",
     "name": "Smolder",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Smolder @ adc, 14.4.1",
+        "title": "[u.gg] Smolder @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 160,
+    "index": 23,
     "id": "901",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 20303,
     "winRate": "46.80%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Smolder",
     "name": "Smolder",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Smolder @ mid, 14.4.1",
+        "title": "[u.gg] Smolder @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 160,
+    "index": 23,
     "id": "901",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 15146,
     "winRate": "48.05%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Smolder",
     "name": "Smolder",
     "position": "top",
@@ -300,7 +300,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Smolder @ top, 14.4.1",
+        "title": "[u.gg] Smolder @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -425,13 +425,13 @@
     ]
   },
   {
-    "index": 160,
+    "index": 23,
     "id": "901",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 292,
     "winRate": "37.33%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Smolder",
     "name": "Smolder",
     "position": "supp",
@@ -443,7 +443,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Smolder @ supp, 14.4.1",
+        "title": "[u.gg] Smolder @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -568,13 +568,13 @@
     ]
   },
   {
-    "index": 160,
+    "index": 23,
     "id": "901",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 25,
     "winRate": "8.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Smolder",
     "name": "Smolder",
     "position": "jungle",
@@ -586,7 +586,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Smolder @ jungle, 14.4.1",
+        "title": "[u.gg] Smolder @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

@@ -1,12 +1,12 @@
 [
   {
-    "index": 140,
+    "index": 95,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 14703,
     "winRate": "48.98%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Lissandra",
     "name": "Lissandra",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ mid, 14.4.1",
+        "title": "[u.gg] Lissandra @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 140,
+    "index": 95,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 767,
     "winRate": "46.02%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Lissandra",
     "name": "Lissandra",
     "position": "supp",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ supp, 14.4.1",
+        "title": "[u.gg] Lissandra @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 140,
+    "index": 95,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 528,
     "winRate": "52.84%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Lissandra",
     "name": "Lissandra",
     "position": "top",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ top, 14.4.1",
+        "title": "[u.gg] Lissandra @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 140,
+    "index": 95,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 39,
     "winRate": "30.77%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Lissandra",
     "name": "Lissandra",
     "position": "adc",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ adc, 14.4.1",
+        "title": "[u.gg] Lissandra @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -564,13 +564,13 @@
     ]
   },
   {
-    "index": 140,
+    "index": 95,
     "id": "127",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 6,
     "winRate": "66.67%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Lissandra",
     "name": "Lissandra",
     "position": "jungle",
@@ -582,7 +582,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Lissandra @ jungle, 14.4.1",
+        "title": "[u.gg] Lissandra @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

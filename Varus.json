@@ -1,12 +1,12 @@
 [
   {
-    "index": 73,
+    "index": 126,
     "id": "110",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 52950,
     "winRate": "48.24%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Varus",
     "name": "Varus",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Varus @ adc, 14.4.1",
+        "title": "[u.gg] Varus @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 73,
+    "index": 126,
     "id": "110",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2696,
     "winRate": "46.81%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Varus",
     "name": "Varus",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Varus @ top, 14.4.1",
+        "title": "[u.gg] Varus @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 73,
+    "index": 126,
     "id": "110",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1039,
     "winRate": "43.50%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Varus",
     "name": "Varus",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Varus @ mid, 14.4.1",
+        "title": "[u.gg] Varus @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -421,13 +421,13 @@
     ]
   },
   {
-    "index": 73,
+    "index": 126,
     "id": "110",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 473,
     "winRate": "43.13%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Varus",
     "name": "Varus",
     "position": "supp",
@@ -439,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Varus @ supp, 14.4.1",
+        "title": "[u.gg] Varus @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 73,
+    "index": 126,
     "id": "110",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 4,
     "winRate": "75.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Varus",
     "name": "Varus",
     "position": "jungle",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Varus @ jungle, 14.4.1",
+        "title": "[u.gg] Varus @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

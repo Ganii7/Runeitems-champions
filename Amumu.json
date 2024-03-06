@@ -1,12 +1,12 @@
 [
   {
-    "index": 48,
+    "index": 86,
     "id": "32",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 6504,
     "winRate": "46.49%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Amumu",
     "name": "Amumu",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Amumu @ jungle, 14.4.1",
+        "title": "[u.gg] Amumu @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 48,
+    "index": 86,
     "id": "32",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1941,
     "winRate": "51.57%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Amumu",
     "name": "Amumu",
     "position": "supp",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Amumu @ supp, 14.4.1",
+        "title": "[u.gg] Amumu @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 48,
+    "index": 86,
     "id": "32",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 89,
     "winRate": "34.83%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Amumu",
     "name": "Amumu",
     "position": "top",
@@ -300,7 +300,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Amumu @ top, 14.4.1",
+        "title": "[u.gg] Amumu @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -409,13 +409,13 @@
     ]
   },
   {
-    "index": 48,
+    "index": 86,
     "id": "32",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 24,
     "winRate": "50.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Amumu",
     "name": "Amumu",
     "position": "mid",
@@ -427,7 +427,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Amumu @ mid, 14.4.1",
+        "title": "[u.gg] Amumu @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -540,13 +540,13 @@
     ]
   },
   {
-    "index": 48,
+    "index": 86,
     "id": "32",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 16,
     "winRate": "18.75%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Amumu",
     "name": "Amumu",
     "position": "adc",
@@ -558,7 +558,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Amumu @ adc, 14.4.1",
+        "title": "[u.gg] Amumu @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

@@ -1,12 +1,12 @@
 [
   {
-    "index": 116,
+    "index": 3,
     "id": "22",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 28759,
     "winRate": "51.54%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ashe",
     "name": "Ashe",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ashe @ adc, 14.4.1",
+        "title": "[u.gg] Ashe @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 116,
+    "index": 3,
     "id": "22",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 26547,
     "winRate": "47.88%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ashe",
     "name": "Ashe",
     "position": "supp",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ashe @ supp, 14.4.1",
+        "title": "[u.gg] Ashe @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 116,
+    "index": 3,
     "id": "22",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 352,
     "winRate": "44.03%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ashe",
     "name": "Ashe",
     "position": "top",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ashe @ top, 14.4.1",
+        "title": "[u.gg] Ashe @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 116,
+    "index": 3,
     "id": "22",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 189,
     "winRate": "40.21%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ashe",
     "name": "Ashe",
     "position": "mid",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ashe @ mid, 14.4.1",
+        "title": "[u.gg] Ashe @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 116,
+    "index": 3,
     "id": "22",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 21,
     "winRate": "14.29%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ashe",
     "name": "Ashe",
     "position": "jungle",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ashe @ jungle, 14.4.1",
+        "title": "[u.gg] Ashe @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

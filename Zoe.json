@@ -1,12 +1,12 @@
 [
   {
-    "index": 144,
+    "index": 156,
     "id": "142",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 12673,
     "winRate": "51.95%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zoe @ mid, 14.4.1",
+        "title": "[u.gg] Zoe @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 144,
+    "index": 156,
     "id": "142",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1891,
     "winRate": "51.30%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "supp",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zoe @ supp, 14.4.1",
+        "title": "[u.gg] Zoe @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 144,
+    "index": 156,
     "id": "142",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 119,
     "winRate": "47.06%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "top",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zoe @ top, 14.4.1",
+        "title": "[u.gg] Zoe @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -405,13 +405,13 @@
     ]
   },
   {
-    "index": 144,
+    "index": 156,
     "id": "142",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 52,
     "winRate": "46.15%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "adc",
@@ -423,7 +423,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zoe @ adc, 14.4.1",
+        "title": "[u.gg] Zoe @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -532,13 +532,13 @@
     ]
   },
   {
-    "index": 144,
+    "index": 156,
     "id": "142",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2,
     "winRate": "50.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "jungle",
@@ -550,7 +550,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Zoe @ jungle, 14.4.1",
+        "title": "[u.gg] Zoe @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

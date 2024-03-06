@@ -1,12 +1,12 @@
 [
   {
-    "index": 15,
+    "index": 160,
     "id": "23",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9094,
     "winRate": "49.87%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tryndamere",
     "name": "Tryndamere",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tryndamere @ top, 14.4.1",
+        "title": "[u.gg] Tryndamere @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 15,
+    "index": 160,
     "id": "23",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2447,
     "winRate": "51.45%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tryndamere",
     "name": "Tryndamere",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tryndamere @ mid, 14.4.1",
+        "title": "[u.gg] Tryndamere @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 15,
+    "index": 160,
     "id": "23",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 153,
     "winRate": "38.56%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tryndamere",
     "name": "Tryndamere",
     "position": "jungle",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tryndamere @ jungle, 14.4.1",
+        "title": "[u.gg] Tryndamere @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 15,
+    "index": 160,
     "id": "23",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 14,
     "winRate": "28.57%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tryndamere",
     "name": "Tryndamere",
     "position": "adc",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tryndamere @ adc, 14.4.1",
+        "title": "[u.gg] Tryndamere @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -535,13 +535,13 @@
     ]
   },
   {
-    "index": 15,
+    "index": 160,
     "id": "23",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 13,
     "winRate": "30.77%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tryndamere",
     "name": "Tryndamere",
     "position": "supp",
@@ -553,7 +553,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tryndamere @ supp, 14.4.1",
+        "title": "[u.gg] Tryndamere @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12

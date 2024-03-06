@@ -1,12 +1,12 @@
 [
   {
-    "index": 28,
+    "index": 116,
     "id": "3",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 15323,
     "winRate": "50.48%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Galio",
     "name": "Galio",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Galio @ mid, 14.4.1",
+        "title": "[u.gg] Galio @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 28,
+    "index": 116,
     "id": "3",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1408,
     "winRate": "48.44%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Galio",
     "name": "Galio",
     "position": "supp",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Galio @ supp, 14.4.1",
+        "title": "[u.gg] Galio @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 28,
+    "index": 116,
     "id": "3",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 502,
     "winRate": "49.80%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Galio",
     "name": "Galio",
     "position": "top",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Galio @ top, 14.4.1",
+        "title": "[u.gg] Galio @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 28,
+    "index": 116,
     "id": "3",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 59,
     "winRate": "49.15%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Galio",
     "name": "Galio",
     "position": "adc",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Galio @ adc, 14.4.1",
+        "title": "[u.gg] Galio @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -555,13 +555,13 @@
     ]
   },
   {
-    "index": 28,
+    "index": 116,
     "id": "3",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 11,
     "winRate": "63.64%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Galio",
     "name": "Galio",
     "position": "jungle",
@@ -573,7 +573,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Galio @ jungle, 14.4.1",
+        "title": "[u.gg] Galio @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

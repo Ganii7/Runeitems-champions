@@ -1,12 +1,12 @@
 [
   {
-    "index": 51,
+    "index": 13,
     "id": "89",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 24495,
     "winRate": "51.54%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Leona",
     "name": "Leona",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Leona @ supp, 14.4.1",
+        "title": "[u.gg] Leona @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 51,
+    "index": 13,
     "id": "89",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 42,
     "winRate": "45.24%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Leona",
     "name": "Leona",
     "position": "adc",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Leona @ adc, 14.4.1",
+        "title": "[u.gg] Leona @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -265,13 +265,13 @@
     ]
   },
   {
-    "index": 51,
+    "index": 13,
     "id": "89",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 35,
     "winRate": "40.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Leona",
     "name": "Leona",
     "position": "top",
@@ -283,7 +283,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Leona @ top, 14.4.1",
+        "title": "[u.gg] Leona @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -382,13 +382,13 @@
     ]
   },
   {
-    "index": 51,
+    "index": 13,
     "id": "89",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 25,
     "winRate": "36.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Leona",
     "name": "Leona",
     "position": "jungle",
@@ -400,7 +400,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Leona @ jungle, 14.4.1",
+        "title": "[u.gg] Leona @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -508,13 +508,13 @@
     ]
   },
   {
-    "index": 51,
+    "index": 13,
     "id": "89",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 16,
     "winRate": "43.75%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Leona",
     "name": "Leona",
     "position": "mid",
@@ -526,7 +526,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Leona @ mid, 14.4.1",
+        "title": "[u.gg] Leona @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12

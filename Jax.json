@@ -1,12 +1,12 @@
 [
   {
-    "index": 80,
+    "index": 76,
     "id": "24",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 34512,
     "winRate": "49.61%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jax",
     "name": "Jax",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jax @ top, 14.4.1",
+        "title": "[u.gg] Jax @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 80,
+    "index": 76,
     "id": "24",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 11648,
     "winRate": "48.43%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jax",
     "name": "Jax",
     "position": "jungle",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jax @ jungle, 14.4.1",
+        "title": "[u.gg] Jax @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 80,
+    "index": 76,
     "id": "24",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 532,
     "winRate": "47.37%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jax",
     "name": "Jax",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jax @ mid, 14.4.1",
+        "title": "[u.gg] Jax @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 80,
+    "index": 76,
     "id": "24",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 224,
     "winRate": "46.43%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jax",
     "name": "Jax",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jax @ supp, 14.4.1",
+        "title": "[u.gg] Jax @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -552,13 +552,13 @@
     ]
   },
   {
-    "index": 80,
+    "index": 76,
     "id": "24",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 54,
     "winRate": "33.33%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Jax",
     "name": "Jax",
     "position": "adc",
@@ -570,7 +570,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Jax @ adc, 14.4.1",
+        "title": "[u.gg] Jax @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

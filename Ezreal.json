@@ -1,12 +1,12 @@
 [
   {
-    "index": 82,
+    "index": 98,
     "id": "81",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 114215,
     "winRate": "49.15%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ezreal",
     "name": "Ezreal",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ezreal @ adc, 14.4.1",
+        "title": "[u.gg] Ezreal @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 82,
+    "index": 98,
     "id": "81",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2292,
     "winRate": "36.56%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ezreal",
     "name": "Ezreal",
     "position": "supp",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ezreal @ supp, 14.4.1",
+        "title": "[u.gg] Ezreal @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 82,
+    "index": 98,
     "id": "81",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1678,
     "winRate": "42.31%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ezreal",
     "name": "Ezreal",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ezreal @ mid, 14.4.1",
+        "title": "[u.gg] Ezreal @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 82,
+    "index": 98,
     "id": "81",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 269,
     "winRate": "39.78%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ezreal",
     "name": "Ezreal",
     "position": "top",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ezreal @ top, 14.4.1",
+        "title": "[u.gg] Ezreal @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 82,
+    "index": 98,
     "id": "81",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 252,
     "winRate": "38.10%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ezreal",
     "name": "Ezreal",
     "position": "jungle",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ezreal @ jungle, 14.4.1",
+        "title": "[u.gg] Ezreal @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

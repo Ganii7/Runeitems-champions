@@ -1,12 +1,12 @@
 [
   {
-    "index": 95,
+    "index": 66,
     "id": "18",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 14805,
     "winRate": "51.71%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tristana @ mid, 14.4.1",
+        "title": "[u.gg] Tristana @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 95,
+    "index": 66,
     "id": "18",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 13768,
     "winRate": "50.28%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "adc",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tristana @ adc, 14.4.1",
+        "title": "[u.gg] Tristana @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 95,
+    "index": 66,
     "id": "18",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 890,
     "winRate": "48.65%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "top",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tristana @ top, 14.4.1",
+        "title": "[u.gg] Tristana @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 95,
+    "index": 66,
     "id": "18",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 67,
     "winRate": "41.79%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tristana @ supp, 14.4.1",
+        "title": "[u.gg] Tristana @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 95,
+    "index": 66,
     "id": "18",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 65,
     "winRate": "43.08%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "jungle",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Tristana @ jungle, 14.4.1",
+        "title": "[u.gg] Tristana @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

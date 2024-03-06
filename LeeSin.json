@@ -1,12 +1,12 @@
 [
   {
-    "index": 81,
+    "index": 78,
     "id": "64",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 101632,
     "winRate": "49.55%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "LeeSin",
     "name": "Lee Sin",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] LeeSin @ jungle, 14.4.1",
+        "title": "[u.gg] LeeSin @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 78,
     "id": "64",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2290,
     "winRate": "48.91%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "LeeSin",
     "name": "Lee Sin",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] LeeSin @ top, 14.4.1",
+        "title": "[u.gg] LeeSin @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 78,
     "id": "64",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1027,
     "winRate": "50.63%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "LeeSin",
     "name": "Lee Sin",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] LeeSin @ mid, 14.4.1",
+        "title": "[u.gg] LeeSin @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 78,
     "id": "64",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 529,
     "winRate": "41.21%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "LeeSin",
     "name": "Lee Sin",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] LeeSin @ supp, 14.4.1",
+        "title": "[u.gg] LeeSin @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 78,
     "id": "64",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 179,
     "winRate": "48.04%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "LeeSin",
     "name": "Lee Sin",
     "position": "adc",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] LeeSin @ adc, 14.4.1",
+        "title": "[u.gg] LeeSin @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

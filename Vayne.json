@@ -1,12 +1,12 @@
 [
   {
-    "index": 32,
+    "index": 9,
     "id": "67",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 51098,
     "winRate": "51.86%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Vayne",
     "name": "Vayne",
     "position": "adc",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vayne @ adc, 14.4.1",
+        "title": "[u.gg] Vayne @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 32,
+    "index": 9,
     "id": "67",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 20297,
     "winRate": "52.91%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Vayne",
     "name": "Vayne",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vayne @ top, 14.4.1",
+        "title": "[u.gg] Vayne @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 32,
+    "index": 9,
     "id": "67",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1066,
     "winRate": "52.06%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Vayne",
     "name": "Vayne",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vayne @ mid, 14.4.1",
+        "title": "[u.gg] Vayne @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 32,
+    "index": 9,
     "id": "67",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 235,
     "winRate": "50.64%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Vayne",
     "name": "Vayne",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vayne @ supp, 14.4.1",
+        "title": "[u.gg] Vayne @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -556,13 +556,13 @@
     ]
   },
   {
-    "index": 32,
+    "index": 9,
     "id": "67",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 191,
     "winRate": "43.98%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Vayne",
     "name": "Vayne",
     "position": "jungle",
@@ -574,7 +574,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vayne @ jungle, 14.4.1",
+        "title": "[u.gg] Vayne @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

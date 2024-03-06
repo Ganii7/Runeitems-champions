@@ -1,12 +1,12 @@
 [
   {
-    "index": 54,
+    "index": 148,
     "id": "43",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 58230,
     "winRate": "51.41%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Karma",
     "name": "Karma",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Karma @ mid, 14.4.1",
+        "title": "[u.gg] Karma @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 54,
+    "index": 148,
     "id": "43",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 52734,
     "winRate": "47.79%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Karma",
     "name": "Karma",
     "position": "supp",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Karma @ supp, 14.4.1",
+        "title": "[u.gg] Karma @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 54,
+    "index": 148,
     "id": "43",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9397,
     "winRate": "50.71%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Karma",
     "name": "Karma",
     "position": "top",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Karma @ top, 14.4.1",
+        "title": "[u.gg] Karma @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 54,
+    "index": 148,
     "id": "43",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 694,
     "winRate": "53.89%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Karma",
     "name": "Karma",
     "position": "adc",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Karma @ adc, 14.4.1",
+        "title": "[u.gg] Karma @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -572,13 +572,13 @@
     ]
   },
   {
-    "index": 54,
+    "index": 148,
     "id": "43",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 14,
     "winRate": "7.14%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Karma",
     "name": "Karma",
     "position": "jungle",
@@ -590,7 +590,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Karma @ jungle, 14.4.1",
+        "title": "[u.gg] Karma @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

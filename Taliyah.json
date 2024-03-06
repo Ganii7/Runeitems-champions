@@ -1,12 +1,12 @@
 [
   {
-    "index": 124,
+    "index": 60,
     "id": "163",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 22095,
     "winRate": "51.59%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Taliyah",
     "name": "Taliyah",
     "position": "jungle",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taliyah @ jungle, 14.4.1",
+        "title": "[u.gg] Taliyah @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 124,
+    "index": 60,
     "id": "163",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 16748,
     "winRate": "53.16%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Taliyah",
     "name": "Taliyah",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taliyah @ mid, 14.4.1",
+        "title": "[u.gg] Taliyah @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 124,
+    "index": 60,
     "id": "163",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1262,
     "winRate": "52.30%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Taliyah",
     "name": "Taliyah",
     "position": "supp",
@@ -300,7 +300,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taliyah @ supp, 14.4.1",
+        "title": "[u.gg] Taliyah @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -425,13 +425,13 @@
     ]
   },
   {
-    "index": 124,
+    "index": 60,
     "id": "163",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 441,
     "winRate": "53.97%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Taliyah",
     "name": "Taliyah",
     "position": "adc",
@@ -443,7 +443,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taliyah @ adc, 14.4.1",
+        "title": "[u.gg] Taliyah @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -568,13 +568,13 @@
     ]
   },
   {
-    "index": 124,
+    "index": 60,
     "id": "163",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 214,
     "winRate": "51.87%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Taliyah",
     "name": "Taliyah",
     "position": "top",
@@ -586,7 +586,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Taliyah @ top, 14.4.1",
+        "title": "[u.gg] Taliyah @ top, 14.5.1",
         "associatedMaps": [
           11,
           12

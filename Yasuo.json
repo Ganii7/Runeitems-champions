@@ -1,12 +1,12 @@
 [
   {
-    "index": 74,
+    "index": 21,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 40825,
     "winRate": "49.03%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yasuo",
     "name": "Yasuo",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ mid, 14.4.1",
+        "title": "[u.gg] Yasuo @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 74,
+    "index": 21,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9187,
     "winRate": "47.87%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yasuo",
     "name": "Yasuo",
     "position": "top",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ top, 14.4.1",
+        "title": "[u.gg] Yasuo @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 74,
+    "index": 21,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 7231,
     "winRate": "51.29%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yasuo",
     "name": "Yasuo",
     "position": "adc",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ adc, 14.4.1",
+        "title": "[u.gg] Yasuo @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 74,
+    "index": 21,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 105,
     "winRate": "32.38%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yasuo",
     "name": "Yasuo",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ supp, 14.4.1",
+        "title": "[u.gg] Yasuo @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -552,13 +552,13 @@
     ]
   },
   {
-    "index": 74,
+    "index": 21,
     "id": "157",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 58,
     "winRate": "29.31%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yasuo",
     "name": "Yasuo",
     "position": "jungle",
@@ -570,7 +570,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yasuo @ jungle, 14.4.1",
+        "title": "[u.gg] Yasuo @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

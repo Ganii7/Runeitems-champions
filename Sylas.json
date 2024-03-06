@@ -1,12 +1,12 @@
 [
   {
-    "index": 134,
+    "index": 132,
     "id": "517",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 39470,
     "winRate": "50.04%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sylas",
     "name": "Sylas",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sylas @ mid, 14.4.1",
+        "title": "[u.gg] Sylas @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 134,
+    "index": 132,
     "id": "517",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 3765,
     "winRate": "50.25%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sylas",
     "name": "Sylas",
     "position": "top",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sylas @ top, 14.4.1",
+        "title": "[u.gg] Sylas @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 134,
+    "index": 132,
     "id": "517",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 3544,
     "winRate": "47.86%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sylas",
     "name": "Sylas",
     "position": "supp",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sylas @ supp, 14.4.1",
+        "title": "[u.gg] Sylas @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 134,
+    "index": 132,
     "id": "517",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2126,
     "winRate": "46.43%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sylas",
     "name": "Sylas",
     "position": "jungle",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sylas @ jungle, 14.4.1",
+        "title": "[u.gg] Sylas @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -568,13 +568,13 @@
     ]
   },
   {
-    "index": 134,
+    "index": 132,
     "id": "517",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 156,
     "winRate": "53.85%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Sylas",
     "name": "Sylas",
     "position": "adc",
@@ -586,7 +586,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Sylas @ adc, 14.4.1",
+        "title": "[u.gg] Sylas @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

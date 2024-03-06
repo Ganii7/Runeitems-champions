@@ -1,12 +1,12 @@
 [
   {
-    "index": 78,
+    "index": 153,
     "id": "240",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 12213,
     "winRate": "51.85%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kled",
     "name": "Kled",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kled @ top, 14.4.1",
+        "title": "[u.gg] Kled @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 78,
+    "index": 153,
     "id": "240",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 1358,
     "winRate": "53.02%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kled",
     "name": "Kled",
     "position": "mid",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kled @ mid, 14.4.1",
+        "title": "[u.gg] Kled @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 78,
+    "index": 153,
     "id": "240",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 100,
     "winRate": "41.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kled",
     "name": "Kled",
     "position": "supp",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kled @ supp, 14.4.1",
+        "title": "[u.gg] Kled @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -421,13 +421,13 @@
     ]
   },
   {
-    "index": 78,
+    "index": 153,
     "id": "240",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 72,
     "winRate": "52.78%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kled",
     "name": "Kled",
     "position": "adc",
@@ -439,7 +439,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kled @ adc, 14.4.1",
+        "title": "[u.gg] Kled @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "index": 78,
+    "index": 153,
     "id": "240",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 22,
     "winRate": "59.09%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Kled",
     "name": "Kled",
     "position": "jungle",
@@ -578,7 +578,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Kled @ jungle, 14.4.1",
+        "title": "[u.gg] Kled @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

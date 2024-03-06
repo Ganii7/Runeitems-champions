@@ -1,12 +1,12 @@
 [
   {
-    "index": 56,
+    "index": 44,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 14972,
     "winRate": "48.62%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "supp",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ supp, 14.4.1",
+        "title": "[u.gg] Xerath @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 56,
+    "index": 44,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 13546,
     "winRate": "48.55%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "mid",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ mid, 14.4.1",
+        "title": "[u.gg] Xerath @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 56,
+    "index": 44,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 742,
     "winRate": "50.67%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "adc",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ adc, 14.4.1",
+        "title": "[u.gg] Xerath @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 56,
+    "index": 44,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 65,
     "winRate": "41.54%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "top",
@@ -447,7 +447,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ top, 14.4.1",
+        "title": "[u.gg] Xerath @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -572,13 +572,13 @@
     ]
   },
   {
-    "index": 56,
+    "index": 44,
     "id": "101",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 7,
     "winRate": "14.29%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Xerath",
     "name": "Xerath",
     "position": "jungle",
@@ -590,7 +590,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Xerath @ jungle, 14.4.1",
+        "title": "[u.gg] Xerath @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

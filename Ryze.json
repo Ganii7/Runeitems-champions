@@ -1,12 +1,12 @@
 [
   {
-    "index": 138,
+    "index": 6,
     "id": "13",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 7284,
     "winRate": "49.18%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ryze",
     "name": "Ryze",
     "position": "mid",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ryze @ mid, 14.4.1",
+        "title": "[u.gg] Ryze @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 138,
+    "index": 6,
     "id": "13",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 2405,
     "winRate": "48.90%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ryze",
     "name": "Ryze",
     "position": "top",
@@ -161,7 +161,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ryze @ top, 14.4.1",
+        "title": "[u.gg] Ryze @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 138,
+    "index": 6,
     "id": "13",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 29,
     "winRate": "27.59%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ryze",
     "name": "Ryze",
     "position": "adc",
@@ -304,7 +304,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ryze @ adc, 14.4.1",
+        "title": "[u.gg] Ryze @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -409,13 +409,13 @@
     ]
   },
   {
-    "index": 138,
+    "index": 6,
     "id": "13",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 25,
     "winRate": "36.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ryze",
     "name": "Ryze",
     "position": "supp",
@@ -427,7 +427,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ryze @ supp, 14.4.1",
+        "title": "[u.gg] Ryze @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -544,13 +544,13 @@
     ]
   },
   {
-    "index": 138,
+    "index": 6,
     "id": "13",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 9,
     "winRate": "44.44%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Ryze",
     "name": "Ryze",
     "position": "jungle",
@@ -562,7 +562,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Ryze @ jungle, 14.4.1",
+        "title": "[u.gg] Ryze @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12

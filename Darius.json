@@ -1,12 +1,12 @@
 [
   {
-    "index": 126,
+    "index": 69,
     "id": "122",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 45945,
     "winRate": "50.97%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Darius",
     "name": "Darius",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Darius @ top, 14.4.1",
+        "title": "[u.gg] Darius @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 126,
+    "index": 69,
     "id": "122",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 810,
     "winRate": "47.16%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Darius",
     "name": "Darius",
     "position": "jungle",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Darius @ jungle, 14.4.1",
+        "title": "[u.gg] Darius @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -274,13 +274,13 @@
     ]
   },
   {
-    "index": 126,
+    "index": 69,
     "id": "122",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 468,
     "winRate": "50.00%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Darius",
     "name": "Darius",
     "position": "mid",
@@ -292,7 +292,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Darius @ mid, 14.4.1",
+        "title": "[u.gg] Darius @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -413,13 +413,13 @@
     ]
   },
   {
-    "index": 126,
+    "index": 69,
     "id": "122",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 105,
     "winRate": "38.10%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Darius",
     "name": "Darius",
     "position": "supp",
@@ -431,7 +431,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Darius @ supp, 14.4.1",
+        "title": "[u.gg] Darius @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -552,13 +552,13 @@
     ]
   },
   {
-    "index": 126,
+    "index": 69,
     "id": "122",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 61,
     "winRate": "45.90%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Darius",
     "name": "Darius",
     "position": "adc",
@@ -570,7 +570,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Darius @ adc, 14.4.1",
+        "title": "[u.gg] Darius @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12

@@ -1,12 +1,12 @@
 [
   {
-    "index": 115,
+    "index": 161,
     "id": "83",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 14887,
     "winRate": "49.01%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yorick",
     "name": "Yorick",
     "position": "top",
@@ -18,7 +18,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yorick @ top, 14.4.1",
+        "title": "[u.gg] Yorick @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 161,
     "id": "83",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 695,
     "winRate": "49.78%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yorick",
     "name": "Yorick",
     "position": "jungle",
@@ -157,7 +157,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yorick @ jungle, 14.4.1",
+        "title": "[u.gg] Yorick @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 161,
     "id": "83",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 526,
     "winRate": "49.43%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yorick",
     "name": "Yorick",
     "position": "mid",
@@ -296,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yorick @ mid, 14.4.1",
+        "title": "[u.gg] Yorick @ mid, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 161,
     "id": "83",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 56,
     "winRate": "46.43%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yorick",
     "name": "Yorick",
     "position": "supp",
@@ -435,7 +435,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yorick @ supp, 14.4.1",
+        "title": "[u.gg] Yorick @ supp, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -547,13 +547,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 161,
     "id": "83",
     "version": "14.3.1",
-    "officialVersion": "14.4.1",
+    "officialVersion": "14.5.1",
     "pickCount": 16,
     "winRate": "18.75%",
-    "timestamp": 1709583153942,
+    "timestamp": 1709669544430,
     "alias": "Yorick",
     "name": "Yorick",
     "position": "adc",
@@ -565,7 +565,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Yorick @ adc, 14.4.1",
+        "title": "[u.gg] Yorick @ adc, 14.5.1",
         "associatedMaps": [
           11,
           12
