@@ -1,0 +1,80 @@
+{
+    "associatedChampions": [
+        "59"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1103",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "6610",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6610",
+                    "count": 1
+                },
+                {
+                    "id": "3111",
+                    "count": 1
+                },
+                {
+                    "id": "3161",
+                    "count": 1
+                },
+                {
+                    "id": "3110",
+                    "count": 1
+                },
+                {
+                    "id": "3053",
+                    "count": 1
+                },
+                {
+                    "id": "3026",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3075",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - JarvanIV",
+    "type": "global",
+    "uid": "Runeitems"
+}

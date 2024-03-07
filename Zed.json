@@ -1,0 +1,80 @@
+{
+    "associatedChampions": [
+        "238"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1036",
+                    "count": 1
+                },
+                {
+                    "id": "2031",
+                    "count": 1
+                },
+                {
+                    "id": "6692",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6692",
+                    "count": 1
+                },
+                {
+                    "id": "3158",
+                    "count": 1
+                },
+                {
+                    "id": "6699",
+                    "count": 1
+                },
+                {
+                    "id": "3814",
+                    "count": 1
+                },
+                {
+                    "id": "6694",
+                    "count": 1
+                },
+                {
+                    "id": "6696",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3142",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Zed",
+    "type": "global",
+    "uid": "Runeitems"
+}

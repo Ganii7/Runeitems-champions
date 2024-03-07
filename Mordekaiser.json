@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "82"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1056",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3047",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3047",
+                    "count": 1
+                },
+                {
+                    "id": "3116",
+                    "count": 1
+                },
+                {
+                    "id": "6653",
+                    "count": 1
+                },
+                {
+                    "id": "3075",
+                    "count": 1
+                },
+                {
+                    "id": "6665",
+                    "count": 1
+                },
+                {
+                    "id": "3157",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3065",
+                    "count": 1
+                },
+                {
+                    "id": "3143",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Mordekaiser",
+    "type": "global",
+    "uid": "Runeitems"
+}

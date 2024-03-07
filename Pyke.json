@@ -1,0 +1,88 @@
+{
+    "associatedChampions": [
+        "555"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3865",
+                    "count": 1
+                },
+                {
+                    "id": "3877",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3877",
+                    "count": 1
+                },
+                {
+                    "id": "3117",
+                    "count": 1
+                },
+                {
+                    "id": "3179",
+                    "count": 1
+                },
+                {
+                    "id": "3142",
+                    "count": 1
+                },
+                {
+                    "id": "3814",
+                    "count": 1
+                },
+                {
+                    "id": "3026",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6699",
+                    "count": 1
+                },
+                {
+                    "id": "6696",
+                    "count": 1
+                },
+                {
+                    "id": "6701",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Pyke",
+    "type": "global",
+    "uid": "Runeitems"
+}

@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "16"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3865",
+                    "count": 1
+                },
+                {
+                    "id": "3870",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3870",
+                    "count": 1
+                },
+                {
+                    "id": "6617",
+                    "count": 1
+                },
+                {
+                    "id": "3158",
+                    "count": 1
+                },
+                {
+                    "id": "3107",
+                    "count": 1
+                },
+                {
+                    "id": "3083",
+                    "count": 1
+                },
+                {
+                    "id": "3165",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3222",
+                    "count": 1
+                },
+                {
+                    "id": "3504",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Soraka",
+    "type": "global",
+    "uid": "Runeitems"
+}

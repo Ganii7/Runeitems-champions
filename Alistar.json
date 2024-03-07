@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "12"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3865",
+                    "count": 1
+                },
+                {
+                    "id": "3876",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3876",
+                    "count": 1
+                },
+                {
+                    "id": "3158",
+                    "count": 1
+                },
+                {
+                    "id": "3002",
+                    "count": 1
+                },
+                {
+                    "id": "3190",
+                    "count": 1
+                },
+                {
+                    "id": "3050",
+                    "count": 1
+                },
+                {
+                    "id": "8020",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3110",
+                    "count": 1
+                },
+                {
+                    "id": "3137",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Alistar",
+    "type": "global",
+    "uid": "Runeitems"
+}

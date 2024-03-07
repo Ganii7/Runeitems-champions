@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "69"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3070",
+                    "count": 1
+                },
+                {
+                    "id": "6657",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6657",
+                    "count": 1
+                },
+                {
+                    "id": "3003",
+                    "count": 1
+                },
+                {
+                    "id": "3116",
+                    "count": 1
+                },
+                {
+                    "id": "3137",
+                    "count": 1
+                },
+                {
+                    "id": "6653",
+                    "count": 1
+                },
+                {
+                    "id": "3157",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3110",
+                    "count": 1
+                },
+                {
+                    "id": "3065",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Cassiopeia",
+    "type": "global",
+    "uid": "Runeitems"
+}

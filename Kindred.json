@@ -1,0 +1,88 @@
+{
+    "associatedChampions": [
+        "203"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1101",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "6672",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6672",
+                    "count": 1
+                },
+                {
+                    "id": "3047",
+                    "count": 1
+                },
+                {
+                    "id": "3078",
+                    "count": 1
+                },
+                {
+                    "id": "3302",
+                    "count": 1
+                },
+                {
+                    "id": "3026",
+                    "count": 1
+                },
+                {
+                    "id": "3053",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3091",
+                    "count": 1
+                },
+                {
+                    "id": "3071",
+                    "count": 1
+                },
+                {
+                    "id": "3094",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Kindred",
+    "type": "global",
+    "uid": "Runeitems"
+}

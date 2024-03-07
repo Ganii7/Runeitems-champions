@@ -1,0 +1,88 @@
+{
+    "associatedChampions": [
+        "53"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3865",
+                    "count": 1
+                },
+                {
+                    "id": "3876",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3876",
+                    "count": 1
+                },
+                {
+                    "id": "3117",
+                    "count": 1
+                },
+                {
+                    "id": "3002",
+                    "count": 1
+                },
+                {
+                    "id": "3050",
+                    "count": 1
+                },
+                {
+                    "id": "3110",
+                    "count": 1
+                },
+                {
+                    "id": "3109",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3190",
+                    "count": 1
+                },
+                {
+                    "id": "4401",
+                    "count": 1
+                },
+                {
+                    "id": "3157",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Blitzcrank",
+    "type": "global",
+    "uid": "Runeitems"
+}

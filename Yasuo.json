@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "157"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1054",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3006",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3006",
+                    "count": 1
+                },
+                {
+                    "id": "3153",
+                    "count": 1
+                },
+                {
+                    "id": "6673",
+                    "count": 1
+                },
+                {
+                    "id": "6662",
+                    "count": 1
+                },
+                {
+                    "id": "3026",
+                    "count": 1
+                },
+                {
+                    "id": "3031",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3046",
+                    "count": 1
+                },
+                {
+                    "id": "3065",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Yasuo",
+    "type": "global",
+    "uid": "Runeitems"
+}

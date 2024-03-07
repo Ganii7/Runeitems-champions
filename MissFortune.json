@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "21"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1055",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3142",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3142",
+                    "count": 1
+                },
+                {
+                    "id": "6676",
+                    "count": 1
+                },
+                {
+                    "id": "3009",
+                    "count": 1
+                },
+                {
+                    "id": "6694",
+                    "count": 1
+                },
+                {
+                    "id": "3814",
+                    "count": 1
+                },
+                {
+                    "id": "3026",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6696",
+                    "count": 1
+                },
+                {
+                    "id": "3072",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - MissFortune",
+    "type": "global",
+    "uid": "Runeitems"
+}

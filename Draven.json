@@ -1,0 +1,92 @@
+{
+    "associatedChampions": [
+        "119"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "0",
+                    "count": 1
+                },
+                {
+                    "id": "6692",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6692",
+                    "count": 1
+                },
+                {
+                    "id": "3006",
+                    "count": 1
+                },
+                {
+                    "id": "3508",
+                    "count": 1
+                },
+                {
+                    "id": "3031",
+                    "count": 1
+                },
+                {
+                    "id": "3036",
+                    "count": 1
+                },
+                {
+                    "id": "3094",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6676",
+                    "count": 1
+                },
+                {
+                    "id": "3072",
+                    "count": 1
+                },
+                {
+                    "id": "6673",
+                    "count": 1
+                },
+                {
+                    "id": "3026",
+                    "count": 1
+                },
+                {
+                    "id": "6701",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Draven",
+    "type": "global",
+    "uid": "Runeitems"
+}

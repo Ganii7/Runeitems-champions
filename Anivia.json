@@ -1,0 +1,88 @@
+{
+    "associatedChampions": [
+        "34"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1056",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "6657",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6657",
+                    "count": 1
+                },
+                {
+                    "id": "3020",
+                    "count": 1
+                },
+                {
+                    "id": "3003",
+                    "count": 1
+                },
+                {
+                    "id": "3157",
+                    "count": 1
+                },
+                {
+                    "id": "6653",
+                    "count": 1
+                },
+                {
+                    "id": "3089",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3041",
+                    "count": 1
+                },
+                {
+                    "id": "3118",
+                    "count": 1
+                },
+                {
+                    "id": "6655",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Anivia",
+    "type": "global",
+    "uid": "Runeitems"
+}

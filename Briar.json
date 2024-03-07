@@ -1,0 +1,76 @@
+{
+    "associatedChampions": [
+        "233"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1103",
+                    "count": 1
+                },
+                {
+                    "id": "6692",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6692",
+                    "count": 1
+                },
+                {
+                    "id": "3047",
+                    "count": 1
+                },
+                {
+                    "id": "6610",
+                    "count": 1
+                },
+                {
+                    "id": "3053",
+                    "count": 1
+                },
+                {
+                    "id": "6333",
+                    "count": 1
+                },
+                {
+                    "id": "3071",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3026",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Briar",
+    "type": "global",
+    "uid": "Runeitems"
+}

@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "61"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1056",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3158",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3158",
+                    "count": 1
+                },
+                {
+                    "id": "3003",
+                    "count": 1
+                },
+                {
+                    "id": "4645",
+                    "count": 1
+                },
+                {
+                    "id": "3089",
+                    "count": 1
+                },
+                {
+                    "id": "3041",
+                    "count": 1
+                },
+                {
+                    "id": "3157",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3135",
+                    "count": 1
+                },
+                {
+                    "id": "3165",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Orianna",
+    "type": "global",
+    "uid": "Runeitems"
+}

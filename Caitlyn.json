@@ -1,0 +1,88 @@
+{
+    "associatedChampions": [
+        "51"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1083",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3006",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3006",
+                    "count": 1
+                },
+                {
+                    "id": "3095",
+                    "count": 1
+                },
+                {
+                    "id": "3031",
+                    "count": 1
+                },
+                {
+                    "id": "3094",
+                    "count": 1
+                },
+                {
+                    "id": "3036",
+                    "count": 1
+                },
+                {
+                    "id": "3139",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3026",
+                    "count": 1
+                },
+                {
+                    "id": "3046",
+                    "count": 1
+                },
+                {
+                    "id": "3072",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Caitlyn",
+    "type": "global",
+    "uid": "Runeitems"
+}

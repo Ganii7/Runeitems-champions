@@ -1,0 +1,96 @@
+{
+    "associatedChampions": [
+        "19"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1102",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "6631",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6631",
+                    "count": 1
+                },
+                {
+                    "id": "3009",
+                    "count": 1
+                },
+                {
+                    "id": "6692",
+                    "count": 1
+                },
+                {
+                    "id": "3075",
+                    "count": 1
+                },
+                {
+                    "id": "3065",
+                    "count": 1
+                },
+                {
+                    "id": "3026",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3053",
+                    "count": 1
+                },
+                {
+                    "id": "4401",
+                    "count": 1
+                },
+                {
+                    "id": "6610",
+                    "count": 1
+                },
+                {
+                    "id": "6662",
+                    "count": 1
+                },
+                {
+                    "id": "3302",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Warwick",
+    "type": "global",
+    "uid": "Runeitems"
+}

@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "133"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1083",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3095",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3095",
+                    "count": 1
+                },
+                {
+                    "id": "3006",
+                    "count": 1
+                },
+                {
+                    "id": "6699",
+                    "count": 1
+                },
+                {
+                    "id": "3814",
+                    "count": 1
+                },
+                {
+                    "id": "3036",
+                    "count": 1
+                },
+                {
+                    "id": "3033",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3179",
+                    "count": 1
+                },
+                {
+                    "id": "3142",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Quinn",
+    "type": "global",
+    "uid": "Runeitems"
+}

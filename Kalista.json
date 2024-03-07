@@ -1,0 +1,84 @@
+{
+    "associatedChampions": [
+        "429"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1055",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3006",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3006",
+                    "count": 1
+                },
+                {
+                    "id": "3153",
+                    "count": 1
+                },
+                {
+                    "id": "3124",
+                    "count": 1
+                },
+                {
+                    "id": "3302",
+                    "count": 1
+                },
+                {
+                    "id": "6665",
+                    "count": 1
+                },
+                {
+                    "id": "3085",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3143",
+                    "count": 1
+                },
+                {
+                    "id": "6673",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Kalista",
+    "type": "global",
+    "uid": "Runeitems"
+}

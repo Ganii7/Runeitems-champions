@@ -1,0 +1,88 @@
+{
+    "associatedChampions": [
+        "36"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1054",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "3084",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3084",
+                    "count": 1
+                },
+                {
+                    "id": "3009",
+                    "count": 1
+                },
+                {
+                    "id": "3068",
+                    "count": 1
+                },
+                {
+                    "id": "3065",
+                    "count": 1
+                },
+                {
+                    "id": "6610",
+                    "count": 1
+                },
+                {
+                    "id": "3748",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "2502",
+                    "count": 1
+                },
+                {
+                    "id": "3143",
+                    "count": 1
+                },
+                {
+                    "id": "2504",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - DrMundo",
+    "type": "global",
+    "uid": "Runeitems"
+}

@@ -1,0 +1,88 @@
+{
+    "associatedChampions": [
+        "222"
+    ],
+    "associatedMaps": [
+        11,
+        12
+    ],
+    "blocks": [
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "1055",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
+                    "id": "6672",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Starting items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "6672",
+                    "count": 1
+                },
+                {
+                    "id": "3006",
+                    "count": 1
+                },
+                {
+                    "id": "3031",
+                    "count": 1
+                },
+                {
+                    "id": "3094",
+                    "count": 1
+                },
+                {
+                    "id": "3036",
+                    "count": 1
+                },
+                {
+                    "id": "3026",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Core items"
+        },
+        {
+            "hideIfSummonerSpell": "",
+            "items": [
+                {
+                    "id": "3085",
+                    "count": 1
+                },
+                {
+                    "id": "3072",
+                    "count": 1
+                },
+                {
+                    "id": "3139",
+                    "count": 1
+                }
+            ],
+            "showIfSummonerSpell": "",
+            "type": "Alternative items"
+        }
+    ],
+    "map": "HA",
+    "mode": "any",
+    "preferredItemSlots": [],
+    "sortrank": 6,
+    "startedFrom": "blank",
+    "title": "RunitemsBuild - Jinx",
+    "type": "global",
+    "uid": "Runeitems"
+}
