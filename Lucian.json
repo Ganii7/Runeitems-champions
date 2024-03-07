@@ -1,12 +1,12 @@
 [
   {
-    "index": 46,
+    "index": 60,
     "id": "236",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 53902,
-    "winRate": "49.10%",
-    "timestamp": 1709669544430,
+    "pickCount": 2680,
+    "winRate": "49.63%",
+    "timestamp": 1709755984766,
     "alias": "Lucian",
     "name": "Lucian",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 50766, win 49.23%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2528, win 50.08%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8566, win 51.91%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 303, win 54.46%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6672",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3006",
                 "count": 1
               },
               {
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3508",
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -78,150 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3094",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Lucian",
-        "name": "[u.gg] Lucian @ adc, win 49.68%, pick 31523",
-        "position": "adc",
-        "pickCount": 31523,
-        "winRate": "49.68%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8005,
-          8009,
-          8014,
-          8304,
-          8345,
-          9103,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 46,
-    "id": "236",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 1664,
-    "winRate": "44.77%",
-    "timestamp": 1709669544430,
-    "alias": "Lucian",
-    "name": "Lucian",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Lucian @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          236
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1515, win 45.28%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 189, win 59.79%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "6675",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
                 "id": "3094",
                 "count": 1
               },
               {
-                "id": "3036",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
                 "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3094",
                 "count": 1
               }
             ]
@@ -255,10 +116,10 @@
     "runes": [
       {
         "alias": "Lucian",
-        "name": "[u.gg] Lucian @ mid, win 44.85%, pick 709",
-        "position": "mid",
-        "pickCount": 709,
-        "winRate": "44.85%",
+        "name": "[u.gg] Lucian @ adc, win 51.20%, pick 1539",
+        "position": "adc",
+        "pickCount": 1539,
+        "winRate": "51.20%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -278,13 +139,148 @@
     ]
   },
   {
-    "index": 46,
+    "index": 60,
     "id": "236",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 817,
-    "winRate": "44.31%",
-    "timestamp": 1709669544430,
+    "pickCount": 114,
+    "winRate": "46.49%",
+    "timestamp": 1709755984766,
+    "alias": "Lucian",
+    "name": "Lucian",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Lucian @ mid, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          236
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 110, win 47.27%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 15, win 60.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6675",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3033",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3072",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Lucian",
+        "name": "[u.gg] Lucian @ mid, win 57.14%, pick 35",
+        "position": "mid",
+        "pickCount": 35,
+        "winRate": "57.14%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8005,
+          8009,
+          8014,
+          8304,
+          8345,
+          9103,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 60,
+    "id": "236",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 46,
+    "winRate": "28.26%",
+    "timestamp": 1709755984766,
     "alias": "Lucian",
     "name": "Lucian",
     "position": "top",
@@ -306,7 +302,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 746, win 44.50%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 41, win 29.27%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -319,14 +315,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 31, win 67.74%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3508",
+                "id": "6672",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3047",
                 "count": 1
               },
               {
@@ -343,7 +339,7 @@
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "3046",
                 "count": 1
               }
             ]
@@ -352,15 +348,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "6694",
+                "count": 1
+              },
+              {
+                "id": "6699",
+                "count": 1
+              },
+              {
                 "id": "3094",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3072",
                 "count": 1
               }
             ]
@@ -369,15 +365,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "6609",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -394,19 +382,19 @@
     "runes": [
       {
         "alias": "Lucian",
-        "name": "[u.gg] Lucian @ top, win 70.00%, pick 20",
+        "name": "[u.gg] Lucian @ top, win 66.67%, pick 3",
         "position": "top",
-        "pickCount": 20,
-        "winRate": "70.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "pickCount": 3,
+        "winRate": "66.67%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8005,
-          8009,
-          8017,
+          8369,
+          8226,
+          8237,
           8304,
           8345,
-          9103,
+          8347,
           5005,
           5008,
           5011
@@ -417,13 +405,13 @@
     ]
   },
   {
-    "index": 46,
+    "index": 60,
     "id": "236",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 92,
-    "winRate": "43.48%",
-    "timestamp": 1709669544430,
+    "pickCount": 4,
+    "winRate": "75.00%",
+    "timestamp": 1709755984766,
     "alias": "Lucian",
     "name": "Lucian",
     "position": "supp",
@@ -445,7 +433,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 53, win 49.06%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -458,34 +446,25 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6672",
+                "id": "3877",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3095",
                 "count": 1
               },
               {
-                "id": "6675",
+                "id": "6699",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3094",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
@@ -493,33 +472,12 @@
               {
                 "id": "3094",
                 "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "6701",
-                "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -533,19 +491,19 @@
     "runes": [
       {
         "alias": "Lucian",
-        "name": "[u.gg] Lucian @ supp, win 66.67%, pick 3",
+        "name": "[u.gg] Lucian @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 3,
-        "winRate": "66.67%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8005,
-          8009,
-          8017,
+          8369,
+          8135,
+          8136,
           8304,
           8345,
-          9103,
+          8347,
           5005,
           5008,
           5011
@@ -556,13 +514,13 @@
     ]
   },
   {
-    "index": 46,
+    "index": 60,
     "id": "236",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 34,
-    "winRate": "29.41%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Lucian",
     "name": "Lucian",
     "position": "jungle",
@@ -584,7 +542,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 15, win 33.33%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1101",
@@ -597,18 +555,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 60.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6672",
+                "id": "3078",
                 "count": 1
               },
               {
-                "id": "3006",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "6675",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -617,44 +575,18 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3094",
-                "count": 1
-              },
-              {
-                "id": "6699",
+                "id": "3161",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6676",
-                "count": 1
-              },
-              {
-                "id": "3508",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3508",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -668,22 +600,22 @@
     "runes": [
       {
         "alias": "Lucian",
-        "name": "[u.gg] Lucian @ jungle, win 41.67%, pick 12",
+        "name": "[u.gg] Lucian @ jungle, win 50.00%, pick 2",
         "position": "jungle",
-        "pickCount": 12,
-        "winRate": "41.67%",
+        "pickCount": 2,
+        "winRate": "50.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8005,
           8009,
           8014,
-          8138,
-          8143,
+          8304,
+          8345,
           9103,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

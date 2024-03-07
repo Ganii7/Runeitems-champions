@@ -1,12 +1,12 @@
 [
   {
-    "index": 54,
+    "index": 35,
     "id": "91",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 17684,
-    "winRate": "50.77%",
-    "timestamp": 1709669544430,
+    "pickCount": 825,
+    "winRate": "52.36%",
+    "timestamp": 1709755984766,
     "alias": "Talon",
     "name": "Talon",
     "position": "mid",
@@ -28,10 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9038, win 51.37%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 33, win 69.70%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1055",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -41,18 +41,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 735, win 55.10%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 76, win 56.58%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
                 "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6698",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6696",
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6694",
+                "id": "6695",
+                "count": 1
+              },
+              {
+                "id": "3026",
                 "count": 1
               },
               {
                 "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "6701",
                 "count": 1
               }
             ]
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Talon",
-        "name": "[u.gg] Talon @ mid, win 63.24%, pick 204",
+        "name": "[u.gg] Talon @ mid, win 75.00%, pick 24",
         "position": "mid",
-        "pickCount": 204,
-        "winRate": "63.24%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "pickCount": 24,
+        "winRate": "75.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8369,
-          8105,
+          8112,
+          8106,
+          8138,
           8143,
-          8304,
-          8316,
-          8347,
+          8237,
+          8275,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 54,
+    "index": 35,
     "id": "91",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 9587,
+    "pickCount": 507,
     "winRate": "50.30%",
-    "timestamp": 1709669544430,
+    "timestamp": 1709755984766,
     "alias": "Talon",
     "name": "Talon",
     "position": "jungle",
@@ -167,27 +167,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1837, win 52.10%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 398, win 51.01%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 689, win 53.27%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 40, win 67.50%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "3142",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "6698",
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -200,7 +204,7 @@
                 "count": 1
               },
               {
-                "id": "6698",
+                "id": "6694",
                 "count": 1
               }
             ]
@@ -217,7 +221,7 @@
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -226,7 +230,7 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6694",
+                "id": "3026",
                 "count": 1
               },
               {
@@ -234,7 +238,7 @@
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -251,22 +255,22 @@
     "runes": [
       {
         "alias": "Talon",
-        "name": "[u.gg] Talon @ jungle, win 53.46%, pick 1517",
+        "name": "[u.gg] Talon @ jungle, win 69.57%, pick 23",
         "position": "jungle",
-        "pickCount": 1517,
-        "winRate": "53.46%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "pickCount": 23,
+        "winRate": "69.57%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8369,
-          8135,
+          8112,
+          8105,
+          8138,
           8143,
           8304,
-          8321,
           8347,
           5008,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -274,13 +278,13 @@
     ]
   },
   {
-    "index": 54,
+    "index": 35,
     "id": "91",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 328,
-    "winRate": "50.30%",
-    "timestamp": 1709669544430,
+    "pickCount": 15,
+    "winRate": "60.00%",
+    "timestamp": 1709755984766,
     "alias": "Talon",
     "name": "Talon",
     "position": "top",
@@ -302,31 +306,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 101, win 60.40%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 14, win 64.29%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1036",
+                "id": "1055",
                 "count": 1
               },
               {
-                "id": "2031",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 16, win 68.75%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "6698",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "6692",
                 "count": 1
               }
             ]
@@ -335,11 +339,7 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "6695",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -348,15 +348,15 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3814",
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "3033",
                 "count": 1
               },
               {
                 "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6696",
                 "count": 1
               }
             ]
@@ -365,15 +365,7 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6695",
+                "id": "6609",
                 "count": 1
               }
             ]
@@ -390,16 +382,16 @@
     "runes": [
       {
         "alias": "Talon",
-        "name": "[u.gg] Talon @ top, win 100.00%, pick 3",
+        "name": "[u.gg] Talon @ top, win 100.00%, pick 2",
         "position": "top",
-        "pickCount": 3,
+        "pickCount": 2,
         "winRate": "100.00%",
         "primaryStyleId": 8300,
-        "subStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8369,
-          8210,
-          8236,
+          8105,
+          8143,
           8304,
           8316,
           8347,
@@ -413,13 +405,13 @@
     ]
   },
   {
-    "index": 54,
+    "index": 35,
     "id": "91",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 41,
-    "winRate": "46.34%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Talon",
     "name": "Talon",
     "position": "adc",
@@ -441,31 +433,39 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 7, win 57.14%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1036",
                 "count": 1
               },
               {
-                "id": "2031",
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
               {
                 "id": "3142",
                 "count": 1
               },
               {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "3158",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -474,48 +474,18 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6610",
+                "id": "6701",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6609",
-                "count": 1
-              },
-              {
-                "id": "3139",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -529,22 +499,22 @@
     "runes": [
       {
         "alias": "Talon",
-        "name": "[u.gg] Talon @ adc, win 57.14%, pick 7",
+        "name": "[u.gg] Talon @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 7,
-        "winRate": "57.14%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8112,
-          8105,
+          8106,
           8138,
           8143,
-          8233,
+          8237,
           8275,
           5008,
           5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -552,13 +522,13 @@
     ]
   },
   {
-    "index": 54,
+    "index": 35,
     "id": "91",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 35,
-    "winRate": "37.14%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Talon",
     "name": "Talon",
     "position": "supp",
@@ -583,13 +553,21 @@
             "type": "Starting Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1055",
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "3877",
@@ -600,7 +578,7 @@
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -611,10 +589,6 @@
               {
                 "id": "6701",
                 "count": 1
-              },
-              {
-                "id": "6696",
-                "count": 1
               }
             ]
           },
@@ -622,31 +596,14 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "6698",
+                "id": "3179",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "6695",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -660,22 +617,22 @@
     "runes": [
       {
         "alias": "Talon",
-        "name": "[u.gg] Talon @ supp, win 100.00%, pick 2",
+        "name": "[u.gg] Talon @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 2,
+        "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8128,
-          8014,
+          8369,
           8106,
-          8138,
-          8143,
-          9111,
+          8136,
+          8304,
+          8321,
+          8347,
           5008,
           5008,
-          5011
+          5013
         ],
         "score": 0,
         "type": ""

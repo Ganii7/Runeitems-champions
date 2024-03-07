@@ -1,12 +1,12 @@
 [
   {
-    "index": 36,
+    "index": 1,
     "id": "20",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 12530,
-    "winRate": "49.70%",
-    "timestamp": 1709669544430,
+    "pickCount": 458,
+    "winRate": "52.62%",
+    "timestamp": 1709755984766,
     "alias": "Nunu",
     "name": "Nunu \u0026 Willump",
     "position": "jungle",
@@ -28,16 +28,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4101, win 51.09%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 210, win 53.81%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1020, win 53.73%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 23, win 65.22%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6653",
@@ -70,15 +74,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3075",
+                "id": "6664",
                 "count": 1
               },
               {
                 "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -87,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3041",
+                "id": "8001",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -112,21 +116,21 @@
     "runes": [
       {
         "alias": "Nunu",
-        "name": "[u.gg] Nunu @ jungle, win 50.93%, pick 1983",
+        "name": "[u.gg] Nunu @ jungle, win 56.48%, pick 108",
         "position": "jungle",
-        "pickCount": 1983,
-        "winRate": "50.93%",
+        "pickCount": 108,
+        "winRate": "56.48%",
         "primaryStyleId": 8200,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8230,
           8105,
-          8138,
+          8126,
           8232,
           8234,
           8275,
-          5005,
-          5008,
+          5007,
+          5010,
           5001
         ],
         "score": 0,
@@ -135,13 +139,13 @@
     ]
   },
   {
-    "index": 36,
+    "index": 1,
     "id": "20",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1143,
-    "winRate": "46.89%",
-    "timestamp": 1709669544430,
+    "pickCount": 120,
+    "winRate": "47.50%",
+    "timestamp": 1709755984766,
     "alias": "Nunu",
     "name": "Nunu \u0026 Willump",
     "position": "mid",
@@ -163,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1035, win 48.41%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 117, win 48.72%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -180,7 +184,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 53, win 83.02%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3020",
@@ -200,11 +204,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4646",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -213,15 +217,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "3157",
+                "count": 1
+              },
+              {
                 "id": "4645",
                 "count": 1
               },
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4646",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -230,15 +234,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3135",
+                "id": "4646",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3102",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -255,10 +259,10 @@
     "runes": [
       {
         "alias": "Nunu",
-        "name": "[u.gg] Nunu @ mid, win 48.52%, pick 371",
+        "name": "[u.gg] Nunu @ mid, win 51.72%, pick 58",
         "position": "mid",
-        "pickCount": 371,
-        "winRate": "48.52%",
+        "pickCount": 58,
+        "winRate": "51.72%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -270,7 +274,7 @@
           8275,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -278,13 +282,13 @@
     ]
   },
   {
-    "index": 36,
+    "index": 1,
     "id": "20",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 327,
-    "winRate": "36.39%",
-    "timestamp": 1709669544430,
+    "pickCount": 22,
+    "winRate": "54.55%",
+    "timestamp": 1709755984766,
     "alias": "Nunu",
     "name": "Nunu \u0026 Willump",
     "position": "supp",
@@ -306,7 +310,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 265, win 40.75%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 21, win 57.14%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -323,18 +327,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 17, win 76.47%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3876",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3152",
                 "count": 1
               },
               {
-                "id": "3152",
+                "id": "3020",
                 "count": 1
               }
             ]
@@ -343,11 +347,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2504",
+                "id": "4646",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -356,15 +360,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3110",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3068",
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -374,10 +378,6 @@
             "items": [
               {
                 "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3068",
                 "count": 1
               }
             ]
@@ -394,10 +394,10 @@
     "runes": [
       {
         "alias": "Nunu",
-        "name": "[u.gg] Nunu @ supp, win 40.25%, pick 159",
+        "name": "[u.gg] Nunu @ supp, win 100.00%, pick 4",
         "position": "supp",
-        "pickCount": 159,
-        "winRate": "40.25%",
+        "pickCount": 4,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -407,9 +407,9 @@
           8138,
           8232,
           8234,
+          5005,
           5008,
-          5010,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 36,
+    "index": 1,
     "id": "20",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 138,
-    "winRate": "30.43%",
-    "timestamp": 1709669544430,
+    "pickCount": 6,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Nunu",
     "name": "Nunu \u0026 Willump",
     "position": "top",
@@ -445,73 +445,46 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1054",
                 "count": 1
               },
               {
-                "id": "3865",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 9, win 55.56%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3020",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "3152",
+                "id": "3068",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3065",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3143",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -525,21 +498,21 @@
     "runes": [
       {
         "alias": "Nunu",
-        "name": "[u.gg] Nunu @ top, win 80.00%, pick 5",
+        "name": "[u.gg] Nunu @ top, win 100.00%, pick 1",
         "position": "top",
-        "pickCount": 5,
-        "winRate": "80.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8230,
-          8226,
-          8233,
-          8237,
-          8313,
-          8345,
+          8112,
+          8126,
+          8135,
+          8138,
+          8232,
+          8275,
           5008,
-          5001,
+          5008,
           5001
         ],
         "score": 0,
@@ -548,13 +521,13 @@
     ]
   },
   {
-    "index": 36,
+    "index": 1,
     "id": "20",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 89,
-    "winRate": "25.84%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Nunu",
     "name": "Nunu \u0026 Willump",
     "position": "adc",
@@ -576,14 +549,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 54, win 35.19%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1102",
                 "count": 1
               },
               {
@@ -593,10 +562,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 9, win 77.78%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3152",
+                "id": "4646",
                 "count": 1
               },
               {
@@ -604,7 +573,7 @@
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -613,36 +582,18 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "6655",
+                "id": "3102",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -656,22 +607,22 @@
     "runes": [
       {
         "alias": "Nunu",
-        "name": "[u.gg] Nunu @ adc, win 66.67%, pick 9",
+        "name": "[u.gg] Nunu @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 9,
-        "winRate": "66.67%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
-          8112,
+          8128,
           8105,
           8126,
           8138,
+          8232,
           8234,
-          8275,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

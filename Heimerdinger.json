@@ -1,18 +1,18 @@
 [
   {
-    "index": 147,
+    "index": 124,
     "id": "74",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2862,
-    "winRate": "47.94%",
-    "timestamp": 1709669544430,
+    "pickCount": 158,
+    "winRate": "46.20%",
+    "timestamp": 1709755984766,
     "alias": "Heimerdinger",
     "name": "Heimerdinger",
     "position": "supp",
     "skills": [
-      "W",
       "Q",
+      "W",
       "E"
     ],
     "spells": null,
@@ -28,10 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2435, win 48.79%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 18, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2003",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -39,16 +39,46 @@
                 "count": 1
               },
               {
-                "id": "3865",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 380, win 53.95%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 8, win 75.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3871",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3116",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
                 "count": 1
               },
               {
@@ -56,54 +86,16 @@
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "4643",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3118",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -120,22 +112,22 @@
     "runes": [
       {
         "alias": "Heimerdinger",
-        "name": "[u.gg] Heimerdinger @ supp, win 55.77%, pick 104",
+        "name": "[u.gg] Heimerdinger @ supp, win 66.67%, pick 9",
         "position": "supp",
-        "pickCount": 104,
-        "winRate": "55.77%",
+        "pickCount": 9,
+        "winRate": "66.67%",
         "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8229,
+          8135,
+          8139,
           8210,
           8226,
           8237,
-          8345,
-          8347,
+          5007,
           5008,
-          5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -143,13 +135,13 @@
     ]
   },
   {
-    "index": 147,
+    "index": 124,
     "id": "74",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2682,
-    "winRate": "50.82%",
-    "timestamp": 1709669544430,
+    "pickCount": 118,
+    "winRate": "45.76%",
+    "timestamp": 1709755984766,
     "alias": "Heimerdinger",
     "name": "Heimerdinger",
     "position": "top",
@@ -171,31 +163,35 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 48, win 75.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 6, win 66.67%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1082",
+                "id": "1052",
                 "count": 1
               },
               {
-                "id": "2031",
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 55, win 63.64%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 57.14%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6653",
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "3020",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -204,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3157",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -217,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3137",
-                "count": 1
-              },
-              {
                 "id": "3089",
                 "count": 1
               },
               {
-                "id": "3165",
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "6655",
                 "count": 1
               }
             ]
@@ -234,159 +230,12 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Heimerdinger",
-        "name": "[u.gg] Heimerdinger @ top, win 83.33%, pick 18",
-        "position": "top",
-        "pickCount": 18,
-        "winRate": "83.33%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8229,
-          8009,
-          8017,
-          8210,
-          8226,
-          8236,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 147,
-    "id": "74",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 1137,
-    "winRate": "52.07%",
-    "timestamp": 1709669544430,
-    "alias": "Heimerdinger",
-    "name": "Heimerdinger",
-    "position": "mid",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Heimerdinger @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          74
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1057, win 51.94%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 73, win 58.90%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "4645",
+                "id": "3135",
                 "count": 1
               },
               {
                 "id": "3041",
                 "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
               }
             ]
           }
@@ -402,22 +251,22 @@
     "runes": [
       {
         "alias": "Heimerdinger",
-        "name": "[u.gg] Heimerdinger @ mid, win 100.00%, pick 6",
-        "position": "mid",
-        "pickCount": 6,
-        "winRate": "100.00%",
+        "name": "[u.gg] Heimerdinger @ top, win 75.00%, pick 8",
+        "position": "top",
+        "pickCount": 8,
+        "winRate": "75.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "subStyleId": 8000,
         "selectedPerkIds": [
           8229,
+          8009,
+          8014,
           8226,
           8233,
-          8236,
-          8313,
-          8345,
-          5005,
+          8237,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -425,19 +274,19 @@
     ]
   },
   {
-    "index": 147,
+    "index": 124,
     "id": "74",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 783,
-    "winRate": "51.60%",
-    "timestamp": 1709669544430,
+    "pickCount": 50,
+    "winRate": "60.00%",
+    "timestamp": 1709755984766,
     "alias": "Heimerdinger",
     "name": "Heimerdinger",
     "position": "adc",
     "skills": [
-      "Q",
       "W",
+      "Q",
       "E"
     ],
     "spells": null,
@@ -453,7 +302,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 756, win 51.98%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 48, win 60.42%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -470,65 +319,57 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 54, win 61.11%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "6655",
                 "count": 1
               },
               {
+                "id": "3089",
+                "count": 1
+              },
+              {
                 "id": "3020",
                 "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
               },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4005",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
               {
                 "id": "6653",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "4628",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4633",
                 "count": 1
               }
             ]
@@ -545,22 +386,22 @@
     "runes": [
       {
         "alias": "Heimerdinger",
-        "name": "[u.gg] Heimerdinger @ adc, win 74.36%, pick 39",
+        "name": "[u.gg] Heimerdinger @ adc, win 100.00%, pick 3",
         "position": "adc",
-        "pickCount": 39,
-        "winRate": "74.36%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8200,
+        "pickCount": 3,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8010,
+          8229,
           8009,
-          8017,
+          8226,
           8233,
           8236,
-          9105,
+          8299,
           5008,
           5008,
-          5013
+          5011
         ],
         "score": 0,
         "type": ""
@@ -568,13 +409,131 @@
     ]
   },
   {
-    "index": 147,
+    "index": 124,
     "id": "74",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 43,
-    "winRate": "37.21%",
-    "timestamp": 1709669544430,
+    "pickCount": 36,
+    "winRate": "55.56%",
+    "timestamp": 1709755984766,
+    "alias": "Heimerdinger",
+    "name": "Heimerdinger",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Heimerdinger @ mid, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          74
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3116",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Heimerdinger",
+        "name": "[u.gg] Heimerdinger @ mid, win 100.00%, pick 2",
+        "position": "mid",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8010,
+          8009,
+          8233,
+          8236,
+          8299,
+          9105,
+          5008,
+          5010,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 124,
+    "id": "74",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 4,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Heimerdinger",
     "name": "Heimerdinger",
     "position": "jungle",
@@ -596,7 +555,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14, win 64.29%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 4, win 50.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1101",
@@ -605,18 +564,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "6653",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -624,10 +583,6 @@
           {
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
               {
                 "id": "3137",
                 "count": 1
@@ -638,15 +593,7 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -667,10 +614,10 @@
     "runes": [
       {
         "alias": "Heimerdinger",
-        "name": "[u.gg] Heimerdinger @ jungle, win 61.54%, pick 13",
+        "name": "[u.gg] Heimerdinger @ jungle, win 50.00%, pick 4",
         "position": "jungle",
-        "pickCount": 13,
-        "winRate": "61.54%",
+        "pickCount": 4,
+        "winRate": "50.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -682,7 +629,7 @@
           8347,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

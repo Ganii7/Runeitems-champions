@@ -1,12 +1,12 @@
 [
   {
-    "index": 68,
+    "index": 27,
     "id": "96",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 4369,
-    "winRate": "50.29%",
-    "timestamp": 1709669544430,
+    "pickCount": 638,
+    "winRate": "50.63%",
+    "timestamp": 1709755984766,
     "alias": "KogMaw",
     "name": "Kog'Maw",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3663, win 50.75%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 559, win 52.42%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1249, win 52.68%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 232, win 53.88%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "3006",
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3085",
+                "id": "3302",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3085",
                 "count": 1
               }
             ]
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3302",
-                "count": 1
-              },
-              {
                 "id": "3085",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
+                "id": "3085",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              },
+              {
                 "id": "3302",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3091",
                 "count": 1
               }
             ]
@@ -116,19 +116,19 @@
     "runes": [
       {
         "alias": "KogMaw",
-        "name": "[u.gg] KogMaw @ adc, win 51.05%, pick 1475",
+        "name": "[u.gg] KogMaw @ adc, win 100.00%, pick 5",
         "position": "adc",
-        "pickCount": 1475,
-        "winRate": "51.05%",
+        "pickCount": 5,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8008,
-          8299,
-          8429,
-          8451,
-          9103,
-          9111,
+          8009,
+          8014,
+          8304,
+          8345,
+          9104,
           5005,
           5008,
           5001
@@ -139,20 +139,20 @@
     ]
   },
   {
-    "index": 68,
+    "index": 27,
     "id": "96",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 707,
-    "winRate": "49.36%",
-    "timestamp": 1709669544430,
+    "pickCount": 61,
+    "winRate": "52.46%",
+    "timestamp": 1709755984766,
     "alias": "KogMaw",
     "name": "Kog'Maw",
     "position": "mid",
     "skills": [
-      "W",
+      "E",
       "Q",
-      "E"
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -167,20 +167,24 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 117, win 60.68%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 8, win 75.00%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3070",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 41, win 63.41%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -197,44 +201,44 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3091",
+                "id": "3118",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3302",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3085",
-                "count": 1
-              },
-              {
-                "id": "6653",
+                "id": "3157",
                 "count": 1
               },
               {
                 "id": "3137",
                 "count": 1
+              },
+              {
+                "id": "3003",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3165",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "3135",
                 "count": 1
               },
               {
@@ -255,20 +259,20 @@
     "runes": [
       {
         "alias": "KogMaw",
-        "name": "[u.gg] KogMaw @ mid, win 73.53%, pick 34",
+        "name": "[u.gg] KogMaw @ mid, win 64.29%, pick 14",
         "position": "mid",
-        "pickCount": 34,
-        "winRate": "73.53%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "pickCount": 14,
+        "winRate": "64.29%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8008,
+          8229,
+          8009,
           8014,
-          8451,
-          8473,
-          9103,
-          9111,
-          5008,
+          8226,
+          8233,
+          8237,
+          5005,
           5008,
           5011
         ],
@@ -278,13 +282,13 @@
     ]
   },
   {
-    "index": 68,
+    "index": 27,
     "id": "96",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 133,
-    "winRate": "48.12%",
-    "timestamp": 1709669544430,
+    "pickCount": 15,
+    "winRate": "66.67%",
+    "timestamp": 1709755984766,
     "alias": "KogMaw",
     "name": "Kog'Maw",
     "position": "supp",
@@ -306,31 +310,35 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 22, win 59.09%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 15, win 66.67%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "3020",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -343,7 +351,7 @@
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -352,35 +360,14 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3748",
-                "count": 1
-              },
-              {
-                "id": "3003",
+                "id": "3135",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -394,19 +381,19 @@
     "runes": [
       {
         "alias": "KogMaw",
-        "name": "[u.gg] KogMaw @ supp, win 100.00%, pick 4",
+        "name": "[u.gg] KogMaw @ supp, win 100.00%, pick 3",
         "position": "supp",
-        "pickCount": 4,
+        "pickCount": 3,
         "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8229,
-          8009,
-          8017,
-          8210,
           8226,
+          8233,
           8237,
+          8345,
+          8347,
           5008,
           5008,
           5011
@@ -417,13 +404,13 @@
     ]
   },
   {
-    "index": 68,
+    "index": 27,
     "id": "96",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 107,
-    "winRate": "46.73%",
-    "timestamp": 1709669544430,
+    "pickCount": 4,
+    "winRate": "75.00%",
+    "timestamp": 1709755984766,
     "alias": "KogMaw",
     "name": "Kog'Maw",
     "position": "top",
@@ -445,7 +432,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 83, win 48.19%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 2, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -458,27 +445,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 16, win 62.50%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3006",
+                "id": "3020",
                 "count": 1
               },
               {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3124",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3302",
+                "id": "6655",
                 "count": 1
               },
               {
@@ -488,125 +462,8 @@
             ]
           },
           {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
-              {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3302",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "KogMaw",
-        "name": "[u.gg] KogMaw @ top, win 75.00%, pick 4",
-        "position": "top",
-        "pickCount": 4,
-        "winRate": "75.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8008,
-          8014,
-          8135,
-          8139,
-          9104,
-          9111,
-          5005,
-          5010,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 68,
-    "id": "96",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 9,
-    "winRate": "22.22%",
-    "timestamp": 1709669544430,
-    "alias": "KogMaw",
-    "name": "Kog'Maw",
-    "position": "jungle",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] KogMaw @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          96
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 50.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 50.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3006",
-                "count": 1
-              },
-              {
-                "id": "3748",
-                "count": 1
-              },
               {
                 "id": "3124",
                 "count": 1
@@ -614,30 +471,8 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3302",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
@@ -655,22 +490,22 @@
     "runes": [
       {
         "alias": "KogMaw",
-        "name": "[u.gg] KogMaw @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] KogMaw @ top, win 100.00%, pick 1",
+        "position": "top",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "primaryStyleId": 8200,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8010,
+          8229,
           8009,
           8014,
-          8105,
-          8138,
-          9104,
+          8226,
+          8233,
+          8236,
           5005,
           5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""

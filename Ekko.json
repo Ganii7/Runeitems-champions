@@ -1,12 +1,12 @@
 [
   {
-    "index": 93,
+    "index": 26,
     "id": "245",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 23433,
-    "winRate": "49.53%",
-    "timestamp": 1709669544430,
+    "pickCount": 877,
+    "winRate": "48.46%",
+    "timestamp": 1709755984766,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "jungle",
@@ -28,10 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11160, win 50.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 262, win 50.38%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1101",
+                "id": "1102",
                 "count": 1
               },
               {
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3095, win 51.41%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 115, win 55.65%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3100",
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -116,20 +116,20 @@
     "runes": [
       {
         "alias": "Ekko",
-        "name": "[u.gg] Ekko @ jungle, win 51.21%, pick 3519",
+        "name": "[u.gg] Ekko @ jungle, win 78.57%, pick 14",
         "position": "jungle",
-        "pickCount": 3519,
-        "winRate": "51.21%",
+        "pickCount": 14,
+        "winRate": "78.57%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
-          8128,
+          9923,
           8135,
           8138,
           8143,
           8304,
-          8321,
-          5005,
+          8347,
+          5008,
           5008,
           5001
         ],
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 93,
+    "index": 26,
     "id": "245",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 17584,
-    "winRate": "50.73%",
-    "timestamp": 1709669544430,
+    "pickCount": 659,
+    "winRate": "53.87%",
+    "timestamp": 1709755984766,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "mid",
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 16041, win 50.71%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 596, win 54.53%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -184,7 +184,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5139, win 54.41%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 184, win 57.07%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3100",
@@ -217,11 +217,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               },
               {
@@ -238,11 +238,11 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -259,10 +259,10 @@
     "runes": [
       {
         "alias": "Ekko",
-        "name": "[u.gg] Ekko @ mid, win 51.79%, pick 6993",
+        "name": "[u.gg] Ekko @ mid, win 59.14%, pick 279",
         "position": "mid",
-        "pickCount": 6993,
-        "winRate": "51.79%",
+        "pickCount": 279,
+        "winRate": "59.14%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 93,
+    "index": 26,
     "id": "245",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 323,
-    "winRate": "44.58%",
-    "timestamp": 1709669544430,
+    "pickCount": 14,
+    "winRate": "35.71%",
+    "timestamp": 1709755984766,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "top",
@@ -310,10 +310,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 271, win 46.13%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "1082",
                 "count": 1
               },
               {
@@ -327,7 +331,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 68, win 50.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3100",
@@ -351,7 +355,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -360,15 +364,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3041",
-                "count": 1
-              },
-              {
                 "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3137",
                 "count": 1
               }
             ]
@@ -378,14 +374,6 @@
             "items": [
               {
                 "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "6665",
                 "count": 1
               }
             ]
@@ -402,19 +390,19 @@
     "runes": [
       {
         "alias": "Ekko",
-        "name": "[u.gg] Ekko @ top, win 75.00%, pick 16",
+        "name": "[u.gg] Ekko @ top, win 100.00%, pick 2",
         "position": "top",
-        "pickCount": 16,
-        "winRate": "75.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8112,
-          8105,
-          8138,
+          8369,
+          8120,
           8143,
-          8233,
-          8236,
+          8304,
+          8345,
+          8347,
           5008,
           5008,
           5001
@@ -425,13 +413,13 @@
     ]
   },
   {
-    "index": 93,
+    "index": 26,
     "id": "245",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 192,
-    "winRate": "41.67%",
-    "timestamp": 1709669544430,
+    "pickCount": 6,
+    "winRate": "16.67%",
+    "timestamp": 1709755984766,
     "alias": "Ekko",
     "name": "Ekko",
     "position": "supp",
@@ -453,7 +441,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 161, win 43.48%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4, win 25.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -470,153 +458,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 20, win 65.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 33.33%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3115",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Ekko",
-        "name": "[u.gg] Ekko @ supp, win 66.67%, pick 15",
-        "position": "supp",
-        "pickCount": 15,
-        "winRate": "66.67%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8128,
-          8105,
-          8138,
-          8143,
-          8234,
-          8275,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 93,
-    "id": "245",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 32,
-    "winRate": "46.88%",
-    "timestamp": 1709669544430,
-    "alias": "Ekko",
-    "name": "Ekko",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Ekko @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          245
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 29, win 48.28%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6655",
                 "count": 1
               },
               {
@@ -633,11 +478,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3165",
+                "id": "3115",
                 "count": 1
               }
             ]
@@ -646,27 +487,14 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3137",
+                "id": "3135",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -680,22 +508,22 @@
     "runes": [
       {
         "alias": "Ekko",
-        "name": "[u.gg] Ekko @ adc, win 66.67%, pick 3",
-        "position": "adc",
+        "name": "[u.gg] Ekko @ supp, win 33.33%, pick 3",
+        "position": "supp",
         "pickCount": 3,
-        "winRate": "66.67%",
+        "winRate": "33.33%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
-          9923,
-          8135,
+          8112,
+          8105,
           8138,
           8143,
           8233,
-          8237,
-          5005,
+          8236,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""

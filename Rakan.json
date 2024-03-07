@@ -1,12 +1,12 @@
 [
   {
-    "index": 112,
+    "index": 80,
     "id": "497",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 42551,
-    "winRate": "51.35%",
-    "timestamp": 1709669544430,
+    "pickCount": 2203,
+    "winRate": "50.02%",
+    "timestamp": 1709755984766,
     "alias": "Rakan",
     "name": "Rakan",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 41454, win 51.46%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 2153, win 49.93%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "2003",
@@ -45,10 +45,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5821, win 54.75%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 211, win 55.92%, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3876",
+                "id": "3869",
                 "count": 1
               },
               {
@@ -78,11 +78,11 @@
             "type": "Fifth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3109",
+                "id": "3190",
                 "count": 1
               },
               {
-                "id": "3190",
+                "id": "3109",
                 "count": 1
               },
               {
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "4643",
+                "id": "3190",
                 "count": 1
               },
               {
-                "id": "3109",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "2065",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "Rakan",
-        "name": "[u.gg] Rakan @ supp, win 51.29%, pick 20082",
+        "name": "[u.gg] Rakan @ supp, win 52.06%, pick 1043",
         "position": "supp",
-        "pickCount": 20082,
-        "winRate": "51.29%",
+        "pickCount": 1043,
+        "winRate": "52.06%",
         "primaryStyleId": 8400,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 112,
+    "index": 80,
     "id": "497",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 152,
-    "winRate": "46.71%",
-    "timestamp": 1709669544430,
+    "pickCount": 4,
+    "winRate": "25.00%",
+    "timestamp": 1709755984766,
     "alias": "Rakan",
     "name": "Rakan",
     "position": "mid",
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 138, win 47.83%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 3, win 33.33%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -188,60 +188,20 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 19, win 63.16%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, W \u003e Q \u003e E",
+            "items": null
           },
           {
             "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "4629",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -255,20 +215,20 @@
     "runes": [
       {
         "alias": "Rakan",
-        "name": "[u.gg] Rakan @ mid, win 83.33%, pick 6",
+        "name": "[u.gg] Rakan @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 6,
-        "winRate": "83.33%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8112,
+          8229,
           8106,
-          8138,
-          8143,
+          8126,
           8210,
-          8236,
-          5007,
+          8226,
+          8237,
+          5008,
           5008,
           5001
         ],
@@ -278,13 +238,13 @@
     ]
   },
   {
-    "index": 112,
+    "index": 80,
     "id": "497",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 53,
-    "winRate": "39.62%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Rakan",
     "name": "Rakan",
     "position": "top",
@@ -306,14 +266,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 35, win 42.86%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 1, win 0.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -323,10 +279,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 57.14%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6657",
+                "id": "3084",
                 "count": 1
               },
               {
@@ -334,40 +290,18 @@
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "6664",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
@@ -385,21 +319,21 @@
     "runes": [
       {
         "alias": "Rakan",
-        "name": "[u.gg] Rakan @ top, win 55.56%, pick 9",
+        "name": "[u.gg] Rakan @ top, win 0.00%, pick 1",
         "position": "top",
-        "pickCount": 9,
-        "winRate": "55.56%",
+        "pickCount": 1,
+        "winRate": "0.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8200,
+        "subStyleId": 8000,
         "selectedPerkIds": [
           8437,
-          8210,
-          8237,
           8401,
-          8453,
-          8473,
+          8429,
+          8451,
+          9105,
+          9111,
           5005,
-          5008,
+          5001,
           5011
         ],
         "score": 0,
@@ -408,21 +342,17 @@
     ]
   },
   {
-    "index": 112,
+    "index": 80,
     "id": "497",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 19,
-    "winRate": "47.37%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Rakan",
     "name": "Rakan",
     "position": "adc",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
+    "skills": [],
     "spells": null,
     "itemBuilds": [
       {
@@ -436,12 +366,8 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6, win 83.33%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 1, win 0.00%, ",
             "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
               {
                 "id": "2003",
                 "count": 1
@@ -449,54 +375,27 @@
               {
                 "id": "2003",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
               },
               {
-                "id": "3050",
-                "count": 1
-              },
-              {
-                "id": "3002",
+                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              }
-            ]
+            "type": "Fourth Item Options, ",
+            "items": null
           },
           {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "type": "Fifth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, ",
             "items": null
           }
         ],
@@ -511,136 +410,22 @@
     "runes": [
       {
         "alias": "Rakan",
-        "name": "[u.gg] Rakan @ adc, win 100.00%, pick 1",
+        "name": "[u.gg] Rakan @ adc, win 0.00%, pick 1",
         "position": "adc",
         "pickCount": 1,
-        "winRate": "100.00%",
+        "winRate": "0.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8100,
         "selectedPerkIds": [
-          8439,
+          8465,
           8106,
-          8138,
-          8242,
-          8429,
+          8136,
+          8444,
+          8453,
           8463,
-          5007,
+          5008,
           5010,
           5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 112,
-    "id": "497",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 5,
-    "winRate": "0.00%",
-    "timestamp": 1709669544430,
-    "alias": "Rakan",
-    "name": "Rakan",
-    "position": "jungle",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Rakan @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          497
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 4, win 0.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1103",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 0.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3115",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Rakan",
-        "name": "[u.gg] Rakan @ jungle, win 0.00%, pick 5",
-        "position": "jungle",
-        "pickCount": 5,
-        "winRate": "0.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8112,
-          8105,
-          8138,
-          8143,
-          8210,
-          8236,
-          5005,
-          5008,
-          5001
         ],
         "score": 0,
         "type": ""

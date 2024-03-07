@@ -1,12 +1,12 @@
 [
   {
-    "index": 144,
+    "index": 71,
     "id": "121",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 46913,
-    "winRate": "50.68%",
-    "timestamp": 1709669544430,
+    "pickCount": 2244,
+    "winRate": "50.85%",
+    "timestamp": 1709755984766,
     "alias": "Khazix",
     "name": "Kha'Zix",
     "position": "jungle",
@@ -28,20 +28,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 29142, win 50.82%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 372, win 51.88%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1840, win 54.57%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 104, win 55.77%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3142",
@@ -82,7 +78,7 @@
                 "count": 1
               },
               {
-                "id": "6699",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -99,7 +95,7 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -116,19 +112,19 @@
     "runes": [
       {
         "alias": "Khazix",
-        "name": "[u.gg] Khazix @ jungle, win 50.55%, pick 24856",
+        "name": "[u.gg] Khazix @ jungle, win 90.91%, pick 11",
         "position": "jungle",
-        "pickCount": 24856,
-        "winRate": "50.55%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "pickCount": 11,
+        "winRate": "90.91%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8369,
-          8135,
+          8128,
+          8014,
+          8105,
+          8138,
           8143,
-          8304,
-          8321,
-          8347,
+          9111,
           5008,
           5008,
           5001
@@ -139,13 +135,13 @@
     ]
   },
   {
-    "index": 144,
+    "index": 71,
     "id": "121",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 53,
-    "winRate": "37.74%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Khazix",
     "name": "Kha'Zix",
     "position": "top",
@@ -167,7 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 19, win 52.63%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 2, win 50.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -184,18 +180,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
               {
                 "id": "6698",
                 "count": 1
               },
               {
                 "id": "3004",
-                "count": 1
-              },
-              {
-                "id": "3158",
                 "count": 1
               }
             ]
@@ -206,10 +202,6 @@
               {
                 "id": "6692",
                 "count": 1
-              },
-              {
-                "id": "3033",
-                "count": 1
               }
             ]
           },
@@ -217,402 +209,13 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "6662",
+                "id": "6694",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6695",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Khazix",
-        "name": "[u.gg] Khazix @ top, win 62.50%, pick 8",
-        "position": "top",
-        "pickCount": 8,
-        "winRate": "62.50%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8369,
-          8226,
-          8233,
-          8313,
-          8345,
-          8347,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 144,
-    "id": "121",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 50,
-    "winRate": "38.00%",
-    "timestamp": 1709669544430,
-    "alias": "Khazix",
-    "name": "Kha'Zix",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Khazix @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          121
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 17, win 47.06%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1036",
-                "count": 1
-              },
-              {
-                "id": "2031",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "6701",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3004",
-                "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Khazix",
-        "name": "[u.gg] Khazix @ mid, win 60.00%, pick 5",
-        "position": "mid",
-        "pickCount": 5,
-        "winRate": "60.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8230,
-          8226,
-          8233,
-          8236,
-          8444,
-          8451,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 144,
-    "id": "121",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 16,
-    "winRate": "37.50%",
-    "timestamp": 1709669544430,
-    "alias": "Khazix",
-    "name": "Kha'Zix",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Khazix @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          121
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 60.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3877",
-                "count": 1
-              },
-              {
-                "id": "3179",
-                "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3156",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Khazix",
-        "name": "[u.gg] Khazix @ supp, win 100.00%, pick 2",
-        "position": "supp",
-        "pickCount": 2,
-        "winRate": "100.00%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8369,
-          8105,
-          8143,
-          8313,
-          8345,
-          8410,
-          5008,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 144,
-    "id": "121",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 4,
-    "winRate": "0.00%",
-    "timestamp": 1709669544430,
-    "alias": "Khazix",
-    "name": "Kha'Zix",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Khazix @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          121
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3142",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": null
           }
         ],
@@ -627,19 +230,19 @@
     "runes": [
       {
         "alias": "Khazix",
-        "name": "[u.gg] Khazix @ adc, win 0.00%, pick 2",
-        "position": "adc",
-        "pickCount": 2,
-        "winRate": "0.00%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "name": "[u.gg] Khazix @ top, win 100.00%, pick 1",
+        "position": "top",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8369,
-          8135,
-          8143,
-          8304,
-          8321,
-          8347,
+          8229,
+          8210,
+          8226,
+          8237,
+          8313,
+          8345,
           5008,
           5008,
           5001

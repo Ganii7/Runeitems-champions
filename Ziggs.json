@@ -1,19 +1,19 @@
 [
   {
-    "index": 97,
+    "index": 164,
     "id": "115",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 4344,
-    "winRate": "51.50%",
-    "timestamp": 1709669544430,
+    "pickCount": 201,
+    "winRate": "49.25%",
+    "timestamp": 1709755984766,
     "alias": "Ziggs",
     "name": "Ziggs",
     "position": "adc",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3869, win 51.49%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 183, win 50.27%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -45,10 +45,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 771, win 54.22%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 16, win 68.75%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6655",
+                "id": "3003",
                 "count": 1
               },
               {
@@ -56,54 +56,54 @@
                 "count": 1
               },
               {
-                "id": "3003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "6653",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "6653",
+                "id": "3116",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "4645",
                 "count": 1
               },
               {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
                 "id": "3089",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "Ziggs",
-        "name": "[u.gg] Ziggs @ adc, win 52.28%, pick 2276",
+        "name": "[u.gg] Ziggs @ adc, win 85.71%, pick 7",
         "position": "adc",
-        "pickCount": 2276,
-        "winRate": "52.28%",
+        "pickCount": 7,
+        "winRate": "85.71%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -131,11 +131,11 @@
           8210,
           8226,
           8237,
-          8304,
+          8313,
           8345,
+          5005,
           5008,
-          5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 97,
+    "index": 164,
     "id": "115",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2742,
-    "winRate": "48.61%",
-    "timestamp": 1709669544430,
+    "pickCount": 120,
+    "winRate": "51.67%",
+    "timestamp": 1709755984766,
     "alias": "Ziggs",
     "name": "Ziggs",
     "position": "mid",
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2377, win 49.14%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 96, win 53.13%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -188,10 +188,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 51, win 66.67%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 17, win 64.71%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3003",
+                "id": "6655",
                 "count": 1
               },
               {
@@ -199,7 +199,7 @@
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -208,11 +208,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3135",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -225,11 +225,11 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "8020",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -238,15 +238,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6653",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3135",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -263,21 +259,21 @@
     "runes": [
       {
         "alias": "Ziggs",
-        "name": "[u.gg] Ziggs @ mid, win 50.00%, pick 1042",
+        "name": "[u.gg] Ziggs @ mid, win 100.00%, pick 3",
         "position": "mid",
-        "pickCount": 1042,
-        "winRate": "50.00%",
+        "pickCount": 3,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8229,
+          8214,
           8210,
           8226,
           8237,
-          8304,
-          8345,
+          8446,
+          8473,
           5008,
-          5001,
+          5008,
           5001
         ],
         "score": 0,
@@ -286,13 +282,13 @@
     ]
   },
   {
-    "index": 97,
+    "index": 164,
     "id": "115",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 409,
-    "winRate": "44.25%",
-    "timestamp": 1709669544430,
+    "pickCount": 20,
+    "winRate": "45.00%",
+    "timestamp": 1709755984766,
     "alias": "Ziggs",
     "name": "Ziggs",
     "position": "supp",
@@ -314,7 +310,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 374, win 45.45%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 19, win 47.37%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -331,10 +327,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 12, win 75.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 66.67%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3869",
+                "id": "3871",
                 "count": 1
               },
               {
@@ -342,7 +338,7 @@
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3020",
                 "count": 1
               }
             ]
@@ -353,10 +349,6 @@
               {
                 "id": "6653",
                 "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
               }
             ]
           },
@@ -364,15 +356,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
                 "id": "3137",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3116",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -380,14 +372,6 @@
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
               {
                 "id": "3089",
                 "count": 1
@@ -406,20 +390,20 @@
     "runes": [
       {
         "alias": "Ziggs",
-        "name": "[u.gg] Ziggs @ supp, win 54.61%, pick 141",
+        "name": "[u.gg] Ziggs @ supp, win 75.00%, pick 4",
         "position": "supp",
-        "pickCount": 141,
-        "winRate": "54.61%",
+        "pickCount": 4,
+        "winRate": "75.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8229,
           8210,
           8226,
           8237,
-          8304,
-          8345,
-          5008,
+          8446,
+          8473,
+          5007,
           5008,
           5001
         ],
@@ -429,20 +413,20 @@
     ]
   },
   {
-    "index": 97,
+    "index": 164,
     "id": "115",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 73,
-    "winRate": "47.95%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Ziggs",
     "name": "Ziggs",
     "position": "top",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -457,146 +441,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11, win 54.55%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 6, win 66.67%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Ziggs",
-        "name": "[u.gg] Ziggs @ top, win 52.17%, pick 23",
-        "position": "top",
-        "pickCount": 23,
-        "winRate": "52.17%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8304,
-          8345,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 97,
-    "id": "115",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 3,
-    "winRate": "0.00%",
-    "timestamp": 1709669544430,
-    "alias": "Ziggs",
-    "name": "Ziggs",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Ziggs @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          115
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -613,12 +458,8 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 0.00%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "6655",
-                "count": 1
-              },
               {
                 "id": "3003",
                 "count": 1
@@ -626,19 +467,28 @@
               {
                 "id": "3020",
                 "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": null
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": null
           }
         ],
@@ -653,9 +503,9 @@
     "runes": [
       {
         "alias": "Ziggs",
-        "name": "[u.gg] Ziggs @ jungle, win 0.00%, pick 1",
-        "position": "jungle",
-        "pickCount": 1,
+        "name": "[u.gg] Ziggs @ top, win 0.00%, pick 2",
+        "position": "top",
+        "pickCount": 2,
         "winRate": "0.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
@@ -666,7 +516,7 @@
           8237,
           8304,
           8345,
-          5008,
+          5005,
           5008,
           5001
         ],

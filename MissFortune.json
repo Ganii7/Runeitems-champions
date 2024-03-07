@@ -1,12 +1,12 @@
 [
   {
-    "index": 138,
+    "index": 66,
     "id": "21",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 28912,
-    "winRate": "50.43%",
-    "timestamp": 1709669544430,
+    "pickCount": 944,
+    "winRate": "50.85%",
+    "timestamp": 1709755984766,
     "alias": "MissFortune",
     "name": "Miss Fortune",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 26101, win 50.64%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 850, win 50.71%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -41,18 +41,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8242, win 52.88%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 53, win 62.26%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3142",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "6676",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "3009",
                 "count": 1
               }
             ]
@@ -82,7 +82,7 @@
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "3026",
                 "count": 1
               }
             ]
@@ -91,7 +91,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3026",
+                "id": "3814",
                 "count": 1
               },
               {
@@ -99,7 +99,7 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3072",
                 "count": 1
               }
             ]
@@ -116,15 +116,15 @@
     "runes": [
       {
         "alias": "MissFortune",
-        "name": "[u.gg] MissFortune @ adc, win 51.17%, pick 17437",
+        "name": "[u.gg] MissFortune @ adc, win 61.02%, pick 59",
         "position": "adc",
-        "pickCount": 17437,
-        "winRate": "51.17%",
+        "pickCount": 59,
+        "winRate": "61.02%",
         "primaryStyleId": 8300,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8369,
-          8233,
+          8226,
           8236,
           8304,
           8345,
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 138,
+    "index": 66,
     "id": "21",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 944,
-    "winRate": "40.47%",
-    "timestamp": 1709669544430,
+    "pickCount": 48,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "MissFortune",
     "name": "Miss Fortune",
     "position": "supp",
@@ -167,24 +167,24 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 100, win 47.00%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 39, win 51.28%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
                 "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 98, win 47.96%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 10, win 70.00%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3871",
@@ -208,30 +208,13 @@
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "6695",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "4628",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "4005",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3165",
@@ -242,7 +225,20 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "6664",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "6696",
+                "count": 1
+              },
+              {
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -259,10 +255,10 @@
     "runes": [
       {
         "alias": "MissFortune",
-        "name": "[u.gg] MissFortune @ supp, win 45.90%, pick 122",
+        "name": "[u.gg] MissFortune @ supp, win 63.64%, pick 11",
         "position": "supp",
-        "pickCount": 122,
-        "winRate": "45.90%",
+        "pickCount": 11,
+        "winRate": "63.64%",
         "primaryStyleId": 8200,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -274,7 +270,7 @@
           8237,
           5008,
           5008,
-          5013
+          5011
         ],
         "score": 0,
         "type": ""
@@ -282,13 +278,13 @@
     ]
   },
   {
-    "index": 138,
+    "index": 66,
     "id": "21",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 198,
-    "winRate": "41.92%",
-    "timestamp": 1709669544430,
+    "pickCount": 9,
+    "winRate": "44.44%",
+    "timestamp": 1709755984766,
     "alias": "MissFortune",
     "name": "Miss Fortune",
     "position": "mid",
@@ -310,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 19, win 52.63%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -327,18 +323,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3158",
+                "id": "6676",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "3009",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -349,24 +345,12 @@
               {
                 "id": "6694",
                 "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3026",
-                "count": 1
-              },
               {
                 "id": "3814",
                 "count": 1
@@ -377,15 +361,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6675",
-                "count": 1
-              },
-              {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "6697",
+                "id": "6701",
                 "count": 1
               }
             ]
@@ -402,22 +378,22 @@
     "runes": [
       {
         "alias": "MissFortune",
-        "name": "[u.gg] MissFortune @ mid, win 68.18%, pick 22",
+        "name": "[u.gg] MissFortune @ mid, win 100.00%, pick 2",
         "position": "mid",
-        "pickCount": 22,
-        "winRate": "68.18%",
-        "primaryStyleId": 8000,
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
         "subStyleId": 8200,
         "selectedPerkIds": [
-          8005,
-          8014,
-          8226,
+          8369,
           8233,
-          9101,
-          9104,
-          5005,
+          8236,
+          8304,
+          8345,
+          8347,
           5008,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -425,21 +401,17 @@
     ]
   },
   {
-    "index": 138,
+    "index": 66,
     "id": "21",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 15,
-    "winRate": "40.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "MissFortune",
     "name": "Miss Fortune",
     "position": "top",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
+    "skills": [],
     "spells": null,
     "itemBuilds": [
       {
@@ -453,67 +425,28 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6, win 50.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, ",
             "items": [
               {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "0",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3006",
-                "count": 1
-              },
-              {
-                "id": "6676",
-                "count": 1
-              }
-            ]
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "3071",
-                "count": 1
-              }
-            ]
+            "type": "Fourth Item Options, ",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6695",
-                "count": 1
-              },
-              {
-                "id": "3094",
-                "count": 1
-              },
-              {
-                "id": "3004",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, ",
+            "items": null
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Sixth Item Options, ",
             "items": null
           }
         ],
@@ -528,129 +461,20 @@
     "runes": [
       {
         "alias": "MissFortune",
-        "name": "[u.gg] MissFortune @ top, win 100.00%, pick 2",
+        "name": "[u.gg] MissFortune @ top, win 100.00%, pick 1",
         "position": "top",
-        "pickCount": 2,
+        "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8128,
-          8009,
-          8105,
-          8138,
-          8139,
-          9104,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 138,
-    "id": "21",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 2,
-    "winRate": "0.00%",
-    "timestamp": 1709669544430,
-    "alias": "MissFortune",
-    "name": "Miss Fortune",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] MissFortune @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          21
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6697",
-                "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": null
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "MissFortune",
-        "name": "[u.gg] MissFortune @ jungle, win 0.00%, pick 2",
-        "position": "jungle",
-        "pickCount": 2,
-        "winRate": "0.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8005,
-          8009,
-          8014,
+          8369,
+          8233,
+          8236,
           8304,
           8345,
-          9103,
-          5005,
+          8347,
+          5008,
           5008,
           5001
         ],

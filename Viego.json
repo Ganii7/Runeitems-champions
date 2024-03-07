@@ -1,12 +1,12 @@
 [
   {
-    "index": 73,
+    "index": 63,
     "id": "234",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 64907,
-    "winRate": "49.83%",
-    "timestamp": 1709669544430,
+    "pickCount": 3052,
+    "winRate": "51.15%",
+    "timestamp": 1709755984766,
     "alias": "Viego",
     "name": "Viego",
     "position": "jungle",
@@ -28,10 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 22205, win 49.97%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 846, win 53.66%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1102",
+                "id": "1103",
                 "count": 1
               },
               {
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 9634, win 52.13%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 421, win 55.11%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6672",
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "6333",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Viego",
-        "name": "[u.gg] Viego @ jungle, win 49.85%, pick 44370",
+        "name": "[u.gg] Viego @ jungle, win 51.37%, pick 2157",
         "position": "jungle",
-        "pickCount": 44370,
-        "winRate": "49.85%",
+        "pickCount": 2157,
+        "winRate": "51.37%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 73,
+    "index": 63,
     "id": "234",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1295,
-    "winRate": "51.04%",
-    "timestamp": 1709669544430,
+    "pickCount": 86,
+    "winRate": "54.65%",
+    "timestamp": 1709755984766,
     "alias": "Viego",
     "name": "Viego",
     "position": "mid",
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 535, win 51.96%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 34, win 55.88%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,10 +180,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 41, win 65.85%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3111",
+                "id": "3087",
                 "count": 1
               },
               {
@@ -191,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "3036",
                 "count": 1
               }
             ]
@@ -204,7 +204,7 @@
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "6662",
                 "count": 1
               }
             ]
@@ -221,7 +221,7 @@
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3078",
                 "count": 1
               }
             ]
@@ -234,11 +234,11 @@
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "3814",
                 "count": 1
               },
               {
-                "id": "8001",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -255,17 +255,17 @@
     "runes": [
       {
         "alias": "Viego",
-        "name": "[u.gg] Viego @ mid, win 54.62%, pick 130",
+        "name": "[u.gg] Viego @ mid, win 77.78%, pick 9",
         "position": "mid",
-        "pickCount": 130,
-        "winRate": "54.62%",
+        "pickCount": 9,
+        "winRate": "77.78%",
         "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8010,
-          8242,
+          8105,
+          8143,
           8299,
-          8444,
           9104,
           9111,
           5005,
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 73,
+    "index": 63,
     "id": "234",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 529,
-    "winRate": "50.66%",
-    "timestamp": 1709669544430,
+    "pickCount": 28,
+    "winRate": "32.14%",
+    "timestamp": 1709755984766,
     "alias": "Viego",
     "name": "Viego",
     "position": "top",
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 200, win 55.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 11, win 45.45%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -319,18 +319,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
                 "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3091",
+                "count": 1
+              },
+              {
+                "id": "3047",
                 "count": 1
               }
             ]
@@ -343,7 +343,7 @@
                 "count": 1
               },
               {
-                "id": "3031",
+                "id": "3181",
                 "count": 1
               }
             ]
@@ -352,150 +352,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "3124",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "8001",
-                "count": 1
-              },
-              {
-                "id": "6672",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Viego",
-        "name": "[u.gg] Viego @ top, win 65.22%, pick 23",
-        "position": "top",
-        "pickCount": 23,
-        "winRate": "65.22%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8010,
-          8242,
-          8299,
-          8444,
-          9104,
-          9111,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 73,
-    "id": "234",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 85,
-    "winRate": "42.35%",
-    "timestamp": 1709669544430,
-    "alias": "Viego",
-    "name": "Viego",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Viego @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          234
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 22, win 45.45%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3877",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "3302",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3075",
+                "id": "3748",
                 "count": 1
               },
               {
@@ -506,133 +363,6 @@
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3002",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Viego",
-        "name": "[u.gg] Viego @ supp, win 100.00%, pick 4",
-        "position": "supp",
-        "pickCount": 4,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8005,
-          8014,
-          8126,
-          8135,
-          9104,
-          9111,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 73,
-    "id": "234",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 18,
-    "winRate": "27.78%",
-    "timestamp": 1709669544430,
-    "alias": "Viego",
-    "name": "Viego",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Viego @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          234
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 10, win 40.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "6672",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": null
           }
         ],
@@ -647,22 +377,126 @@
     "runes": [
       {
         "alias": "Viego",
-        "name": "[u.gg] Viego @ adc, win 100.00%, pick 1",
-        "position": "adc",
+        "name": "[u.gg] Viego @ top, win 100.00%, pick 1",
+        "position": "top",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8439,
-          8242,
-          8463,
-          8473,
+          8230,
+          8234,
+          8237,
+          8275,
+          8444,
+          8446,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 63,
+    "id": "234",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
+    "alias": "Viego",
+    "name": "Viego",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Viego @ adc, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          234
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "3078",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Viego",
+        "name": "[u.gg] Viego @ adc, win 0.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8010,
+          8014,
+          8135,
+          8143,
           9104,
           9111,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

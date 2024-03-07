@@ -1,19 +1,19 @@
 [
   {
-    "index": 132,
+    "index": 78,
     "id": "517",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 39470,
-    "winRate": "50.04%",
-    "timestamp": 1709669544430,
+    "pickCount": 1960,
+    "winRate": "49.69%",
+    "timestamp": 1709755984766,
     "alias": "Sylas",
     "name": "Sylas",
     "position": "mid",
     "skills": [
       "W",
-      "E",
-      "Q"
+      "Q",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -28,14 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 32841, win 50.57%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 286, win 53.15%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -45,12 +41,8 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2443, win 55.34%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 44, win 63.64%, W \u003e Q \u003e E",
             "items": [
-              {
-                "id": "6657",
-                "count": 1
-              },
               {
                 "id": "3020",
                 "count": 1
@@ -58,573 +50,9 @@
               {
                 "id": "3100",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sylas",
-        "name": "[u.gg] Sylas @ mid, win 50.20%, pick 13329",
-        "position": "mid",
-        "pickCount": 13329,
-        "winRate": "50.20%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8112,
-          8105,
-          8138,
-          8143,
-          8210,
-          8237,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 132,
-    "id": "517",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 3765,
-    "winRate": "50.25%",
-    "timestamp": 1709669544430,
-    "alias": "Sylas",
-    "name": "Sylas",
-    "position": "top",
-    "skills": [
-      "W",
-      "E",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sylas @ top, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          517
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 3284, win 50.49%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 304, win 57.57%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6657",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
               },
               {
                 "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sylas",
-        "name": "[u.gg] Sylas @ top, win 59.74%, pick 77",
-        "position": "top",
-        "pickCount": 77,
-        "winRate": "59.74%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8010,
-          8009,
-          8210,
-          8226,
-          8299,
-          9105,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 132,
-    "id": "517",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 3544,
-    "winRate": "47.86%",
-    "timestamp": 1709669544430,
-    "alias": "Sylas",
-    "name": "Sylas",
-    "position": "supp",
-    "skills": [
-      "W",
-      "E",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sylas @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          517
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2756, win 48.11%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 342, win 53.80%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sylas",
-        "name": "[u.gg] Sylas @ supp, win 50.04%, pick 1423",
-        "position": "supp",
-        "pickCount": 1423,
-        "winRate": "50.04%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8112,
-          8105,
-          8138,
-          8143,
-          8210,
-          8237,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 132,
-    "id": "517",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 2126,
-    "winRate": "46.43%",
-    "timestamp": 1709669544430,
-    "alias": "Sylas",
-    "name": "Sylas",
-    "position": "jungle",
-    "skills": [
-      "W",
-      "E",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sylas @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          517
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 989, win 47.83%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 243, win 53.91%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sylas",
-        "name": "[u.gg] Sylas @ jungle, win 49.64%, pick 687",
-        "position": "jungle",
-        "pickCount": 687,
-        "winRate": "49.64%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8128,
-          8135,
-          8138,
-          8143,
-          8304,
-          8347,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 132,
-    "id": "517",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 156,
-    "winRate": "53.85%",
-    "timestamp": 1709669544430,
-    "alias": "Sylas",
-    "name": "Sylas",
-    "position": "adc",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sylas @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          517
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 131, win 55.73%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3100",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6655",
                 "count": 1
               }
             ]
@@ -646,15 +74,15 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
                 "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "4645",
                 "count": 1
               }
             ]
@@ -663,15 +91,15 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "4645",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3165",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -688,10 +116,153 @@
     "runes": [
       {
         "alias": "Sylas",
-        "name": "[u.gg] Sylas @ adc, win 57.14%, pick 42",
-        "position": "adc",
-        "pickCount": 42,
-        "winRate": "57.14%",
+        "name": "[u.gg] Sylas @ mid, win 55.56%, pick 99",
+        "position": "mid",
+        "pickCount": 99,
+        "winRate": "55.56%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8369,
+          8242,
+          8304,
+          8345,
+          8347,
+          8444,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 78,
+    "id": "517",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 243,
+    "winRate": "55.97%",
+    "timestamp": 1709755984766,
+    "alias": "Sylas",
+    "name": "Sylas",
+    "position": "supp",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Sylas @ supp, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          517
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 35, win 65.71%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 9, win 88.89%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "4643",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Sylas",
+        "name": "[u.gg] Sylas @ supp, win 64.77%, pick 88",
+        "position": "supp",
+        "pickCount": 88,
+        "winRate": "64.77%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -701,6 +272,403 @@
           8143,
           8210,
           8237,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 78,
+    "id": "517",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 215,
+    "winRate": "53.95%",
+    "timestamp": 1709755984766,
+    "alias": "Sylas",
+    "name": "Sylas",
+    "position": "top",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Sylas @ top, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          517
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 184, win 55.43%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "2504",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Sylas",
+        "name": "[u.gg] Sylas @ top, win 100.00%, pick 7",
+        "position": "top",
+        "pickCount": 7,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8010,
+          8009,
+          8299,
+          8444,
+          8451,
+          9105,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 78,
+    "id": "517",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 121,
+    "winRate": "44.63%",
+    "timestamp": 1709755984766,
+    "alias": "Sylas",
+    "name": "Sylas",
+    "position": "jungle",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Sylas @ jungle, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          517
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 27, win 48.15%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1103",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Sylas",
+        "name": "[u.gg] Sylas @ jungle, win 75.00%, pick 8",
+        "position": "jungle",
+        "pickCount": 8,
+        "winRate": "75.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8128,
+          8105,
+          8138,
+          8143,
+          8304,
+          8347,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 78,
+    "id": "517",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 7,
+    "winRate": "42.86%",
+    "timestamp": 1709755984766,
+    "alias": "Sylas",
+    "name": "Sylas",
+    "position": "adc",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Sylas @ adc, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          517
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2, win 100.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1082",
+                "count": 1
+              },
+              {
+                "id": "2031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6657",
+                "count": 1
+              },
+              {
+                "id": "3111",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Sylas",
+        "name": "[u.gg] Sylas @ adc, win 100.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8369,
+          8304,
+          8345,
+          8347,
+          8444,
+          8451,
           5008,
           5008,
           5001

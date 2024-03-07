@@ -1,12 +1,12 @@
 [
   {
-    "index": 26,
+    "index": 128,
     "id": "145",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 117417,
-    "winRate": "49.25%",
-    "timestamp": 1709669544430,
+    "pickCount": 6716,
+    "winRate": "49.03%",
+    "timestamp": 1709755984766,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 112883, win 49.29%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 6508, win 49.11%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 24934, win 52.37%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1316, win 50.99%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
@@ -82,7 +82,7 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3091",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3026",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3072",
                 "count": 1
               }
             ]
@@ -116,10 +116,149 @@
     "runes": [
       {
         "alias": "Kaisa",
-        "name": "[u.gg] Kaisa @ adc, win 50.24%, pick 49172",
+        "name": "[u.gg] Kaisa @ adc, win 49.90%, pick 2964",
         "position": "adc",
-        "pickCount": 49172,
-        "winRate": "50.24%",
+        "pickCount": 2964,
+        "winRate": "49.90%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          9923,
+          8135,
+          8138,
+          8139,
+          8304,
+          8345,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 128,
+    "id": "145",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 117,
+    "winRate": "44.44%",
+    "timestamp": 1709755984766,
+    "alias": "Kaisa",
+    "name": "Kai'Sa",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Kaisa @ mid, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          145
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 81, win 49.38%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 25, win 56.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "3115",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3102",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Kaisa",
+        "name": "[u.gg] Kaisa @ mid, win 51.22%, pick 41",
+        "position": "mid",
+        "pickCount": 41,
+        "winRate": "51.22%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -139,152 +278,13 @@
     ]
   },
   {
-    "index": 26,
+    "index": 128,
     "id": "145",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2680,
-    "winRate": "44.07%",
-    "timestamp": 1709669544430,
-    "alias": "Kaisa",
-    "name": "Kai'Sa",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Kaisa @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          145
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2052, win 44.74%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 337, win 48.07%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3004",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Kaisa",
-        "name": "[u.gg] Kaisa @ mid, win 65.91%, pick 44",
-        "position": "mid",
-        "pickCount": 44,
-        "winRate": "65.91%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          9923,
-          8135,
-          8138,
-          8139,
-          8233,
-          8236,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 26,
-    "id": "145",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 876,
-    "winRate": "48.74%",
-    "timestamp": 1709669544430,
+    "pickCount": 39,
+    "winRate": "41.03%",
+    "timestamp": 1709755984766,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "top",
@@ -306,10 +306,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 735, win 50.20%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 8, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1055",
+                "id": "1083",
                 "count": 1
               },
               {
@@ -319,18 +319,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 57, win 61.40%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3004",
+                "id": "3006",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3115",
                 "count": 1
               }
             ]
@@ -339,11 +339,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4645",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -352,15 +352,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3302",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "3091",
                 "count": 1
               }
             ]
@@ -369,15 +369,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3091",
+                "id": "3026",
                 "count": 1
               }
             ]
@@ -394,22 +386,22 @@
     "runes": [
       {
         "alias": "Kaisa",
-        "name": "[u.gg] Kaisa @ top, win 57.47%, pick 87",
+        "name": "[u.gg] Kaisa @ top, win 100.00%, pick 1",
         "position": "top",
-        "pickCount": 87,
-        "winRate": "57.47%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8369,
-          8210,
-          8237,
-          8304,
+          9923,
+          8135,
+          8138,
+          8139,
           8345,
           8347,
           5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -417,13 +409,13 @@
     ]
   },
   {
-    "index": 26,
+    "index": 128,
     "id": "145",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 327,
-    "winRate": "39.45%",
-    "timestamp": 1709669544430,
+    "pickCount": 12,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "supp",
@@ -445,7 +437,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 249, win 43.37%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 10, win 40.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -458,18 +450,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 119, win 42.86%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6672",
                 "count": 1
               },
               {
-                "id": "3006",
+                "id": "3302",
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "3006",
                 "count": 1
               }
             ]
@@ -478,24 +470,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "3124",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3124",
-                "count": 1
-              },
-              {
-                "id": "3153",
+                "id": "3157",
                 "count": 1
               },
               {
@@ -505,18 +480,27 @@
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3157",
+                "id": "3153",
                 "count": 1
               },
               {
-                "id": "3072",
+                "id": "3085",
                 "count": 1
               },
               {
                 "id": "3026",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6675",
                 "count": 1
               }
             ]
@@ -533,19 +517,19 @@
     "runes": [
       {
         "alias": "Kaisa",
-        "name": "[u.gg] Kaisa @ supp, win 42.48%, pick 113",
+        "name": "[u.gg] Kaisa @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 113,
-        "winRate": "42.48%",
-        "primaryStyleId": 8000,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
-          8008,
-          8009,
-          8014,
+          9923,
+          8135,
+          8138,
+          8139,
           8304,
           8345,
-          9103,
           5005,
           5008,
           5011
@@ -556,13 +540,13 @@
     ]
   },
   {
-    "index": 26,
+    "index": 128,
     "id": "145",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 291,
-    "winRate": "41.58%",
-    "timestamp": 1709669544430,
+    "pickCount": 5,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Kaisa",
     "name": "Kai'Sa",
     "position": "jungle",
@@ -584,23 +568,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 59, win 52.54%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 42, win 57.14%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3006",
+                "id": "6672",
                 "count": 1
               },
               {
-                "id": "6672",
+                "id": "3006",
                 "count": 1
               },
               {
@@ -613,11 +601,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3124",
-                "count": 1
-              },
-              {
-                "id": "6675",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -626,15 +610,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3115",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3124",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -643,15 +619,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -668,22 +636,22 @@
     "runes": [
       {
         "alias": "Kaisa",
-        "name": "[u.gg] Kaisa @ jungle, win 47.83%, pick 46",
+        "name": "[u.gg] Kaisa @ jungle, win 0.00%, pick 1",
         "position": "jungle",
-        "pickCount": 46,
-        "winRate": "47.83%",
-        "primaryStyleId": 8000,
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
-          8008,
-          8014,
-          8321,
-          8347,
-          9104,
-          9111,
+          9923,
+          8135,
+          8138,
+          8139,
+          8304,
+          8345,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

@@ -1,12 +1,12 @@
 [
   {
-    "index": 31,
+    "index": 133,
     "id": "84",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 34137,
-    "winRate": "48.67%",
-    "timestamp": 1709669544430,
+    "pickCount": 1542,
+    "winRate": "49.03%",
+    "timestamp": 1709755984766,
     "alias": "Akali",
     "name": "Akali",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 23041, win 48.79%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1054, win 50.47%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3986, win 51.46%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 146, win 56.16%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3020",
@@ -78,7 +78,7 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3102",
                 "count": 1
               },
               {
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3152",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -116,16 +116,16 @@
     "runes": [
       {
         "alias": "Akali",
-        "name": "[u.gg] Akali @ mid, win 51.26%, pick 1908",
+        "name": "[u.gg] Akali @ mid, win 51.68%, pick 447",
         "position": "mid",
-        "pickCount": 1908,
-        "winRate": "51.26%",
+        "pickCount": 447,
+        "winRate": "51.68%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8021,
           8009,
-          8299,
+          8014,
           8444,
           8451,
           9105,
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 31,
+    "index": 133,
     "id": "84",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 13601,
-    "winRate": "48.04%",
-    "timestamp": 1709669544430,
+    "pickCount": 705,
+    "winRate": "51.06%",
+    "timestamp": 1709755984766,
     "alias": "Akali",
     "name": "Akali",
     "position": "top",
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6031, win 48.35%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 289, win 52.94%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -184,10 +184,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 831, win 54.03%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 29, win 65.52%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3100",
+                "id": "4646",
                 "count": 1
               },
               {
@@ -204,7 +204,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3157",
+                "id": "3041",
                 "count": 1
               },
               {
@@ -217,124 +217,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3041",
                 "count": 1
               },
               {
                 "id": "3165",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Akali",
-        "name": "[u.gg] Akali @ top, win 53.28%, pick 869",
-        "position": "top",
-        "pickCount": 869,
-        "winRate": "53.28%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8010,
-          8009,
-          8299,
-          8444,
-          8451,
-          9105,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 31,
-    "id": "84",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 56,
-    "winRate": "51.79%",
-    "timestamp": 1709669544430,
-    "alias": "Akali",
-    "name": "Akali",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Akali @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          84
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 36, win 52.78%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3877",
-                "count": 1
-              },
-              {
-                "id": "3111",
                 "count": 1
               },
               {
@@ -344,44 +231,18 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "8001",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4643",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "3869",
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -398,22 +259,22 @@
     "runes": [
       {
         "alias": "Akali",
-        "name": "[u.gg] Akali @ supp, win 63.16%, pick 19",
-        "position": "supp",
-        "pickCount": 19,
-        "winRate": "63.16%",
-        "primaryStyleId": 8100,
+        "name": "[u.gg] Akali @ top, win 56.90%, pick 58",
+        "position": "top",
+        "pickCount": 58,
+        "winRate": "56.90%",
+        "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8112,
-          8106,
-          8138,
-          8143,
-          8444,
+          8010,
+          8009,
+          8014,
           8451,
+          8473,
+          9105,
           5008,
-          5010,
-          5011
+          5008,
+          5013
         ],
         "score": 0,
         "type": ""
@@ -421,21 +282,17 @@
     ]
   },
   {
-    "index": 31,
+    "index": 133,
     "id": "84",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 23,
-    "winRate": "34.78%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Akali",
     "name": "Akali",
     "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
+    "skills": [],
     "spells": null,
     "itemBuilds": [
       {
@@ -449,10 +306,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 0.00%, ",
             "items": [
               {
-                "id": "1082",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -462,64 +319,24 @@
               {
                 "id": "2003",
                 "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3152",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3100",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
+            "type": "Fourth Item Options, ",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, ",
+            "items": null
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, ",
+            "items": null
           }
         ],
         "map": "any",
@@ -533,150 +350,19 @@
     "runes": [
       {
         "alias": "Akali",
-        "name": "[u.gg] Akali @ adc, win 100.00%, pick 1",
+        "name": "[u.gg] Akali @ adc, win 0.00%, pick 1",
         "position": "adc",
         "pickCount": 1,
-        "winRate": "100.00%",
+        "winRate": "0.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8112,
-          8135,
+          8106,
           8138,
           8143,
           8444,
           8451,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 31,
-    "id": "84",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 12,
-    "winRate": "33.33%",
-    "timestamp": 1709669544430,
-    "alias": "Akali",
-    "name": "Akali",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Akali @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          84
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 7, win 42.86%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3100",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Akali",
-        "name": "[u.gg] Akali @ jungle, win 50.00%, pick 4",
-        "position": "jungle",
-        "pickCount": 4,
-        "winRate": "50.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8021,
-          8009,
-          8014,
-          8444,
-          8451,
-          9105,
           5008,
           5008,
           5001

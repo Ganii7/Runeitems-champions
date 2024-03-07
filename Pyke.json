@@ -1,12 +1,12 @@
 [
   {
-    "index": 37,
+    "index": 116,
     "id": "555",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 46810,
-    "winRate": "51.20%",
-    "timestamp": 1709669544430,
+    "pickCount": 2279,
+    "winRate": "54.28%",
+    "timestamp": 1709755984766,
     "alias": "Pyke",
     "name": "Pyke",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 40240, win 51.39%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1828, win 54.32%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 11328, win 51.82%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 577, win 57.19%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3814",
+                "id": "3142",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "6699",
                 "count": 1
               }
             ]
@@ -86,7 +86,7 @@
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6701",
-                "count": 1
-              },
-              {
                 "id": "3026",
                 "count": 1
               },
               {
-                "id": "6699",
+                "id": "6696",
+                "count": 1
+              },
+              {
+                "id": "6701",
                 "count": 1
               }
             ]
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Pyke",
-        "name": "[u.gg] Pyke @ supp, win 52.92%, pick 3719",
+        "name": "[u.gg] Pyke @ supp, win 55.52%, pick 879",
         "position": "supp",
-        "pickCount": 3719,
-        "winRate": "52.92%",
+        "pickCount": 879,
+        "winRate": "55.52%",
         "primaryStyleId": 8100,
         "subStyleId": 8400,
         "selectedPerkIds": [
           9923,
-          8105,
+          8106,
           8126,
           8136,
           8242,
           8473,
           5008,
           5008,
-          5011
+          5013
         ],
         "score": 0,
         "type": ""
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 37,
+    "index": 116,
     "id": "555",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1586,
-    "winRate": "50.82%",
-    "timestamp": 1709669544430,
+    "pickCount": 42,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Pyke",
     "name": "Pyke",
     "position": "mid",
@@ -171,20 +171,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1209, win 52.03%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1054",
+                "id": "1036",
                 "count": 1
               },
               {
-                "id": "2003",
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 235, win 54.47%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6698",
@@ -195,7 +195,7 @@
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -204,11 +204,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6696",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "6699",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -217,15 +217,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3814",
+                "id": "6699",
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "6701",
                 "count": 1
               }
             ]
@@ -234,15 +234,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "6696",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -259,20 +251,20 @@
     "runes": [
       {
         "alias": "Pyke",
-        "name": "[u.gg] Pyke @ mid, win 53.75%, pick 333",
+        "name": "[u.gg] Pyke @ mid, win 100.00%, pick 2",
         "position": "mid",
-        "pickCount": 333,
-        "winRate": "53.75%",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           9923,
           8106,
-          8126,
           8138,
-          8242,
-          8444,
-          5005,
+          8143,
+          8304,
+          8321,
+          5008,
           5008,
           5011
         ],
@@ -282,13 +274,13 @@
     ]
   },
   {
-    "index": 37,
+    "index": 116,
     "id": "555",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 215,
-    "winRate": "52.56%",
-    "timestamp": 1709669544430,
+    "pickCount": 11,
+    "winRate": "45.45%",
+    "timestamp": 1709755984766,
     "alias": "Pyke",
     "name": "Pyke",
     "position": "adc",
@@ -310,7 +302,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 22, win 68.18%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -327,153 +319,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 21, win 71.43%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6698",
+                "id": "3179",
                 "count": 1
               },
               {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "6695",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3156",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "4633",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Pyke",
-        "name": "[u.gg] Pyke @ adc, win 100.00%, pick 4",
-        "position": "adc",
-        "pickCount": 4,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          9923,
-          8106,
-          8138,
-          8143,
-          9104,
-          9111,
-          5008,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 37,
-    "id": "555",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 74,
-    "winRate": "48.65%",
-    "timestamp": 1709669544430,
-    "alias": "Pyke",
-    "name": "Pyke",
-    "position": "top",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Pyke @ top, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          555
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 24, win 58.33%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "6698",
+                "id": "3117",
                 "count": 1
               },
               {
@@ -488,10 +341,6 @@
               {
                 "id": "6696",
                 "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
               }
             ]
           },
@@ -503,11 +352,7 @@
                 "count": 1
               },
               {
-                "id": "6697",
-                "count": 1
-              },
-              {
-                "id": "6694",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -515,10 +360,6 @@
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
               {
                 "id": "3026",
                 "count": 1
@@ -537,22 +378,22 @@
     "runes": [
       {
         "alias": "Pyke",
-        "name": "[u.gg] Pyke @ top, win 53.85%, pick 13",
-        "position": "top",
-        "pickCount": 13,
-        "winRate": "53.85%",
+        "name": "[u.gg] Pyke @ adc, win 100.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           9923,
-          8106,
           8126,
-          8136,
-          8242,
-          8473,
+          8135,
+          8138,
+          8304,
+          8410,
           5008,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -560,13 +401,13 @@
     ]
   },
   {
-    "index": 37,
+    "index": 116,
     "id": "555",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 60,
-    "winRate": "43.33%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Pyke",
     "name": "Pyke",
     "position": "jungle",
@@ -588,10 +429,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 25, win 48.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1102",
+                "id": "1055",
                 "count": 1
               },
               {
@@ -601,14 +442,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 57.14%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6698",
+                "id": "3876",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3117",
                 "count": 1
               },
               {
@@ -621,40 +462,18 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "6701",
+                "id": "6696",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4401",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -668,21 +487,21 @@
     "runes": [
       {
         "alias": "Pyke",
-        "name": "[u.gg] Pyke @ jungle, win 53.33%, pick 15",
+        "name": "[u.gg] Pyke @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 15,
-        "winRate": "53.33%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           9923,
-          8105,
+          8106,
+          8126,
           8136,
-          8143,
-          9104,
-          9111,
-          5005,
-          5001,
+          8242,
+          8473,
+          5008,
+          5008,
           5001
         ],
         "score": 0,

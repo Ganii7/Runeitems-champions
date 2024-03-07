@@ -1,12 +1,12 @@
 [
   {
-    "index": 12,
+    "index": 33,
     "id": "69",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 9964,
-    "winRate": "51.23%",
-    "timestamp": 1709669544430,
+    "pickCount": 385,
+    "winRate": "53.77%",
+    "timestamp": 1709755984766,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 7231, win 51.57%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 296, win 54.39%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2274, win 54.35%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 92, win 63.04%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6657",
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6653",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -82,11 +82,11 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3157",
                 "count": 1
               },
               {
                 "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Cassiopeia",
-        "name": "[u.gg] Cassiopeia @ mid, win 60.00%, pick 215",
+        "name": "[u.gg] Cassiopeia @ mid, win 66.67%, pick 21",
         "position": "mid",
-        "pickCount": 215,
-        "winRate": "60.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "pickCount": 21,
+        "winRate": "66.67%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8010,
+          8214,
           8009,
+          8210,
+          8226,
+          8237,
           8299,
-          8451,
-          8473,
-          9105,
           5007,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 12,
+    "index": 33,
     "id": "69",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 5649,
-    "winRate": "53.48%",
-    "timestamp": 1709669544430,
+    "pickCount": 287,
+    "winRate": "55.05%",
+    "timestamp": 1709755984766,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "top",
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1964, win 53.92%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 141, win 59.57%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -188,14 +188,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 813, win 61.75%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 47, win 76.60%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6657",
+                "id": "3003",
                 "count": 1
               },
               {
-                "id": "3003",
+                "id": "6657",
                 "count": 1
               },
               {
@@ -212,7 +212,7 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -221,15 +221,15 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
+                "id": "6653",
+                "count": 1
+              },
+              {
                 "id": "4629",
                 "count": 1
               },
               {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3157",
+                "id": "2065",
                 "count": 1
               }
             ]
@@ -238,15 +238,15 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3157",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -263,20 +263,20 @@
     "runes": [
       {
         "alias": "Cassiopeia",
-        "name": "[u.gg] Cassiopeia @ top, win 56.28%, pick 1313",
+        "name": "[u.gg] Cassiopeia @ top, win 60.00%, pick 120",
         "position": "top",
-        "pickCount": 1313,
-        "winRate": "56.28%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "pickCount": 120,
+        "winRate": "60.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8214,
+          8010,
           8009,
           8210,
           8226,
-          8237,
           8299,
-          5007,
+          9105,
+          5008,
           5008,
           5001
         ],
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 12,
+    "index": 33,
     "id": "69",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1487,
-    "winRate": "55.48%",
-    "timestamp": 1709669544430,
+    "pickCount": 90,
+    "winRate": "48.89%",
+    "timestamp": 1709755984766,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "adc",
@@ -314,10 +314,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1219, win 55.70%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 18, win 61.11%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -325,24 +325,24 @@
                 "count": 1
               },
               {
-                "id": "3070",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 78, win 69.23%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 10, win 80.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3003",
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "6657",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -351,11 +351,11 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "4629",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -364,15 +364,15 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "4629",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -381,15 +381,11 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "4646",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -406,22 +402,22 @@
     "runes": [
       {
         "alias": "Cassiopeia",
-        "name": "[u.gg] Cassiopeia @ adc, win 69.09%, pick 55",
+        "name": "[u.gg] Cassiopeia @ adc, win 55.56%, pick 45",
         "position": "adc",
-        "pickCount": 55,
-        "winRate": "69.09%",
+        "pickCount": 45,
+        "winRate": "55.56%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8010,
           8009,
-          8014,
           8210,
           8226,
+          8299,
           9105,
+          5007,
           5008,
-          5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -429,13 +425,13 @@
     ]
   },
   {
-    "index": 12,
+    "index": 33,
     "id": "69",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 49,
-    "winRate": "32.65%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Cassiopeia",
     "name": "Cassiopeia",
     "position": "supp",
@@ -457,7 +453,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 5, win 40.00%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 1, win 0.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -468,24 +464,24 @@
                 "count": 1
               },
               {
-                "id": "3070",
+                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "3003",
+                "id": "6657",
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "3003",
                 "count": 1
               }
             ]
@@ -494,11 +490,7 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "4005",
-                "count": 1
-              },
-              {
-                "id": "3165",
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -507,31 +499,18 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3116",
-                "count": 1
-              },
-              {
                 "id": "6653",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3116",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -545,14 +524,14 @@
     "runes": [
       {
         "alias": "Cassiopeia",
-        "name": "[u.gg] Cassiopeia @ supp, win 44.44%, pick 9",
+        "name": "[u.gg] Cassiopeia @ supp, win 0.00%, pick 1",
         "position": "supp",
-        "pickCount": 9,
-        "winRate": "44.44%",
+        "pickCount": 1,
+        "winRate": "0.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8000,
         "selectedPerkIds": [
-          8214,
+          8229,
           8009,
           8210,
           8226,
@@ -560,98 +539,7 @@
           8299,
           5008,
           5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 12,
-    "id": "69",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 1,
-    "winRate": "0.00%",
-    "timestamp": 1709669544430,
-    "alias": "Cassiopeia",
-    "name": "Cassiopeia",
-    "position": "jungle",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Cassiopeia @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          69
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 0.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, E \u003e Q \u003e W",
-            "items": null
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": null
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": null
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Cassiopeia",
-        "name": "[u.gg] Cassiopeia @ jungle, win 0.00%, pick 1",
-        "position": "jungle",
-        "pickCount": 1,
-        "winRate": "0.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8010,
-          8009,
-          8014,
-          8210,
-          8232,
-          9105,
-          5008,
-          5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""

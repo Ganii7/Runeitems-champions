@@ -1,12 +1,12 @@
 [
   {
-    "index": 106,
+    "index": 61,
     "id": "14",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 10475,
-    "winRate": "46.76%",
-    "timestamp": 1709669544430,
+    "pickCount": 445,
+    "winRate": "51.01%",
+    "timestamp": 1709755984766,
     "alias": "Sion",
     "name": "Sion",
     "position": "top",
@@ -28,31 +28,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 7086, win 47.05%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 20, win 70.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "2033",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 407, win 53.32%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 15, win 66.67%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6692",
+                "id": "3068",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "2502",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -61,11 +57,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3065",
+                "id": "3748",
                 "count": 1
               },
               {
-                "id": "3748",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -74,15 +70,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3075",
+                "id": "3181",
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "2502",
                 "count": 1
               },
               {
-                "id": "3748",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -91,7 +87,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3075",
+                "id": "3053",
                 "count": 1
               },
               {
@@ -99,7 +95,7 @@
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "2502",
                 "count": 1
               }
             ]
@@ -116,22 +112,22 @@
     "runes": [
       {
         "alias": "Sion",
-        "name": "[u.gg] Sion @ top, win 50.08%, pick 603",
+        "name": "[u.gg] Sion @ top, win 80.00%, pick 10",
         "position": "top",
-        "pickCount": 603,
-        "winRate": "50.08%",
+        "pickCount": 10,
+        "winRate": "80.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "subStyleId": 8000,
         "selectedPerkIds": [
           8437,
-          8126,
-          8134,
-          8401,
-          8429,
-          8453,
-          5007,
-          5001,
-          5001
+          8444,
+          8446,
+          8451,
+          9105,
+          9111,
+          5008,
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -139,13 +135,13 @@
     ]
   },
   {
-    "index": 106,
+    "index": 61,
     "id": "14",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1655,
-    "winRate": "47.37%",
-    "timestamp": 1709669544430,
+    "pickCount": 44,
+    "winRate": "45.45%",
+    "timestamp": 1709755984766,
     "alias": "Sion",
     "name": "Sion",
     "position": "mid",
@@ -167,142 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 37, win 59.46%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1028",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 27, win 70.37%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6664",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "3084",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2502",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2502",
-                "count": 1
-              },
-              {
-                "id": "3181",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3181",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sion",
-        "name": "[u.gg] Sion @ mid, win 68.42%, pick 19",
-        "position": "mid",
-        "pickCount": 19,
-        "winRate": "68.42%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8437,
-          8134,
-          8138,
-          8401,
-          8429,
-          8453,
-          5008,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 106,
-    "id": "14",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 293,
-    "winRate": "48.46%",
-    "timestamp": 1709669544430,
-    "alias": "Sion",
-    "name": "Sion",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sion @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          14
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 25, win 56.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 32, win 46.88%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -315,14 +176,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3869",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "3068",
                 "count": 1
               },
               {
@@ -339,7 +200,7 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -348,15 +209,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6665",
+                "id": "3143",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "3109",
                 "count": 1
               },
               {
-                "id": "3190",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -365,15 +226,11 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6694",
+                "id": "6662",
                 "count": 1
               },
               {
-                "id": "3179",
-                "count": 1
-              },
-              {
-                "id": "3110",
+                "id": "3002",
                 "count": 1
               }
             ]
@@ -390,22 +247,22 @@
     "runes": [
       {
         "alias": "Sion",
-        "name": "[u.gg] Sion @ supp, win 71.43%, pick 28",
-        "position": "supp",
-        "pickCount": 28,
-        "winRate": "71.43%",
+        "name": "[u.gg] Sion @ mid, win 100.00%, pick 2",
+        "position": "mid",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8439,
-          8126,
-          8134,
-          8401,
-          8453,
-          8473,
-          5007,
-          5010,
-          5013
+          8437,
+          8316,
+          8347,
+          8444,
+          8446,
+          8451,
+          5005,
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -413,13 +270,13 @@
     ]
   },
   {
-    "index": 106,
+    "index": 61,
     "id": "14",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 287,
-    "winRate": "53.31%",
-    "timestamp": 1709669544430,
+    "pickCount": 15,
+    "winRate": "80.00%",
+    "timestamp": 1709755984766,
     "alias": "Sion",
     "name": "Sion",
     "position": "adc",
@@ -441,7 +298,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 250, win 54.80%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 13, win 84.62%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -454,18 +311,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3068",
+                "id": "3142",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3006",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -474,11 +331,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3065",
+                "id": "8020",
                 "count": 1
               },
               {
-                "id": "3084",
+                "id": "8001",
                 "count": 1
               }
             ]
@@ -487,15 +344,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3748",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "2502",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -504,15 +353,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2502",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "6664",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -529,10 +370,10 @@
     "runes": [
       {
         "alias": "Sion",
-        "name": "[u.gg] Sion @ adc, win 59.52%, pick 42",
+        "name": "[u.gg] Sion @ adc, win 100.00%, pick 3",
         "position": "adc",
-        "pickCount": 42,
-        "winRate": "59.52%",
+        "pickCount": 3,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -552,13 +393,144 @@
     ]
   },
   {
-    "index": 106,
+    "index": 61,
     "id": "14",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 252,
-    "winRate": "42.46%",
-    "timestamp": 1709669544430,
+    "pickCount": 8,
+    "winRate": "75.00%",
+    "timestamp": 1709755984766,
+    "alias": "Sion",
+    "name": "Sion",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Sion @ supp, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          14
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 7, win 85.71%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3179",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Sion",
+        "name": "[u.gg] Sion @ supp, win 100.00%, pick 2",
+        "position": "supp",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8437,
+          8304,
+          8410,
+          8446,
+          8451,
+          8473,
+          5005,
+          5010,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 61,
+    "id": "14",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 4,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Sion",
     "name": "Sion",
     "position": "jungle",
@@ -580,27 +552,23 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 76, win 50.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1103",
-                "count": 1
-              },
-              {
-                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 14, win 57.14%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6692",
+                "id": "6610",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "3111",
                 "count": 1
               },
               {
@@ -615,10 +583,6 @@
               {
                 "id": "3065",
                 "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
               }
             ]
           },
@@ -626,35 +590,14 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3053",
+                "id": "3068",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3139",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -668,22 +611,22 @@
     "runes": [
       {
         "alias": "Sion",
-        "name": "[u.gg] Sion @ jungle, win 56.52%, pick 23",
+        "name": "[u.gg] Sion @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 23,
-        "winRate": "56.52%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8437,
-          8126,
           8134,
+          8138,
           8401,
           8429,
           8453,
           5008,
-          5008,
-          5011
+          5010,
+          5001
         ],
         "score": 0,
         "type": ""

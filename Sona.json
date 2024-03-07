@@ -1,12 +1,12 @@
 [
   {
-    "index": 101,
+    "index": 147,
     "id": "37",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 12678,
-    "winRate": "50.48%",
-    "timestamp": 1709669544430,
+    "pickCount": 357,
+    "winRate": "52.66%",
+    "timestamp": 1709755984766,
     "alias": "Sona",
     "name": "Sona",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11985, win 50.72%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 340, win 53.24%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,18 +45,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 406, win 56.65%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 36, win 61.11%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3877",
+                "id": "3870",
+                "count": 1
+              },
+              {
+                "id": "6617",
                 "count": 1
               },
               {
                 "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3003",
                 "count": 1
               }
             ]
@@ -65,7 +65,7 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6617",
+                "id": "3003",
                 "count": 1
               },
               {
@@ -82,11 +82,11 @@
                 "count": 1
               },
               {
-                "id": "6617",
+                "id": "3003",
                 "count": 1
               },
               {
-                "id": "3107",
+                "id": "6621",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3504",
+                "id": "6621",
                 "count": 1
               },
               {
-                "id": "3107",
+                "id": "6616",
                 "count": 1
               },
               {
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Sona",
-        "name": "[u.gg] Sona @ supp, win 51.70%, pick 4008",
+        "name": "[u.gg] Sona @ supp, win 100.00%, pick 5",
         "position": "supp",
-        "pickCount": 4008,
-        "winRate": "51.70%",
+        "pickCount": 5,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8214,
-          8210,
+          8229,
+          8105,
+          8120,
           8226,
-          8236,
-          8429,
-          8453,
+          8233,
+          8237,
+          5005,
           5008,
-          5008,
-          5011
+          5013
         ],
         "score": 0,
         "type": ""
@@ -143,19 +143,19 @@
     ]
   },
   {
-    "index": 101,
+    "index": 147,
     "id": "37",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 66,
-    "winRate": "43.94%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "66.67%",
+    "timestamp": 1709755984766,
     "alias": "Sona",
     "name": "Sona",
     "position": "adc",
     "skills": [
-      "Q",
       "W",
+      "Q",
       "E"
     ],
     "spells": null,
@@ -171,415 +171,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 34, win 47.06%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "6616",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "6617",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              },
-              {
-                "id": "6620",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6621",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3107",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sona",
-        "name": "[u.gg] Sona @ adc, win 71.43%, pick 7",
-        "position": "adc",
-        "pickCount": 7,
-        "winRate": "71.43%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8214,
-          8009,
-          8014,
-          8226,
-          8234,
-          8236,
-          5008,
-          5010,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 101,
-    "id": "37",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 50,
-    "winRate": "48.00%",
-    "timestamp": 1709669544430,
-    "alias": "Sona",
-    "name": "Sona",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sona @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          37
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 36, win 55.56%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 71.43%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "6616",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "3504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sona",
-        "name": "[u.gg] Sona @ mid, win 77.27%, pick 22",
-        "position": "mid",
-        "pickCount": 22,
-        "winRate": "77.27%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8369,
-          8226,
-          8236,
-          8304,
-          8321,
-          8347,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 101,
-    "id": "37",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 19,
-    "winRate": "36.84%",
-    "timestamp": 1709669544430,
-    "alias": "Sona",
-    "name": "Sona",
-    "position": "top",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sona @ top, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          37
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 8, win 50.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3870",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3100",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3118",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Sona",
-        "name": "[u.gg] Sona @ top, win 100.00%, pick 1",
-        "position": "top",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8369,
-          8210,
-          8226,
-          8304,
-          8345,
-          8347,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 101,
-    "id": "37",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 7,
-    "winRate": "28.57%",
-    "timestamp": 1709669544430,
-    "alias": "Sona",
-    "name": "Sona",
-    "position": "jungle",
-    "skills": [
-      "W",
-      "Q",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Sona @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          37
-        ],
-        "blocks": [
-          {
             "type": "Starting Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1103",
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -592,15 +191,15 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6617",
-                "count": 1
-              },
-              {
-                "id": "3003",
+                "id": "3870",
                 "count": 1
               },
               {
                 "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6617",
                 "count": 1
               }
             ]
@@ -609,19 +208,14 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6616",
+                "id": "6621",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3118",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
@@ -639,22 +233,218 @@
     "runes": [
       {
         "alias": "Sona",
-        "name": "[u.gg] Sona @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Sona @ adc, win 100.00%, pick 2",
+        "position": "adc",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8236,
+          8429,
+          8453,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 147,
+    "id": "37",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
+    "alias": "Sona",
+    "name": "Sona",
+    "position": "mid",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Sona @ mid, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          37
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2, win 50.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "8001",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Sona",
+        "name": "[u.gg] Sona @ mid, win 100.00%, pick 1",
+        "position": "mid",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          9923,
+          8010,
           8009,
+          8017,
           8135,
-          8138,
-          8139,
+          8143,
           9103,
           5005,
           5008,
           5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 147,
+    "id": "37",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
+    "alias": "Sona",
+    "name": "Sona",
+    "position": "top",
+    "skills": [],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Sona @ top, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          37
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 0.00%, ",
+            "items": [
+              {
+                "id": "0",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
+          },
+          {
+            "type": "Fourth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, ",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Sona",
+        "name": "[u.gg] Sona @ top, win 0.00%, pick 1",
+        "position": "top",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8229,
+          8210,
+          8226,
+          8237,
+          8313,
+          8347,
+          5008,
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""

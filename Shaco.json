@@ -1,19 +1,19 @@
 [
   {
-    "index": 125,
+    "index": 21,
     "id": "35",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 23889,
-    "winRate": "50.68%",
-    "timestamp": 1709669544430,
+    "pickCount": 1098,
+    "winRate": "48.91%",
+    "timestamp": 1709755984766,
     "alias": "Shaco",
     "name": "Shaco",
     "position": "jungle",
     "skills": [
       "E",
-      "W",
-      "Q"
+      "Q",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4318, win 52.73%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 215, win 51.16%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1102",
@@ -37,14 +37,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1091, win 53.71%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 52, win 69.23%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6698",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "3006",
                 "count": 1
               },
               {
@@ -54,7 +54,7 @@
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6701",
@@ -67,35 +67,35 @@
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3814",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "3031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3031",
+                "count": 1
+              },
+              {
+                "id": "3036",
+                "count": 1
+              },
+              {
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -112,15 +112,15 @@
     "runes": [
       {
         "alias": "Shaco",
-        "name": "[u.gg] Shaco @ jungle, win 53.79%, pick 2097",
+        "name": "[u.gg] Shaco @ jungle, win 50.50%, pick 402",
         "position": "jungle",
-        "pickCount": 2097,
-        "winRate": "53.79%",
+        "pickCount": 402,
+        "winRate": "50.50%",
         "primaryStyleId": 8100,
         "subStyleId": 8000,
         "selectedPerkIds": [
           9923,
-          8017,
+          8014,
           8105,
           8138,
           8143,
@@ -135,20 +135,20 @@
     ]
   },
   {
-    "index": 125,
+    "index": 21,
     "id": "35",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 14365,
-    "winRate": "49.89%",
-    "timestamp": 1709669544430,
+    "pickCount": 779,
+    "winRate": "52.89%",
+    "timestamp": 1709755984766,
     "alias": "Shaco",
     "name": "Shaco",
     "position": "supp",
     "skills": [
+      "W",
       "E",
-      "Q",
-      "W"
+      "Q"
     ],
     "spells": null,
     "itemBuilds": [
@@ -163,24 +163,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9706, win 50.61%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 208, win 55.29%, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "2003",
+                "id": "1055",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1123, win 53.43%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 40, win 67.50%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "3877",
@@ -191,54 +187,54 @@
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "6699",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "6699",
+                "id": "3003",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "6676",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "6701",
                 "count": 1
               },
               {
-                "id": "3165",
+                "id": "4005",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3137",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "6694",
+                "id": "4643",
                 "count": 1
               },
               {
-                "id": "3165",
+                "id": "6676",
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "6701",
                 "count": 1
               }
             ]
@@ -255,10 +251,141 @@
     "runes": [
       {
         "alias": "Shaco",
-        "name": "[u.gg] Shaco @ supp, win 55.80%, pick 871",
+        "name": "[u.gg] Shaco @ supp, win 56.35%, pick 126",
         "position": "supp",
-        "pickCount": 871,
-        "winRate": "55.80%",
+        "pickCount": 126,
+        "winRate": "56.35%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          9923,
+          8014,
+          8105,
+          8138,
+          8143,
+          9104,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "id": "35",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 23,
+    "winRate": "65.22%",
+    "timestamp": 1709755984766,
+    "alias": "Shaco",
+    "name": "Shaco",
+    "position": "top",
+    "skills": [
+      "W",
+      "E",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Shaco @ top, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          35
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 3, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "1027",
+                "count": 1
+              },
+              {
+                "id": "2031",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6655",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3165",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3118",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Shaco",
+        "name": "[u.gg] Shaco @ top, win 83.33%, pick 6",
+        "position": "top",
+        "pickCount": 6,
+        "winRate": "83.33%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -278,163 +405,20 @@
     ]
   },
   {
-    "index": 125,
+    "index": 21,
     "id": "35",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 436,
-    "winRate": "45.64%",
-    "timestamp": 1709669544430,
-    "alias": "Shaco",
-    "name": "Shaco",
-    "position": "top",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Shaco @ top, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          35
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 340, win 48.53%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 17, win 70.59%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "4005",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Shaco",
-        "name": "[u.gg] Shaco @ top, win 49.40%, pick 83",
-        "position": "top",
-        "pickCount": 83,
-        "winRate": "49.40%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8313,
-          8345,
-          5007,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 125,
-    "id": "35",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 52,
-    "winRate": "38.46%",
-    "timestamp": 1709669544430,
+    "pickCount": 4,
+    "winRate": "25.00%",
+    "timestamp": 1709755984766,
     "alias": "Shaco",
     "name": "Shaco",
     "position": "mid",
     "skills": [
-      "W",
+      "Q",
       "E",
-      "Q"
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -449,10 +433,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2, win 100.00%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1054",
+                "id": "1055",
                 "count": 1
               },
               {
@@ -462,64 +446,38 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3142",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              },
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6698",
                 "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "6701",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6676",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": null
           }
         ],
         "map": "any",
@@ -533,22 +491,22 @@
     "runes": [
       {
         "alias": "Shaco",
-        "name": "[u.gg] Shaco @ mid, win 100.00%, pick 2",
+        "name": "[u.gg] Shaco @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 2,
+        "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8128,
-          8014,
+          9923,
           8105,
           8138,
           8143,
-          9104,
+          8233,
+          8237,
           5008,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -556,21 +514,17 @@
     ]
   },
   {
-    "index": 125,
+    "index": 21,
     "id": "35",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 22,
-    "winRate": "18.18%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Shaco",
     "name": "Shaco",
     "position": "adc",
-    "skills": [
-      "W",
-      "E",
-      "Q"
-    ],
+    "skills": [],
     "spells": null,
     "itemBuilds": [
       {
@@ -584,7 +538,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6, win 33.33%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 1, win 0.00%, ",
             "items": [
               {
                 "id": "1055",
@@ -597,56 +551,20 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              }
-            ]
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
           },
           {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              }
-            ]
+            "type": "Fourth Item Options, ",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3033",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, ",
+            "items": null
           },
           {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3031",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, ",
+            "items": null
           }
         ],
         "map": "any",
@@ -660,22 +578,22 @@
     "runes": [
       {
         "alias": "Shaco",
-        "name": "[u.gg] Shaco @ adc, win 40.00%, pick 5",
+        "name": "[u.gg] Shaco @ adc, win 0.00%, pick 1",
         "position": "adc",
-        "pickCount": 5,
-        "winRate": "40.00%",
+        "pickCount": 1,
+        "winRate": "0.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           9923,
-          8014,
           8105,
           8138,
           8143,
-          9104,
+          8233,
+          8275,
           5008,
           5008,
-          5013
+          5011
         ],
         "score": 0,
         "type": ""

@@ -1,12 +1,12 @@
 [
   {
-    "index": 128,
+    "index": 70,
     "id": "150",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 19610,
-    "winRate": "49.42%",
-    "timestamp": 1709669544430,
+    "pickCount": 844,
+    "winRate": "48.70%",
+    "timestamp": 1709755984766,
     "alias": "Gnar",
     "name": "Gnar",
     "position": "top",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 13859, win 49.82%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 564, win 49.47%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4433, win 54.64%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 223, win 54.26%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3047",
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -74,7 +74,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3053",
+                "id": "3091",
                 "count": 1
               },
               {
@@ -82,7 +82,7 @@
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "4401",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "3053",
                 "count": 1
               },
               {
-                "id": "3053",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Gnar",
-        "name": "[u.gg] Gnar @ top, win 49.61%, pick 10129",
+        "name": "[u.gg] Gnar @ top, win 56.47%, pick 85",
         "position": "top",
-        "pickCount": 10129,
-        "winRate": "49.61%",
+        "pickCount": 85,
+        "winRate": "56.47%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8021,
           8299,
+          8444,
           8451,
-          8473,
           9104,
           9111,
           5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 128,
+    "index": 70,
     "id": "150",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 128,
-    "winRate": "46.09%",
-    "timestamp": 1709669544430,
+    "pickCount": 7,
+    "winRate": "57.14%",
+    "timestamp": 1709755984766,
     "alias": "Gnar",
     "name": "Gnar",
     "position": "mid",
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 48, win 58.33%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -183,11 +183,11 @@
             "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3091",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3078",
                 "count": 1
               },
               {
@@ -200,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6610",
+                "id": "4401",
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "3181",
                 "count": 1
               }
             ]
@@ -212,14 +212,6 @@
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3083",
-                "count": 1
-              },
               {
                 "id": "3143",
                 "count": 1
@@ -230,7 +222,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6609",
+                "id": "3091",
                 "count": 1
               }
             ]
@@ -247,20 +239,20 @@
     "runes": [
       {
         "alias": "Gnar",
-        "name": "[u.gg] Gnar @ mid, win 100.00%, pick 3",
+        "name": "[u.gg] Gnar @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 3,
+        "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8100,
+        "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8112,
-          8134,
-          8138,
-          8143,
+          8021,
+          8299,
           8444,
           8451,
-          5008,
+          9104,
+          9111,
+          5005,
           5008,
           5001
         ],
@@ -270,13 +262,13 @@
     ]
   },
   {
-    "index": 128,
+    "index": 70,
     "id": "150",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 14,
-    "winRate": "50.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Gnar",
     "name": "Gnar",
     "position": "adc",
@@ -298,7 +290,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9, win 55.56%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -311,14 +303,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3047",
+                "id": "3078",
                 "count": 1
               },
               {
-                "id": "3078",
+                "id": "3047",
                 "count": 1
               },
               {
@@ -331,10 +323,6 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3143",
-                "count": 1
-              },
-              {
                 "id": "3075",
                 "count": 1
               }
@@ -342,12 +330,7 @@
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3091",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -373,14 +356,14 @@
         "subStyleId": 8400,
         "selectedPerkIds": [
           8021,
-          8017,
-          8444,
-          8451,
-          9103,
+          8299,
+          8446,
+          8473,
+          9104,
           9111,
+          5005,
           5008,
-          5008,
-          5011
+          5013
         ],
         "score": 0,
         "type": ""
@@ -388,19 +371,19 @@
     ]
   },
   {
-    "index": 128,
+    "index": 70,
     "id": "150",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 12,
-    "winRate": "25.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Gnar",
     "name": "Gnar",
     "position": "supp",
     "skills": [
-      "W",
       "Q",
+      "W",
       "E"
     ],
     "spells": null,
@@ -416,7 +399,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8, win 37.50%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -433,10 +416,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3876",
+                "id": "3869",
                 "count": 1
               },
               {
@@ -444,125 +427,7 @@
                 "count": 1
               },
               {
-                "id": "6631",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Gnar",
-        "name": "[u.gg] Gnar @ supp, win 50.00%, pick 4",
-        "position": "supp",
-        "pickCount": 4,
-        "winRate": "50.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8021,
-          8299,
-          8451,
-          8473,
-          9104,
-          9111,
-          5008,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 128,
-    "id": "150",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 6,
-    "winRate": "66.67%",
-    "timestamp": 1709669544430,
-    "alias": "Gnar",
-    "name": "Gnar",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Gnar @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          150
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
                 "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "3111",
                 "count": 1
               }
             ]
@@ -571,27 +436,14 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3302",
-                "count": 1
-              },
-              {
-                "id": "3053",
+                "id": "3071",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3748",
-                "count": 1
-              },
-              {
-                "id": "3091",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -609,8 +461,8 @@
     "runes": [
       {
         "alias": "Gnar",
-        "name": "[u.gg] Gnar @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Gnar @ supp, win 100.00%, pick 1",
+        "position": "supp",
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8000,

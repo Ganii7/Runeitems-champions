@@ -1,12 +1,12 @@
 [
   {
-    "index": 80,
+    "index": 40,
     "id": "16",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 29924,
-    "winRate": "50.50%",
-    "timestamp": 1709669544430,
+    "pickCount": 992,
+    "winRate": "51.11%",
+    "timestamp": 1709755984766,
     "alias": "Soraka",
     "name": "Soraka",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 28852, win 50.71%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 957, win 51.41%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,18 +45,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8949, win 51.73%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 151, win 55.63%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "3870",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "6617",
                 "count": 1
               },
               {
-                "id": "6617",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "3504",
+                "id": "3222",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3107",
+                "id": "3083",
                 "count": 1
               },
               {
-                "id": "6616",
+                "id": "3107",
                 "count": 1
               },
               {
@@ -95,15 +95,7 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "6621",
-                "count": 1
-              },
-              {
-                "id": "2065",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -120,20 +112,20 @@
     "runes": [
       {
         "alias": "Soraka",
-        "name": "[u.gg] Soraka @ supp, win 54.21%, pick 1022",
+        "name": "[u.gg] Soraka @ supp, win 75.00%, pick 20",
         "position": "supp",
-        "pickCount": 1022,
-        "winRate": "54.21%",
+        "pickCount": 20,
+        "winRate": "75.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8214,
           8210,
-          8226,
-          8236,
+          8237,
+          8275,
           8453,
           8473,
-          5008,
+          5007,
           5008,
           5011
         ],
@@ -143,13 +135,126 @@
     ]
   },
   {
-    "index": 80,
+    "index": 40,
     "id": "16",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 271,
-    "winRate": "45.02%",
-    "timestamp": 1709669544430,
+    "pickCount": 9,
+    "winRate": "11.11%",
+    "timestamp": 1709755984766,
+    "alias": "Soraka",
+    "name": "Soraka",
+    "position": "adc",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Soraka @ adc, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          16
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 4, win 25.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3870",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "3009",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3083",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Soraka",
+        "name": "[u.gg] Soraka @ adc, win 100.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
+          8226,
+          8234,
+          8237,
+          8444,
+          8453,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "id": "16",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 8,
+    "winRate": "37.50%",
+    "timestamp": 1709755984766,
     "alias": "Soraka",
     "name": "Soraka",
     "position": "top",
@@ -171,10 +276,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 52, win 50.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 7, win 42.86%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2003",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -182,20 +287,20 @@
                 "count": 1
               },
               {
-                "id": "3070",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 45, win 66.67%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3158",
+                "id": "6617",
                 "count": 1
               },
               {
-                "id": "6617",
+                "id": "3158",
                 "count": 1
               },
               {
@@ -208,24 +313,7 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "6621",
+                "id": "6616",
                 "count": 1
               },
               {
@@ -235,17 +323,12 @@
             ]
           },
           {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
+          },
+          {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3870",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -259,19 +342,19 @@
     "runes": [
       {
         "alias": "Soraka",
-        "name": "[u.gg] Soraka @ top, win 51.43%, pick 105",
+        "name": "[u.gg] Soraka @ top, win 100.00%, pick 1",
         "position": "top",
-        "pickCount": 105,
-        "winRate": "51.43%",
-        "primaryStyleId": 8200,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8237,
+          8360,
+          8304,
+          8345,
+          8352,
+          8444,
           8453,
-          8473,
           5007,
           5008,
           5001
@@ -282,13 +365,13 @@
     ]
   },
   {
-    "index": 80,
+    "index": 40,
     "id": "16",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 243,
-    "winRate": "47.33%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Soraka",
     "name": "Soraka",
     "position": "mid",
@@ -310,7 +393,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 202, win 49.01%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -327,16 +410,25 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 40, win 55.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3158",
                 "count": 1
               },
               {
-                "id": "6617",
+                "id": "6657",
                 "count": 1
               },
+              {
+                "id": "2504",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
               {
                 "id": "3107",
                 "count": 1
@@ -344,308 +436,8 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "6616",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6621",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Soraka",
-        "name": "[u.gg] Soraka @ mid, win 83.33%, pick 18",
-        "position": "mid",
-        "pickCount": 18,
-        "winRate": "83.33%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8236,
-          8453,
-          8473,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 80,
-    "id": "16",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 186,
-    "winRate": "53.23%",
-    "timestamp": 1709669544430,
-    "alias": "Soraka",
-    "name": "Soraka",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Soraka @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          16
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 88, win 55.68%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 21, win 66.67%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6617",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3107",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3083",
-                "count": 1
-              },
-              {
-                "id": "6616",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3083",
-                "count": 1
-              },
-              {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6621",
-                "count": 1
-              },
-              {
-                "id": "4643",
-                "count": 1
-              },
-              {
-                "id": "3179",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Soraka",
-        "name": "[u.gg] Soraka @ adc, win 56.34%, pick 71",
-        "position": "adc",
-        "pickCount": 71,
-        "winRate": "56.34%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8237,
-          8453,
-          8473,
-          5007,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 80,
-    "id": "16",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 30,
-    "winRate": "3.33%",
-    "timestamp": 1709669544430,
-    "alias": "Soraka",
-    "name": "Soraka",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Soraka @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          16
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 11, win 9.09%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6617",
-                "count": 1
-              },
-              {
-                "id": "6621",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "3504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3083",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -663,10 +455,10 @@
     "runes": [
       {
         "alias": "Soraka",
-        "name": "[u.gg] Soraka @ jungle, win 25.00%, pick 4",
-        "position": "jungle",
-        "pickCount": 4,
-        "winRate": "25.00%",
+        "name": "[u.gg] Soraka @ mid, win 50.00%, pick 2",
+        "position": "mid",
+        "pickCount": 2,
+        "winRate": "50.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8400,
         "selectedPerkIds": [

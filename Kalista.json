@@ -1,12 +1,12 @@
 [
   {
-    "index": 57,
+    "index": 141,
     "id": "429",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 23102,
-    "winRate": "49.94%",
-    "timestamp": 1709669544430,
+    "pickCount": 1161,
+    "winRate": "49.53%",
+    "timestamp": 1709755984766,
     "alias": "Kalista",
     "name": "Kalista",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 22295, win 49.83%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 1123, win 49.51%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 11665, win 53.37%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 550, win 54.36%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3085",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "3143",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3085",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3026",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3302",
                 "count": 1
               },
               {
-                "id": "3085",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Kalista",
-        "name": "[u.gg] Kalista @ adc, win 53.30%, pick 2364",
+        "name": "[u.gg] Kalista @ adc, win 58.62%, pick 145",
         "position": "adc",
-        "pickCount": 2364,
-        "winRate": "53.30%",
+        "pickCount": 145,
+        "winRate": "58.62%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 57,
+    "index": 141,
     "id": "429",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 641,
-    "winRate": "48.67%",
-    "timestamp": 1709669544430,
+    "pickCount": 33,
+    "winRate": "57.58%",
+    "timestamp": 1709755984766,
     "alias": "Kalista",
     "name": "Kalista",
     "position": "top",
@@ -167,20 +167,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 596, win 49.16%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 5, win 80.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "1036",
                 "count": 1
               },
               {
-                "id": "2003",
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 161, win 57.76%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -191,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "3124",
+                "id": "3091",
                 "count": 1
               }
             ]
@@ -200,7 +200,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3302",
+                "id": "6665",
                 "count": 1
               },
               {
@@ -213,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6665",
+                "id": "3085",
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "3302",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "3161",
                 "count": 1
               }
             ]
@@ -234,11 +234,7 @@
                 "count": 1
               },
               {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3091",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -255,22 +251,22 @@
     "runes": [
       {
         "alias": "Kalista",
-        "name": "[u.gg] Kalista @ top, win 68.18%, pick 22",
+        "name": "[u.gg] Kalista @ top, win 100.00%, pick 3",
         "position": "top",
-        "pickCount": 22,
-        "winRate": "68.18%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8300,
+        "pickCount": 3,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          9923,
-          8135,
-          8138,
-          8143,
-          8313,
-          8345,
+          8008,
+          8014,
+          8446,
+          8451,
+          9104,
+          9111,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -278,13 +274,13 @@
     ]
   },
   {
-    "index": 57,
+    "index": 141,
     "id": "429",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 462,
-    "winRate": "49.35%",
-    "timestamp": 1709669544430,
+    "pickCount": 23,
+    "winRate": "73.91%",
+    "timestamp": 1709755984766,
     "alias": "Kalista",
     "name": "Kalista",
     "position": "mid",
@@ -306,10 +302,18 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 437, win 49.66%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "1036",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -319,7 +323,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 25, win 72.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 9, win 88.89%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -330,7 +334,7 @@
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3124",
                 "count": 1
               }
             ]
@@ -339,11 +343,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3142",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "3302",
                 "count": 1
               }
             ]
@@ -352,15 +356,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3143",
+                "id": "3085",
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "3814",
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -369,15 +373,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3302",
+                "id": "3072",
                 "count": 1
               }
             ]
@@ -394,22 +390,22 @@
     "runes": [
       {
         "alias": "Kalista",
-        "name": "[u.gg] Kalista @ mid, win 59.62%, pick 52",
+        "name": "[u.gg] Kalista @ mid, win 100.00%, pick 2",
         "position": "mid",
-        "pickCount": 52,
-        "winRate": "59.62%",
-        "primaryStyleId": 8000,
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8008,
-          8014,
-          8451,
-          8473,
-          9104,
-          9111,
+          9923,
+          8134,
+          8138,
+          8143,
+          8429,
+          8453,
           5005,
           5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -417,13 +413,13 @@
     ]
   },
   {
-    "index": 57,
+    "index": 141,
     "id": "429",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 230,
-    "winRate": "42.61%",
-    "timestamp": 1709669544430,
+    "pickCount": 13,
+    "winRate": "30.77%",
+    "timestamp": 1709755984766,
     "alias": "Kalista",
     "name": "Kalista",
     "position": "supp",
@@ -445,153 +441,18 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 141, win 45.39%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 6, win 33.33%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 19, win 52.63%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3006",
-                "count": 1
               },
               {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3302",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "6673",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Kalista",
-        "name": "[u.gg] Kalista @ supp, win 54.55%, pick 33",
-        "position": "supp",
-        "pickCount": 33,
-        "winRate": "54.55%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8437,
-          8136,
-          8139,
-          8446,
-          8451,
-          8473,
-          5008,
-          5010,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 57,
-    "id": "429",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 6,
-    "winRate": "33.33%",
-    "timestamp": 1709669544430,
-    "alias": "Kalista",
-    "name": "Kalista",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Kalista @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          429
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "3865",
                 "count": 1
               }
             ]
@@ -600,15 +461,15 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3006",
+                "id": "3877",
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "3179",
                 "count": 1
               },
               {
-                "id": "3085",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -617,6 +478,10 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "6676",
+                "count": 1
+              },
+              {
                 "id": "3302",
                 "count": 1
               }
@@ -624,11 +489,33 @@
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": null
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              },
+              {
+                "id": "3302",
+                "count": 1
+              },
+              {
+                "id": "2504",
+                "count": 1
+              }
+            ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
+            "items": [
+              {
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "3143",
+                "count": 1
+              }
+            ]
           }
         ],
         "map": "any",
@@ -642,22 +529,22 @@
     "runes": [
       {
         "alias": "Kalista",
-        "name": "[u.gg] Kalista @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "name": "[u.gg] Kalista @ supp, win 50.00%, pick 4",
+        "position": "supp",
+        "pickCount": 4,
+        "winRate": "50.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8008,
-          8014,
+          9923,
           8135,
-          8143,
+          8138,
+          8139,
           9104,
           9111,
           5005,
-          5008,
-          5011
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""

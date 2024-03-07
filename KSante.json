@@ -1,12 +1,12 @@
 [
   {
-    "index": 11,
+    "index": 52,
     "id": "897",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 29270,
-    "winRate": "46.64%",
-    "timestamp": 1709669544430,
+    "pickCount": 1214,
+    "winRate": "48.19%",
+    "timestamp": 1709755984766,
     "alias": "KSante",
     "name": "K'Sante",
     "position": "top",
@@ -28,20 +28,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 28564, win 46.69%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 16, win 56.25%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "0",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2129, win 49.04%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 107, win 57.01%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3047",
@@ -65,7 +61,7 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -74,15 +70,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
                 "id": "3075",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -99,7 +95,7 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -116,18 +112,18 @@
     "runes": [
       {
         "alias": "KSante",
-        "name": "[u.gg] KSante @ top, win 50.00%, pick 1612",
+        "name": "[u.gg] KSante @ top, win 57.75%, pick 71",
         "position": "top",
-        "pickCount": 1612,
-        "winRate": "50.00%",
+        "pickCount": 71,
+        "winRate": "57.75%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8437,
           8313,
           8345,
-          8401,
           8444,
+          8446,
           8451,
           5005,
           5001,
@@ -139,13 +135,13 @@
     ]
   },
   {
-    "index": 11,
+    "index": 52,
     "id": "897",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2029,
-    "winRate": "45.93%",
-    "timestamp": 1709669544430,
+    "pickCount": 91,
+    "winRate": "49.45%",
+    "timestamp": 1709755984766,
     "alias": "KSante",
     "name": "K'Sante",
     "position": "mid",
@@ -167,7 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1995, win 46.07%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 90, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -180,18 +176,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 29, win 75.86%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "6662",
-                "count": 1
-              },
               {
                 "id": "3047",
                 "count": 1
               },
               {
-                "id": "6664",
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3068",
                 "count": 1
               }
             ]
@@ -200,11 +196,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6665",
+                "id": "2504",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -213,15 +209,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3075",
-                "count": 1
-              },
-              {
                 "id": "6665",
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "4401",
                 "count": 1
               }
             ]
@@ -230,15 +226,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3143",
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -255,16 +243,16 @@
     "runes": [
       {
         "alias": "KSante",
-        "name": "[u.gg] KSante @ mid, win 61.11%, pick 54",
+        "name": "[u.gg] KSante @ mid, win 100.00%, pick 3",
         "position": "mid",
-        "pickCount": 54,
-        "winRate": "61.11%",
+        "pickCount": 3,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8437,
-          8313,
           8345,
+          8347,
           8429,
           8446,
           8451,
@@ -278,13 +266,13 @@
     ]
   },
   {
-    "index": 11,
+    "index": 52,
     "id": "897",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 87,
-    "winRate": "34.48%",
-    "timestamp": 1709669544430,
+    "pickCount": 5,
+    "winRate": "20.00%",
+    "timestamp": 1709755984766,
     "alias": "KSante",
     "name": "K'Sante",
     "position": "supp",
@@ -306,27 +294,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 20, win 45.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 4, win 25.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1054",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3876",
+                "id": "3877",
                 "count": 1
               },
               {
-                "id": "3190",
+                "id": "3050",
                 "count": 1
               },
               {
@@ -339,10 +331,6 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3050",
-                "count": 1
-              },
-              {
                 "id": "3068",
                 "count": 1
               }
@@ -350,29 +338,11 @@
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "3119",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -386,22 +356,22 @@
     "runes": [
       {
         "alias": "KSante",
-        "name": "[u.gg] KSante @ supp, win 75.00%, pick 4",
+        "name": "[u.gg] KSante @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 4,
-        "winRate": "75.00%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8437,
-          8126,
-          8135,
-          8429,
-          8451,
-          8463,
+          8439,
+          8242,
+          8345,
+          8347,
+          8401,
+          8473,
           5005,
           5001,
-          5013
+          5011
         ],
         "score": 0,
         "type": ""
@@ -409,13 +379,13 @@
     ]
   },
   {
-    "index": 11,
+    "index": 52,
     "id": "897",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 46,
-    "winRate": "41.30%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "KSante",
     "name": "K'Sante",
     "position": "adc",
@@ -437,7 +407,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 45, win 42.22%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -450,161 +420,25 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3047",
                 "count": 1
               },
-              {
-                "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
               {
                 "id": "3110",
                 "count": 1
               },
               {
-                "id": "6664",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "KSante",
-        "name": "[u.gg] KSante @ adc, win 75.00%, pick 4",
-        "position": "adc",
-        "pickCount": 4,
-        "winRate": "75.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8437,
-          8429,
-          8446,
-          8451,
-          9105,
-          9111,
-          5005,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 11,
-    "id": "897",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 10,
-    "winRate": "20.00%",
-    "timestamp": 1709669544430,
-    "alias": "KSante",
-    "name": "K'Sante",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] KSante @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          897
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 3, win 33.33%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1103",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
                 "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3075",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "8020",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
@@ -626,21 +460,21 @@
     "runes": [
       {
         "alias": "KSante",
-        "name": "[u.gg] KSante @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] KSante @ adc, win 100.00%, pick 1",
+        "position": "adc",
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8437,
+          8313,
           8345,
-          8410,
-          8429,
-          8446,
+          8401,
+          8444,
           8451,
-          5008,
-          5010,
+          5005,
+          5001,
           5001
         ],
         "score": 0,

@@ -1,12 +1,12 @@
 [
   {
-    "index": 165,
+    "index": 44,
     "id": "30",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 17210,
-    "winRate": "51.01%",
-    "timestamp": 1709669544430,
+    "pickCount": 1036,
+    "winRate": "52.80%",
+    "timestamp": 1709755984766,
     "alias": "Karthus",
     "name": "Karthus",
     "position": "jungle",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 12323, win 51.47%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 835, win 52.81%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1101",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2181, win 54.75%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 149, win 57.72%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3020",
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3135",
-                "count": 1
-              },
-              {
                 "id": "3041",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Karthus",
-        "name": "[u.gg] Karthus @ jungle, win 54.23%, pick 4791",
+        "name": "[u.gg] Karthus @ jungle, win 55.79%, pick 242",
         "position": "jungle",
-        "pickCount": 4791,
-        "winRate": "54.23%",
+        "pickCount": 242,
+        "winRate": "55.79%",
         "primaryStyleId": 8100,
         "subStyleId": 8000,
         "selectedPerkIds": [
@@ -129,9 +129,9 @@
           8126,
           8138,
           8299,
+          5007,
           5008,
-          5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 165,
+    "index": 44,
     "id": "30",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 3520,
-    "winRate": "53.86%",
-    "timestamp": 1709669544430,
+    "pickCount": 117,
+    "winRate": "60.68%",
+    "timestamp": 1709755984766,
     "alias": "Karthus",
     "name": "Karthus",
     "position": "adc",
@@ -167,27 +167,23 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3429, win 53.78%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1056",
+                "id": "1082",
                 "count": 1
               },
               {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1011, win 55.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3118",
+                "id": "6653",
                 "count": 1
               },
               {
@@ -195,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3118",
                 "count": 1
               }
             ]
@@ -204,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -217,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3135",
-                "count": 1
-              },
-              {
                 "id": "3089",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -234,15 +230,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "3165",
+                "count": 1
+              },
+              {
                 "id": "3135",
                 "count": 1
               },
               {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -259,19 +255,19 @@
     "runes": [
       {
         "alias": "Karthus",
-        "name": "[u.gg] Karthus @ adc, win 54.62%, pick 1373",
+        "name": "[u.gg] Karthus @ adc, win 83.33%, pick 6",
         "position": "adc",
-        "pickCount": 1373,
-        "winRate": "54.62%",
-        "primaryStyleId": 8100,
+        "pickCount": 6,
+        "winRate": "83.33%",
+        "primaryStyleId": 8200,
         "subStyleId": 8000,
         "selectedPerkIds": [
-          8128,
+          8214,
           8009,
-          8106,
-          8126,
-          8138,
-          8299,
+          8014,
+          8226,
+          8233,
+          8237,
           5008,
           5008,
           5011
@@ -282,13 +278,13 @@
     ]
   },
   {
-    "index": 165,
+    "index": 44,
     "id": "30",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1184,
-    "winRate": "49.83%",
-    "timestamp": 1709669544430,
+    "pickCount": 68,
+    "winRate": "51.47%",
+    "timestamp": 1709755984766,
     "alias": "Karthus",
     "name": "Karthus",
     "position": "mid",
@@ -310,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1037, win 51.11%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 61, win 54.10%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -327,7 +323,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 291, win 51.55%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 25, win 68.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3118",
@@ -351,7 +347,7 @@
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -364,11 +360,11 @@
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "4633",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -381,11 +377,7 @@
                 "count": 1
               },
               {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -402,18 +394,18 @@
     "runes": [
       {
         "alias": "Karthus",
-        "name": "[u.gg] Karthus @ mid, win 57.58%, pick 99",
+        "name": "[u.gg] Karthus @ mid, win 69.23%, pick 13",
         "position": "mid",
-        "pickCount": 99,
-        "winRate": "57.58%",
+        "pickCount": 13,
+        "winRate": "69.23%",
         "primaryStyleId": 8100,
         "subStyleId": 8000,
         "selectedPerkIds": [
           8128,
           8009,
           8106,
-          8126,
           8138,
+          8139,
           8299,
           5008,
           5008,
@@ -425,13 +417,13 @@
     ]
   },
   {
-    "index": 165,
+    "index": 44,
     "id": "30",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 443,
-    "winRate": "45.15%",
-    "timestamp": 1709669544430,
+    "pickCount": 16,
+    "winRate": "43.75%",
+    "timestamp": 1709755984766,
     "alias": "Karthus",
     "name": "Karthus",
     "position": "top",
@@ -453,31 +445,40 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 329, win 45.29%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1056",
+                "id": "1027",
                 "count": 1
               },
               {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 16, win 68.75%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3020",
+                "id": "6657",
                 "count": 1
               },
               {
-                "id": "3118",
+                "id": "3003",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3135",
                 "count": 1
               },
               {
@@ -487,31 +488,14 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3135",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -519,14 +503,6 @@
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
               {
                 "id": "4646",
                 "count": 1
@@ -545,22 +521,22 @@
     "runes": [
       {
         "alias": "Karthus",
-        "name": "[u.gg] Karthus @ top, win 55.32%, pick 47",
+        "name": "[u.gg] Karthus @ top, win 100.00%, pick 1",
         "position": "top",
-        "pickCount": 47,
-        "winRate": "55.32%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8128,
-          8009,
-          8014,
+          8369,
           8106,
-          8126,
           8138,
+          8304,
+          8321,
+          8347,
           5007,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -568,13 +544,13 @@
     ]
   },
   {
-    "index": 165,
+    "index": 44,
     "id": "30",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 257,
-    "winRate": "46.69%",
-    "timestamp": 1709669544430,
+    "pickCount": 10,
+    "winRate": "40.00%",
+    "timestamp": 1709755984766,
     "alias": "Karthus",
     "name": "Karthus",
     "position": "supp",
@@ -596,10 +572,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 183, win 53.01%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -607,13 +583,13 @@
                 "count": 1
               },
               {
-                "id": "3865",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 56, win 53.57%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3871",
@@ -633,10 +609,6 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6653",
-                "count": 1
-              },
-              {
                 "id": "4645",
                 "count": 1
               }
@@ -646,7 +618,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3137",
+                "id": "4646",
                 "count": 1
               },
               {
@@ -654,7 +626,7 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -664,14 +636,6 @@
             "items": [
               {
                 "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3116",
                 "count": 1
               }
             ]
@@ -688,22 +652,22 @@
     "runes": [
       {
         "alias": "Karthus",
-        "name": "[u.gg] Karthus @ supp, win 72.73%, pick 11",
+        "name": "[u.gg] Karthus @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 11,
-        "winRate": "72.73%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8128,
-          8009,
-          8014,
+          8369,
           8106,
           8138,
-          8139,
-          5007,
+          8304,
+          8321,
+          8347,
           5008,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""

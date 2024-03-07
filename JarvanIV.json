@@ -1,12 +1,12 @@
 [
   {
-    "index": 122,
+    "index": 115,
     "id": "59",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 17720,
-    "winRate": "46.66%",
-    "timestamp": 1709669544430,
+    "pickCount": 1652,
+    "winRate": "48.55%",
+    "timestamp": 1709755984766,
     "alias": "JarvanIV",
     "name": "Jarvan IV",
     "position": "jungle",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9210, win 46.68%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 804, win 49.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1103",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1171, win 53.80%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 136, win 52.21%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6610",
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3110",
-                "count": 1
-              },
-              {
                 "id": "3053",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -99,7 +99,7 @@
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "JarvanIV",
-        "name": "[u.gg] JarvanIV @ jungle, win 47.49%, pick 9699",
+        "name": "[u.gg] JarvanIV @ jungle, win 48.62%, pick 1012",
         "position": "jungle",
-        "pickCount": 9699,
-        "winRate": "47.49%",
+        "pickCount": 1012,
+        "winRate": "48.62%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -131,7 +131,7 @@
           9111,
           5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 122,
+    "index": 115,
     "id": "59",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1797,
-    "winRate": "42.57%",
-    "timestamp": 1709669544430,
+    "pickCount": 105,
+    "winRate": "48.57%",
+    "timestamp": 1709755984766,
     "alias": "JarvanIV",
     "name": "Jarvan IV",
     "position": "top",
@@ -167,10 +167,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 561, win 43.14%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1054",
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -180,18 +184,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 187, win 55.61%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 17, win 58.82%, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
               {
                 "id": "6692",
                 "count": 1
               },
               {
                 "id": "3119",
-                "count": 1
-              },
-              {
-                "id": "3047",
                 "count": 1
               }
             ]
@@ -200,11 +204,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3065",
+                "id": "6610",
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "2502",
                 "count": 1
               }
             ]
@@ -213,15 +217,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "2502",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
                 "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6610",
                 "count": 1
               }
             ]
@@ -234,11 +238,7 @@
                 "count": 1
               },
               {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "8020",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -255,10 +255,10 @@
     "runes": [
       {
         "alias": "JarvanIV",
-        "name": "[u.gg] JarvanIV @ top, win 43.13%, pick 568",
+        "name": "[u.gg] JarvanIV @ top, win 56.52%, pick 23",
         "position": "top",
-        "pickCount": 568,
-        "winRate": "43.13%",
+        "pickCount": 23,
+        "winRate": "56.52%",
         "primaryStyleId": 8400,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -268,7 +268,7 @@
           8401,
           8429,
           8453,
-          5005,
+          5008,
           5008,
           5001
         ],
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 122,
+    "index": 115,
     "id": "59",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 843,
-    "winRate": "46.14%",
-    "timestamp": 1709669544430,
+    "pickCount": 65,
+    "winRate": "49.23%",
+    "timestamp": 1709755984766,
     "alias": "JarvanIV",
     "name": "Jarvan IV",
     "position": "supp",
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 714, win 47.20%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 54, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -323,7 +323,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 20, win 65.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
@@ -334,7 +334,7 @@
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3009",
                 "count": 1
               }
             ]
@@ -356,15 +356,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
                 "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3109",
                 "count": 1
               }
             ]
@@ -373,15 +373,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6701",
+                "id": "6699",
                 "count": 1
               },
               {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "4643",
+                "id": "6695",
                 "count": 1
               }
             ]
@@ -398,22 +394,22 @@
     "runes": [
       {
         "alias": "JarvanIV",
-        "name": "[u.gg] JarvanIV @ supp, win 73.08%, pick 26",
+        "name": "[u.gg] JarvanIV @ supp, win 71.43%, pick 14",
         "position": "supp",
-        "pickCount": 26,
-        "winRate": "73.08%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "pickCount": 14,
+        "winRate": "71.43%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8237,
-          8242,
-          8473,
+          8010,
+          8014,
+          8105,
+          8143,
+          9104,
+          9111,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -421,13 +417,13 @@
     ]
   },
   {
-    "index": 122,
+    "index": 115,
     "id": "59",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 293,
-    "winRate": "46.08%",
-    "timestamp": 1709669544430,
+    "pickCount": 26,
+    "winRate": "42.31%",
+    "timestamp": 1709755984766,
     "alias": "JarvanIV",
     "name": "Jarvan IV",
     "position": "mid",
@@ -449,7 +445,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 116, win 48.28%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 9, win 55.56%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -473,7 +469,7 @@
                 "count": 1
               },
               {
-                "id": "6697",
+                "id": "6692",
                 "count": 1
               }
             ]
@@ -482,11 +478,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3071",
+                "id": "6610",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -495,15 +491,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6699",
+                "id": "3071",
                 "count": 1
               },
               {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3075",
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -514,14 +506,6 @@
               {
                 "id": "3026",
                 "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
               }
             ]
           }
@@ -537,155 +521,20 @@
     "runes": [
       {
         "alias": "JarvanIV",
-        "name": "[u.gg] JarvanIV @ mid, win 56.25%, pick 16",
+        "name": "[u.gg] JarvanIV @ mid, win 66.67%, pick 3",
         "position": "mid",
-        "pickCount": 16,
-        "winRate": "56.25%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8112,
-          8014,
-          8135,
-          8138,
-          8143,
-          9111,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 122,
-    "id": "59",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 47,
-    "winRate": "53.19%",
-    "timestamp": 1709669544430,
-    "alias": "JarvanIV",
-    "name": "Jarvan IV",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] JarvanIV @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          59
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 23, win 56.52%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "6676",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "JarvanIV",
-        "name": "[u.gg] JarvanIV @ adc, win 100.00%, pick 3",
-        "position": "adc",
         "pickCount": 3,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "winRate": "66.67%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8112,
-          8014,
-          8135,
-          8138,
-          8143,
-          9111,
-          5008,
+          8437,
+          8126,
+          8134,
+          8401,
+          8429,
+          8453,
+          5005,
           5008,
           5001
         ],

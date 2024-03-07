@@ -1,12 +1,12 @@
 [
   {
-    "index": 157,
+    "index": 77,
     "id": "166",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 17305,
-    "winRate": "52.60%",
-    "timestamp": 1709669544430,
+    "pickCount": 813,
+    "winRate": "56.33%",
+    "timestamp": 1709755984766,
     "alias": "Akshan",
     "name": "Akshan",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 16176, win 52.82%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 754, win 57.16%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1485, win 56.57%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 28, win 71.43%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6672",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3006",
                 "count": 1
               },
               {
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3124",
+                "id": "3302",
                 "count": 1
               },
               {
-                "id": "3094",
+                "id": "3124",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3026",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "3094",
+                "id": "3124",
                 "count": 1
               },
               {
-                "id": "3031",
+                "id": "3302",
                 "count": 1
               }
             ]
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Akshan",
-        "name": "[u.gg] Akshan @ mid, win 61.30%, pick 292",
+        "name": "[u.gg] Akshan @ mid, win 61.65%, pick 206",
         "position": "mid",
-        "pickCount": 292,
-        "winRate": "61.30%",
+        "pickCount": 206,
+        "winRate": "61.65%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8005,
           8009,
           8014,
-          8105,
-          8143,
+          8451,
+          8473,
           9104,
+          5005,
           5008,
-          5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 157,
+    "index": 77,
     "id": "166",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 4460,
-    "winRate": "53.32%",
-    "timestamp": 1709669544430,
+    "pickCount": 156,
+    "winRate": "50.64%",
+    "timestamp": 1709755984766,
     "alias": "Akshan",
     "name": "Akshan",
     "position": "top",
@@ -167,31 +167,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4051, win 53.64%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "0",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 177, win 59.32%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 100.00%, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "3047",
-                "count": 1
-              },
               {
                 "id": "6672",
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6699",
                 "count": 1
               }
             ]
@@ -204,7 +200,7 @@
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "3094",
                 "count": 1
               }
             ]
@@ -213,15 +209,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3302",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "3124",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "3094",
+                "id": "6697",
                 "count": 1
               }
             ]
@@ -230,15 +226,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3091",
-                "count": 1
-              },
-              {
                 "id": "3094",
+                "count": 1
+              },
+              {
+                "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3139",
                 "count": 1
               }
             ]
@@ -255,22 +251,22 @@
     "runes": [
       {
         "alias": "Akshan",
-        "name": "[u.gg] Akshan @ top, win 57.46%, pick 362",
+        "name": "[u.gg] Akshan @ top, win 83.33%, pick 6",
         "position": "top",
-        "pickCount": 362,
-        "winRate": "57.46%",
+        "pickCount": 6,
+        "winRate": "83.33%",
         "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8005,
+          8021,
           8009,
-          8014,
-          8451,
-          8473,
+          8234,
+          8237,
+          8299,
           9104,
           5005,
           5008,
-          5011
+          5013
         ],
         "score": 0,
         "type": ""
@@ -278,13 +274,13 @@
     ]
   },
   {
-    "index": 157,
+    "index": 77,
     "id": "166",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 504,
-    "winRate": "54.37%",
-    "timestamp": 1709669544430,
+    "pickCount": 15,
+    "winRate": "53.33%",
+    "timestamp": 1709755984766,
     "alias": "Akshan",
     "name": "Akshan",
     "position": "adc",
@@ -306,31 +302,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 408, win 55.39%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "1036",
                 "count": 1
               },
               {
-                "id": "2003",
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 39, win 61.54%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "6701",
+                "count": 1
+              },
               {
                 "id": "6672",
                 "count": 1
               },
               {
-                "id": "3006",
-                "count": 1
-              },
-              {
-                "id": "3153",
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -339,11 +335,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3094",
+                "id": "6631",
                 "count": 1
               },
               {
-                "id": "3124",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -352,15 +348,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3302",
+                "id": "3124",
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "6694",
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "6631",
                 "count": 1
               }
             ]
@@ -369,15 +365,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6673",
+                "id": "3094",
                 "count": 1
               },
               {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "4401",
+                "id": "3036",
                 "count": 1
               }
             ]
@@ -394,20 +386,20 @@
     "runes": [
       {
         "alias": "Akshan",
-        "name": "[u.gg] Akshan @ adc, win 66.67%, pick 36",
+        "name": "[u.gg] Akshan @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 36,
-        "winRate": "66.67%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8021,
-          8009,
+          8005,
           8014,
-          8451,
+          8401,
           8473,
-          9104,
-          5005,
+          9103,
+          9111,
+          5008,
           5008,
           5011
         ],
@@ -417,13 +409,13 @@
     ]
   },
   {
-    "index": 157,
+    "index": 77,
     "id": "166",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 155,
-    "winRate": "44.52%",
-    "timestamp": 1709669544430,
+    "pickCount": 7,
+    "winRate": "28.57%",
+    "timestamp": 1709755984766,
     "alias": "Akshan",
     "name": "Akshan",
     "position": "supp",
@@ -445,7 +437,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 43, win 60.47%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -458,153 +450,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "3179",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "6676",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3124",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
                 "id": "6697",
                 "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Akshan",
-        "name": "[u.gg] Akshan @ supp, win 63.64%, pick 11",
-        "position": "supp",
-        "pickCount": 11,
-        "winRate": "63.64%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8005,
-          8009,
-          8014,
-          8135,
-          8138,
-          9104,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 157,
-    "id": "166",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 19,
-    "winRate": "15.79%",
-    "timestamp": 1709669544430,
-    "alias": "Akshan",
-    "name": "Akshan",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Akshan @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          166
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
               },
               {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3153",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -613,7 +470,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3302",
+                "id": "3153",
                 "count": 1
               }
             ]
@@ -622,15 +479,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3302",
-                "count": 1
-              },
-              {
-                "id": "3046",
-                "count": 1
-              },
-              {
-                "id": "3031",
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -651,22 +500,22 @@
     "runes": [
       {
         "alias": "Akshan",
-        "name": "[u.gg] Akshan @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Akshan @ supp, win 100.00%, pick 1",
+        "position": "supp",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8000,
+        "primaryStyleId": 8300,
         "subStyleId": 8100,
         "selectedPerkIds": [
-          8021,
-          8014,
-          8135,
+          8369,
+          8105,
           8143,
-          9104,
-          9111,
+          8304,
+          8321,
+          8347,
           5008,
-          5008,
-          5011
+          5010,
+          5001
         ],
         "score": 0,
         "type": ""

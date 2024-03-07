@@ -1,12 +1,12 @@
 [
   {
-    "index": 18,
+    "index": 49,
     "id": "201",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 20759,
-    "winRate": "52.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 993,
+    "winRate": "50.45%",
+    "timestamp": 1709755984766,
     "alias": "Braum",
     "name": "Braum",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 20218, win 52.12%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 959, win 50.68%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2028, win 55.72%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 59, win 57.63%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3876",
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -78,15 +78,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3109",
-                "count": 1
-              },
-              {
                 "id": "3110",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "3050",
                 "count": 1
               }
             ]
@@ -96,10 +96,6 @@
             "items": [
               {
                 "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3109",
                 "count": 1
               },
               {
@@ -120,10 +116,10 @@
     "runes": [
       {
         "alias": "Braum",
-        "name": "[u.gg] Braum @ supp, win 52.95%, pick 3554",
+        "name": "[u.gg] Braum @ supp, win 53.65%, pick 192",
         "position": "supp",
-        "pickCount": 3554,
-        "winRate": "52.95%",
+        "pickCount": 192,
+        "winRate": "53.65%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
@@ -135,456 +131,7 @@
           9111,
           5005,
           5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 18,
-    "id": "201",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 24,
-    "winRate": "50.00%",
-    "timestamp": 1709669544430,
-    "alias": "Braum",
-    "name": "Braum",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Braum @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          201
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 18, win 55.56%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6664",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "2502",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3050",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Braum",
-        "name": "[u.gg] Braum @ adc, win 100.00%, pick 1",
-        "position": "adc",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          9923,
-          8134,
-          8136,
-          8139,
-          8463,
-          8473,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 18,
-    "id": "201",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 18,
-    "winRate": "27.78%",
-    "timestamp": 1709669544430,
-    "alias": "Braum",
-    "name": "Braum",
-    "position": "top",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Braum @ top, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          201
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 3, win 33.33%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3084",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": null
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Braum",
-        "name": "[u.gg] Braum @ top, win 100.00%, pick 1",
-        "position": "top",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          9923,
-          8106,
-          8126,
-          8138,
-          8444,
-          8446,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 18,
-    "id": "201",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 11,
-    "winRate": "18.18%",
-    "timestamp": 1709669544430,
-    "alias": "Braum",
-    "name": "Braum",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Braum @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          201
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3748",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": null
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": null
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Braum",
-        "name": "[u.gg] Braum @ mid, win 100.00%, pick 1",
-        "position": "mid",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8008,
-          8009,
-          8014,
-          8451,
-          8473,
-          9104,
-          5005,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 18,
-    "id": "201",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 4,
-    "winRate": "50.00%",
-    "timestamp": 1709669544430,
-    "alias": "Braum",
-    "name": "Braum",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Braum @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          201
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3742",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3050",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Braum",
-        "name": "[u.gg] Braum @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8465,
-          8242,
-          8463,
-          8473,
-          9105,
-          9111,
-          5005,
-          5001,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""

@@ -1,19 +1,19 @@
 [
   {
-    "index": 96,
+    "index": 57,
     "id": "102",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 10753,
-    "winRate": "46.66%",
-    "timestamp": 1709669544430,
+    "pickCount": 285,
+    "winRate": "45.26%",
+    "timestamp": 1709755984766,
     "alias": "Shyvana",
     "name": "Shyvana",
     "position": "jungle",
     "skills": [
       "E",
-      "W",
-      "Q"
+      "Q",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3193, win 48.29%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 98, win 50.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1101",
@@ -41,28 +41,45 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 967, win 53.26%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 20, win 60.00%, E \u003e Q \u003e W",
             "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
               {
                 "id": "3115",
                 "count": 1
               },
               {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "4629",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3143",
+                "count": 1
+              },
+              {
                 "id": "3089",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "4633",
-                "count": 1
               },
               {
                 "id": "4645",
@@ -71,35 +88,18 @@
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
               {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Shyvana",
-        "name": "[u.gg] Shyvana @ jungle, win 46.85%, pick 2463",
+        "name": "[u.gg] Shyvana @ jungle, win 61.40%, pick 57",
         "position": "jungle",
-        "pickCount": 2463,
-        "winRate": "46.85%",
+        "pickCount": 57,
+        "winRate": "61.40%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -131,7 +131,7 @@
           8236,
           5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 96,
+    "index": 57,
     "id": "102",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 752,
-    "winRate": "42.69%",
-    "timestamp": 1709669544430,
+    "pickCount": 26,
+    "winRate": "53.85%",
+    "timestamp": 1709755984766,
     "alias": "Shyvana",
     "name": "Shyvana",
     "position": "top",
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 534, win 44.76%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 23, win 56.52%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -180,18 +180,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 43, win 65.12%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3158",
                 "count": 1
               },
               {
-                "id": "3161",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "3161",
                 "count": 1
               }
             ]
@@ -204,7 +204,7 @@
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -213,15 +213,11 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3053",
+                "id": "3143",
                 "count": 1
               },
               {
                 "id": "3074",
-                "count": 1
-              },
-              {
-                "id": "3181",
                 "count": 1
               }
             ]
@@ -230,15 +226,7 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3143",
+                "id": "3181",
                 "count": 1
               }
             ]
@@ -255,18 +243,18 @@
     "runes": [
       {
         "alias": "Shyvana",
-        "name": "[u.gg] Shyvana @ top, win 60.00%, pick 35",
+        "name": "[u.gg] Shyvana @ top, win 100.00%, pick 4",
         "position": "top",
-        "pickCount": 35,
-        "winRate": "60.00%",
+        "pickCount": 4,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8014,
+          8299,
           8444,
           8451,
-          9105,
+          9104,
           9111,
           5005,
           5001,
@@ -278,13 +266,13 @@
     ]
   },
   {
-    "index": 96,
+    "index": 57,
     "id": "102",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 211,
-    "winRate": "42.65%",
-    "timestamp": 1709669544430,
+    "pickCount": 6,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Shyvana",
     "name": "Shyvana",
     "position": "mid",
@@ -306,7 +294,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 160, win 43.75%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 6, win 33.33%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -319,18 +307,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 13, win 69.23%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
             "items": [
-              {
-                "id": "3100",
-                "count": 1
-              },
               {
                 "id": "3158",
                 "count": 1
               },
               {
-                "id": "3115",
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -339,11 +327,7 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "4628",
-                "count": 1
-              },
-              {
-                "id": "3110",
+                "id": "3748",
                 "count": 1
               }
             ]
@@ -352,35 +336,14 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3137",
+                "id": "3065",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -394,252 +357,21 @@
     "runes": [
       {
         "alias": "Shyvana",
-        "name": "[u.gg] Shyvana @ mid, win 61.54%, pick 13",
+        "name": "[u.gg] Shyvana @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 13,
-        "winRate": "61.54%",
-        "primaryStyleId": 8300,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8369,
-          8304,
-          8316,
-          8347,
+          8010,
+          8299,
           8444,
-          8446,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 96,
-    "id": "102",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 4,
-    "winRate": "25.00%",
-    "timestamp": 1709669544430,
-    "alias": "Shyvana",
-    "name": "Shyvana",
-    "position": "adc",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Shyvana @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          102
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 50.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3115",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Shyvana",
-        "name": "[u.gg] Shyvana @ adc, win 100.00%, pick 1",
-        "position": "adc",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8369,
-          8210,
-          8237,
-          8304,
-          8345,
-          8347,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 96,
-    "id": "102",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 4,
-    "winRate": "25.00%",
-    "timestamp": 1709669544430,
-    "alias": "Shyvana",
-    "name": "Shyvana",
-    "position": "supp",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Shyvana @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          102
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 50.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "4633",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": null
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Shyvana",
-        "name": "[u.gg] Shyvana @ supp, win 100.00%, pick 1",
-        "position": "supp",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8229,
-          8105,
-          8136,
-          8233,
-          8237,
-          8275,
-          5008,
-          5008,
+          8453,
+          9105,
+          9111,
+          5007,
+          5001,
           5013
         ],
         "score": 0,

@@ -1,12 +1,12 @@
 [
   {
-    "index": 81,
+    "index": 6,
     "id": "1",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 9125,
-    "winRate": "52.26%",
-    "timestamp": 1709669544430,
+    "pickCount": 399,
+    "winRate": "56.14%",
+    "timestamp": 1709755984766,
     "alias": "Annie",
     "name": "Annie",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8428, win 52.42%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 377, win 56.76%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 863, win 59.56%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 47, win 63.83%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3118",
@@ -56,7 +56,7 @@
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -78,15 +78,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3137",
+                "count": 1
+              },
+              {
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Annie",
-        "name": "[u.gg] Annie @ mid, win 60.29%, pick 277",
+        "name": "[u.gg] Annie @ mid, win 85.71%, pick 14",
         "position": "mid",
-        "pickCount": 277,
-        "winRate": "60.29%",
+        "pickCount": 14,
+        "winRate": "85.71%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8112,
-          8105,
+          8106,
+          8126,
           8138,
-          8139,
           8226,
-          8234,
+          8237,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -143,20 +143,20 @@
     ]
   },
   {
-    "index": 81,
+    "index": 6,
     "id": "1",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1831,
-    "winRate": "49.15%",
-    "timestamp": 1709669544430,
+    "pickCount": 95,
+    "winRate": "56.84%",
+    "timestamp": 1709755984766,
     "alias": "Annie",
     "name": "Annie",
     "position": "supp",
     "skills": [
+      "E",
       "Q",
-      "W",
-      "E"
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1722, win 49.77%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 91, win 58.24%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -188,7 +188,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 282, win 54.61%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 23, win 73.91%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3871",
@@ -205,48 +205,44 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3116",
                 "count": 1
               },
               {
-                "id": "6616",
+                "id": "6653",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3165",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "6621",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
               {
                 "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -263,10 +259,10 @@
     "runes": [
       {
         "alias": "Annie",
-        "name": "[u.gg] Annie @ supp, win 62.96%, pick 135",
+        "name": "[u.gg] Annie @ supp, win 81.82%, pick 11",
         "position": "supp",
-        "pickCount": 135,
-        "winRate": "62.96%",
+        "pickCount": 11,
+        "winRate": "81.82%",
         "primaryStyleId": 8300,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -286,13 +282,13 @@
     ]
   },
   {
-    "index": 81,
+    "index": 6,
     "id": "1",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 430,
-    "winRate": "48.60%",
-    "timestamp": 1709669544430,
+    "pickCount": 20,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Annie",
     "name": "Annie",
     "position": "top",
@@ -314,24 +310,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 23, win 60.87%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2003",
+                "id": "1083",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3118",
@@ -342,7 +334,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -351,11 +343,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4646",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -364,15 +356,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3135",
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -381,15 +373,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "4646",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -406,19 +390,19 @@
     "runes": [
       {
         "alias": "Annie",
-        "name": "[u.gg] Annie @ top, win 83.33%, pick 6",
+        "name": "[u.gg] Annie @ top, win 66.67%, pick 3",
         "position": "top",
-        "pickCount": 6,
-        "winRate": "83.33%",
+        "pickCount": 3,
+        "winRate": "66.67%",
         "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8229,
-          8210,
+          8214,
+          8106,
+          8139,
           8226,
-          8236,
-          8429,
-          8451,
+          8234,
+          8237,
           5005,
           5008,
           5001
@@ -429,20 +413,20 @@
     ]
   },
   {
-    "index": 81,
+    "index": 6,
     "id": "1",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 87,
-    "winRate": "37.93%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Annie",
     "name": "Annie",
     "position": "adc",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -457,7 +441,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 74, win 39.19%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -474,146 +458,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Annie",
-        "name": "[u.gg] Annie @ adc, win 54.55%, pick 11",
-        "position": "adc",
-        "pickCount": 11,
-        "winRate": "54.55%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8112,
-          8105,
-          8138,
-          8139,
-          8226,
-          8234,
-          5008,
-          5010,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 81,
-    "id": "1",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 7,
-    "winRate": "14.29%",
-    "timestamp": 1709669544430,
-    "alias": "Annie",
-    "name": "Annie",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Annie @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          1
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3118",
@@ -624,26 +469,31 @@
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "3116",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6655",
+                "id": "6653",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": null
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": null
           }
         ],
@@ -658,22 +508,22 @@
     "runes": [
       {
         "alias": "Annie",
-        "name": "[u.gg] Annie @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Annie @ adc, win 100.00%, pick 1",
+        "position": "adc",
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8112,
-          8105,
+          8106,
+          8126,
           8138,
-          8139,
-          8304,
-          8347,
+          8210,
+          8236,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

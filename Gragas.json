@@ -1,12 +1,12 @@
 [
   {
-    "index": 119,
+    "index": 92,
     "id": "79",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 28490,
-    "winRate": "53.51%",
-    "timestamp": 1709669544430,
+    "pickCount": 1424,
+    "winRate": "51.69%",
+    "timestamp": 1709755984766,
     "alias": "Gragas",
     "name": "Gragas",
     "position": "top",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 24277, win 53.61%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1205, win 52.03%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4044, win 56.21%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 99, win 55.56%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6657",
@@ -56,7 +56,7 @@
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "3003",
                 "count": 1
               }
             ]
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3100",
+                "id": "4629",
                 "count": 1
               },
               {
-                "id": "4633",
+                "id": "3100",
                 "count": 1
               }
             ]
@@ -82,11 +82,11 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "4629",
                 "count": 1
               },
               {
-                "id": "3100",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -95,7 +95,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
@@ -103,7 +103,7 @@
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Gragas",
-        "name": "[u.gg] Gragas @ top, win 54.78%, pick 2658",
+        "name": "[u.gg] Gragas @ top, win 76.92%, pick 13",
         "position": "top",
-        "pickCount": 2658,
-        "winRate": "54.78%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8200,
+        "pickCount": 13,
+        "winRate": "76.92%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8437,
+          8230,
+          8210,
           8226,
-          8237,
-          8444,
-          8446,
+          8236,
+          8429,
           8451,
-          5007,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 119,
+    "index": 92,
     "id": "79",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 24191,
-    "winRate": "50.69%",
-    "timestamp": 1709669544430,
+    "pickCount": 1293,
+    "winRate": "51.74%",
+    "timestamp": 1709755984766,
     "alias": "Gragas",
     "name": "Gragas",
     "position": "jungle",
@@ -171,20 +171,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11906, win 51.02%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 72, win 58.33%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 205, win 82.44%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 73, win 64.38%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3020",
@@ -195,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -208,7 +204,7 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -217,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -234,15 +230,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3137",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -259,10 +255,10 @@
     "runes": [
       {
         "alias": "Gragas",
-        "name": "[u.gg] Gragas @ jungle, win 51.34%, pick 5294",
+        "name": "[u.gg] Gragas @ jungle, win 53.96%, pick 328",
         "position": "jungle",
-        "pickCount": 5294,
-        "winRate": "51.34%",
+        "pickCount": 328,
+        "winRate": "53.96%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -274,7 +270,7 @@
           8232,
           5008,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -282,13 +278,13 @@
     ]
   },
   {
-    "index": 119,
+    "index": 92,
     "id": "79",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 7888,
-    "winRate": "52.55%",
-    "timestamp": 1709669544430,
+    "pickCount": 287,
+    "winRate": "55.75%",
+    "timestamp": 1709755984766,
     "alias": "Gragas",
     "name": "Gragas",
     "position": "mid",
@@ -310,310 +306,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 7375, win 52.52%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "2033",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1410, win 53.97%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3100",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Gragas",
-        "name": "[u.gg] Gragas @ mid, win 54.90%, pick 357",
-        "position": "mid",
-        "pickCount": 357,
-        "winRate": "54.90%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8112,
-          8106,
-          8138,
-          8143,
-          8226,
-          8237,
-          5007,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 119,
-    "id": "79",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 1304,
-    "winRate": "51.00%",
-    "timestamp": 1709669544430,
-    "alias": "Gragas",
-    "name": "Gragas",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Gragas @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          79
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 66, win 56.06%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 43, win 62.79%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3876",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3119",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3107",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "4628",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Gragas",
-        "name": "[u.gg] Gragas @ supp, win 59.85%, pick 137",
-        "position": "supp",
-        "pickCount": 137,
-        "winRate": "59.85%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8345,
-          8347,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 119,
-    "id": "79",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 68,
-    "winRate": "60.29%",
-    "timestamp": 1709669544430,
-    "alias": "Gragas",
-    "name": "Gragas",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Gragas @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          79
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 54, win 62.96%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 11, win 72.73%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 48, win 60.42%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3100",
@@ -646,15 +348,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6655",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "4633",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "4629",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -663,7 +365,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3157",
+                "id": "4629",
+                "count": 1
+              },
+              {
+                "id": "3152",
+                "count": 1
+              },
+              {
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -680,10 +390,10 @@
     "runes": [
       {
         "alias": "Gragas",
-        "name": "[u.gg] Gragas @ adc, win 69.23%, pick 13",
-        "position": "adc",
-        "pickCount": 13,
-        "winRate": "69.23%",
+        "name": "[u.gg] Gragas @ mid, win 68.42%, pick 19",
+        "position": "mid",
+        "pickCount": 19,
+        "winRate": "68.42%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -692,9 +402,271 @@
           8138,
           8143,
           8210,
-          8236,
+          8226,
           5008,
-          5001,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "id": "79",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 62,
+    "winRate": "59.68%",
+    "timestamp": 1709755984766,
+    "alias": "Gragas",
+    "name": "Gragas",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Gragas @ supp, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          79
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3869",
+                "count": 1
+              },
+              {
+                "id": "6657",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "8020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3152",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4643",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Gragas",
+        "name": "[u.gg] Gragas @ supp, win 100.00%, pick 3",
+        "position": "supp",
+        "pickCount": 3,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8439,
+          8345,
+          8347,
+          8429,
+          8446,
+          8451,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 92,
+    "id": "79",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 3,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
+    "alias": "Gragas",
+    "name": "Gragas",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Gragas @ adc, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          79
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3100",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3119",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Gragas",
+        "name": "[u.gg] Gragas @ adc, win 100.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8439,
+          8345,
+          8347,
+          8444,
+          8446,
+          8453,
+          5008,
+          5008,
           5001
         ],
         "score": 0,

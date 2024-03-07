@@ -1,12 +1,12 @@
 [
   {
-    "index": 115,
+    "index": 101,
     "id": "711",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 12383,
-    "winRate": "49.50%",
-    "timestamp": 1709669544430,
+    "pickCount": 704,
+    "winRate": "49.43%",
+    "timestamp": 1709755984766,
     "alias": "Vex",
     "name": "Vex",
     "position": "mid",
@@ -28,24 +28,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11619, win 49.38%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 7, win 71.43%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "0",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1730, win 50.87%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 111, win 59.46%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6655",
@@ -56,7 +48,7 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -65,7 +57,7 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3157",
+                "id": "3041",
                 "count": 1
               },
               {
@@ -86,7 +78,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -95,11 +87,11 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "3135",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3089",
                 "count": 1
               },
               {
@@ -120,19 +112,19 @@
     "runes": [
       {
         "alias": "Vex",
-        "name": "[u.gg] Vex @ mid, win 59.58%, pick 240",
+        "name": "[u.gg] Vex @ mid, win 65.38%, pick 26",
         "position": "mid",
-        "pickCount": 240,
-        "winRate": "59.58%",
+        "pickCount": 26,
+        "winRate": "65.38%",
         "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8112,
           8106,
-          8126,
           8138,
-          8226,
-          8237,
+          8139,
+          8345,
+          8352,
           5005,
           5008,
           5001
@@ -143,13 +135,13 @@
     ]
   },
   {
-    "index": 115,
+    "index": 101,
     "id": "711",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 353,
-    "winRate": "48.73%",
-    "timestamp": 1709669544430,
+    "pickCount": 25,
+    "winRate": "64.00%",
+    "timestamp": 1709755984766,
     "alias": "Vex",
     "name": "Vex",
     "position": "supp",
@@ -171,150 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 328, win 50.30%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 62, win 58.06%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4628",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Vex",
-        "name": "[u.gg] Vex @ supp, win 68.42%, pick 19",
-        "position": "supp",
-        "pickCount": 19,
-        "winRate": "68.42%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8128,
-          8106,
-          8138,
-          8139,
-          8210,
-          8226,
-          5008,
-          5001,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 115,
-    "id": "711",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 100,
-    "winRate": "45.00%",
-    "timestamp": 1709669544430,
-    "alias": "Vex",
-    "name": "Vex",
-    "position": "top",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Vex @ top, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          711
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 87, win 45.98%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -331,10 +180,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 71.43%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3118",
+                "id": "3871",
                 "count": 1
               },
               {
@@ -342,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -351,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3157",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -364,15 +213,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "4645",
+                "count": 1
+              },
+              {
                 "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3137",
                 "count": 1
               }
             ]
@@ -381,15 +226,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3135",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -406,156 +243,21 @@
     "runes": [
       {
         "alias": "Vex",
-        "name": "[u.gg] Vex @ top, win 83.33%, pick 6",
-        "position": "top",
-        "pickCount": 6,
-        "winRate": "83.33%",
+        "name": "[u.gg] Vex @ supp, win 100.00%, pick 3",
+        "position": "supp",
+        "pickCount": 3,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8112,
           8106,
-          8126,
           8138,
+          8139,
           8210,
           8226,
           5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 115,
-    "id": "711",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 51,
-    "winRate": "56.86%",
-    "timestamp": 1709669544430,
-    "alias": "Vex",
-    "name": "Vex",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Vex @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          711
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Vex",
-        "name": "[u.gg] Vex @ adc, win 88.89%, pick 9",
-        "position": "adc",
-        "pickCount": 9,
-        "winRate": "88.89%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8230,
-          8210,
-          8226,
-          8237,
-          8304,
-          8345,
-          5005,
-          5008,
+          5001,
           5011
         ],
         "score": 0,
@@ -564,16 +266,16 @@
     ]
   },
   {
-    "index": 115,
+    "index": 101,
     "id": "711",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2,
-    "winRate": "50.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 5,
+    "winRate": "40.00%",
+    "timestamp": 1709755984766,
     "alias": "Vex",
     "name": "Vex",
-    "position": "jungle",
+    "position": "top",
     "skills": [
       "Q",
       "W",
@@ -582,7 +284,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Vex @ jungle, 14.5.1",
+        "title": "[u.gg] Vex @ top, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -612,15 +314,15 @@
             "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3003",
+                "id": "3020",
                 "count": 1
               },
               {
                 "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -629,6 +331,10 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "3102",
+                "count": 1
+              },
+              {
                 "id": "3089",
                 "count": 1
               }
@@ -636,7 +342,12 @@
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": null
+            "items": [
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -654,22 +365,136 @@
     "runes": [
       {
         "alias": "Vex",
-        "name": "[u.gg] Vex @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Vex @ top, win 100.00%, pick 1",
+        "position": "top",
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8100,
-        "subStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8112,
-          8106,
+          8135,
           8138,
           8139,
-          8345,
-          8352,
+          8226,
+          8236,
           5005,
           5008,
           5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 101,
+    "id": "711",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 4,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
+    "alias": "Vex",
+    "name": "Vex",
+    "position": "adc",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Vex @ adc, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          711
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3003",
+                "count": 1
+              },
+              {
+                "id": "3118",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6655",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Vex",
+        "name": "[u.gg] Vex @ adc, win 66.67%, pick 3",
+        "position": "adc",
+        "pickCount": 3,
+        "winRate": "66.67%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8230,
+          8210,
+          8226,
+          8237,
+          8304,
+          8345,
+          5005,
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""

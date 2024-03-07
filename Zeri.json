@@ -1,12 +1,12 @@
 [
   {
-    "index": 2,
+    "index": 18,
     "id": "221",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 53765,
-    "winRate": "50.16%",
-    "timestamp": 1709669544430,
+    "pickCount": 2629,
+    "winRate": "50.32%",
+    "timestamp": 1709755984766,
     "alias": "Zeri",
     "name": "Zeri",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 48986, win 50.45%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2450, win 50.61%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6108, win 55.22%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 401, win 56.61%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -52,7 +52,7 @@
                 "count": 1
               },
               {
-                "id": "3085",
+                "id": "3046",
                 "count": 1
               }
             ]
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3031",
+                "id": "3085",
                 "count": 1
               }
             ]
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "3072",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Zeri",
-        "name": "[u.gg] Zeri @ adc, win 49.87%, pick 21517",
+        "name": "[u.gg] Zeri @ adc, win 56.90%, pick 174",
         "position": "adc",
-        "pickCount": 21517,
-        "winRate": "49.87%",
+        "pickCount": 174,
+        "winRate": "56.90%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
@@ -127,11 +127,11 @@
           8299,
           8429,
           8451,
-          9104,
+          9103,
           9111,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 2,
+    "index": 18,
     "id": "221",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 631,
-    "winRate": "53.09%",
-    "timestamp": 1709669544430,
+    "pickCount": 27,
+    "winRate": "55.56%",
+    "timestamp": 1709755984766,
     "alias": "Zeri",
     "name": "Zeri",
     "position": "mid",
@@ -167,10 +167,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 425, win 53.65%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 13, win 69.23%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1055",
+                "id": "1083",
                 "count": 1
               },
               {
@@ -180,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 39, win 64.10%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3087",
@@ -191,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "6675",
+                "id": "3085",
                 "count": 1
               }
             ]
@@ -200,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3085",
+                "id": "4646",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -213,11 +213,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "3041",
                 "count": 1
               },
               {
@@ -230,15 +226,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -255,22 +243,22 @@
     "runes": [
       {
         "alias": "Zeri",
-        "name": "[u.gg] Zeri @ mid, win 65.38%, pick 52",
+        "name": "[u.gg] Zeri @ mid, win 100.00%, pick 4",
         "position": "mid",
-        "pickCount": 52,
-        "winRate": "65.38%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "pickCount": 4,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8369,
-          8106,
-          8143,
-          8304,
-          8321,
-          8347,
+          8021,
+          8017,
+          8242,
+          8429,
+          9101,
+          9103,
           5005,
-          5008,
-          5013
+          5010,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -278,13 +266,13 @@
     ]
   },
   {
-    "index": 2,
+    "index": 18,
     "id": "221",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 456,
-    "winRate": "42.54%",
-    "timestamp": 1709669544430,
+    "pickCount": 13,
+    "winRate": "38.46%",
+    "timestamp": 1709755984766,
     "alias": "Zeri",
     "name": "Zeri",
     "position": "top",
@@ -306,7 +294,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 379, win 44.06%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 11, win 45.45%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -319,18 +307,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 35, win 62.86%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3006",
                 "count": 1
               },
               {
-                "id": "3095",
+                "id": "3087",
                 "count": 1
               },
               {
-                "id": "3085",
+                "id": "6675",
                 "count": 1
               }
             ]
@@ -339,11 +327,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6673",
+                "id": "3071",
                 "count": 1
               },
               {
-                "id": "3031",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -352,15 +340,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3036",
+                "id": "3091",
                 "count": 1
               },
               {
-                "id": "3031",
-                "count": 1
-              },
-              {
-                "id": "6673",
+                "id": "3085",
                 "count": 1
               }
             ]
@@ -373,11 +357,7 @@
                 "count": 1
               },
               {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3073",
+                "id": "3190",
                 "count": 1
               }
             ]
@@ -394,14 +374,14 @@
     "runes": [
       {
         "alias": "Zeri",
-        "name": "[u.gg] Zeri @ top, win 75.00%, pick 8",
+        "name": "[u.gg] Zeri @ top, win 60.00%, pick 5",
         "position": "top",
-        "pickCount": 8,
-        "winRate": "75.00%",
+        "pickCount": 5,
+        "winRate": "60.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8021,
+          8008,
           8299,
           8429,
           8451,
@@ -417,19 +397,19 @@
     ]
   },
   {
-    "index": 2,
+    "index": 18,
     "id": "221",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 114,
-    "winRate": "49.12%",
-    "timestamp": 1709669544430,
+    "pickCount": 5,
+    "winRate": "40.00%",
+    "timestamp": 1709755984766,
     "alias": "Zeri",
     "name": "Zeri",
     "position": "jungle",
     "skills": [
-      "W",
       "Q",
+      "W",
       "E"
     ],
     "spells": null,
@@ -445,81 +425,51 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 35, win 68.57%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1101",
                 "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
               },
               {
-                "id": "2003",
+                "id": "3748",
+                "count": 1
+              },
+              {
+                "id": "3047",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3095",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "3006",
-                "count": 1
-              },
-              {
-                "id": "3073",
+                "id": "6675",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3087",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3302",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
           }
         ],
         "map": "any",
@@ -533,20 +483,20 @@
     "runes": [
       {
         "alias": "Zeri",
-        "name": "[u.gg] Zeri @ jungle, win 87.50%, pick 8",
+        "name": "[u.gg] Zeri @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 8,
-        "winRate": "87.50%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8021,
           8014,
-          8135,
-          8143,
+          8304,
+          8347,
           9104,
           9111,
-          5005,
+          5008,
           5008,
           5001
         ],
@@ -556,13 +506,13 @@
     ]
   },
   {
-    "index": 2,
+    "index": 18,
     "id": "221",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 54,
-    "winRate": "37.04%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Zeri",
     "name": "Zeri",
     "position": "supp",
@@ -584,31 +534,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 30, win 46.67%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "2003",
                 "count": 1
               },
               {
-                "id": "2003",
+                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 62.50%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "3869",
+                "count": 1
+              },
               {
                 "id": "3006",
                 "count": 1
               },
               {
-                "id": "3087",
-                "count": 1
-              },
-              {
-                "id": "6675",
+                "id": "3153",
                 "count": 1
               }
             ]
@@ -617,11 +567,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3085",
+                "id": "6675",
                 "count": 1
               }
             ]
@@ -630,35 +576,14 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3085",
-                "count": 1
-              },
-              {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "4645",
+                "id": "3036",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4629",
-                "count": 1
-              },
-              {
-                "id": "3073",
-                "count": 1
-              },
-              {
-                "id": "3026",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -672,22 +597,22 @@
     "runes": [
       {
         "alias": "Zeri",
-        "name": "[u.gg] Zeri @ supp, win 46.67%, pick 15",
+        "name": "[u.gg] Zeri @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 15,
-        "winRate": "46.67%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
-          8299,
+          8014,
           8429,
           8451,
           9104,
           9111,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

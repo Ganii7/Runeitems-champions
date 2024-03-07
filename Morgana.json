@@ -1,12 +1,12 @@
 [
   {
-    "index": 139,
+    "index": 53,
     "id": "25",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 15441,
-    "winRate": "48.05%",
-    "timestamp": 1709669544430,
+    "pickCount": 621,
+    "winRate": "48.31%",
+    "timestamp": 1709755984766,
     "alias": "Morgana",
     "name": "Morgana",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14028, win 48.11%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 571, win 48.34%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1844, win 51.30%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 63, win 60.32%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3871",
@@ -78,15 +78,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3165",
-                "count": 1
-              },
-              {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3107",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3137",
+                "id": "3116",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "4643",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -120,19 +120,19 @@
     "runes": [
       {
         "alias": "Morgana",
-        "name": "[u.gg] Morgana @ supp, win 50.47%, pick 1698",
+        "name": "[u.gg] Morgana @ supp, win 61.11%, pick 108",
         "position": "supp",
-        "pickCount": 1698,
-        "winRate": "50.47%",
+        "pickCount": 108,
+        "winRate": "61.11%",
         "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8229,
+          8106,
+          8126,
           8210,
           8226,
           8237,
-          8345,
-          8347,
           5008,
           5008,
           5001
@@ -143,19 +143,19 @@
     ]
   },
   {
-    "index": 139,
+    "index": 53,
     "id": "25",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 913,
-    "winRate": "51.70%",
-    "timestamp": 1709669544430,
+    "pickCount": 39,
+    "winRate": "38.46%",
+    "timestamp": 1709755984766,
     "alias": "Morgana",
     "name": "Morgana",
     "position": "mid",
     "skills": [
-      "W",
       "Q",
+      "W",
       "E"
     ],
     "spells": null,
@@ -171,31 +171,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 847, win 51.59%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
                 "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 71, win 63.38%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6653",
+                "id": "3020",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "6653",
                 "count": 1
               },
               {
@@ -205,43 +205,30 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3116",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3165",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3152",
-                "count": 1
-              },
-              {
-                "id": "3102",
+                "id": "3165",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
           }
         ],
         "map": "any",
@@ -255,10 +242,10 @@
     "runes": [
       {
         "alias": "Morgana",
-        "name": "[u.gg] Morgana @ mid, win 61.33%, pick 75",
+        "name": "[u.gg] Morgana @ mid, win 60.00%, pick 15",
         "position": "mid",
-        "pickCount": 75,
-        "winRate": "61.33%",
+        "pickCount": 15,
+        "winRate": "60.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -266,8 +253,8 @@
           8210,
           8226,
           8237,
+          8313,
           8345,
-          8347,
           5008,
           5008,
           5001
@@ -278,13 +265,13 @@
     ]
   },
   {
-    "index": 139,
+    "index": 53,
     "id": "25",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 772,
-    "winRate": "45.73%",
-    "timestamp": 1709669544430,
+    "pickCount": 36,
+    "winRate": "58.33%",
+    "timestamp": 1709755984766,
     "alias": "Morgana",
     "name": "Morgana",
     "position": "jungle",
@@ -306,23 +293,19 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 362, win 46.69%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 5, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 144, win 51.39%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6653",
+                "id": "6655",
                 "count": 1
               },
               {
@@ -339,11 +322,11 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -352,15 +335,15 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
                 "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "4628",
+                "count": 1
+              },
+              {
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -369,15 +352,11 @@
             "type": "Sixth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3041",
+                "id": "3135",
                 "count": 1
               },
               {
-                "id": "4629",
-                "count": 1
-              },
-              {
-                "id": "6665",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -394,20 +373,20 @@
     "runes": [
       {
         "alias": "Morgana",
-        "name": "[u.gg] Morgana @ jungle, win 54.00%, pick 100",
+        "name": "[u.gg] Morgana @ jungle, win 100.00%, pick 4",
         "position": "jungle",
-        "pickCount": 100,
-        "winRate": "54.00%",
+        "pickCount": 4,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8128,
-          8105,
+          8106,
           8126,
           8138,
           8304,
           8347,
-          5005,
+          5008,
           5008,
           5001
         ],
@@ -417,13 +396,13 @@
     ]
   },
   {
-    "index": 139,
+    "index": 53,
     "id": "25",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 95,
-    "winRate": "54.74%",
-    "timestamp": 1709669544430,
+    "pickCount": 4,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Morgana",
     "name": "Morgana",
     "position": "top",
@@ -445,10 +424,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2, win 100.00%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 4, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "1083",
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -458,10 +441,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 9, win 66.67%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6655",
+                "id": "3003",
                 "count": 1
               },
               {
@@ -478,11 +461,11 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3157",
+                "id": "4628",
                 "count": 1
               },
               {
-                "id": "4628",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -491,27 +474,18 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3165",
-                "count": 1
-              },
-              {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "3152",
+                "id": "3137",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -525,20 +499,20 @@
     "runes": [
       {
         "alias": "Morgana",
-        "name": "[u.gg] Morgana @ top, win 100.00%, pick 4",
+        "name": "[u.gg] Morgana @ top, win 100.00%, pick 2",
         "position": "top",
-        "pickCount": 4,
+        "pickCount": 2,
         "winRate": "100.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8229,
+          8369,
+          8210,
           8226,
-          8234,
-          8237,
-          8321,
+          8304,
+          8316,
           8347,
-          5005,
+          5008,
           5008,
           5001
         ],
@@ -548,13 +522,13 @@
     ]
   },
   {
-    "index": 139,
+    "index": 53,
     "id": "25",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 81,
-    "winRate": "38.27%",
-    "timestamp": 1709669544430,
+    "pickCount": 4,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Morgana",
     "name": "Morgana",
     "position": "adc",
@@ -576,7 +550,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 64, win 39.06%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -593,18 +567,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6655",
+                "id": "3870",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "2065",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -613,11 +587,7 @@
             "type": "Fourth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "4628",
+                "id": "3107",
                 "count": 1
               }
             ]
@@ -626,27 +596,14 @@
             "type": "Fifth Item Options, W \u003e Q \u003e E",
             "items": [
               {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "3190",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, W \u003e Q \u003e E",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -660,19 +617,19 @@
     "runes": [
       {
         "alias": "Morgana",
-        "name": "[u.gg] Morgana @ adc, win 70.00%, pick 10",
+        "name": "[u.gg] Morgana @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 10,
-        "winRate": "70.00%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8229,
-          8009,
-          8014,
+          8106,
+          8126,
           8210,
           8226,
-          8236,
+          8237,
           5008,
           5008,
           5011

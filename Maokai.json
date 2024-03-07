@@ -1,12 +1,12 @@
 [
   {
-    "index": 35,
+    "index": 5,
     "id": "57",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 69959,
-    "winRate": "53.96%",
-    "timestamp": 1709669544430,
+    "pickCount": 2556,
+    "winRate": "51.64%",
+    "timestamp": 1709755984766,
     "alias": "Maokai",
     "name": "Maokai",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 66663, win 54.04%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2472, win 51.98%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 27746, win 57.67%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 911, win 53.68%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3876",
@@ -86,7 +86,7 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3110",
+                "id": "3068",
                 "count": 1
               },
               {
                 "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "8001",
                 "count": 1
               }
             ]
@@ -120,19 +120,19 @@
     "runes": [
       {
         "alias": "Maokai",
-        "name": "[u.gg] Maokai @ supp, win 55.53%, pick 8465",
+        "name": "[u.gg] Maokai @ supp, win 63.77%, pick 69",
         "position": "supp",
-        "pickCount": 8465,
-        "winRate": "55.53%",
+        "pickCount": 69,
+        "winRate": "63.77%",
         "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8439,
-          8105,
-          8136,
           8242,
+          8345,
+          8347,
+          8444,
           8463,
-          8473,
           5007,
           5010,
           5011
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 35,
+    "index": 5,
     "id": "57",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 4338,
-    "winRate": "48.22%",
-    "timestamp": 1709669544430,
+    "pickCount": 267,
+    "winRate": "50.19%",
+    "timestamp": 1709755984766,
     "alias": "Maokai",
     "name": "Maokai",
     "position": "jungle",
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 181, win 53.04%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 19, win 63.16%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1102",
@@ -180,14 +180,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 134, win 58.21%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6664",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3047",
                 "count": 1
               },
               {
@@ -200,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3075",
+                "id": "2504",
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -217,11 +217,11 @@
                 "count": 1
               },
               {
-                "id": "3068",
+                "id": "2504",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -230,15 +230,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "8001",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3165",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -255,10 +247,10 @@
     "runes": [
       {
         "alias": "Maokai",
-        "name": "[u.gg] Maokai @ jungle, win 50.08%, pick 651",
+        "name": "[u.gg] Maokai @ jungle, win 53.62%, pick 69",
         "position": "jungle",
-        "pickCount": 651,
-        "winRate": "50.08%",
+        "pickCount": 69,
+        "winRate": "53.62%",
         "primaryStyleId": 8200,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -278,13 +270,13 @@
     ]
   },
   {
-    "index": 35,
+    "index": 5,
     "id": "57",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 3066,
-    "winRate": "50.82%",
-    "timestamp": 1709669544430,
+    "pickCount": 119,
+    "winRate": "51.26%",
+    "timestamp": 1709755984766,
     "alias": "Maokai",
     "name": "Maokai",
     "position": "top",
@@ -306,10 +298,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2236, win 51.57%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 27, win 55.56%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1054",
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -319,18 +315,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 91, win 64.84%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 5, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
                 "id": "6664",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -339,11 +335,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3065",
+                "id": "2502",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -352,35 +348,18 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3075",
-                "count": 1
-              },
-              {
                 "id": "6665",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "2504",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "4629",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -394,20 +373,20 @@
     "runes": [
       {
         "alias": "Maokai",
-        "name": "[u.gg] Maokai @ top, win 70.83%, pick 48",
+        "name": "[u.gg] Maokai @ top, win 80.00%, pick 10",
         "position": "top",
-        "pickCount": 48,
-        "winRate": "70.83%",
+        "pickCount": 10,
+        "winRate": "80.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8437,
-          8134,
-          8139,
+          8345,
+          8347,
           8444,
           8446,
           8453,
-          5005,
+          5008,
           5001,
           5001
         ],
@@ -417,13 +396,13 @@
     ]
   },
   {
-    "index": 35,
+    "index": 5,
     "id": "57",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1039,
-    "winRate": "55.44%",
-    "timestamp": 1709669544430,
+    "pickCount": 41,
+    "winRate": "46.34%",
+    "timestamp": 1709755984766,
     "alias": "Maokai",
     "name": "Maokai",
     "position": "adc",
@@ -445,7 +424,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 967, win 56.46%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 39, win 48.72%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -458,7 +437,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 13, win 84.62%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6664",
@@ -478,11 +457,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2504",
+                "id": "3075",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -491,31 +470,14 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3109",
+                "id": "3065",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -529,20 +491,20 @@
     "runes": [
       {
         "alias": "Maokai",
-        "name": "[u.gg] Maokai @ adc, win 63.83%, pick 47",
+        "name": "[u.gg] Maokai @ adc, win 100.00%, pick 2",
         "position": "adc",
-        "pickCount": 47,
-        "winRate": "63.83%",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8439,
           8345,
           8347,
-          8444,
+          8429,
           8451,
           8463,
-          5005,
+          5007,
           5010,
           5011
         ],
@@ -552,13 +514,13 @@
     ]
   },
   {
-    "index": 35,
+    "index": 5,
     "id": "57",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 112,
-    "winRate": "39.29%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Maokai",
     "name": "Maokai",
     "position": "mid",
@@ -580,7 +542,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 69, win 46.38%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -593,60 +555,33 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
+              {
+                "id": "3009",
+                "count": 1
+              },
               {
                 "id": "6664",
                 "count": 1
               },
               {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3110",
+                "id": "3190",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3152",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              },
-              {
-                "id": "3002",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -660,21 +595,21 @@
     "runes": [
       {
         "alias": "Maokai",
-        "name": "[u.gg] Maokai @ mid, win 100.00%, pick 2",
+        "name": "[u.gg] Maokai @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 2,
+        "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8230,
-          8210,
-          8226,
-          8237,
-          8444,
-          8453,
-          5008,
-          5010,
+          8437,
+          8345,
+          8347,
+          8429,
+          8451,
+          8463,
+          5005,
+          5001,
           5011
         ],
         "score": 0,

@@ -1,12 +1,12 @@
 [
   {
-    "index": 74,
+    "index": 114,
     "id": "34",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 13250,
-    "winRate": "51.43%",
-    "timestamp": 1709669544430,
+    "pickCount": 556,
+    "winRate": "51.08%",
+    "timestamp": 1709755984766,
     "alias": "Anivia",
     "name": "Anivia",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 10972, win 51.50%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 489, win 51.74%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3120, win 53.97%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 112, win 54.46%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6657",
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -78,7 +78,7 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3157",
+                "id": "6653",
                 "count": 1
               },
               {
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3157",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3165",
+                "id": "6655",
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Anivia",
-        "name": "[u.gg] Anivia @ mid, win 51.58%, pick 6665",
+        "name": "[u.gg] Anivia @ mid, win 60.42%, pick 48",
         "position": "mid",
-        "pickCount": 6665,
-        "winRate": "51.58%",
+        "pickCount": 48,
+        "winRate": "60.42%",
         "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8112,
-          8009,
-          8014,
           8105,
           8126,
           8138,
+          8226,
+          8237,
           5005,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -143,20 +143,20 @@
     ]
   },
   {
-    "index": 74,
+    "index": 114,
     "id": "34",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1259,
-    "winRate": "48.29%",
-    "timestamp": 1709669544430,
+    "pickCount": 55,
+    "winRate": "50.91%",
+    "timestamp": 1709755984766,
     "alias": "Anivia",
     "name": "Anivia",
     "position": "supp",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -171,10 +171,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1115, win 48.43%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -182,13 +182,13 @@
                 "count": 1
               },
               {
-                "id": "3865",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 66, win 69.70%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3871",
@@ -205,48 +205,44 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3157",
+                "id": "3116",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "6657",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "2504",
+                "count": 1
+              },
               {
                 "id": "3003",
                 "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "4629",
+                "count": 1
+              },
               {
                 "id": "3165",
                 "count": 1
               },
               {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "4005",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -263,22 +259,22 @@
     "runes": [
       {
         "alias": "Anivia",
-        "name": "[u.gg] Anivia @ supp, win 65.38%, pick 52",
+        "name": "[u.gg] Anivia @ supp, win 100.00%, pick 3",
         "position": "supp",
-        "pickCount": 52,
-        "winRate": "65.38%",
+        "pickCount": 3,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8112,
           8105,
           8126,
-          8136,
+          8138,
           8226,
-          8234,
-          5005,
+          8237,
+          5008,
           5010,
-          5011
+          5013
         ],
         "score": 0,
         "type": ""
@@ -286,13 +282,13 @@
     ]
   },
   {
-    "index": 74,
+    "index": 114,
     "id": "34",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 772,
-    "winRate": "52.20%",
-    "timestamp": 1709669544430,
+    "pickCount": 35,
+    "winRate": "54.29%",
+    "timestamp": 1709755984766,
     "alias": "Anivia",
     "name": "Anivia",
     "position": "top",
@@ -314,7 +310,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 594, win 52.69%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 29, win 55.17%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -331,18 +327,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 15, win 73.33%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6657",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "3020",
                 "count": 1
               },
               {
-                "id": "3118",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -355,7 +351,7 @@
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3742",
                 "count": 1
               }
             ]
@@ -364,15 +360,7 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "4629",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -381,15 +369,7 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3137",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -406,20 +386,20 @@
     "runes": [
       {
         "alias": "Anivia",
-        "name": "[u.gg] Anivia @ top, win 53.30%, pick 227",
+        "name": "[u.gg] Anivia @ top, win 100.00%, pick 2",
         "position": "top",
-        "pickCount": 227,
-        "winRate": "53.30%",
-        "primaryStyleId": 8100,
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
         "subStyleId": 8000,
         "selectedPerkIds": [
-          8112,
+          8230,
           8009,
-          8014,
-          8105,
-          8126,
-          8138,
-          5007,
+          8210,
+          8226,
+          8237,
+          8299,
+          5005,
           5008,
           5001
         ],
@@ -429,20 +409,20 @@
     ]
   },
   {
-    "index": 74,
+    "index": 114,
     "id": "34",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 184,
-    "winRate": "47.83%",
-    "timestamp": 1709669544430,
+    "pickCount": 5,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Anivia",
     "name": "Anivia",
     "position": "adc",
     "skills": [
       "E",
-      "W",
-      "Q"
+      "Q",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -457,7 +437,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 141, win 48.94%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 3, win 0.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -474,157 +454,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 22, win 63.64%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 0.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6657",
                 "count": 1
               },
               {
+                "id": "3020",
+                "count": 1
+              },
+              {
                 "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Anivia",
-        "name": "[u.gg] Anivia @ adc, win 80.00%, pick 10",
-        "position": "adc",
-        "pickCount": 10,
-        "winRate": "80.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8112,
-          8105,
-          8126,
-          8138,
-          8226,
-          8237,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 74,
-    "id": "34",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 7,
-    "winRate": "14.29%",
-    "timestamp": 1709669544430,
-    "alias": "Anivia",
-    "name": "Anivia",
-    "position": "jungle",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Anivia @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          34
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 3, win 33.33%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "6653",
                 "count": 1
               }
             ]
@@ -633,7 +474,11 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3003",
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "4629",
                 "count": 1
               }
             ]
@@ -642,14 +487,19 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3102",
+                "id": "3742",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": null
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
           }
         ],
         "map": "any",
@@ -663,10 +513,10 @@
     "runes": [
       {
         "alias": "Anivia",
-        "name": "[u.gg] Anivia @ jungle, win 33.33%, pick 3",
-        "position": "jungle",
-        "pickCount": 3,
-        "winRate": "33.33%",
+        "name": "[u.gg] Anivia @ adc, win 0.00%, pick 2",
+        "position": "adc",
+        "pickCount": 2,
+        "winRate": "0.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8000,
         "selectedPerkIds": [
@@ -676,9 +526,9 @@
           8105,
           8126,
           8138,
-          5005,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""

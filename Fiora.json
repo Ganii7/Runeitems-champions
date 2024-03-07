@@ -1,12 +1,12 @@
 [
   {
-    "index": 83,
+    "index": 7,
     "id": "114",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 34094,
-    "winRate": "51.98%",
-    "timestamp": 1709669544430,
+    "pickCount": 1606,
+    "winRate": "51.56%",
+    "timestamp": 1709755984766,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "top",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 25282, win 52.74%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1159, win 53.93%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5181, win 56.34%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 251, win 57.77%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3074",
@@ -74,7 +74,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "3156",
                 "count": 1
               },
               {
@@ -82,7 +82,7 @@
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3026",
-                "count": 1
-              },
-              {
                 "id": "3053",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -116,19 +116,19 @@
     "runes": [
       {
         "alias": "Fiora",
-        "name": "[u.gg] Fiora @ top, win 55.14%, pick 1429",
+        "name": "[u.gg] Fiora @ top, win 57.81%, pick 64",
         "position": "top",
-        "pickCount": 1429,
-        "winRate": "55.14%",
+        "pickCount": 64,
+        "winRate": "57.81%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8009,
           8299,
           8446,
           8473,
           9104,
+          9111,
           5005,
           5008,
           5011
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 83,
+    "index": 7,
     "id": "114",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 386,
-    "winRate": "49.74%",
-    "timestamp": 1709669544430,
+    "pickCount": 12,
+    "winRate": "66.67%",
+    "timestamp": 1709755984766,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "mid",
@@ -167,23 +167,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 5, win 80.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "0",
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 52, win 55.77%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3074",
+                "id": "3111",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3074",
                 "count": 1
               },
               {
@@ -196,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "6610",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "3181",
                 "count": 1
               }
             ]
@@ -209,15 +213,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
                 "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3153",
                 "count": 1
               }
             ]
@@ -226,15 +222,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3302",
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -251,20 +239,20 @@
     "runes": [
       {
         "alias": "Fiora",
-        "name": "[u.gg] Fiora @ mid, win 60.00%, pick 30",
+        "name": "[u.gg] Fiora @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 30,
-        "winRate": "60.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8200,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8005,
-          8009,
-          8237,
-          8275,
-          8299,
-          9104,
-          5005,
+          8437,
+          8304,
+          8345,
+          8444,
+          8446,
+          8451,
+          5008,
           5008,
           5001
         ],
@@ -274,20 +262,20 @@
     ]
   },
   {
-    "index": 83,
+    "index": 7,
     "id": "114",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 94,
-    "winRate": "52.13%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "adc",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -302,7 +290,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 77, win 54.55%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1036",
@@ -315,68 +303,38 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 30, win 66.67%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3074",
                 "count": 1
               },
               {
-                "id": "3508",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3508",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3095",
                 "count": 1
-              },
-              {
-                "id": "3004",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "6699",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3073",
-                "count": 1
-              },
-              {
-                "id": "3072",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
           }
         ],
         "map": "any",
@@ -390,22 +348,22 @@
     "runes": [
       {
         "alias": "Fiora",
-        "name": "[u.gg] Fiora @ adc, win 55.56%, pick 72",
+        "name": "[u.gg] Fiora @ adc, win 50.00%, pick 2",
         "position": "adc",
-        "pickCount": 72,
-        "winRate": "55.56%",
+        "pickCount": 2,
+        "winRate": "50.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8021,
           8014,
           8135,
-          8139,
+          8143,
           9104,
           9111,
+          5005,
           5008,
-          5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -413,13 +371,13 @@
     ]
   },
   {
-    "index": 83,
+    "index": 7,
     "id": "114",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 68,
-    "winRate": "50.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Fiora",
     "name": "Fiora",
     "position": "supp",
@@ -441,7 +399,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 51, win 54.90%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -458,157 +416,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 14, win 71.43%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "3153",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
                 "id": "6610",
                 "count": 1
               },
               {
-                "id": "3074",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3161",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Fiora",
-        "name": "[u.gg] Fiora @ supp, win 84.00%, pick 25",
-        "position": "supp",
-        "pickCount": 25,
-        "winRate": "84.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8230,
-          8226,
-          8234,
-          8236,
-          8304,
-          8321,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 83,
-    "id": "114",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 7,
-    "winRate": "57.14%",
-    "timestamp": 1709669544430,
-    "alias": "Fiora",
-    "name": "Fiora",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Fiora @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          114
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "3074",
-                "count": 1
-              },
-              {
-                "id": "3047",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -617,7 +436,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2504",
+                "id": "3153",
+                "count": 1
+              },
+              {
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -626,7 +449,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4401",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -647,22 +470,22 @@
     "runes": [
       {
         "alias": "Fiora",
-        "name": "[u.gg] Fiora @ jungle, win 100.00%, pick 2",
-        "position": "jungle",
-        "pickCount": 2,
-        "winRate": "100.00%",
+        "name": "[u.gg] Fiora @ supp, win 0.00%, pick 1",
+        "position": "supp",
+        "pickCount": 1,
+        "winRate": "0.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8010,
+          8005,
           8299,
-          8304,
-          8347,
+          8453,
+          8473,
           9104,
           9111,
-          5005,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""

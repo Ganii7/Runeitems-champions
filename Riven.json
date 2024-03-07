@@ -1,12 +1,12 @@
 [
   {
-    "index": 90,
+    "index": 62,
     "id": "92",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 31319,
-    "winRate": "51.40%",
-    "timestamp": 1709669544430,
+    "pickCount": 1195,
+    "winRate": "50.96%",
+    "timestamp": 1709755984766,
     "alias": "Riven",
     "name": "Riven",
     "position": "top",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 22892, win 52.24%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 874, win 51.95%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5694, win 56.29%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 17, win 82.35%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
@@ -52,7 +52,7 @@
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "6698",
                 "count": 1
               }
             ]
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3161",
+                "id": "6610",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "3161",
                 "count": 1
               },
               {
-                "id": "3161",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -91,11 +91,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "3026",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3071",
                 "count": 1
               },
               {
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Riven",
-        "name": "[u.gg] Riven @ top, win 53.19%, pick 6300",
+        "name": "[u.gg] Riven @ top, win 53.89%, pick 193",
         "position": "top",
-        "pickCount": 6300,
-        "winRate": "53.19%",
+        "pickCount": 193,
+        "winRate": "53.89%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -131,7 +131,7 @@
           9111,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -139,20 +139,20 @@
     ]
   },
   {
-    "index": 90,
+    "index": 62,
     "id": "92",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1383,
-    "winRate": "53.22%",
-    "timestamp": 1709669544430,
+    "pickCount": 50,
+    "winRate": "48.00%",
+    "timestamp": 1709755984766,
     "alias": "Riven",
     "name": "Riven",
     "position": "mid",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 804, win 54.60%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 29, win 51.72%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -180,146 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 25, win 76.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3161",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3139",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Riven",
-        "name": "[u.gg] Riven @ mid, win 54.47%, pick 470",
-        "position": "mid",
-        "pickCount": 470,
-        "winRate": "54.47%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8010,
-          8210,
-          8275,
-          8299,
-          9105,
-          9111,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 90,
-    "id": "92",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 129,
-    "winRate": "27.13%",
-    "timestamp": 1709669544430,
-    "alias": "Riven",
-    "name": "Riven",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Riven @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          92
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 39, win 38.46%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 11, win 45.45%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 11, win 63.64%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6692",
@@ -336,44 +197,48 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6333",
+                "id": "3161",
                 "count": 1
               },
               {
-                "id": "6698",
+                "id": "3074",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
+              {
+                "id": "3071",
+                "count": 1
+              },
               {
                 "id": "3156",
                 "count": 1
               },
               {
-                "id": "3033",
+                "id": "3161",
                 "count": 1
-              },
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
               {
                 "id": "6694",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
+              },
               {
-                "id": "3161",
+                "id": "6333",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -390,145 +255,10 @@
     "runes": [
       {
         "alias": "Riven",
-        "name": "[u.gg] Riven @ jungle, win 60.00%, pick 5",
-        "position": "jungle",
-        "pickCount": 5,
-        "winRate": "60.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8010,
-          8299,
-          8304,
-          8347,
-          9104,
-          9111,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 90,
-    "id": "92",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 48,
-    "winRate": "47.92%",
-    "timestamp": 1709669544430,
-    "alias": "Riven",
-    "name": "Riven",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Riven @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          92
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 35, win 54.29%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3876",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "6695",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Riven",
-        "name": "[u.gg] Riven @ supp, win 52.38%, pick 21",
-        "position": "supp",
-        "pickCount": 21,
-        "winRate": "52.38%",
+        "name": "[u.gg] Riven @ mid, win 54.55%, pick 22",
+        "position": "mid",
+        "pickCount": 22,
+        "winRate": "54.55%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -548,16 +278,16 @@
     ]
   },
   {
-    "index": 90,
+    "index": 62,
     "id": "92",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 23,
-    "winRate": "43.48%",
-    "timestamp": 1709669544430,
+    "pickCount": 6,
+    "winRate": "16.67%",
+    "timestamp": 1709755984766,
     "alias": "Riven",
     "name": "Riven",
-    "position": "adc",
+    "position": "jungle",
     "skills": [
       "Q",
       "W",
@@ -566,7 +296,7 @@
     "spells": null,
     "itemBuilds": [
       {
-        "title": "[u.gg] Riven @ adc, 14.5.1",
+        "title": "[u.gg] Riven @ jungle, 14.5.1",
         "associatedMaps": [
           11,
           12
@@ -576,10 +306,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 15, win 46.67%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1055",
+                "id": "1102",
                 "count": 1
               },
               {
@@ -589,18 +319,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6698",
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3158",
                 "count": 1
               },
               {
                 "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3047",
                 "count": 1
               }
             ]
@@ -608,10 +338,6 @@
           {
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3156",
-                "count": 1
-              },
               {
                 "id": "6333",
                 "count": 1
@@ -622,23 +348,14 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "3161",
+                "id": "3156",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -652,10 +369,10 @@
     "runes": [
       {
         "alias": "Riven",
-        "name": "[u.gg] Riven @ adc, win 75.00%, pick 4",
-        "position": "adc",
-        "pickCount": 4,
-        "winRate": "75.00%",
+        "name": "[u.gg] Riven @ jungle, win 50.00%, pick 2",
+        "position": "jungle",
+        "pickCount": 2,
+        "winRate": "50.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -667,7 +384,181 @@
           9111,
           5008,
           5008,
-          5013
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "id": "92",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
+    "alias": "Riven",
+    "name": "Riven",
+    "position": "adc",
+    "skills": [],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Riven @ adc, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          92
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 0.00%, ",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
+          },
+          {
+            "type": "Fourth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, ",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Riven",
+        "name": "[u.gg] Riven @ adc, win 0.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8010,
+          8210,
+          8275,
+          8299,
+          9105,
+          9111,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 62,
+    "id": "92",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
+    "alias": "Riven",
+    "name": "Riven",
+    "position": "supp",
+    "skills": [],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Riven @ supp, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          92
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 0.00%, ",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
+          },
+          {
+            "type": "Fourth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, ",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Riven",
+        "name": "[u.gg] Riven @ supp, win 0.00%, pick 1",
+        "position": "supp",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8010,
+          8299,
+          8463,
+          8473,
+          9105,
+          9111,
+          5008,
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""

@@ -1,12 +1,12 @@
 [
   {
-    "index": 135,
+    "index": 148,
     "id": "154",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 21525,
-    "winRate": "49.76%",
-    "timestamp": 1709669544430,
+    "pickCount": 861,
+    "winRate": "50.75%",
+    "timestamp": 1709755984766,
     "alias": "Zac",
     "name": "Zac",
     "position": "jungle",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 6051, win 51.08%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 217, win 59.45%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "1103",
@@ -37,7 +37,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 448, win 58.93%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 9, win 88.89%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3068",
@@ -48,7 +48,7 @@
                 "count": 1
               },
               {
-                "id": "8020",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -61,7 +61,7 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -70,15 +70,15 @@
             "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
+                "id": "6665",
+                "count": 1
+              },
+              {
                 "id": "3041",
                 "count": 1
               },
               {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "6665",
+                "id": "4633",
                 "count": 1
               }
             ]
@@ -91,11 +91,11 @@
                 "count": 1
               },
               {
-                "id": "6665",
+                "id": "3143",
                 "count": 1
               },
               {
-                "id": "2502",
+                "id": "8020",
                 "count": 1
               }
             ]
@@ -112,10 +112,10 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ jungle, win 50.53%, pick 5840",
+        "name": "[u.gg] Zac @ jungle, win 53.95%, pick 228",
         "position": "jungle",
-        "pickCount": 5840,
-        "winRate": "50.53%",
+        "pickCount": 228,
+        "winRate": "53.95%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -135,13 +135,13 @@
     ]
   },
   {
-    "index": 135,
+    "index": 148,
     "id": "154",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 18204,
-    "winRate": "51.38%",
-    "timestamp": 1709669544430,
+    "pickCount": 710,
+    "winRate": "53.10%",
+    "timestamp": 1709755984766,
     "alias": "Zac",
     "name": "Zac",
     "position": "top",
@@ -163,7 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 17785, win 51.39%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 691, win 53.26%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "1054",
@@ -176,18 +176,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 465, win 56.99%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3068",
+                "id": "3111",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "6664",
                 "count": 1
               },
               {
-                "id": "3065",
+                "id": "6662",
                 "count": 1
               }
             ]
@@ -200,7 +200,7 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3065",
                 "count": 1
               }
             ]
@@ -213,11 +213,11 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "4633",
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "8001",
                 "count": 1
               }
             ]
@@ -226,15 +226,15 @@
             "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "2502",
-                "count": 1
-              },
-              {
                 "id": "3143",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "2502",
+                "count": 1
+              },
+              {
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -251,19 +251,19 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ top, win 51.75%, pick 12385",
+        "name": "[u.gg] Zac @ top, win 62.50%, pick 56",
         "position": "top",
-        "pickCount": 12385,
-        "winRate": "51.75%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "pickCount": 56,
+        "winRate": "62.50%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8437,
+          8010,
           8299,
           8444,
-          8446,
           8453,
           9105,
+          9111,
           5007,
           5001,
           5001
@@ -274,13 +274,13 @@
     ]
   },
   {
-    "index": 135,
+    "index": 148,
     "id": "154",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 5315,
-    "winRate": "50.84%",
-    "timestamp": 1709669544430,
+    "pickCount": 278,
+    "winRate": "53.96%",
+    "timestamp": 1709755984766,
     "alias": "Zac",
     "name": "Zac",
     "position": "supp",
@@ -302,7 +302,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4946, win 51.21%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 257, win 53.70%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "2003",
@@ -319,18 +319,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 445, win 56.18%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3876",
-                "count": 1
-              },
-              {
-                "id": "3158",
+                "id": "3869",
                 "count": 1
               },
               {
                 "id": "3068",
+                "count": 1
+              },
+              {
+                "id": "3111",
                 "count": 1
               }
             ]
@@ -339,7 +339,7 @@
             "type": "Fourth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3075",
+                "id": "3143",
                 "count": 1
               },
               {
@@ -360,7 +360,7 @@
                 "count": 1
               },
               {
-                "id": "2504",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -369,15 +369,15 @@
             "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3041",
+                "id": "8020",
                 "count": 1
               },
               {
-                "id": "3109",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "4633",
+                "id": "3084",
                 "count": 1
               }
             ]
@@ -394,22 +394,22 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ supp, win 55.53%, pick 407",
+        "name": "[u.gg] Zac @ supp, win 62.07%, pick 29",
         "position": "supp",
-        "pickCount": 407,
-        "winRate": "55.53%",
+        "pickCount": 29,
+        "winRate": "62.07%",
         "primaryStyleId": 8400,
-        "subStyleId": 8300,
+        "subStyleId": 8000,
         "selectedPerkIds": [
           8439,
-          8304,
-          8347,
-          8429,
+          8444,
           8453,
           8463,
+          9105,
+          9111,
           5007,
           5001,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 135,
+    "index": 148,
     "id": "154",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2726,
-    "winRate": "52.71%",
-    "timestamp": 1709669544430,
+    "pickCount": 121,
+    "winRate": "43.80%",
+    "timestamp": 1709755984766,
     "alias": "Zac",
     "name": "Zac",
     "position": "mid",
@@ -445,7 +445,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2557, win 53.07%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 112, win 45.54%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "1054",
@@ -458,18 +458,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 51, win 64.71%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, E \u003e W \u003e Q",
             "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
               {
                 "id": "6664",
                 "count": 1
               },
               {
-                "id": "6662",
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -482,7 +482,7 @@
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "6662",
                 "count": 1
               }
             ]
@@ -491,35 +491,22 @@
             "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3041",
+                "id": "8020",
                 "count": 1
               },
               {
                 "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "3065",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "4633",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -533,21 +520,21 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ mid, win 54.71%, pick 541",
+        "name": "[u.gg] Zac @ mid, win 57.69%, pick 26",
         "position": "mid",
-        "pickCount": 541,
-        "winRate": "54.71%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "pickCount": 26,
+        "winRate": "57.69%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8010,
+          8437,
           8299,
           8444,
+          8446,
           8453,
           9105,
-          9111,
           5007,
-          5008,
+          5001,
           5001
         ],
         "score": 0,
@@ -556,19 +543,19 @@
     ]
   },
   {
-    "index": 135,
+    "index": 148,
     "id": "154",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 127,
-    "winRate": "49.61%",
-    "timestamp": 1709669544430,
+    "pickCount": 11,
+    "winRate": "45.45%",
+    "timestamp": 1709755984766,
     "alias": "Zac",
     "name": "Zac",
     "position": "adc",
     "skills": [
-      "W",
       "E",
+      "W",
       "Q"
     ],
     "spells": null,
@@ -584,29 +571,55 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 113, win 50.44%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "1054",
+                "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
                 "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 100.00%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3158",
+                "id": "6664",
                 "count": 1
               },
               {
-                "id": "3068",
+                "id": "3111",
                 "count": 1
               },
+              {
+                "id": "6662",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
               {
                 "id": "3075",
                 "count": 1
@@ -614,51 +627,8 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "2502",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "4633",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": null
           }
         ],
         "map": "any",
@@ -672,21 +642,21 @@
     "runes": [
       {
         "alias": "Zac",
-        "name": "[u.gg] Zac @ adc, win 61.11%, pick 18",
+        "name": "[u.gg] Zac @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 18,
-        "winRate": "61.11%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8010,
-          8299,
+          8465,
+          8014,
           8444,
           8453,
-          9105,
+          8463,
           9111,
           5007,
-          5001,
+          5008,
           5001
         ],
         "score": 0,

@@ -1,19 +1,19 @@
 [
   {
-    "index": 75,
+    "index": 48,
     "id": "63",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 27967,
-    "winRate": "49.72%",
-    "timestamp": 1709669544430,
+    "pickCount": 862,
+    "winRate": "50.70%",
+    "timestamp": 1709755984766,
     "alias": "Brand",
     "name": "Brand",
     "position": "jungle",
     "skills": [
       "W",
-      "Q",
-      "E"
+      "E",
+      "Q"
     ],
     "spells": null,
     "itemBuilds": [
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 19562, win 49.95%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 607, win 51.24%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "1101",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 12264, win 52.48%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 368, win 53.80%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "6653",
@@ -58,7 +58,7 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "3157",
@@ -71,27 +71,27 @@
             ]
           },
           {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
             "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              },
               {
                 "id": "3041",
                 "count": 1
+              },
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3089",
+                "id": "3137",
                 "count": 1
               },
               {
@@ -116,16 +116,16 @@
     "runes": [
       {
         "alias": "Brand",
-        "name": "[u.gg] Brand @ jungle, win 51.67%, pick 3840",
+        "name": "[u.gg] Brand @ jungle, win 52.33%, pick 516",
         "position": "jungle",
-        "pickCount": 3840,
-        "winRate": "51.67%",
+        "pickCount": 516,
+        "winRate": "52.33%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
-          8112,
-          8105,
+          8128,
           8126,
+          8135,
           8138,
           8304,
           8347,
@@ -139,20 +139,20 @@
     ]
   },
   {
-    "index": 75,
+    "index": 48,
     "id": "63",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 10649,
-    "winRate": "48.57%",
-    "timestamp": 1709669544430,
+    "pickCount": 465,
+    "winRate": "48.17%",
+    "timestamp": 1709755984766,
     "alias": "Brand",
     "name": "Brand",
     "position": "supp",
     "skills": [
       "W",
-      "Q",
-      "E"
+      "E",
+      "Q"
     ],
     "spells": null,
     "itemBuilds": [
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 10005, win 48.65%, W \u003e Q \u003e E",
+            "type": "Starting Items, pick count 437, win 48.51%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "2003",
@@ -184,7 +184,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1497, win 51.17%, W \u003e Q \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 85, win 52.94%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "3871",
@@ -201,48 +201,48 @@
             ]
           },
           {
-            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "6653",
                 "count": 1
               },
               {
-                "id": "3118",
+                "id": "3157",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
             "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              },
               {
                 "id": "3137",
                 "count": 1
+              },
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
                 "id": "3118",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "6655",
                 "count": 1
               }
             ]
@@ -259,20 +259,20 @@
     "runes": [
       {
         "alias": "Brand",
-        "name": "[u.gg] Brand @ supp, win 62.30%, pick 61",
+        "name": "[u.gg] Brand @ supp, win 50.46%, pick 109",
         "position": "supp",
-        "pickCount": 61,
-        "winRate": "62.30%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "pickCount": 109,
+        "winRate": "50.46%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8229,
-          8210,
+          8128,
+          8135,
+          8138,
+          8139,
           8226,
           8237,
-          8304,
-          8321,
-          5008,
+          5007,
           5008,
           5001
         ],
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 75,
+    "index": 48,
     "id": "63",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 3707,
-    "winRate": "50.77%",
-    "timestamp": 1709669544430,
+    "pickCount": 163,
+    "winRate": "50.92%",
+    "timestamp": 1709755984766,
     "alias": "Brand",
     "name": "Brand",
     "position": "mid",
@@ -310,27 +310,23 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3453, win 51.09%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 3, win 100.00%, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "1056",
+                "id": "1082",
                 "count": 1
               },
               {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 701, win 55.06%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 34, win 55.88%, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "6653",
+                "id": "3116",
                 "count": 1
               },
               {
@@ -338,7 +334,7 @@
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -350,152 +346,9 @@
                 "id": "3157",
                 "count": 1
               },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
               {
                 "id": "3041",
                 "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Brand",
-        "name": "[u.gg] Brand @ mid, win 57.52%, pick 113",
-        "position": "mid",
-        "pickCount": 113,
-        "winRate": "57.52%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8214,
-          8009,
-          8014,
-          8210,
-          8226,
-          8237,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 75,
-    "id": "63",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 1013,
-    "winRate": "52.32%",
-    "timestamp": 1709669544430,
-    "alias": "Brand",
-    "name": "Brand",
-    "position": "adc",
-    "skills": [
-      "W",
-      "E",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Brand @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          63
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 923, win 53.30%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 282, win 62.06%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
               }
             ]
           },
@@ -503,15 +356,15 @@
             "type": "Fifth Item Options, W \u003e E \u003e Q",
             "items": [
               {
+                "id": "3165",
+                "count": 1
+              },
+              {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3102",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -520,15 +373,7 @@
             "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3165",
-                "count": 1
-              },
-              {
                 "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3102",
                 "count": 1
               }
             ]
@@ -545,19 +390,19 @@
     "runes": [
       {
         "alias": "Brand",
-        "name": "[u.gg] Brand @ adc, win 70.21%, pick 47",
-        "position": "adc",
-        "pickCount": 47,
-        "winRate": "70.21%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "name": "[u.gg] Brand @ mid, win 80.00%, pick 10",
+        "position": "mid",
+        "pickCount": 10,
+        "winRate": "80.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8128,
-          8009,
-          8014,
-          8106,
-          8126,
-          8138,
+          8229,
+          8210,
+          8226,
+          8237,
+          8304,
+          8347,
           5007,
           5008,
           5001
@@ -568,19 +413,19 @@
     ]
   },
   {
-    "index": 75,
+    "index": 48,
     "id": "63",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 574,
-    "winRate": "52.61%",
-    "timestamp": 1709669544430,
+    "pickCount": 41,
+    "winRate": "60.98%",
+    "timestamp": 1709755984766,
     "alias": "Brand",
     "name": "Brand",
     "position": "top",
     "skills": [
-      "E",
       "W",
+      "E",
       "Q"
     ],
     "spells": null,
@@ -596,7 +441,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 541, win 53.42%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 1, win 100.00%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "1056",
@@ -605,18 +450,14 @@
               {
                 "id": "2003",
                 "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 65, win 60.00%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3116",
+                "id": "6653",
                 "count": 1
               },
               {
@@ -624,33 +465,16 @@
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "4646",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3118",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "type": "Fourth Item Options, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3157",
                 "count": 1
               },
               {
@@ -660,18 +484,27 @@
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "type": "Fifth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "4629",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3137",
                 "count": 1
               },
               {
                 "id": "3135",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e E \u003e Q",
+            "items": [
+              {
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -688,17 +521,160 @@
     "runes": [
       {
         "alias": "Brand",
-        "name": "[u.gg] Brand @ top, win 93.33%, pick 15",
+        "name": "[u.gg] Brand @ top, win 100.00%, pick 5",
         "position": "top",
-        "pickCount": 15,
-        "winRate": "93.33%",
+        "pickCount": 5,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8000,
         "selectedPerkIds": [
-          8230,
+          8229,
           8009,
           8014,
           8210,
+          8226,
+          8237,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "id": "63",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 39,
+    "winRate": "66.67%",
+    "timestamp": 1709755984766,
+    "alias": "Brand",
+    "name": "Brand",
+    "position": "adc",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Brand @ adc, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          63
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 39, win 66.67%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              },
+              {
+                "id": "3116",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4645",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "4628",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Brand",
+        "name": "[u.gg] Brand @ adc, win 90.91%, pick 11",
+        "position": "adc",
+        "pickCount": 11,
+        "winRate": "90.91%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8128,
+          8135,
+          8138,
+          8139,
           8226,
           8237,
           5008,

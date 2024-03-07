@@ -1,12 +1,12 @@
 [
   {
-    "index": 111,
+    "index": 20,
     "id": "111",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 60829,
-    "winRate": "49.05%",
-    "timestamp": 1709669544430,
+    "pickCount": 3385,
+    "winRate": "47.68%",
+    "timestamp": 1709755984766,
     "alias": "Nautilus",
     "name": "Nautilus",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 57414, win 49.06%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 3233, win 47.57%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,10 +45,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5395, win 51.58%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 91, win 60.44%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3876",
+                "id": "3869",
                 "count": 1
               },
               {
@@ -56,7 +56,7 @@
                 "count": 1
               },
               {
-                "id": "3190",
+                "id": "3002",
                 "count": 1
               }
             ]
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "3050",
                 "count": 1
               }
             ]
@@ -86,7 +86,7 @@
                 "count": 1
               },
               {
-                "id": "3050",
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -99,11 +99,11 @@
                 "count": 1
               },
               {
-                "id": "3109",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "Nautilus",
-        "name": "[u.gg] Nautilus @ supp, win 55.19%, pick 645",
+        "name": "[u.gg] Nautilus @ supp, win 50.60%, pick 336",
         "position": "supp",
-        "pickCount": 645,
-        "winRate": "55.19%",
+        "pickCount": 336,
+        "winRate": "50.60%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -131,9 +131,9 @@
           8242,
           8306,
           8347,
-          8444,
-          8463,
-          5005,
+          8401,
+          8473,
+          5007,
           5001,
           5011
         ],
@@ -143,20 +143,20 @@
     ]
   },
   {
-    "index": 111,
+    "index": 20,
     "id": "111",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 3005,
-    "winRate": "52.25%",
-    "timestamp": 1709669544430,
+    "pickCount": 244,
+    "winRate": "47.13%",
+    "timestamp": 1709755984766,
     "alias": "Nautilus",
     "name": "Nautilus",
     "position": "adc",
     "skills": [
+      "E",
       "Q",
-      "W",
-      "E"
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -171,10 +171,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2881, win 52.97%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 2, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -184,10 +188,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 64, win 73.44%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 11, win 81.82%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3068",
+                "id": "3110",
                 "count": 1
               },
               {
@@ -195,16 +199,33 @@
                 "count": 1
               },
               {
-                "id": "3110",
+                "id": "6664",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "6665",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3050",
                 "count": 1
               },
               {
@@ -214,38 +235,8 @@
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              },
-              {
-                "id": "3107",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": null
           }
         ],
         "map": "any",
@@ -259,10 +250,10 @@
     "runes": [
       {
         "alias": "Nautilus",
-        "name": "[u.gg] Nautilus @ adc, win 63.04%, pick 92",
+        "name": "[u.gg] Nautilus @ adc, win 50.94%, pick 53",
         "position": "adc",
-        "pickCount": 92,
-        "winRate": "63.04%",
+        "pickCount": 53,
+        "winRate": "50.94%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -271,10 +262,10 @@
           8345,
           8347,
           8401,
-          8444,
+          8473,
           5005,
-          5001,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -282,13 +273,13 @@
     ]
   },
   {
-    "index": 111,
+    "index": 20,
     "id": "111",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 384,
-    "winRate": "42.71%",
-    "timestamp": 1709669544430,
+    "pickCount": 28,
+    "winRate": "53.57%",
+    "timestamp": 1709755984766,
     "alias": "Nautilus",
     "name": "Nautilus",
     "position": "top",
@@ -310,7 +301,238 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 167, win 44.91%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 16, win 56.25%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6657",
+                "count": 1
+              },
+              {
+                "id": "6664",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Nautilus",
+        "name": "[u.gg] Nautilus @ top, win 81.82%, pick 11",
+        "position": "top",
+        "pickCount": 11,
+        "winRate": "81.82%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8437,
+          8401,
+          8429,
+          8453,
+          9105,
+          9111,
+          5005,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "id": "111",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 11,
+    "winRate": "45.45%",
+    "timestamp": 1709755984766,
+    "alias": "Nautilus",
+    "name": "Nautilus",
+    "position": "jungle",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Nautilus @ jungle, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          111
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 7, win 57.14%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1103",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "6664",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "2502",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Nautilus",
+        "name": "[u.gg] Nautilus @ jungle, win 100.00%, pick 2",
+        "position": "jungle",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          8439,
+          8429,
+          8453,
+          8463,
+          9105,
+          9111,
+          5005,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "id": "111",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 10,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
+    "alias": "Nautilus",
+    "name": "Nautilus",
+    "position": "mid",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Nautilus @ mid, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          111
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 5, win 60.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -327,281 +549,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 10, win 60.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3109",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3119",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Nautilus",
-        "name": "[u.gg] Nautilus @ top, win 75.00%, pick 8",
-        "position": "top",
-        "pickCount": 8,
-        "winRate": "75.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8437,
-          8345,
-          8347,
-          8401,
-          8444,
-          8451,
-          5007,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 111,
-    "id": "111",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 254,
-    "winRate": "41.73%",
-    "timestamp": 1709669544430,
-    "alias": "Nautilus",
-    "name": "Nautilus",
-    "position": "jungle",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Nautilus @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          111
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 56, win 50.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 9, win 66.67%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3068",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "2502",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Nautilus",
-        "name": "[u.gg] Nautilus @ jungle, win 56.76%, pick 37",
-        "position": "jungle",
-        "pickCount": 37,
-        "winRate": "56.76%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8439,
-          8242,
-          8306,
-          8347,
-          8401,
-          8473,
-          5007,
-          5001,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 111,
-    "id": "111",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 252,
-    "winRate": "47.62%",
-    "timestamp": 1709669544430,
-    "alias": "Nautilus",
-    "name": "Nautilus",
-    "position": "mid",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Nautilus @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          111
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 12, win 75.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 13, win 69.23%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6664",
@@ -618,29 +566,21 @@
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "2502",
+                "id": "8020",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3143",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
-              {
-                "id": "3143",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
               {
                 "id": "2504",
                 "count": 1
@@ -648,21 +588,8 @@
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": null
           }
         ],
         "map": "any",
@@ -676,19 +603,19 @@
     "runes": [
       {
         "alias": "Nautilus",
-        "name": "[u.gg] Nautilus @ mid, win 72.73%, pick 11",
+        "name": "[u.gg] Nautilus @ mid, win 66.67%, pick 3",
         "position": "mid",
-        "pickCount": 11,
-        "winRate": "72.73%",
+        "pickCount": 3,
+        "winRate": "66.67%",
         "primaryStyleId": 8400,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8437,
-          8126,
-          8134,
+          8439,
+          8242,
+          8345,
+          8347,
           8401,
-          8429,
-          8453,
+          8473,
           5005,
           5001,
           5001

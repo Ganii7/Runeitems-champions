@@ -1,12 +1,12 @@
 [
   {
-    "index": 17,
+    "index": 30,
     "id": "29",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 32455,
-    "winRate": "52.23%",
-    "timestamp": 1709669544430,
+    "pickCount": 1261,
+    "winRate": "50.20%",
+    "timestamp": 1709755984766,
     "alias": "Twitch",
     "name": "Twitch",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 26845, win 52.46%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 1103, win 50.23%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6666, win 56.53%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 240, win 55.83%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3153",
+                "id": "3006",
                 "count": 1
               },
               {
-                "id": "3006",
+                "id": "3153",
                 "count": 1
               },
               {
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "3091",
                 "count": 1
               }
             ]
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
+                "id": "3302",
+                "count": 1
+              },
+              {
                 "id": "3031",
                 "count": 1
               },
               {
                 "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3302",
                 "count": 1
               }
             ]
@@ -91,7 +91,7 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3036",
+                "id": "3031",
                 "count": 1
               },
               {
@@ -99,7 +99,7 @@
                 "count": 1
               },
               {
-                "id": "3072",
+                "id": "3036",
                 "count": 1
               }
             ]
@@ -116,19 +116,19 @@
     "runes": [
       {
         "alias": "Twitch",
-        "name": "[u.gg] Twitch @ adc, win 53.55%, pick 2478",
+        "name": "[u.gg] Twitch @ adc, win 80.77%, pick 26",
         "position": "adc",
-        "pickCount": 2478,
-        "winRate": "53.55%",
+        "pickCount": 26,
+        "winRate": "80.77%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8008,
-          8009,
+          8005,
           8014,
-          8304,
-          8345,
+          8106,
+          8143,
           9104,
+          9111,
           5005,
           5008,
           5011
@@ -139,20 +139,20 @@
     ]
   },
   {
-    "index": 17,
+    "index": 30,
     "id": "29",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2958,
-    "winRate": "46.82%",
-    "timestamp": 1709669544430,
+    "pickCount": 164,
+    "winRate": "40.85%",
+    "timestamp": 1709755984766,
     "alias": "Twitch",
     "name": "Twitch",
     "position": "supp",
     "skills": [
       "E",
-      "Q",
-      "W"
+      "W",
+      "Q"
     ],
     "spells": null,
     "itemBuilds": [
@@ -167,23 +167,23 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 619, win 49.92%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 14, win 57.14%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "1055",
+                "id": "1036",
                 "count": 1
               },
               {
-                "id": "2003",
+                "id": "2031",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 70, win 62.86%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3869",
+                "id": "3877",
                 "count": 1
               },
               {
@@ -197,7 +197,20 @@
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "6672",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3089",
@@ -206,39 +219,26 @@
               {
                 "id": "3041",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
               },
               {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3157",
+                "id": "3869",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
+                "id": "6653",
                 "count": 1
               },
               {
                 "id": "3102",
+                "count": 1
+              },
+              {
+                "id": "8001",
                 "count": 1
               }
             ]
@@ -255,20 +255,20 @@
     "runes": [
       {
         "alias": "Twitch",
-        "name": "[u.gg] Twitch @ supp, win 55.21%, pick 96",
+        "name": "[u.gg] Twitch @ supp, win 66.67%, pick 6",
         "position": "supp",
-        "pickCount": 96,
-        "winRate": "55.21%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "pickCount": 6,
+        "winRate": "66.67%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8005,
-          8014,
+          9923,
+          8009,
           8135,
+          8138,
           8143,
           9104,
-          9111,
-          5008,
+          5005,
           5008,
           5011
         ],
@@ -278,20 +278,20 @@
     ]
   },
   {
-    "index": 17,
+    "index": 30,
     "id": "29",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1717,
-    "winRate": "48.81%",
-    "timestamp": 1709669544430,
+    "pickCount": 54,
+    "winRate": "42.59%",
+    "timestamp": 1709755984766,
     "alias": "Twitch",
     "name": "Twitch",
     "position": "mid",
     "skills": [
       "E",
-      "W",
-      "Q"
+      "Q",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -306,7 +306,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1154, win 49.48%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 37, win 45.95%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -323,65 +323,61 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 25, win 68.00%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3115",
                 "count": 1
               },
               {
+                "id": "3158",
+                "count": 1
+              },
+              {
                 "id": "3089",
                 "count": 1
-              },
-              {
-                "id": "3006",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
               {
                 "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3041",
                 "count": 1
               },
               {
                 "id": "3102",
                 "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "4646",
+                "count": 1
               },
               {
                 "id": "3157",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3165",
+                "count": 1
+              },
+              {
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -398,22 +394,22 @@
     "runes": [
       {
         "alias": "Twitch",
-        "name": "[u.gg] Twitch @ mid, win 51.07%, pick 280",
+        "name": "[u.gg] Twitch @ mid, win 57.89%, pick 19",
         "position": "mid",
-        "pickCount": 280,
-        "winRate": "51.07%",
+        "pickCount": 19,
+        "winRate": "57.89%",
         "primaryStyleId": 8100,
         "subStyleId": 8000,
         "selectedPerkIds": [
           9923,
           8009,
-          8105,
+          8135,
           8138,
           8139,
           9104,
           5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -421,13 +417,13 @@
     ]
   },
   {
-    "index": 17,
+    "index": 30,
     "id": "29",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 474,
-    "winRate": "40.51%",
-    "timestamp": 1709669544430,
+    "pickCount": 34,
+    "winRate": "47.06%",
+    "timestamp": 1709755984766,
     "alias": "Twitch",
     "name": "Twitch",
     "position": "jungle",
@@ -449,27 +445,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 47, win 53.19%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 5, win 60.00%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "1101",
+                "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 32, win 62.50%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3006",
+                "id": "6698",
                 "count": 1
               },
               {
                 "id": "3085",
+                "count": 1
+              },
+              {
+                "id": "3006",
                 "count": 1
               }
             ]
@@ -478,11 +478,11 @@
             "type": "Fourth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3031",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "3302",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -491,15 +491,15 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
+                "id": "7041",
+                "count": 1
+              },
+              {
+                "id": "3072",
+                "count": 1
+              },
+              {
                 "id": "3091",
-                "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
-              },
-              {
-                "id": "3036",
                 "count": 1
               }
             ]
@@ -508,15 +508,15 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
+                "id": "4645",
+                "count": 1
+              },
+              {
                 "id": "3748",
                 "count": 1
               },
               {
                 "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3139",
                 "count": 1
               }
             ]
@@ -533,22 +533,22 @@
     "runes": [
       {
         "alias": "Twitch",
-        "name": "[u.gg] Twitch @ jungle, win 63.16%, pick 19",
+        "name": "[u.gg] Twitch @ jungle, win 100.00%, pick 2",
         "position": "jungle",
-        "pickCount": 19,
-        "winRate": "63.16%",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8008,
-          8014,
-          8304,
-          8345,
+          8005,
+          8017,
+          8105,
+          8138,
           9104,
           9111,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -556,20 +556,20 @@
     ]
   },
   {
-    "index": 17,
+    "index": 30,
     "id": "29",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 124,
-    "winRate": "44.35%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Twitch",
     "name": "Twitch",
     "position": "top",
     "skills": [
       "E",
-      "Q",
-      "W"
+      "W",
+      "Q"
     ],
     "spells": null,
     "itemBuilds": [
@@ -584,10 +584,14 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 57, win 50.88%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "1055",
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               },
               {
@@ -597,68 +601,38 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 12, win 66.67%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
             "items": [
+              {
+                "id": "3115",
+                "count": 1
+              },
               {
                 "id": "3006",
                 "count": 1
               },
               {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3085",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3124",
-                "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
                 "id": "3089",
                 "count": 1
-              },
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
               {
-                "id": "3124",
-                "count": 1
-              },
-              {
-                "id": "3036",
+                "id": "3157",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
-              },
-              {
-                "id": "3100",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": null
           }
         ],
         "map": "any",
@@ -672,17 +646,17 @@
     "runes": [
       {
         "alias": "Twitch",
-        "name": "[u.gg] Twitch @ top, win 72.73%, pick 11",
+        "name": "[u.gg] Twitch @ top, win 100.00%, pick 1",
         "position": "top",
-        "pickCount": 11,
-        "winRate": "72.73%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8008,
+          9923,
           8009,
-          8014,
           8135,
+          8138,
           8139,
           9104,
           5005,

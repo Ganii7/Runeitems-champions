@@ -1,12 +1,155 @@
 [
   {
-    "index": 145,
+    "index": 8,
     "id": "147",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 15221,
-    "winRate": "53.17%",
-    "timestamp": 1709669544430,
+    "pickCount": 649,
+    "winRate": "51.77%",
+    "timestamp": 1709755984766,
+    "alias": "Seraphine",
+    "name": "Seraphine",
+    "position": "supp",
+    "skills": [
+      "W",
+      "Q",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Seraphine @ supp, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          147
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 615, win 51.87%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 101, win 56.44%, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3870",
+                "count": 1
+              },
+              {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "4005",
+                "count": 1
+              },
+              {
+                "id": "3116",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "6616",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              },
+              {
+                "id": "6620",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, W \u003e Q \u003e E",
+            "items": [
+              {
+                "id": "3222",
+                "count": 1
+              },
+              {
+                "id": "3190",
+                "count": 1
+              },
+              {
+                "id": "3110",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Seraphine",
+        "name": "[u.gg] Seraphine @ supp, win 83.33%, pick 6",
+        "position": "supp",
+        "pickCount": 6,
+        "winRate": "83.33%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8237,
+          8313,
+          8347,
+          5008,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "id": "147",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 384,
+    "winRate": "48.96%",
+    "timestamp": 1709755984766,
     "alias": "Seraphine",
     "name": "Seraphine",
     "position": "adc",
@@ -28,35 +171,35 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 12895, win 53.44%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 34, win 58.82%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
                 "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2255, win 57.61%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 19, win 73.68%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3003",
-                "count": 1
-              },
               {
                 "id": "3158",
                 "count": 1
               },
               {
-                "id": "6616",
+                "id": "3003",
+                "count": 1
+              },
+              {
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -65,11 +208,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6617",
+                "id": "6616",
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -82,11 +225,11 @@
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "6621",
+                "id": "6655",
                 "count": 1
               }
             ]
@@ -99,11 +242,11 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "4005",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -120,162 +263,19 @@
     "runes": [
       {
         "alias": "Seraphine",
-        "name": "[u.gg] Seraphine @ adc, win 56.02%, pick 673",
+        "name": "[u.gg] Seraphine @ adc, win 55.32%, pick 47",
         "position": "adc",
-        "pickCount": 673,
-        "winRate": "56.02%",
+        "pickCount": 47,
+        "winRate": "55.32%",
         "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "subStyleId": 8000,
         "selectedPerkIds": [
           8214,
+          8009,
+          8014,
           8210,
           8226,
           8236,
-          8429,
-          8453,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 145,
-    "id": "147",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 9159,
-    "winRate": "47.70%",
-    "timestamp": 1709669544430,
-    "alias": "Seraphine",
-    "name": "Seraphine",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Seraphine @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          147
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 8692, win 47.96%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1319, win 49.96%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3870",
-                "count": 1
-              },
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "6617",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "3107",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "6621",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Seraphine",
-        "name": "[u.gg] Seraphine @ supp, win 49.29%, pick 1893",
-        "position": "supp",
-        "pickCount": 1893,
-        "winRate": "49.29%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8237,
-          8453,
-          8473,
           5007,
           5008,
           5011
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 145,
+    "index": 8,
     "id": "147",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2135,
-    "winRate": "51.43%",
-    "timestamp": 1709669544430,
+    "pickCount": 120,
+    "winRate": "48.33%",
+    "timestamp": 1709755984766,
     "alias": "Seraphine",
     "name": "Seraphine",
     "position": "mid",
@@ -314,7 +314,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1466, win 51.64%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 90, win 51.11%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -331,7 +331,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 106, win 60.38%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 71.43%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3003",
@@ -342,7 +342,7 @@
                 "count": 1
               },
               {
-                "id": "6617",
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -351,11 +351,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6616",
+                "id": "3089",
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "3100",
                 "count": 1
               }
             ]
@@ -364,7 +364,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6653",
+                "id": "4629",
                 "count": 1
               },
               {
@@ -372,7 +372,7 @@
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -381,15 +381,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3157",
+                "id": "6616",
                 "count": 1
               },
               {
-                "id": "2065",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "3118",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -406,22 +406,22 @@
     "runes": [
       {
         "alias": "Seraphine",
-        "name": "[u.gg] Seraphine @ mid, win 65.77%, pick 111",
+        "name": "[u.gg] Seraphine @ mid, win 66.67%, pick 12",
         "position": "mid",
-        "pickCount": 111,
-        "winRate": "65.77%",
+        "pickCount": 12,
+        "winRate": "66.67%",
         "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8214,
           8210,
           8226,
-          8236,
-          8453,
-          8473,
-          5007,
-          5010,
-          5001
+          8237,
+          8345,
+          8347,
+          5005,
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -429,20 +429,20 @@
     ]
   },
   {
-    "index": 145,
+    "index": 8,
     "id": "147",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 82,
-    "winRate": "46.34%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Seraphine",
     "name": "Seraphine",
     "position": "top",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -457,200 +457,55 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 42, win 54.76%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
                 "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
               {
                 "id": "3003",
                 "count": 1
               },
               {
-                "id": "6617",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "6620",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3107",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Seraphine",
-        "name": "[u.gg] Seraphine @ top, win 75.00%, pick 8",
-        "position": "top",
-        "pickCount": 8,
-        "winRate": "75.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8237,
-          8453,
-          8473,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 145,
-    "id": "147",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 4,
-    "winRate": "0.00%",
-    "timestamp": 1709669544430,
-    "alias": "Seraphine",
-    "name": "Seraphine",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Seraphine @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          147
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 0.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3116",
-                "count": 1
-              },
-              {
                 "id": "3158",
                 "count": 1
               },
               {
+                "id": "4005",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
                 "id": "6617",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3094",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3748",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": null
           }
         ],
         "map": "any",
@@ -664,21 +519,21 @@
     "runes": [
       {
         "alias": "Seraphine",
-        "name": "[u.gg] Seraphine @ jungle, win 0.00%, pick 2",
-        "position": "jungle",
-        "pickCount": 2,
-        "winRate": "0.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "name": "[u.gg] Seraphine @ top, win 100.00%, pick 1",
+        "position": "top",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8214,
-          8210,
+          8369,
           8226,
-          8237,
+          8234,
+          8304,
           8345,
           8347,
           5008,
-          5008,
+          5010,
           5001
         ],
         "score": 0,

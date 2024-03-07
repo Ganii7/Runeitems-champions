@@ -1,12 +1,12 @@
 [
   {
-    "index": 146,
+    "index": 154,
     "id": "498",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 18503,
-    "winRate": "48.90%",
-    "timestamp": 1709669544430,
+    "pickCount": 925,
+    "winRate": "51.14%",
+    "timestamp": 1709755984766,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 17681, win 48.93%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 888, win 51.01%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "1055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 9588, win 52.54%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 521, win 55.66%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "6672",
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "3072",
                 "count": 1
               }
             ]
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3072",
-                "count": 1
-              },
-              {
                 "id": "3036",
                 "count": 1
               },
               {
-                "id": "3046",
+                "id": "3072",
+                "count": 1
+              },
+              {
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -99,7 +99,7 @@
                 "count": 1
               },
               {
-                "id": "3139",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Xayah",
-        "name": "[u.gg] Xayah @ adc, win 48.99%, pick 8388",
+        "name": "[u.gg] Xayah @ adc, win 75.00%, pick 24",
         "position": "adc",
-        "pickCount": 8388,
-        "winRate": "48.99%",
+        "pickCount": 24,
+        "winRate": "75.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -127,11 +127,11 @@
           8009,
           8014,
           8304,
-          8345,
+          8347,
           9103,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 146,
+    "index": 154,
     "id": "498",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 40,
-    "winRate": "52.50%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "mid",
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 29, win 58.62%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,18 +180,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 75.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
               {
                 "id": "3006",
                 "count": 1
               },
               {
-                "id": "6675",
+                "id": "3095",
+                "count": 1
+              },
+              {
+                "id": "6672",
                 "count": 1
               }
             ]
@@ -200,11 +200,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3156",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -213,31 +209,14 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3031",
+                "id": "3091",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -251,22 +230,22 @@
     "runes": [
       {
         "alias": "Xayah",
-        "name": "[u.gg] Xayah @ mid, win 100.00%, pick 3",
+        "name": "[u.gg] Xayah @ mid, win 50.00%, pick 2",
         "position": "mid",
-        "pickCount": 3,
-        "winRate": "100.00%",
+        "pickCount": 2,
+        "winRate": "50.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8200,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8008,
           8014,
-          8233,
-          8236,
+          8444,
+          8451,
           9103,
           9111,
           5005,
           5008,
-          5013
+          5011
         ],
         "score": 0,
         "type": ""
@@ -274,21 +253,17 @@
     ]
   },
   {
-    "index": 146,
+    "index": 154,
     "id": "498",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 16,
-    "winRate": "43.75%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "top",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
+    "skills": [],
     "spells": null,
     "itemBuilds": [
       {
@@ -302,73 +277,29 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 1, win 0.00%, ",
             "items": [
               {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "0",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "3006",
-                "count": 1
-              }
-            ]
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
           },
           {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "7041",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              }
-            ]
+            "type": "Fourth Item Options, ",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3072",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, ",
+            "items": null
           },
           {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6662",
-                "count": 1
-              },
-              {
-                "id": "3033",
-                "count": 1
-              },
-              {
-                "id": "3026",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, ",
+            "items": null
           }
         ],
         "map": "any",
@@ -382,10 +313,10 @@
     "runes": [
       {
         "alias": "Xayah",
-        "name": "[u.gg] Xayah @ top, win 75.00%, pick 4",
+        "name": "[u.gg] Xayah @ top, win 0.00%, pick 1",
         "position": "top",
-        "pickCount": 4,
-        "winRate": "75.00%",
+        "pickCount": 1,
+        "winRate": "0.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -397,7 +328,7 @@
           9103,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -405,13 +336,13 @@
     ]
   },
   {
-    "index": 146,
+    "index": 154,
     "id": "498",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 10,
-    "winRate": "40.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Xayah",
     "name": "Xayah",
     "position": "supp",
@@ -433,137 +364,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "3006",
-                "count": 1
-              },
-              {
-                "id": "6675",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3161",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3004",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Xayah",
-        "name": "[u.gg] Xayah @ supp, win 66.67%, pick 3",
-        "position": "supp",
-        "pickCount": 3,
-        "winRate": "66.67%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8008,
-          8009,
-          8014,
-          8304,
-          8345,
-          9103,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 146,
-    "id": "498",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 2,
-    "winRate": "0.00%",
-    "timestamp": 1709669544430,
-    "alias": "Xayah",
-    "name": "Xayah",
-    "position": "jungle",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Xayah @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          498
-        ],
-        "blocks": [
-          {
             "type": "Starting Items, pick count 1, win 0.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "1103",
+                "id": "1055",
                 "count": 1
               },
               {
@@ -593,18 +397,28 @@
             "type": "Fourth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3036",
+                "id": "3072",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": null
+            "items": [
+              {
+                "id": "3036",
+                "count": 1
+              }
+            ]
           },
           {
             "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": null
+            "items": [
+              {
+                "id": "3143",
+                "count": 1
+              }
+            ]
           }
         ],
         "map": "any",
@@ -618,19 +432,19 @@
     "runes": [
       {
         "alias": "Xayah",
-        "name": "[u.gg] Xayah @ jungle, win 0.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Xayah @ supp, win 0.00%, pick 1",
+        "position": "supp",
         "pickCount": 1,
         "winRate": "0.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8008,
+          8009,
           8014,
           8304,
-          8347,
-          9104,
-          9111,
+          8345,
+          9103,
           5005,
           5008,
           5001

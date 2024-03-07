@@ -1,12 +1,12 @@
 [
   {
-    "index": 48,
+    "index": 29,
     "id": "235",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 60568,
-    "winRate": "49.97%",
-    "timestamp": 1709669544430,
+    "pickCount": 2761,
+    "winRate": "48.82%",
+    "timestamp": 1709755984766,
     "alias": "Senna",
     "name": "Senna",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 49660, win 49.91%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1969, win 49.01%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 16410, win 52.39%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 939, win 51.54%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3877",
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3814",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -82,11 +82,11 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -95,7 +95,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3094",
+                "id": "3026",
                 "count": 1
               },
               {
@@ -120,18 +120,18 @@
     "runes": [
       {
         "alias": "Senna",
-        "name": "[u.gg] Senna @ supp, win 49.85%, pick 33619",
+        "name": "[u.gg] Senna @ supp, win 53.50%, pick 357",
         "position": "supp",
-        "pickCount": 33619,
-        "winRate": "49.85%",
+        "pickCount": 357,
+        "winRate": "53.50%",
         "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8021,
           8009,
           8017,
-          8345,
-          8410,
+          8453,
+          8473,
           9104,
           5005,
           5008,
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 48,
+    "index": 29,
     "id": "235",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 40200,
-    "winRate": "53.65%",
-    "timestamp": 1709669544430,
+    "pickCount": 1231,
+    "winRate": "50.85%",
+    "timestamp": 1709755984766,
     "alias": "Senna",
     "name": "Senna",
     "position": "adc",
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 38712, win 53.84%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1187, win 50.72%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -184,7 +184,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5802, win 58.01%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 269, win 57.25%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3142",
@@ -217,11 +217,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3094",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "3814",
                 "count": 1
               },
               {
@@ -234,11 +234,11 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3031",
+                "id": "3094",
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "3026",
                 "count": 1
               },
               {
@@ -259,10 +259,10 @@
     "runes": [
       {
         "alias": "Senna",
-        "name": "[u.gg] Senna @ adc, win 53.82%, pick 26624",
+        "name": "[u.gg] Senna @ adc, win 51.80%, pick 832",
         "position": "adc",
-        "pickCount": 26624,
-        "winRate": "53.82%",
+        "pickCount": 832,
+        "winRate": "51.80%",
         "primaryStyleId": 8000,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -282,13 +282,13 @@
     ]
   },
   {
-    "index": 48,
+    "index": 29,
     "id": "235",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 562,
-    "winRate": "50.71%",
-    "timestamp": 1709669544430,
+    "pickCount": 19,
+    "winRate": "47.37%",
+    "timestamp": 1709755984766,
     "alias": "Senna",
     "name": "Senna",
     "position": "top",
@@ -310,10 +310,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8, win 87.50%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 7, win 57.14%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1036",
+                "id": "1001",
                 "count": 1
               },
               {
@@ -323,18 +323,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 41, win 65.85%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3009",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -343,11 +343,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3094",
+                "id": "3814",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3143",
                 "count": 1
               }
             ]
@@ -360,31 +360,18 @@
                 "count": 1
               },
               {
-                "id": "3153",
+                "id": "3036",
                 "count": 1
               },
               {
-                "id": "3091",
+                "id": "3026",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6672",
-                "count": 1
-              },
-              {
-                "id": "6695",
-                "count": 1
-              },
-              {
-                "id": "6609",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -398,22 +385,22 @@
     "runes": [
       {
         "alias": "Senna",
-        "name": "[u.gg] Senna @ top, win 57.23%, pick 173",
+        "name": "[u.gg] Senna @ top, win 100.00%, pick 3",
         "position": "top",
-        "pickCount": 173,
-        "winRate": "57.23%",
+        "pickCount": 3,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8021,
           8009,
-          8017,
+          8014,
           8234,
           8275,
           9104,
           5005,
-          5010,
-          5013
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -421,13 +408,13 @@
     ]
   },
   {
-    "index": 48,
+    "index": 29,
     "id": "235",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 87,
-    "winRate": "35.63%",
-    "timestamp": 1709669544430,
+    "pickCount": 7,
+    "winRate": "57.14%",
+    "timestamp": 1709755984766,
     "alias": "Senna",
     "name": "Senna",
     "position": "mid",
@@ -449,7 +436,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 68, win 39.71%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 7, win 57.14%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -462,14 +449,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3009",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "3009",
                 "count": 1
               },
               {
@@ -482,11 +469,7 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3094",
-                "count": 1
-              },
-              {
-                "id": "3156",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -495,15 +478,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "6695",
+                "count": 1
+              },
+              {
                 "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "6697",
-                "count": 1
-              },
-              {
-                "id": "3094",
                 "count": 1
               }
             ]
@@ -512,15 +491,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3139",
-                "count": 1
-              },
-              {
-                "id": "3124",
-                "count": 1
-              },
-              {
-                "id": "3036",
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -537,135 +508,21 @@
     "runes": [
       {
         "alias": "Senna",
-        "name": "[u.gg] Senna @ mid, win 100.00%, pick 2",
+        "name": "[u.gg] Senna @ mid, win 100.00%, pick 4",
         "position": "mid",
-        "pickCount": 2,
+        "pickCount": 4,
         "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8021,
           8009,
           8017,
-          8451,
-          8473,
+          8304,
+          8410,
           9104,
           5005,
-          5010,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 48,
-    "id": "235",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 8,
-    "winRate": "25.00%",
-    "timestamp": 1709669544430,
-    "alias": "Senna",
-    "name": "Senna",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Senna @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          235
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3877",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3094",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Senna",
-        "name": "[u.gg] Senna @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
-        "pickCount": 1,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8021,
-          8017,
-          8429,
-          8453,
-          9101,
-          9104,
           5008,
-          5010,
           5001
         ],
         "score": 0,

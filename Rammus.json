@@ -1,19 +1,19 @@
 [
   {
-    "index": 167,
+    "index": 153,
     "id": "33",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 9895,
-    "winRate": "49.65%",
-    "timestamp": 1709669544430,
+    "pickCount": 375,
+    "winRate": "49.07%",
+    "timestamp": 1709755984766,
     "alias": "Rammus",
     "name": "Rammus",
     "position": "jungle",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -28,10 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3452, win 50.23%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 182, win 50.55%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1102",
+                "id": "1103",
                 "count": 1
               },
               {
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 970, win 51.24%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 32, win 62.50%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3047",
+                "id": "3075",
                 "count": 1
               },
               {
-                "id": "3075",
+                "id": "3047",
                 "count": 1
               },
               {
@@ -58,48 +58,44 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6665",
                 "count": 1
               },
               {
-                "id": "3742",
+                "id": "2502",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3742",
+                "id": "2504",
                 "count": 1
               },
               {
                 "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "2502",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "4401",
+                "id": "3110",
                 "count": 1
               },
               {
                 "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3143",
                 "count": 1
               }
             ]
@@ -116,22 +112,22 @@
     "runes": [
       {
         "alias": "Rammus",
-        "name": "[u.gg] Rammus @ jungle, win 51.82%, pick 961",
+        "name": "[u.gg] Rammus @ jungle, win 49.79%, pick 233",
         "position": "jungle",
-        "pickCount": 961,
-        "winRate": "51.82%",
+        "pickCount": 233,
+        "winRate": "49.79%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
           8439,
+          8242,
           8429,
-          8451,
           8463,
           9104,
           9111,
           5005,
-          5001,
-          5001
+          5008,
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,13 +135,13 @@
     ]
   },
   {
-    "index": 167,
+    "index": 153,
     "id": "33",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1198,
-    "winRate": "50.42%",
-    "timestamp": 1709669544430,
+    "pickCount": 84,
+    "winRate": "57.14%",
+    "timestamp": 1709755984766,
     "alias": "Rammus",
     "name": "Rammus",
     "position": "top",
@@ -167,7 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 684, win 55.26%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 55, win 58.18%, W \u003e E \u003e Q",
             "items": [
               {
                 "id": "1029",
@@ -180,18 +176,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 245, win 57.14%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 19, win 89.47%, W \u003e E \u003e Q",
             "items": [
               {
+                "id": "3877",
+                "count": 1
+              },
+              {
+                "id": "3117",
+                "count": 1
+              },
+              {
                 "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6665",
                 "count": 1
               }
             ]
@@ -200,11 +196,11 @@
             "type": "Fourth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3068",
+                "id": "3742",
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "2502",
                 "count": 1
               }
             ]
@@ -213,15 +209,15 @@
             "type": "Fifth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "2502",
+                "id": "6665",
                 "count": 1
               },
               {
-                "id": "3742",
+                "id": "8020",
                 "count": 1
               },
               {
-                "id": "3143",
+                "id": "4401",
                 "count": 1
               }
             ]
@@ -230,15 +226,11 @@
             "type": "Sixth Item Options, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "3742",
+                "id": "3050",
                 "count": 1
               },
               {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "3068",
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -255,22 +247,22 @@
     "runes": [
       {
         "alias": "Rammus",
-        "name": "[u.gg] Rammus @ top, win 54.04%, pick 235",
+        "name": "[u.gg] Rammus @ top, win 83.33%, pick 18",
         "position": "top",
-        "pickCount": 235,
-        "winRate": "54.04%",
+        "pickCount": 18,
+        "winRate": "83.33%",
         "primaryStyleId": 8400,
-        "subStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8439,
-          8242,
-          8304,
-          8316,
+          8126,
+          8135,
           8429,
           8446,
+          8451,
           5005,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -278,13 +270,13 @@
     ]
   },
   {
-    "index": 167,
+    "index": 153,
     "id": "33",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 469,
-    "winRate": "52.45%",
-    "timestamp": 1709669544430,
+    "pickCount": 12,
+    "winRate": "41.67%",
+    "timestamp": 1709755984766,
     "alias": "Rammus",
     "name": "Rammus",
     "position": "supp",
@@ -306,27 +298,40 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 18, win 66.67%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 2, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "2055",
+                "id": "1054",
                 "count": 1
               },
               {
-                "id": "3865",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 87.50%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "3117",
+                "id": "6664",
+                "count": 1
+              },
+              {
+                "id": "3111",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3109",
                 "count": 1
               },
               {
@@ -336,47 +341,21 @@
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3742",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3742",
+                "id": "4401",
                 "count": 1
               },
               {
-                "id": "6664",
-                "count": 1
-              },
-              {
-                "id": "3109",
+                "id": "3110",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -390,22 +369,22 @@
     "runes": [
       {
         "alias": "Rammus",
-        "name": "[u.gg] Rammus @ supp, win 56.00%, pick 100",
+        "name": "[u.gg] Rammus @ supp, win 100.00%, pick 2",
         "position": "supp",
-        "pickCount": 100,
-        "winRate": "56.00%",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8000,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8439,
-          8242,
+          8304,
+          8347,
           8429,
-          8463,
-          9104,
-          9111,
+          8446,
+          8451,
           5005,
-          5001,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -413,19 +392,19 @@
     ]
   },
   {
-    "index": 167,
+    "index": 153,
     "id": "33",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 99,
-    "winRate": "46.46%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Rammus",
     "name": "Rammus",
     "position": "mid",
     "skills": [
-      "W",
       "E",
+      "W",
       "Q"
     ],
     "spells": null,
@@ -441,7 +420,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 13, win 61.54%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
                 "id": "1029",
@@ -466,10 +445,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, W \u003e E \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3047",
+                "id": "3020",
                 "count": 1
               },
               {
@@ -477,49 +456,27 @@
                 "count": 1
               },
               {
-                "id": "3068",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
                 "id": "6665",
                 "count": 1
-              },
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": [
               {
-                "id": "3143",
+                "id": "6664",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "3742",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": null
           },
           {
-            "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": null
           }
         ],
         "map": "any",
@@ -533,22 +490,22 @@
     "runes": [
       {
         "alias": "Rammus",
-        "name": "[u.gg] Rammus @ mid, win 83.33%, pick 6",
+        "name": "[u.gg] Rammus @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 6,
-        "winRate": "83.33%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8439,
-          8242,
-          8304,
-          8316,
+          8106,
+          8126,
           8429,
           8446,
+          8451,
           5005,
-          5001,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -556,13 +513,13 @@
     ]
   },
   {
-    "index": 167,
+    "index": 153,
     "id": "33",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 57,
-    "winRate": "45.61%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Rammus",
     "name": "Rammus",
     "position": "adc",
@@ -584,81 +541,33 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3, win 66.67%, W \u003e E \u003e Q",
+            "type": "Starting Items, pick count 1, win 0.00%, W \u003e E \u003e Q",
             "items": [
               {
-                "id": "1029",
+                "id": "1054",
                 "count": 1
               },
               {
-                "id": "2031",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 15, win 73.33%, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, W \u003e E \u003e Q",
+            "items": null
           },
           {
             "type": "Fourth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "2502",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3068",
-                "count": 1
-              },
-              {
-                "id": "3742",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, W \u003e E \u003e Q",
-            "items": [
-              {
-                "id": "3742",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -672,22 +581,22 @@
     "runes": [
       {
         "alias": "Rammus",
-        "name": "[u.gg] Rammus @ adc, win 73.33%, pick 15",
+        "name": "[u.gg] Rammus @ adc, win 0.00%, pick 1",
         "position": "adc",
-        "pickCount": 15,
-        "winRate": "73.33%",
-        "primaryStyleId": 8400,
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8100,
         "subStyleId": 8000,
         "selectedPerkIds": [
-          8439,
-          8242,
-          8401,
-          8473,
-          9104,
-          9111,
+          9923,
+          8009,
+          8014,
+          8135,
+          8138,
+          8139,
           5005,
-          5001,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""

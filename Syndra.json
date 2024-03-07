@@ -1,12 +1,12 @@
 [
   {
-    "index": 149,
+    "index": 38,
     "id": "134",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 23570,
-    "winRate": "48.58%",
-    "timestamp": 1709669544430,
+    "pickCount": 981,
+    "winRate": "47.91%",
+    "timestamp": 1709755984766,
     "alias": "Syndra",
     "name": "Syndra",
     "position": "mid",
@@ -28,24 +28,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 22376, win 48.60%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 10, win 70.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "2033",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4226, win 50.85%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 165, win 51.52%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6655",
@@ -65,11 +57,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -95,15 +87,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3135",
+                "id": "3157",
                 "count": 1
               },
               {
                 "id": "3089",
+                "count": 1
+              },
+              {
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -120,20 +112,20 @@
     "runes": [
       {
         "alias": "Syndra",
-        "name": "[u.gg] Syndra @ mid, win 52.38%, pick 672",
+        "name": "[u.gg] Syndra @ mid, win 73.33%, pick 30",
         "position": "mid",
-        "pickCount": 672,
-        "winRate": "52.38%",
+        "pickCount": 30,
+        "winRate": "73.33%",
         "primaryStyleId": 8300,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8369,
           8210,
-          8236,
-          8304,
+          8226,
+          8313,
           8316,
           8347,
-          5007,
+          5008,
           5008,
           5001
         ],
@@ -143,13 +135,13 @@
     ]
   },
   {
-    "index": 149,
+    "index": 38,
     "id": "134",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 503,
-    "winRate": "53.08%",
-    "timestamp": 1709669544430,
+    "pickCount": 20,
+    "winRate": "45.00%",
+    "timestamp": 1709755984766,
     "alias": "Syndra",
     "name": "Syndra",
     "position": "adc",
@@ -171,7 +163,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 477, win 54.30%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 19, win 47.37%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -188,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 70, win 61.43%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6655",
@@ -199,7 +191,7 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -212,7 +204,7 @@
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -221,15 +213,7 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3102",
-                "count": 1
-              },
-              {
                 "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3135",
                 "count": 1
               }
             ]
@@ -238,15 +222,7 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3165",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -263,22 +239,22 @@
     "runes": [
       {
         "alias": "Syndra",
-        "name": "[u.gg] Syndra @ adc, win 65.00%, pick 20",
+        "name": "[u.gg] Syndra @ adc, win 75.00%, pick 4",
         "position": "adc",
-        "pickCount": 20,
-        "winRate": "65.00%",
+        "pickCount": 4,
+        "winRate": "75.00%",
         "primaryStyleId": 8300,
         "subStyleId": 8200,
         "selectedPerkIds": [
           8369,
+          8210,
           8226,
-          8236,
           8304,
           8345,
           8347,
+          5005,
           5008,
-          5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -286,13 +262,13 @@
     ]
   },
   {
-    "index": 149,
+    "index": 38,
     "id": "134",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 319,
-    "winRate": "49.22%",
-    "timestamp": 1709669544430,
+    "pickCount": 17,
+    "winRate": "35.29%",
+    "timestamp": 1709755984766,
     "alias": "Syndra",
     "name": "Syndra",
     "position": "top",
@@ -314,10 +290,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 12, win 75.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 17, win 35.29%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "2003",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -325,20 +301,33 @@
                 "count": 1
               },
               {
-                "id": "3070",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3020",
+                "id": "6655",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "4646",
+                "count": 1
+              },
+              {
+                "id": "3020",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "4645",
                 "count": 1
               },
               {
@@ -348,51 +337,21 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
               {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "3165",
+                "id": "3135",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -406,10 +365,10 @@
     "runes": [
       {
         "alias": "Syndra",
-        "name": "[u.gg] Syndra @ top, win 56.96%, pick 79",
+        "name": "[u.gg] Syndra @ top, win 75.00%, pick 4",
         "position": "top",
-        "pickCount": 79,
-        "winRate": "56.96%",
+        "pickCount": 4,
+        "winRate": "75.00%",
         "primaryStyleId": 8300,
         "subStyleId": 8200,
         "selectedPerkIds": [
@@ -417,11 +376,11 @@
           8210,
           8226,
           8304,
-          8316,
+          8345,
           8347,
-          5007,
+          5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -429,13 +388,13 @@
     ]
   },
   {
-    "index": 149,
+    "index": 38,
     "id": "134",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 269,
-    "winRate": "39.78%",
-    "timestamp": 1709669544430,
+    "pickCount": 16,
+    "winRate": "31.25%",
+    "timestamp": 1709755984766,
     "alias": "Syndra",
     "name": "Syndra",
     "position": "supp",
@@ -457,7 +416,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 243, win 41.15%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 14, win 35.71%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -474,14 +433,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 16, win 56.25%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3020",
                 "count": 1
               },
               {
@@ -498,7 +457,7 @@
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3137",
                 "count": 1
               }
             ]
@@ -507,35 +466,14 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3137",
+                "id": "3089",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -549,111 +487,20 @@
     "runes": [
       {
         "alias": "Syndra",
-        "name": "[u.gg] Syndra @ supp, win 58.06%, pick 31",
+        "name": "[u.gg] Syndra @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 31,
-        "winRate": "58.06%",
-        "primaryStyleId": 8100,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
         "subStyleId": 8200,
         "selectedPerkIds": [
-          8112,
-          8106,
-          8138,
-          8139,
-          8210,
+          8369,
           8226,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 149,
-    "id": "134",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 2,
-    "winRate": "0.00%",
-    "timestamp": 1709669544430,
-    "alias": "Syndra",
-    "name": "Syndra",
-    "position": "jungle",
-    "skills": [],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Syndra @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          134
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 0.00%, ",
-            "items": [
-              {
-                "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
-            "items": null
-          },
-          {
-            "type": "Fourth Item Options, ",
-            "items": null
-          },
-          {
-            "type": "Fifth Item Options, ",
-            "items": null
-          },
-          {
-            "type": "Sixth Item Options, ",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Syndra",
-        "name": "[u.gg] Syndra @ jungle, win 0.00%, pick 1",
-        "position": "jungle",
-        "pickCount": 1,
-        "winRate": "0.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8214,
-          8126,
-          8138,
-          8226,
-          8232,
-          8233,
-          5008,
+          8236,
+          8313,
+          8321,
+          8347,
+          5007,
           5008,
           5011
         ],

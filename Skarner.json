@@ -1,19 +1,19 @@
 [
   {
-    "index": 79,
+    "index": 95,
     "id": "72",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 2161,
-    "winRate": "49.47%",
-    "timestamp": 1709669544430,
+    "pickCount": 89,
+    "winRate": "51.69%",
+    "timestamp": 1709755984766,
     "alias": "Skarner",
     "name": "Skarner",
     "position": "jungle",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -28,10 +28,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1161, win 49.61%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 18, win 61.11%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1102",
+                "id": "1103",
                 "count": 1
               },
               {
@@ -41,65 +41,57 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 71, win 67.61%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3158",
                 "count": 1
               },
               {
-                "id": "3078",
+                "id": "3068",
                 "count": 1
               },
-              {
-                "id": "3161",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
               {
                 "id": "3742",
                 "count": 1
-              },
-              {
-                "id": "4401",
-                "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3742",
-                "count": 1
-              },
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3110",
                 "count": 1
               },
               {
-                "id": "8001",
+                "id": "3143",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4401",
                 "count": 1
               },
               {
-                "id": "3109",
+                "id": "6609",
+                "count": 1
+              },
+              {
+                "id": "3143",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3110",
                 "count": 1
               }
             ]
@@ -116,22 +108,22 @@
     "runes": [
       {
         "alias": "Skarner",
-        "name": "[u.gg] Skarner @ jungle, win 56.58%, pick 76",
+        "name": "[u.gg] Skarner @ jungle, win 100.00%, pick 3",
         "position": "jungle",
-        "pickCount": 76,
-        "winRate": "56.58%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
+        "pickCount": 3,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8010,
-          8299,
+          8351,
+          8210,
+          8236,
           8304,
-          8410,
-          9105,
-          9111,
-          5005,
+          8345,
+          8347,
+          5007,
           5001,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,13 +131,13 @@
     ]
   },
   {
-    "index": 79,
+    "index": 95,
     "id": "72",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 687,
-    "winRate": "48.33%",
-    "timestamp": 1709669544430,
+    "pickCount": 28,
+    "winRate": "42.86%",
+    "timestamp": 1709755984766,
     "alias": "Skarner",
     "name": "Skarner",
     "position": "top",
@@ -167,27 +159,23 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 244, win 51.64%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 24, win 45.83%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "2003",
+                "id": "1054",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 14, win 92.86%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3111",
+                "id": "3158",
                 "count": 1
               },
               {
@@ -204,11 +192,11 @@
             "type": "Fourth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3110",
+                "id": "3748",
                 "count": 1
               },
               {
-                "id": "3742",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -217,15 +205,11 @@
             "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "3071",
+                "id": "3190",
                 "count": 1
               },
               {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "3742",
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -234,15 +218,7 @@
             "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "8001",
-                "count": 1
-              },
-              {
-                "id": "2502",
-                "count": 1
-              },
-              {
-                "id": "6610",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -259,22 +235,22 @@
     "runes": [
       {
         "alias": "Skarner",
-        "name": "[u.gg] Skarner @ top, win 55.56%, pick 54",
+        "name": "[u.gg] Skarner @ top, win 66.67%, pick 9",
         "position": "top",
-        "pickCount": 54,
-        "winRate": "55.56%",
+        "pickCount": 9,
+        "winRate": "66.67%",
         "primaryStyleId": 8200,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8230,
-          8224,
-          8234,
-          8237,
-          8446,
-          8473,
+          8210,
+          8226,
+          8236,
+          8401,
+          8444,
           5007,
-          5010,
-          5013
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -282,13 +258,13 @@
     ]
   },
   {
-    "index": 79,
+    "index": 95,
     "id": "72",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 93,
-    "winRate": "47.31%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "66.67%",
+    "timestamp": 1709755984766,
     "alias": "Skarner",
     "name": "Skarner",
     "position": "mid",
@@ -310,149 +286,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 41, win 53.66%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 3, win 66.67%, E \u003e W \u003e Q",
             "items": [
               {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "2065",
-                "count": 1
-              },
-              {
-                "id": "4629",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3119",
-                "count": 1
-              },
-              {
-                "id": "6692",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "8020",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "2502",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Skarner",
-        "name": "[u.gg] Skarner @ mid, win 56.52%, pick 23",
-        "position": "mid",
-        "pickCount": 23,
-        "winRate": "56.52%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8230,
-          8232,
-          8234,
-          8275,
-          8321,
-          8410,
-          5007,
-          5010,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 79,
-    "id": "72",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 38,
-    "winRate": "55.26%",
-    "timestamp": 1709669544430,
-    "alias": "Skarner",
-    "name": "Skarner",
-    "position": "supp",
-    "skills": [
-      "E",
-      "W",
-      "Q"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Skarner @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          72
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "1102",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -462,163 +299,32 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 18, win 77.78%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
             "items": [
-              {
-                "id": "3876",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "3742",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3050",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3107",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Skarner",
-        "name": "[u.gg] Skarner @ supp, win 69.57%, pick 23",
-        "position": "supp",
-        "pickCount": 23,
-        "winRate": "69.57%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8230,
-          8232,
-          8234,
-          8275,
-          8321,
-          8410,
-          5005,
-          5010,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 79,
-    "id": "72",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 10,
-    "winRate": "30.00%",
-    "timestamp": 1709669544430,
-    "alias": "Skarner",
-    "name": "Skarner",
-    "position": "adc",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Skarner @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          72
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2065",
-                "count": 1
-              },
               {
                 "id": "3158",
                 "count": 1
               },
               {
+                "id": "6662",
+                "count": 1
+              },
+              {
                 "id": "3119",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
             "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
             "items": null
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
             "items": null
           }
         ],
@@ -633,22 +339,22 @@
     "runes": [
       {
         "alias": "Skarner",
-        "name": "[u.gg] Skarner @ adc, win 66.67%, pick 3",
-        "position": "adc",
-        "pickCount": 3,
-        "winRate": "66.67%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "name": "[u.gg] Skarner @ mid, win 100.00%, pick 1",
+        "position": "mid",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8230,
-          8210,
-          8232,
-          8275,
-          8451,
-          8463,
-          5007,
-          5001,
-          5013
+          8437,
+          8242,
+          8313,
+          8401,
+          8410,
+          8444,
+          5005,
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""

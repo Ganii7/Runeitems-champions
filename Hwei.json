@@ -1,12 +1,12 @@
 [
   {
-    "index": 100,
+    "index": 93,
     "id": "910",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 58848,
-    "winRate": "47.91%",
-    "timestamp": 1709669544430,
+    "pickCount": 2695,
+    "winRate": "47.20%",
+    "timestamp": 1709755984766,
     "alias": "Hwei",
     "name": "Hwei",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 54340, win 48.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2516, win 47.34%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -45,14 +45,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6830, win 49.71%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 319, win 50.47%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6655",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3003",
                 "count": 1
               },
               {
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3041",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "3089",
                 "count": 1
               },
               {
@@ -95,7 +95,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3165",
                 "count": 1
               },
               {
@@ -120,20 +120,20 @@
     "runes": [
       {
         "alias": "Hwei",
-        "name": "[u.gg] Hwei @ mid, win 48.87%, pick 4635",
+        "name": "[u.gg] Hwei @ mid, win 53.85%, pick 104",
         "position": "mid",
-        "pickCount": 4635,
-        "winRate": "48.87%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "pickCount": 104,
+        "winRate": "53.85%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8214,
-          8210,
+          8369,
           8226,
-          8237,
-          8313,
+          8236,
+          8304,
           8345,
-          5005,
+          8347,
+          5008,
           5008,
           5001
         ],
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 100,
+    "index": 93,
     "id": "910",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 16230,
-    "winRate": "45.48%",
-    "timestamp": 1709669544430,
+    "pickCount": 839,
+    "winRate": "47.32%",
+    "timestamp": 1709755984766,
     "alias": "Hwei",
     "name": "Hwei",
     "position": "supp",
@@ -171,10 +171,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 13855, win 45.59%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 123, win 51.22%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -182,20 +182,20 @@
                 "count": 1
               },
               {
-                "id": "3865",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2766, win 47.18%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 18, win 77.78%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "4628",
                 "count": 1
               },
               {
@@ -208,11 +208,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4628",
+                "id": "4646",
                 "count": 1
               },
               {
-                "id": "4646",
+                "id": "4645",
                 "count": 1
               }
             ]
@@ -221,15 +221,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "3165",
+                "count": 1
+              },
+              {
                 "id": "3137",
                 "count": 1
               },
               {
                 "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3165",
                 "count": 1
               }
             ]
@@ -238,15 +238,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3137",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "4643",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -263,10 +263,10 @@
     "runes": [
       {
         "alias": "Hwei",
-        "name": "[u.gg] Hwei @ supp, win 45.40%, pick 7394",
+        "name": "[u.gg] Hwei @ supp, win 48.38%, pick 432",
         "position": "supp",
-        "pickCount": 7394,
-        "winRate": "45.40%",
+        "pickCount": 432,
+        "winRate": "48.38%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -278,7 +278,7 @@
           8347,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -286,13 +286,13 @@
     ]
   },
   {
-    "index": 100,
+    "index": 93,
     "id": "910",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 3781,
-    "winRate": "51.73%",
-    "timestamp": 1709669544430,
+    "pickCount": 107,
+    "winRate": "52.34%",
+    "timestamp": 1709755984766,
     "alias": "Hwei",
     "name": "Hwei",
     "position": "adc",
@@ -314,7 +314,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 3546, win 51.95%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 100, win 53.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -331,14 +331,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 197, win 61.93%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3020",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "3003",
                 "count": 1
               },
               {
@@ -351,11 +351,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -368,11 +368,11 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -381,15 +381,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3135",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3165",
                 "count": 1
               }
             ]
@@ -406,22 +406,22 @@
     "runes": [
       {
         "alias": "Hwei",
-        "name": "[u.gg] Hwei @ adc, win 60.81%, pick 148",
+        "name": "[u.gg] Hwei @ adc, win 57.50%, pick 40",
         "position": "adc",
-        "pickCount": 148,
-        "winRate": "60.81%",
+        "pickCount": 40,
+        "winRate": "57.50%",
         "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8214,
-          8009,
-          8014,
+          8229,
           8210,
           8226,
-          8236,
-          5007,
+          8237,
+          8345,
+          8347,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -429,13 +429,13 @@
     ]
   },
   {
-    "index": 100,
+    "index": 93,
     "id": "910",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 777,
-    "winRate": "49.68%",
-    "timestamp": 1709669544430,
+    "pickCount": 31,
+    "winRate": "58.06%",
+    "timestamp": 1709755984766,
     "alias": "Hwei",
     "name": "Hwei",
     "position": "top",
@@ -457,35 +457,35 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 659, win 50.38%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 5, win 60.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
                 "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 23, win 73.91%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3003",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "4628",
                 "count": 1
               }
             ]
@@ -498,7 +498,7 @@
                 "count": 1
               },
               {
-                "id": "4628",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -506,10 +506,6 @@
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
               {
                 "id": "3089",
                 "count": 1
@@ -517,129 +513,21 @@
               {
                 "id": "4646",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
               },
               {
                 "id": "3135",
                 "count": 1
-              },
-              {
-                "id": "3102",
-                "count": 1
               }
             ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Hwei",
-        "name": "[u.gg] Hwei @ top, win 51.02%, pick 245",
-        "position": "top",
-        "pickCount": 245,
-        "winRate": "51.02%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8229,
-          8210,
-          8226,
-          8237,
-          8345,
-          8347,
-          5008,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 100,
-    "id": "910",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 5,
-    "winRate": "40.00%",
-    "timestamp": 1709669544430,
-    "alias": "Hwei",
-    "name": "Hwei",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Hwei @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          910
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "4628",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": null
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
+            "items": [
+              {
+                "id": "3041",
+                "count": 1
+              }
+            ]
           }
         ],
         "map": "any",
@@ -653,9 +541,9 @@
     "runes": [
       {
         "alias": "Hwei",
-        "name": "[u.gg] Hwei @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
-        "pickCount": 1,
+        "name": "[u.gg] Hwei @ top, win 100.00%, pick 2",
+        "position": "top",
+        "pickCount": 2,
         "winRate": "100.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
@@ -664,11 +552,11 @@
           8210,
           8226,
           8237,
-          8345,
+          8313,
           8347,
           5008,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""

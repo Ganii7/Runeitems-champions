@@ -1,151 +1,12 @@
 [
   {
-    "index": 51,
+    "index": 24,
     "id": "62",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 7891,
-    "winRate": "47.33%",
-    "timestamp": 1709669544430,
-    "alias": "MonkeyKing",
-    "name": "Wukong",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] MonkeyKing @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          62
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2514, win 47.73%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1103",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 675, win 52.59%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "6610",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "MonkeyKing",
-        "name": "[u.gg] MonkeyKing @ jungle, win 49.12%, pick 3986",
-        "position": "jungle",
-        "pickCount": 3986,
-        "winRate": "49.12%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8010,
-          8299,
-          8304,
-          8347,
-          9104,
-          9111,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 51,
-    "id": "62",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 5896,
-    "winRate": "48.83%",
-    "timestamp": 1709669544430,
+    "pickCount": 1040,
+    "winRate": "46.73%",
+    "timestamp": 1709755984766,
     "alias": "MonkeyKing",
     "name": "Wukong",
     "position": "top",
@@ -167,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2094, win 49.71%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 351, win 48.43%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -180,18 +41,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 258, win 56.98%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 14, win 71.43%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3078",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "3047",
                 "count": 1
               }
             ]
@@ -200,11 +61,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6610",
+                "id": "6698",
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "6610",
                 "count": 1
               }
             ]
@@ -213,7 +74,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3156",
+                "id": "6610",
                 "count": 1
               },
               {
@@ -221,7 +82,7 @@
                 "count": 1
               },
               {
-                "id": "3161",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -230,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3053",
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "3071",
                 "count": 1
               },
               {
                 "id": "3161",
-                "count": 1
-              },
-              {
-                "id": "3156",
                 "count": 1
               }
             ]
@@ -255,20 +116,20 @@
     "runes": [
       {
         "alias": "MonkeyKing",
-        "name": "[u.gg] MonkeyKing @ top, win 51.78%, pick 365",
+        "name": "[u.gg] MonkeyKing @ top, win 50.66%, pick 152",
         "position": "top",
-        "pickCount": 365,
-        "winRate": "51.78%",
+        "pickCount": 152,
+        "winRate": "50.66%",
         "primaryStyleId": 8000,
-        "subStyleId": 8400,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8010,
+          8134,
+          8143,
           8299,
-          8444,
-          8451,
           9104,
           9111,
-          5008,
+          5005,
           5008,
           5011
         ],
@@ -278,13 +139,152 @@
     ]
   },
   {
-    "index": 51,
+    "index": 24,
     "id": "62",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 518,
-    "winRate": "46.91%",
-    "timestamp": 1709669544430,
+    "pickCount": 821,
+    "winRate": "47.50%",
+    "timestamp": 1709755984766,
+    "alias": "MonkeyKing",
+    "name": "Wukong",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] MonkeyKing @ jungle, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          62
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 371, win 50.94%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 104, win 51.92%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3078",
+                "count": 1
+              },
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3071",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3156",
+                "count": 1
+              },
+              {
+                "id": "3071",
+                "count": 1
+              },
+              {
+                "id": "6333",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "6696",
+                "count": 1
+              },
+              {
+                "id": "6662",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "MonkeyKing",
+        "name": "[u.gg] MonkeyKing @ jungle, win 80.00%, pick 10",
+        "position": "jungle",
+        "pickCount": 10,
+        "winRate": "80.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8010,
+          8134,
+          8143,
+          8299,
+          9104,
+          9111,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "id": "62",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 43,
+    "winRate": "41.86%",
+    "timestamp": 1709755984766,
     "alias": "MonkeyKing",
     "name": "Wukong",
     "position": "mid",
@@ -306,10 +306,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 249, win 50.60%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 13, win 53.85%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1055",
+                "id": "1054",
                 "count": 1
               },
               {
@@ -319,18 +319,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 18, win 66.67%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6692",
+                "id": "6699",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3111",
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "3508",
                 "count": 1
               }
             ]
@@ -339,11 +339,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6698",
+                "id": "3071",
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -356,11 +356,11 @@
                 "count": 1
               },
               {
-                "id": "3071",
+                "id": "3033",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -370,14 +370,6 @@
             "items": [
               {
                 "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "6694",
                 "count": 1
               }
             ]
@@ -394,22 +386,22 @@
     "runes": [
       {
         "alias": "MonkeyKing",
-        "name": "[u.gg] MonkeyKing @ mid, win 61.70%, pick 47",
+        "name": "[u.gg] MonkeyKing @ mid, win 75.00%, pick 4",
         "position": "mid",
-        "pickCount": 47,
-        "winRate": "61.70%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "pickCount": 4,
+        "winRate": "75.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8112,
+          8010,
           8014,
           8106,
-          8138,
           8143,
+          9104,
           9111,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -417,20 +409,20 @@
     ]
   },
   {
-    "index": 51,
+    "index": 24,
     "id": "62",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 268,
-    "winRate": "45.15%",
-    "timestamp": 1709669544430,
+    "pickCount": 11,
+    "winRate": "72.73%",
+    "timestamp": 1709755984766,
     "alias": "MonkeyKing",
     "name": "Wukong",
     "position": "supp",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -445,66 +437,53 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 17, win 76.47%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3865",
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 22, win 63.64%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "6610",
-                "count": 1
-              },
-              {
                 "id": "3047",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3142",
-                "count": 1
               },
               {
-                "id": "3053",
+                "id": "6610",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6695",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "3748",
+                "id": "6609",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3156",
+                "id": "3071",
                 "count": 1
               },
               {
@@ -513,6 +492,15 @@
               },
               {
                 "id": "6695",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -529,21 +517,21 @@
     "runes": [
       {
         "alias": "MonkeyKing",
-        "name": "[u.gg] MonkeyKing @ supp, win 76.47%, pick 17",
+        "name": "[u.gg] MonkeyKing @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 17,
-        "winRate": "76.47%",
-        "primaryStyleId": 8000,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
         "subStyleId": 8400,
         "selectedPerkIds": [
-          8010,
-          8299,
-          8444,
-          8451,
-          9105,
-          9111,
+          9923,
+          8106,
+          8136,
+          8143,
+          8242,
+          8473,
           5008,
-          5008,
+          5001,
           5001
         ],
         "score": 0,
@@ -552,20 +540,20 @@
     ]
   },
   {
-    "index": 51,
+    "index": 24,
     "id": "62",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 88,
-    "winRate": "51.14%",
-    "timestamp": 1709669544430,
+    "pickCount": 7,
+    "winRate": "57.14%",
+    "timestamp": 1709755984766,
     "alias": "MonkeyKing",
     "name": "Wukong",
     "position": "adc",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -580,7 +568,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 56, win 58.93%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -593,65 +581,49 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3877",
+                "id": "3111",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "3078",
                 "count": 1
               },
               {
-                "id": "6699",
+                "id": "3156",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              },
               {
                 "id": "3161",
                 "count": 1
+              },
+              {
+                "id": "3074",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6694",
+                "id": "6692",
                 "count": 1
-              },
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
               {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "6609",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -668,22 +640,22 @@
     "runes": [
       {
         "alias": "MonkeyKing",
-        "name": "[u.gg] MonkeyKing @ adc, win 71.43%, pick 7",
+        "name": "[u.gg] MonkeyKing @ adc, win 100.00%, pick 1",
         "position": "adc",
-        "pickCount": 7,
-        "winRate": "71.43%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8134,
-          8143,
           8299,
+          8444,
+          8451,
           9104,
           9111,
-          5005,
           5008,
-          5011
+          5001,
+          5001
         ],
         "score": 0,
         "type": ""

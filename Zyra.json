@@ -1,12 +1,12 @@
 [
   {
-    "index": 30,
+    "index": 105,
     "id": "143",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 23848,
-    "winRate": "50.17%",
-    "timestamp": 1709669544430,
+    "pickCount": 993,
+    "winRate": "49.14%",
+    "timestamp": 1709755984766,
     "alias": "Zyra",
     "name": "Zyra",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 22717, win 50.31%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 928, win 49.03%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -45,18 +45,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6135, win 52.53%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 280, win 51.79%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "6653",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3020",
                 "count": 1
               }
             ]
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "4005",
                 "count": 1
               }
             ]
@@ -82,11 +82,11 @@
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "3118",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "3041",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3165",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3118",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "4643",
+                "id": "3116",
                 "count": 1
               }
             ]
@@ -120,22 +120,22 @@
     "runes": [
       {
         "alias": "Zyra",
-        "name": "[u.gg] Zyra @ supp, win 50.77%, pick 10211",
+        "name": "[u.gg] Zyra @ supp, win 76.92%, pick 13",
         "position": "supp",
-        "pickCount": 10211,
-        "winRate": "50.77%",
+        "pickCount": 13,
+        "winRate": "76.92%",
         "primaryStyleId": 8200,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8229,
-          8105,
-          8139,
+          8106,
+          8126,
           8210,
           8226,
           8237,
-          5007,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -143,20 +143,20 @@
     ]
   },
   {
-    "index": 30,
+    "index": 105,
     "id": "143",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 3363,
-    "winRate": "47.75%",
-    "timestamp": 1709669544430,
+    "pickCount": 95,
+    "winRate": "42.11%",
+    "timestamp": 1709755984766,
     "alias": "Zyra",
     "name": "Zyra",
     "position": "jungle",
     "skills": [
-      "E",
       "Q",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -171,7 +171,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1674, win 49.04%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 43, win 55.81%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1101",
@@ -184,7 +184,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 899, win 49.05%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 30, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6653",
@@ -201,48 +201,40 @@
             ]
           },
           {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3137",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "2065",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3157",
                 "count": 1
               },
               {
-                "id": "3137",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "6665",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3118",
                 "count": 1
               }
             ]
@@ -259,21 +251,21 @@
     "runes": [
       {
         "alias": "Zyra",
-        "name": "[u.gg] Zyra @ jungle, win 55.91%, pick 186",
+        "name": "[u.gg] Zyra @ jungle, win 100.00%, pick 3",
         "position": "jungle",
-        "pickCount": 186,
-        "winRate": "55.91%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8300,
+        "pickCount": 3,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8128,
-          8126,
-          8135,
-          8138,
-          8304,
-          8347,
+          8229,
+          8105,
+          8139,
+          8210,
+          8226,
+          8237,
           5008,
-          5008,
+          5010,
           5001
         ],
         "score": 0,
@@ -282,20 +274,20 @@
     ]
   },
   {
-    "index": 30,
+    "index": 105,
     "id": "143",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 463,
-    "winRate": "50.11%",
-    "timestamp": 1709669544430,
+    "pickCount": 11,
+    "winRate": "27.27%",
+    "timestamp": 1709755984766,
     "alias": "Zyra",
     "name": "Zyra",
     "position": "mid",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -310,7 +302,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 406, win 50.25%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 11, win 27.27%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1056",
@@ -327,7 +319,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 65, win 58.46%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3020",
@@ -338,57 +330,27 @@
                 "count": 1
               },
               {
+                "id": "3165",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
                 "id": "3116",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3102",
-                "count": 1
-              },
-              {
-                "id": "4646",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
           }
         ],
         "map": "any",
@@ -402,22 +364,22 @@
     "runes": [
       {
         "alias": "Zyra",
-        "name": "[u.gg] Zyra @ mid, win 53.85%, pick 117",
+        "name": "[u.gg] Zyra @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 117,
-        "winRate": "53.85%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8229,
-          8105,
-          8139,
           8210,
           8226,
           8237,
-          5005,
+          8313,
+          8347,
           5008,
-          5001
+          5008,
+          5011
         ],
         "score": 0,
         "type": ""
@@ -425,13 +387,13 @@
     ]
   },
   {
-    "index": 30,
+    "index": 105,
     "id": "143",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 214,
-    "winRate": "54.21%",
-    "timestamp": 1709669544430,
+    "pickCount": 10,
+    "winRate": "60.00%",
+    "timestamp": 1709755984766,
     "alias": "Zyra",
     "name": "Zyra",
     "position": "adc",
@@ -453,24 +415,24 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 197, win 55.33%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
                 "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 49, win 61.22%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6653",
@@ -481,7 +443,7 @@
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "6655",
                 "count": 1
               }
             ]
@@ -490,11 +452,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "4645",
+                "id": "3118",
                 "count": 1
               }
             ]
@@ -503,35 +461,14 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3165",
+                "id": "3089",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -545,19 +482,19 @@
     "runes": [
       {
         "alias": "Zyra",
-        "name": "[u.gg] Zyra @ adc, win 68.00%, pick 25",
+        "name": "[u.gg] Zyra @ adc, win 100.00%, pick 2",
         "position": "adc",
-        "pickCount": 25,
-        "winRate": "68.00%",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "subStyleId": 8000,
         "selectedPerkIds": [
           8229,
+          8009,
+          8017,
           8210,
           8226,
-          8237,
-          8345,
-          8347,
+          8236,
           5008,
           5008,
           5001
@@ -568,13 +505,13 @@
     ]
   },
   {
-    "index": 30,
+    "index": 105,
     "id": "143",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 43,
-    "winRate": "39.53%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Zyra",
     "name": "Zyra",
     "position": "top",
@@ -596,7 +533,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 39, win 41.03%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -613,14 +550,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3020",
                 "count": 1
               },
               {
-                "id": "6653",
+                "id": "3118",
                 "count": 1
               },
               {
@@ -631,46 +568,15 @@
           },
           {
             "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3137",
-                "count": 1
-              },
-              {
-                "id": "3003",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -684,20 +590,20 @@
     "runes": [
       {
         "alias": "Zyra",
-        "name": "[u.gg] Zyra @ top, win 60.00%, pick 5",
+        "name": "[u.gg] Zyra @ top, win 100.00%, pick 1",
         "position": "top",
-        "pickCount": 5,
-        "winRate": "60.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8300,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
-          8229,
+          8112,
+          8106,
+          8126,
+          8138,
           8210,
           8226,
-          8237,
-          8345,
-          8410,
-          5005,
+          5008,
           5008,
           5001
         ],

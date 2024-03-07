@@ -1,12 +1,12 @@
 [
   {
-    "index": 156,
+    "index": 139,
     "id": "142",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 12673,
-    "winRate": "51.95%",
-    "timestamp": 1709669544430,
+    "pickCount": 708,
+    "winRate": "53.25%",
+    "timestamp": 1709755984766,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11907, win 51.87%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 663, win 53.54%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -45,18 +45,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1745, win 54.44%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 26, win 65.38%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3020",
                 "count": 1
               },
               {
-                "id": "3100",
+                "id": "6655",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -69,7 +69,7 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -78,15 +78,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3041",
                 "count": 1
               },
               {
-                "id": "3102",
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3135",
                 "count": 1
               }
             ]
@@ -95,15 +95,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
                 "id": "3137",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3089",
                 "count": 1
               }
             ]
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "Zoe",
-        "name": "[u.gg] Zoe @ mid, win 53.93%, pick 1643",
+        "name": "[u.gg] Zoe @ mid, win 65.79%, pick 38",
         "position": "mid",
-        "pickCount": 1643,
-        "winRate": "53.93%",
+        "pickCount": 38,
+        "winRate": "65.79%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -131,11 +131,11 @@
           8105,
           8138,
           8139,
+          8313,
           8345,
-          8347,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -143,13 +143,13 @@
     ]
   },
   {
-    "index": 156,
+    "index": 139,
     "id": "142",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1891,
-    "winRate": "51.30%",
-    "timestamp": 1709669544430,
+    "pickCount": 112,
+    "winRate": "61.61%",
+    "timestamp": 1709755984766,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "supp",
@@ -171,10 +171,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1714, win 51.69%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 9, win 66.67%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1056",
                 "count": 1
               },
               {
@@ -182,24 +182,24 @@
                 "count": 1
               },
               {
-                "id": "3865",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 327, win 55.96%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 8, win 75.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3871",
                 "count": 1
               },
               {
-                "id": "6655",
+                "id": "3158",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "6655",
                 "count": 1
               }
             ]
@@ -208,11 +208,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4645",
+                "id": "4628",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -221,11 +221,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4645",
+                "id": "3165",
                 "count": 1
               },
               {
-                "id": "3041",
+                "id": "3102",
                 "count": 1
               },
               {
@@ -238,15 +238,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3137",
+                "id": "4643",
                 "count": 1
               },
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3102",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -263,22 +259,22 @@
     "runes": [
       {
         "alias": "Zoe",
-        "name": "[u.gg] Zoe @ supp, win 62.71%, pick 59",
+        "name": "[u.gg] Zoe @ supp, win 100.00%, pick 5",
         "position": "supp",
-        "pickCount": 59,
-        "winRate": "62.71%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8200,
+        "pickCount": 5,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8360,
+          8214,
+          8226,
           8234,
-          8275,
-          8304,
-          8345,
-          8347,
+          8237,
+          8453,
+          8463,
+          5005,
           5008,
-          5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""
@@ -286,13 +282,13 @@
     ]
   },
   {
-    "index": 156,
+    "index": 139,
     "id": "142",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 119,
-    "winRate": "47.06%",
-    "timestamp": 1709669544430,
+    "pickCount": 8,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "top",
@@ -314,19 +310,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 8, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2033",
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6655",
+                "id": "3100",
                 "count": 1
               },
               {
@@ -334,7 +338,7 @@
                 "count": 1
               },
               {
-                "id": "3089",
+                "id": "4646",
                 "count": 1
               }
             ]
@@ -343,11 +347,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "4628",
+                "id": "3003",
                 "count": 1
               }
             ]
@@ -356,19 +356,14 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3041",
+                "id": "3157",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -382,19 +377,19 @@
     "runes": [
       {
         "alias": "Zoe",
-        "name": "[u.gg] Zoe @ top, win 66.67%, pick 6",
+        "name": "[u.gg] Zoe @ top, win 100.00%, pick 1",
         "position": "top",
-        "pickCount": 6,
-        "winRate": "66.67%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8400,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8214,
+          8210,
           8226,
-          8234,
           8237,
-          8242,
-          8473,
+          8313,
+          8347,
           5005,
           5008,
           5001
@@ -405,20 +400,20 @@
     ]
   },
   {
-    "index": 156,
+    "index": 139,
     "id": "142",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 52,
-    "winRate": "46.15%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Zoe",
     "name": "Zoe",
     "position": "adc",
     "skills": [
       "Q",
-      "E",
-      "W"
+      "W",
+      "E"
     ],
     "spells": null,
     "itemBuilds": [
@@ -433,19 +428,27 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "0",
+                "id": "1056",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3158",
+                "id": "3020",
                 "count": 1
               },
               {
@@ -459,43 +462,16 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              }
-            ]
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": null
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4628",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              }
-            ]
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
           }
         ],
         "map": "any",
@@ -509,119 +485,10 @@
     "runes": [
       {
         "alias": "Zoe",
-        "name": "[u.gg] Zoe @ adc, win 100.00%, pick 3",
+        "name": "[u.gg] Zoe @ adc, win 0.00%, pick 1",
         "position": "adc",
-        "pickCount": 3,
-        "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8300,
-        "selectedPerkIds": [
-          8112,
-          8105,
-          8138,
-          8139,
-          8345,
-          8347,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 156,
-    "id": "142",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 2,
-    "winRate": "50.00%",
-    "timestamp": 1709669544430,
-    "alias": "Zoe",
-    "name": "Zoe",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Zoe @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          142
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1102",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3020",
-                "count": 1
-              },
-              {
-                "id": "6655",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4628",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": null
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Zoe",
-        "name": "[u.gg] Zoe @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
         "pickCount": 1,
-        "winRate": "100.00%",
+        "winRate": "0.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -631,7 +498,7 @@
           8139,
           8345,
           8347,
-          5005,
+          5008,
           5008,
           5001
         ],

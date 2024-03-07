@@ -1,12 +1,12 @@
 [
   {
-    "index": 63,
+    "index": 96,
     "id": "136",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 29999,
-    "winRate": "51.42%",
-    "timestamp": 1709669544430,
+    "pickCount": 1139,
+    "winRate": "54.43%",
+    "timestamp": 1709755984766,
     "alias": "AurelionSol",
     "name": "Aurelion Sol",
     "position": "mid",
@@ -28,24 +28,24 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 26736, win 51.81%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 76, win 57.89%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1056",
-                "count": 1
-              },
-              {
                 "id": "2003",
                 "count": 1
               },
               {
                 "id": "2003",
+                "count": 1
+              },
+              {
+                "id": "3070",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 10524, win 55.31%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 406, win 61.58%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3116",
@@ -65,11 +65,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3003",
+                "id": "4645",
                 "count": 1
               },
               {
-                "id": "4645",
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -78,11 +78,11 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3089",
+                "id": "3157",
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3089",
                 "count": 1
               },
               {
@@ -99,11 +99,11 @@
                 "count": 1
               },
               {
-                "id": "3157",
+                "id": "3137",
                 "count": 1
               },
               {
-                "id": "3135",
+                "id": "3102",
                 "count": 1
               }
             ]
@@ -120,10 +120,10 @@
     "runes": [
       {
         "alias": "AurelionSol",
-        "name": "[u.gg] AurelionSol @ mid, win 55.64%, pick 1756",
+        "name": "[u.gg] AurelionSol @ mid, win 59.80%, pick 102",
         "position": "mid",
-        "pickCount": 1756,
-        "winRate": "55.64%",
+        "pickCount": 102,
+        "winRate": "59.80%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
@@ -134,7 +134,7 @@
           8304,
           8345,
           5008,
-          5008,
+          5001,
           5001
         ],
         "score": 0,
@@ -143,20 +143,20 @@
     ]
   },
   {
-    "index": 63,
+    "index": 96,
     "id": "136",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1585,
-    "winRate": "53.38%",
-    "timestamp": 1709669544430,
+    "pickCount": 72,
+    "winRate": "41.67%",
+    "timestamp": 1709755984766,
     "alias": "AurelionSol",
     "name": "Aurelion Sol",
     "position": "adc",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -171,24 +171,16 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1395, win 54.12%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 393, win 56.49%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 6, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3116",
@@ -199,54 +191,46 @@
                 "count": 1
               },
               {
+                "id": "4645",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
                 "id": "6653",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3041",
+                "id": "3137",
                 "count": 1
               },
-              {
-                "id": "4633",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
               {
                 "id": "3089",
                 "count": 1
               },
               {
-                "id": "3003",
-                "count": 1
-              },
-              {
-                "id": "3135",
+                "id": "3165",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3135",
+                "id": "3157",
                 "count": 1
               }
             ]
@@ -263,22 +247,22 @@
     "runes": [
       {
         "alias": "AurelionSol",
-        "name": "[u.gg] AurelionSol @ adc, win 59.02%, pick 122",
+        "name": "[u.gg] AurelionSol @ adc, win 100.00%, pick 6",
         "position": "adc",
-        "pickCount": 122,
-        "winRate": "59.02%",
+        "pickCount": 6,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
-        "subStyleId": 8000,
+        "subStyleId": 8300,
         "selectedPerkIds": [
           8229,
-          8009,
-          8014,
           8226,
           8233,
-          8237,
+          8236,
+          8304,
+          8345,
           5008,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -286,13 +270,13 @@
     ]
   },
   {
-    "index": 63,
+    "index": 96,
     "id": "136",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1131,
-    "winRate": "53.14%",
-    "timestamp": 1709669544430,
+    "pickCount": 24,
+    "winRate": "45.83%",
+    "timestamp": 1709755984766,
     "alias": "AurelionSol",
     "name": "Aurelion Sol",
     "position": "top",
@@ -314,7 +298,129 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 974, win 54.11%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1054",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 5, win 80.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3020",
+                "count": 1
+              },
+              {
+                "id": "3116",
+                "count": 1
+              },
+              {
+                "id": "6653",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3157",
+                "count": 1
+              },
+              {
+                "id": "3137",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3135",
+                "count": 1
+              },
+              {
+                "id": "3089",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "AurelionSol",
+        "name": "[u.gg] AurelionSol @ top, win 100.00%, pick 2",
+        "position": "top",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8229,
+          8226,
+          8233,
+          8236,
+          8304,
+          8345,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 96,
+    "id": "136",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 19,
+    "winRate": "26.32%",
+    "timestamp": 1709755984766,
+    "alias": "AurelionSol",
+    "name": "Aurelion Sol",
+    "position": "supp",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] AurelionSol @ supp, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          136
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -331,14 +437,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 336, win 56.55%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3116",
+                "id": "3871",
                 "count": 1
               },
               {
-                "id": "3020",
+                "id": "3116",
                 "count": 1
               },
               {
@@ -348,10 +454,23 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3003",
+                "id": "4629",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4633",
+                "count": 1
+              },
+              {
+                "id": "3165",
                 "count": 1
               },
               {
@@ -361,35 +480,10 @@
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3102",
                 "count": 1
               }
             ]
@@ -406,21 +500,21 @@
     "runes": [
       {
         "alias": "AurelionSol",
-        "name": "[u.gg] AurelionSol @ top, win 60.87%, pick 46",
-        "position": "top",
-        "pickCount": 46,
-        "winRate": "60.87%",
+        "name": "[u.gg] AurelionSol @ supp, win 100.00%, pick 1",
+        "position": "supp",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8200,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8229,
           8226,
-          8233,
-          8237,
-          8304,
-          8316,
+          8232,
+          8234,
+          8321,
+          8410,
           5008,
-          5008,
+          5010,
           5001
         ],
         "score": 0,
@@ -429,156 +523,13 @@
     ]
   },
   {
-    "index": 63,
+    "index": 96,
     "id": "136",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 260,
-    "winRate": "44.23%",
-    "timestamp": 1709669544430,
-    "alias": "AurelionSol",
-    "name": "Aurelion Sol",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] AurelionSol @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          136
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 240, win 45.42%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 18, win 72.22%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3871",
-                "count": 1
-              },
-              {
-                "id": "6653",
-                "count": 1
-              },
-              {
-                "id": "3116",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "4645",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3157",
-                "count": 1
-              },
-              {
-                "id": "3165",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "4645",
-                "count": 1
-              },
-              {
-                "id": "3135",
-                "count": 1
-              },
-              {
-                "id": "3137",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "AurelionSol",
-        "name": "[u.gg] AurelionSol @ supp, win 65.52%, pick 29",
-        "position": "supp",
-        "pickCount": 29,
-        "winRate": "65.52%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8229,
-          8105,
-          8120,
-          8226,
-          8233,
-          8237,
-          5008,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 63,
-    "id": "136",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 69,
-    "winRate": "43.48%",
-    "timestamp": 1709669544430,
+    "pickCount": 5,
+    "winRate": "60.00%",
+    "timestamp": 1709755984766,
     "alias": "AurelionSol",
     "name": "Aurelion Sol",
     "position": "jungle",
@@ -600,10 +551,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 34, win 55.88%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 5, win 60.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1103",
+                "id": "1101",
                 "count": 1
               },
               {
@@ -613,10 +564,10 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 25, win 60.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6653",
+                "id": "3116",
                 "count": 1
               },
               {
@@ -624,7 +575,7 @@
                 "count": 1
               },
               {
-                "id": "3116",
+                "id": "6653",
                 "count": 1
               }
             ]
@@ -633,24 +584,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3157",
-                "count": 1
-              },
-              {
                 "id": "3089",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3089",
-                "count": 1
-              },
-              {
-                "id": "3102",
                 "count": 1
               },
               {
@@ -660,21 +594,17 @@
             ]
           },
           {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "8020",
-                "count": 1
-              },
-              {
-                "id": "3041",
-                "count": 1
-              },
-              {
-                "id": "3089",
+                "id": "3135",
                 "count": 1
               }
             ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": null
           }
         ],
         "map": "any",
@@ -688,22 +618,22 @@
     "runes": [
       {
         "alias": "AurelionSol",
-        "name": "[u.gg] AurelionSol @ jungle, win 57.69%, pick 26",
+        "name": "[u.gg] AurelionSol @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 26,
-        "winRate": "57.69%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8300,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8300,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8128,
+          8369,
           8135,
           8138,
-          8143,
           8304,
+          8321,
           8347,
           5008,
           5008,
-          5013
+          5001
         ],
         "score": 0,
         "type": ""

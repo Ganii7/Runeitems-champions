@@ -1,12 +1,12 @@
 [
   {
-    "index": 1,
+    "index": 109,
     "id": "950",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 14110,
-    "winRate": "51.03%",
-    "timestamp": 1709669544430,
+    "pickCount": 490,
+    "winRate": "51.43%",
+    "timestamp": 1709755984766,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4606, win 52.65%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 205, win 54.15%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1036",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2936, win 54.19%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 117, win 58.12%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6701",
                 "count": 1
               }
             ]
@@ -74,11 +74,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6694",
+                "id": "3814",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6696",
                 "count": 1
               },
               {
@@ -95,11 +95,11 @@
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "6695",
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -116,16 +116,16 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ mid, win 52.06%, pick 5753",
+        "name": "[u.gg] Naafiri @ mid, win 65.12%, pick 43",
         "position": "mid",
-        "pickCount": 5753,
-        "winRate": "52.06%",
+        "pickCount": 43,
+        "winRate": "65.12%",
         "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8369,
-          8135,
-          8143,
+          8210,
+          8236,
           8304,
           8345,
           8347,
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 1,
+    "index": 109,
     "id": "950",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 3362,
-    "winRate": "51.78%",
-    "timestamp": 1709669544430,
+    "pickCount": 82,
+    "winRate": "47.56%",
+    "timestamp": 1709755984766,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "top",
@@ -167,8 +167,12 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2030, win 52.02%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "1036",
+                "count": 1
+              },
               {
                 "id": "1055",
                 "count": 1
@@ -180,18 +184,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 776, win 56.19%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6692",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "6698",
                 "count": 1
               },
               {
-                "id": "6698",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -200,11 +204,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6694",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "3814",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -213,15 +217,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3814",
+                "id": "6609",
                 "count": 1
               },
               {
                 "id": "6701",
+                "count": 1
+              },
+              {
+                "id": "6694",
                 "count": 1
               }
             ]
@@ -230,15 +234,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3814",
+                "id": "6695",
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "6694",
                 "count": 1
               },
               {
-                "id": "3026",
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -255,15 +259,15 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ top, win 53.61%, pick 761",
+        "name": "[u.gg] Naafiri @ top, win 66.67%, pick 9",
         "position": "top",
-        "pickCount": 761,
-        "winRate": "53.61%",
+        "pickCount": 9,
+        "winRate": "66.67%",
         "primaryStyleId": 8300,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8369,
-          8135,
+          8134,
           8143,
           8304,
           8345,
@@ -278,13 +282,13 @@
     ]
   },
   {
-    "index": 1,
+    "index": 109,
     "id": "950",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 528,
-    "winRate": "42.23%",
-    "timestamp": 1709669544430,
+    "pickCount": 28,
+    "winRate": "39.29%",
+    "timestamp": 1709755984766,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "jungle",
@@ -306,7 +310,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 276, win 46.01%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 17, win 52.94%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1101",
@@ -319,18 +323,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 13, win 69.23%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
+              {
+                "id": "6698",
+                "count": 1
+              },
               {
                 "id": "6692",
                 "count": 1
               },
               {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "6698",
+                "id": "3158",
                 "count": 1
               }
             ]
@@ -343,7 +347,7 @@
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -356,11 +360,11 @@
                 "count": 1
               },
               {
-                "id": "6701",
+                "id": "6699",
                 "count": 1
               },
               {
-                "id": "6676",
+                "id": "6696",
                 "count": 1
               }
             ]
@@ -369,15 +373,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3814",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "3156",
-                "count": 1
-              },
-              {
-                "id": "6694",
+                "id": "6697",
                 "count": 1
               }
             ]
@@ -394,20 +394,20 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ jungle, win 50.28%, pick 181",
+        "name": "[u.gg] Naafiri @ jungle, win 100.00%, pick 1",
         "position": "jungle",
-        "pickCount": 181,
-        "winRate": "50.28%",
-        "primaryStyleId": 8300,
-        "subStyleId": 8100,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8300,
         "selectedPerkIds": [
-          8369,
+          8128,
           8135,
+          8138,
           8143,
           8304,
-          8321,
           8347,
-          5008,
+          5005,
           5008,
           5001
         ],
@@ -417,13 +417,13 @@
     ]
   },
   {
-    "index": 1,
+    "index": 109,
     "id": "950",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 38,
-    "winRate": "44.74%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "supp",
@@ -445,7 +445,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 33, win 48.48%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2003",
@@ -462,18 +462,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 62.50%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "3877",
-                "count": 1
-              },
               {
                 "id": "6692",
                 "count": 1
               },
               {
-                "id": "3158",
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3877",
                 "count": 1
               }
             ]
@@ -482,11 +482,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6698",
-                "count": 1
-              },
-              {
-                "id": "6696",
+                "id": "6694",
                 "count": 1
               }
             ]
@@ -495,27 +491,14 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "6631",
+                "id": "6698",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -529,22 +512,22 @@
     "runes": [
       {
         "alias": "Naafiri",
-        "name": "[u.gg] Naafiri @ supp, win 100.00%, pick 2",
+        "name": "[u.gg] Naafiri @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 2,
+        "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
         "selectedPerkIds": [
-          8229,
-          8105,
+          8112,
+          8009,
+          8014,
+          8106,
+          8138,
           8143,
-          8210,
-          8226,
-          8237,
-          5005,
           5008,
-          5011
+          5008,
+          5001
         ],
         "score": 0,
         "type": ""
@@ -552,20 +535,20 @@
     ]
   },
   {
-    "index": 1,
+    "index": 109,
     "id": "950",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 32,
-    "winRate": "37.50%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
     "alias": "Naafiri",
     "name": "Naafiri",
     "position": "adc",
     "skills": [
       "Q",
-      "W",
-      "E"
+      "E",
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -580,70 +563,58 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4, win 75.00%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1036",
+                "id": "1054",
                 "count": 1
               },
               {
-                "id": "2031",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6698",
                 "count": 1
               },
               {
+                "id": "3158",
+                "count": 1
+              },
+              {
+                "id": "6692",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3814",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6701",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
                 "id": "6697",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6695",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3814",
                 "count": 1
               }
             ]
@@ -665,11 +636,11 @@
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8300,
-        "subStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
           8369,
-          8233,
-          8236,
+          8135,
+          8143,
           8304,
           8345,
           8347,

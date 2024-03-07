@@ -1,12 +1,12 @@
 [
   {
-    "index": 153,
+    "index": 145,
     "id": "240",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 12213,
-    "winRate": "51.85%",
-    "timestamp": 1709669544430,
+    "pickCount": 548,
+    "winRate": "49.27%",
+    "timestamp": 1709755984766,
     "alias": "Kled",
     "name": "Kled",
     "position": "top",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 10783, win 52.27%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 480, win 49.58%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1055",
@@ -41,18 +41,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 245, win 62.45%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 14, win 78.57%, Q \u003e W \u003e E",
             "items": [
-              {
-                "id": "6692",
-                "count": 1
-              },
               {
                 "id": "6698",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "6699",
+                "count": 1
+              },
+              {
+                "id": "3047",
                 "count": 1
               }
             ]
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3053",
+                "id": "3071",
                 "count": 1
               },
               {
-                "id": "6694",
+                "id": "3053",
                 "count": 1
               }
             ]
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6694",
-                "count": 1
-              },
-              {
                 "id": "3053",
                 "count": 1
               },
               {
-                "id": "6696",
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "3053",
+                "count": 1
+              },
+              {
                 "id": "3026",
                 "count": 1
               },
               {
-                "id": "3156",
-                "count": 1
-              },
-              {
-                "id": "6694",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Kled",
-        "name": "[u.gg] Kled @ top, win 53.30%, pick 3268",
+        "name": "[u.gg] Kled @ top, win 55.00%, pick 80",
         "position": "top",
-        "pickCount": 3268,
-        "winRate": "53.30%",
+        "pickCount": 80,
+        "winRate": "55.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8134,
-          8143,
           8299,
+          8444,
+          8446,
           9104,
           9111,
           5008,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 153,
+    "index": 145,
     "id": "240",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 1358,
-    "winRate": "53.02%",
-    "timestamp": 1709669544430,
+    "pickCount": 77,
+    "winRate": "42.86%",
+    "timestamp": 1709755984766,
     "alias": "Kled",
     "name": "Kled",
     "position": "mid",
@@ -167,31 +167,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 67, win 62.69%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 11, win 54.55%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1036",
+                "id": "1054",
                 "count": 1
               },
               {
-                "id": "2031",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 65, win 58.46%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 3, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "6698",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3111",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "6676",
                 "count": 1
               }
             ]
@@ -200,11 +200,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6610",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "3142",
+                "id": "3814",
                 "count": 1
               }
             ]
@@ -213,15 +213,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3033",
+                "id": "3026",
                 "count": 1
               },
               {
                 "id": "6696",
+                "count": 1
+              },
+              {
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -230,15 +230,11 @@
             "type": "Sixth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6696",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "3033",
-                "count": 1
-              },
-              {
-                "id": "6695",
+                "id": "3142",
                 "count": 1
               }
             ]
@@ -255,22 +251,22 @@
     "runes": [
       {
         "alias": "Kled",
-        "name": "[u.gg] Kled @ mid, win 67.31%, pick 52",
+        "name": "[u.gg] Kled @ mid, win 100.00%, pick 2",
         "position": "mid",
-        "pickCount": 52,
-        "winRate": "67.31%",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8010,
-          8106,
-          8143,
+          8005,
           8299,
+          8451,
+          8473,
           9104,
           9111,
           5008,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -278,13 +274,13 @@
     ]
   },
   {
-    "index": 153,
+    "index": 145,
     "id": "240",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 100,
-    "winRate": "41.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 20,
+    "winRate": "60.00%",
+    "timestamp": 1709755984766,
     "alias": "Kled",
     "name": "Kled",
     "position": "supp",
@@ -306,7 +302,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 84, win 45.24%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 20, win 60.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "2003",
@@ -323,18 +319,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 19, win 63.16%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3877",
                 "count": 1
               },
               {
-                "id": "6698",
+                "id": "3153",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "3111",
                 "count": 1
               }
             ]
@@ -343,7 +339,7 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6610",
+                "id": "6692",
                 "count": 1
               },
               {
@@ -356,35 +352,14 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6696",
-                "count": 1
-              },
-              {
                 "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "8020",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -398,20 +373,20 @@
     "runes": [
       {
         "alias": "Kled",
-        "name": "[u.gg] Kled @ supp, win 48.48%, pick 33",
+        "name": "[u.gg] Kled @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 33,
-        "winRate": "48.48%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8100,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8134,
-          8143,
           8299,
+          8446,
+          8473,
           9104,
           9111,
-          5008,
+          5005,
           5008,
           5001
         ],
@@ -421,13 +396,13 @@
     ]
   },
   {
-    "index": 153,
+    "index": 145,
     "id": "240",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 72,
-    "winRate": "52.78%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Kled",
     "name": "Kled",
     "position": "adc",
@@ -449,7 +424,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11, win 63.64%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1054",
@@ -462,14 +437,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "6698",
+                "id": "3748",
                 "count": 1
               },
               {
-                "id": "6692",
+                "id": "3047",
                 "count": 1
               },
               {
@@ -480,172 +455,11 @@
           },
           {
             "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "6696",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6696",
-                "count": 1
-              },
-              {
-                "id": "3153",
-                "count": 1
-              },
-              {
-                "id": "3142",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "6676",
-                "count": 1
-              },
-              {
-                "id": "3156",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Kled",
-        "name": "[u.gg] Kled @ adc, win 87.50%, pick 8",
-        "position": "adc",
-        "pickCount": 8,
-        "winRate": "87.50%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8010,
-          8299,
-          8446,
-          8473,
-          9104,
-          9111,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 153,
-    "id": "240",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 22,
-    "winRate": "59.09%",
-    "timestamp": 1709669544430,
-    "alias": "Kled",
-    "name": "Kled",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Kled @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          240
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 12, win 66.67%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3074",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "6692",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3156",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e W \u003e E",
@@ -663,18 +477,18 @@
     "runes": [
       {
         "alias": "Kled",
-        "name": "[u.gg] Kled @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Kled @ adc, win 100.00%, pick 1",
+        "position": "adc",
         "pickCount": 1,
         "winRate": "100.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          8112,
-          8014,
-          8106,
-          8138,
-          8143,
+          8010,
+          8299,
+          8444,
+          8446,
+          9104,
           9111,
           5005,
           5008,

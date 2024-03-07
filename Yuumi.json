@@ -1,12 +1,12 @@
 [
   {
-    "index": 24,
+    "index": 99,
     "id": "350",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 24119,
-    "winRate": "47.02%",
-    "timestamp": 1709669544430,
+    "pickCount": 1343,
+    "winRate": "47.13%",
+    "timestamp": 1709755984766,
     "alias": "Yuumi",
     "name": "Yuumi",
     "position": "supp",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 10688, win 48.60%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 659, win 47.95%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "2055",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3580, win 51.03%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 134, win 55.97%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3870",
@@ -52,7 +52,7 @@
                 "count": 1
               },
               {
-                "id": "3222",
+                "id": "3504",
                 "count": 1
               }
             ]
@@ -61,11 +61,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3504",
+                "id": "3222",
                 "count": 1
               },
               {
-                "id": "6616",
+                "id": "2065",
                 "count": 1
               }
             ]
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3504",
-                "count": 1
-              },
-              {
-                "id": "6616",
+                "id": "3222",
                 "count": 1
               },
               {
                 "id": "4005",
+                "count": 1
+              },
+              {
+                "id": "2065",
                 "count": 1
               }
             ]
@@ -91,272 +91,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2065",
-                "count": 1
-              },
-              {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "3504",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Yuumi",
-        "name": "[u.gg] Yuumi @ supp, win 47.94%, pick 10832",
-        "position": "supp",
-        "pickCount": 10832,
-        "winRate": "47.94%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8237,
-          8453,
-          8463,
-          5007,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 24,
-    "id": "350",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 84,
-    "winRate": "29.76%",
-    "timestamp": 1709669544430,
-    "alias": "Yuumi",
-    "name": "Yuumi",
-    "position": "adc",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Yuumi @ adc, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          350
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 29, win 37.93%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 9, win 55.56%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3870",
-                "count": 1
-              },
-              {
-                "id": "6617",
-                "count": 1
-              },
-              {
-                "id": "3504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3222",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "3222",
-                "count": 1
-              },
-              {
-                "id": "3190",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3222",
-                "count": 1
-              },
-              {
-                "id": "6621",
-                "count": 1
-              },
-              {
-                "id": "6616",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Yuumi",
-        "name": "[u.gg] Yuumi @ adc, win 46.88%, pick 32",
-        "position": "adc",
-        "pickCount": 32,
-        "winRate": "46.88%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8214,
-          8210,
-          8226,
-          8237,
-          8453,
-          8463,
-          5007,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 24,
-    "id": "350",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 66,
-    "winRate": "12.12%",
-    "timestamp": 1709669544430,
-    "alias": "Yuumi",
-    "name": "Yuumi",
-    "position": "top",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Yuumi @ top, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          350
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 15, win 20.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "6617",
-                "count": 1
-              },
-              {
-                "id": "6616",
-                "count": 1
-              },
-              {
-                "id": "3504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
                 "id": "3165",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
+              },
               {
-                "id": "4005",
+                "id": "6616",
                 "count": 1
               },
               {
@@ -364,10 +103,6 @@
                 "count": 1
               }
             ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": null
           }
         ],
         "map": "any",
@@ -381,22 +116,22 @@
     "runes": [
       {
         "alias": "Yuumi",
-        "name": "[u.gg] Yuumi @ top, win 37.50%, pick 8",
-        "position": "top",
-        "pickCount": 8,
-        "winRate": "37.50%",
+        "name": "[u.gg] Yuumi @ supp, win 52.69%, pick 93",
+        "position": "supp",
+        "pickCount": 93,
+        "winRate": "52.69%",
         "primaryStyleId": 8200,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8214,
           8210,
           8226,
-          8237,
+          8236,
           8453,
           8463,
           5007,
           5008,
-          5001
+          5011
         ],
         "score": 0,
         "type": ""
@@ -404,137 +139,19 @@
     ]
   },
   {
-    "index": 24,
+    "index": 99,
     "id": "350",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 66,
-    "winRate": "3.03%",
-    "timestamp": 1709669544430,
-    "alias": "Yuumi",
-    "name": "Yuumi",
-    "position": "jungle",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Yuumi @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          350
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 16, win 12.50%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3870",
-                "count": 1
-              },
-              {
-                "id": "6617",
-                "count": 1
-              },
-              {
-                "id": "3222",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "6616",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Yuumi",
-        "name": "[u.gg] Yuumi @ jungle, win 12.50%, pick 16",
-        "position": "jungle",
-        "pickCount": 16,
-        "winRate": "12.50%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8000,
-        "selectedPerkIds": [
-          8214,
-          8009,
-          8017,
-          8210,
-          8226,
-          8237,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 24,
-    "id": "350",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 61,
-    "winRate": "14.75%",
-    "timestamp": 1709669544430,
+    "pickCount": 6,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Yuumi",
     "name": "Yuumi",
     "position": "mid",
     "skills": [
-      "Q",
       "E",
+      "Q",
       "W"
     ],
     "spells": null,
@@ -550,7 +167,111 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 28, win 17.86%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 3, win 0.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3870",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "6616",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Yuumi",
+        "name": "[u.gg] Yuumi @ mid, win 0.00%, pick 1",
+        "position": "mid",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8300,
+        "selectedPerkIds": [
+          8214,
+          8210,
+          8226,
+          8237,
+          8304,
+          8345,
+          5005,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "id": "350",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 5,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
+    "alias": "Yuumi",
+    "name": "Yuumi",
+    "position": "top",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Yuumi @ top, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          350
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 3, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1056",
@@ -567,48 +288,20 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6617",
-                "count": 1
-              },
-              {
-                "id": "3504",
-                "count": 1
-              },
-              {
-                "id": "3870",
-                "count": 1
-              }
-            ]
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, Q \u003e E \u003e W",
+            "items": null
           },
           {
             "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3222",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3222",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -622,22 +315,218 @@
     "runes": [
       {
         "alias": "Yuumi",
-        "name": "[u.gg] Yuumi @ mid, win 50.00%, pick 10",
-        "position": "mid",
-        "pickCount": 10,
-        "winRate": "50.00%",
-        "primaryStyleId": 8200,
+        "name": "[u.gg] Yuumi @ top, win 0.00%, pick 1",
+        "position": "top",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
-          8214,
+          8437,
           8009,
           8017,
+          8401,
+          8453,
+          8473,
+          5007,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "id": "350",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 1,
+    "winRate": "100.00%",
+    "timestamp": 1709755984766,
+    "alias": "Yuumi",
+    "name": "Yuumi",
+    "position": "jungle",
+    "skills": [
+      "E",
+      "W",
+      "Q"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Yuumi @ jungle, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          350
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "2055",
+                "count": 1
+              },
+              {
+                "id": "3865",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "3870",
+                "count": 1
+              },
+              {
+                "id": "6617",
+                "count": 1
+              },
+              {
+                "id": "3107",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e W \u003e Q",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "items": [
+              {
+                "id": "2065",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Yuumi",
+        "name": "[u.gg] Yuumi @ jungle, win 100.00%, pick 1",
+        "position": "jungle",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8214,
           8210,
           8226,
           8237,
+          8453,
+          8463,
+          5007,
           5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 99,
+    "id": "350",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
+    "alias": "Yuumi",
+    "name": "Yuumi",
+    "position": "adc",
+    "skills": [],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Yuumi @ adc, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          350
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 0.00%, ",
+            "items": [
+              {
+                "id": "1103",
+                "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
+          },
+          {
+            "type": "Fourth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, ",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Yuumi",
+        "name": "[u.gg] Yuumi @ adc, win 0.00%, pick 1",
+        "position": "adc",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
+        "selectedPerkIds": [
+          8005,
+          8017,
+          8242,
+          8473,
+          9104,
+          9111,
+          5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""

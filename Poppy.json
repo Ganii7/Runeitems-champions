@@ -1,12 +1,147 @@
 [
   {
-    "index": 27,
+    "index": 2,
     "id": "78",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 12485,
-    "winRate": "51.14%",
-    "timestamp": 1709669544430,
+    "pickCount": 607,
+    "winRate": "50.91%",
+    "timestamp": 1709755984766,
+    "alias": "Poppy",
+    "name": "Poppy",
+    "position": "jungle",
+    "skills": [
+      "Q",
+      "E",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Poppy @ jungle, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          78
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 5, win 80.00%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "0",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 32, win 65.63%, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "6610",
+                "count": 1
+              },
+              {
+                "id": "3742",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "3068",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "3110",
+                "count": 1
+              },
+              {
+                "id": "3075",
+                "count": 1
+              },
+              {
+                "id": "2502",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6662",
+                "count": 1
+              },
+              {
+                "id": "3143",
+                "count": 1
+              },
+              {
+                "id": "3068",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Poppy",
+        "name": "[u.gg] Poppy @ jungle, win 58.25%, pick 103",
+        "position": "jungle",
+        "pickCount": 103,
+        "winRate": "58.25%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8128,
+          8105,
+          8126,
+          8138,
+          8232,
+          8234,
+          5008,
+          5008,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "id": "78",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 564,
+    "winRate": "49.29%",
+    "timestamp": 1709755984766,
     "alias": "Poppy",
     "name": "Poppy",
     "position": "top",
@@ -28,10 +163,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 4767, win 51.58%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 7, win 71.43%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1054",
+                "id": "1055",
                 "count": 1
               },
               {
@@ -41,7 +176,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 706, win 55.38%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 42, win 61.90%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3047",
@@ -74,15 +209,15 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "3075",
+                "count": 1
+              },
+              {
                 "id": "3110",
                 "count": 1
               },
               {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "2502",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -91,15 +226,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2504",
+                "id": "3071",
                 "count": 1
               },
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "2502",
+                "id": "3075",
                 "count": 1
               }
             ]
@@ -116,22 +247,22 @@
     "runes": [
       {
         "alias": "Poppy",
-        "name": "[u.gg] Poppy @ top, win 52.45%, pick 1041",
+        "name": "[u.gg] Poppy @ top, win 100.00%, pick 5",
         "position": "top",
-        "pickCount": 1041,
-        "winRate": "52.45%",
+        "pickCount": 5,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
-        "subStyleId": 8300,
+        "subStyleId": 8200,
         "selectedPerkIds": [
           8437,
-          8345,
-          8352,
-          8401,
-          8444,
+          8226,
+          8237,
+          8446,
           8453,
+          8473,
           5008,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,152 +270,13 @@
     ]
   },
   {
-    "index": 27,
+    "index": 2,
     "id": "78",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 11777,
-    "winRate": "49.74%",
-    "timestamp": 1709669544430,
-    "alias": "Poppy",
-    "name": "Poppy",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Poppy @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          78
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 903, win 52.49%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 653, win 53.45%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3742",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "3109",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Poppy",
-        "name": "[u.gg] Poppy @ jungle, win 52.08%, pick 1590",
-        "position": "jungle",
-        "pickCount": 1590,
-        "winRate": "52.08%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8230,
-          8105,
-          8126,
-          8232,
-          8234,
-          8275,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 27,
-    "id": "78",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 2595,
-    "winRate": "52.87%",
-    "timestamp": 1709669544430,
+    "pickCount": 127,
+    "winRate": "52.76%",
+    "timestamp": 1709755984766,
     "alias": "Poppy",
     "name": "Poppy",
     "position": "supp",
@@ -306,24 +298,20 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 2370, win 52.74%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 3, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1054",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 119, win 58.82%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 7, win 85.71%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "3877",
@@ -334,7 +322,7 @@
                 "count": 1
               },
               {
-                "id": "3742",
+                "id": "3002",
                 "count": 1
               }
             ]
@@ -343,11 +331,11 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3109",
+                "id": "3190",
                 "count": 1
               },
               {
-                "id": "3068",
+                "id": "2504",
                 "count": 1
               }
             ]
@@ -356,35 +344,22 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3190",
+                "id": "3110",
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "3075",
                 "count": 1
               },
               {
-                "id": "8020",
+                "id": "6665",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "6698",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -398,20 +373,20 @@
     "runes": [
       {
         "alias": "Poppy",
-        "name": "[u.gg] Poppy @ supp, win 80.00%, pick 15",
+        "name": "[u.gg] Poppy @ supp, win 100.00%, pick 3",
         "position": "supp",
-        "pickCount": 15,
-        "winRate": "80.00%",
-        "primaryStyleId": 8400,
-        "subStyleId": 8300,
+        "pickCount": 3,
+        "winRate": "100.00%",
+        "primaryStyleId": 8200,
+        "subStyleId": 8100,
         "selectedPerkIds": [
-          8439,
-          8242,
-          8345,
-          8347,
-          8401,
-          8473,
-          5008,
+          8230,
+          8105,
+          8126,
+          8232,
+          8234,
+          8275,
+          5005,
           5008,
           5011
         ],
@@ -421,13 +396,13 @@
     ]
   },
   {
-    "index": 27,
+    "index": 2,
     "id": "78",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 320,
-    "winRate": "51.56%",
-    "timestamp": 1709669544430,
+    "pickCount": 22,
+    "winRate": "54.55%",
+    "timestamp": 1709755984766,
     "alias": "Poppy",
     "name": "Poppy",
     "position": "mid",
@@ -449,27 +424,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 129, win 53.49%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2033",
+                "id": "1055",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 11, win 72.73%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
+                "id": "6692",
+                "count": 1
+              },
+              {
+                "id": "3119",
+                "count": 1
+              },
+              {
                 "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3068",
-                "count": 1
-              },
-              {
-                "id": "3110",
                 "count": 1
               }
             ]
@@ -478,7 +457,7 @@
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3075",
+                "id": "3110",
                 "count": 1
               },
               {
@@ -491,35 +470,14 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3053",
+                "id": "2504",
                 "count": 1
               }
             ]
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "6664",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -533,22 +491,22 @@
     "runes": [
       {
         "alias": "Poppy",
-        "name": "[u.gg] Poppy @ mid, win 58.82%, pick 51",
+        "name": "[u.gg] Poppy @ mid, win 100.00%, pick 1",
         "position": "mid",
-        "pickCount": 51,
-        "winRate": "58.82%",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8300,
         "selectedPerkIds": [
           8437,
           8345,
           8352,
-          8401,
-          8453,
-          8473,
+          8444,
+          8446,
+          8451,
+          5005,
           5008,
-          5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""
@@ -556,13 +514,13 @@
     ]
   },
   {
-    "index": 27,
+    "index": 2,
     "id": "78",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 79,
-    "winRate": "54.43%",
-    "timestamp": 1709669544430,
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Poppy",
     "name": "Poppy",
     "position": "adc",
@@ -584,77 +542,42 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 47, win 65.96%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1054",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "2033",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
               {
                 "id": "3047",
                 "count": 1
               },
               {
-                "id": "3068",
+                "id": "6664",
+                "count": 1
+              },
+              {
+                "id": "6662",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "3110",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3071",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6701",
-                "count": 1
-              },
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -668,22 +591,22 @@
     "runes": [
       {
         "alias": "Poppy",
-        "name": "[u.gg] Poppy @ adc, win 83.33%, pick 6",
+        "name": "[u.gg] Poppy @ adc, win 0.00%, pick 1",
         "position": "adc",
-        "pickCount": 6,
-        "winRate": "83.33%",
+        "pickCount": 1,
+        "winRate": "0.00%",
         "primaryStyleId": 8400,
         "subStyleId": 8000,
         "selectedPerkIds": [
           8437,
-          8009,
-          8444,
+          8014,
           8446,
-          8453,
-          9105,
+          8451,
+          8473,
+          9111,
+          5005,
           5008,
-          5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

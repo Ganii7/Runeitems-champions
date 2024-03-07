@@ -1,12 +1,12 @@
 [
   {
-    "index": 123,
+    "index": 111,
     "id": "360",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 36923,
-    "winRate": "49.68%",
-    "timestamp": 1709669544430,
+    "pickCount": 1801,
+    "winRate": "49.25%",
+    "timestamp": 1709755984766,
     "alias": "Samira",
     "name": "Samira",
     "position": "adc",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 35040, win 49.92%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1727, win 48.99%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,18 +41,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3519, win 56.18%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 401, win 52.87%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6676",
                 "count": 1
               },
               {
-                "id": "3031",
+                "id": "3047",
                 "count": 1
               },
               {
-                "id": "3047",
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3026",
-                "count": 1
-              },
-              {
                 "id": "3072",
                 "count": 1
               },
               {
-                "id": "3036",
+                "id": "3026",
+                "count": 1
+              },
+              {
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -116,10 +116,10 @@
     "runes": [
       {
         "alias": "Samira",
-        "name": "[u.gg] Samira @ adc, win 52.24%, pick 5825",
+        "name": "[u.gg] Samira @ adc, win 51.61%, pick 310",
         "position": "adc",
-        "pickCount": 5825,
-        "winRate": "52.24%",
+        "pickCount": 310,
+        "winRate": "51.61%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 123,
+    "index": 111,
     "id": "360",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 154,
-    "winRate": "49.35%",
-    "timestamp": 1709669544430,
+    "pickCount": 9,
+    "winRate": "55.56%",
+    "timestamp": 1709755984766,
     "alias": "Samira",
     "name": "Samira",
     "position": "mid",
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 144, win 50.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 9, win 55.56%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,18 +180,18 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 4, win 75.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "6676",
                 "count": 1
               },
               {
-                "id": "3031",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "3111",
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -199,10 +199,6 @@
           {
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "6673",
-                "count": 1
-              },
               {
                 "id": "3036",
                 "count": 1
@@ -215,14 +211,6 @@
               {
                 "id": "6673",
                 "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "3072",
-                "count": 1
               }
             ]
           },
@@ -230,15 +218,11 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3072",
+                "id": "6609",
                 "count": 1
               },
               {
-                "id": "2504",
-                "count": 1
-              },
-              {
-                "id": "8001",
+                "id": "3026",
                 "count": 1
               }
             ]
@@ -255,10 +239,10 @@
     "runes": [
       {
         "alias": "Samira",
-        "name": "[u.gg] Samira @ mid, win 63.16%, pick 19",
+        "name": "[u.gg] Samira @ mid, win 100.00%, pick 2",
         "position": "mid",
-        "pickCount": 19,
-        "winRate": "63.16%",
+        "pickCount": 2,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -278,13 +262,13 @@
     ]
   },
   {
-    "index": 123,
+    "index": 111,
     "id": "360",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 98,
-    "winRate": "46.94%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Samira",
     "name": "Samira",
     "position": "top",
@@ -306,31 +290,31 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 3, win 33.33%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "1036",
+                "id": "1055",
                 "count": 1
               },
               {
-                "id": "2031",
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6, win 83.33%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "6676",
-                "count": 1
-              },
               {
                 "id": "3047",
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "3031",
                 "count": 1
               }
             ]
@@ -341,10 +325,6 @@
               {
                 "id": "3072",
                 "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
               }
             ]
           },
@@ -352,15 +332,7 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3036",
-                "count": 1
-              },
-              {
-                "id": "6692",
-                "count": 1
-              },
-              {
-                "id": "6665",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -369,15 +341,7 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3110",
-                "count": 1
-              },
-              {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3036",
+                "id": "6692",
                 "count": 1
               }
             ]
@@ -394,10 +358,10 @@
     "runes": [
       {
         "alias": "Samira",
-        "name": "[u.gg] Samira @ top, win 65.00%, pick 20",
+        "name": "[u.gg] Samira @ top, win 50.00%, pick 2",
         "position": "top",
-        "pickCount": 20,
-        "winRate": "65.00%",
+        "pickCount": 2,
+        "winRate": "50.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -417,13 +381,13 @@
     ]
   },
   {
-    "index": 123,
+    "index": 111,
     "id": "360",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 16,
-    "winRate": "75.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
     "alias": "Samira",
     "name": "Samira",
     "position": "supp",
@@ -445,195 +409,47 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 9, win 88.89%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
+                "id": "1055",
                 "count": 1
               },
               {
                 "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3877",
+                "id": "6676",
+                "count": 1
+              },
+              {
+                "id": "3047",
                 "count": 1
               },
               {
                 "id": "3031",
                 "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "6676",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3036",
-                "count": 1
-              },
               {
                 "id": "6673",
                 "count": 1
-              },
-              {
-                "id": "3072",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6697",
-                "count": 1
-              },
-              {
-                "id": "6695",
-                "count": 1
-              },
-              {
-                "id": "6694",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Samira",
-        "name": "[u.gg] Samira @ supp, win 100.00%, pick 3",
-        "position": "supp",
-        "pickCount": 3,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8400,
-        "selectedPerkIds": [
-          8010,
-          8299,
-          8453,
-          8473,
-          9103,
-          9111,
-          5005,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 123,
-    "id": "360",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 6,
-    "winRate": "16.67%",
-    "timestamp": 1709669544430,
-    "alias": "Samira",
-    "name": "Samira",
-    "position": "jungle",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Samira @ jungle, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          360
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1101",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6697",
-                "count": 1
-              },
-              {
-                "id": "3111",
-                "count": 1
-              },
-              {
-                "id": "6676",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3036",
-                "count": 1
               }
             ]
           },
           {
             "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
@@ -651,15 +467,98 @@
     "runes": [
       {
         "alias": "Samira",
-        "name": "[u.gg] Samira @ jungle, win 100.00%, pick 1",
-        "position": "jungle",
+        "name": "[u.gg] Samira @ supp, win 0.00%, pick 1",
+        "position": "supp",
         "pickCount": 1,
-        "winRate": "100.00%",
+        "winRate": "0.00%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
           8010,
-          8017,
+          8135,
+          8139,
+          8299,
+          9103,
+          9111,
+          5005,
+          5008,
+          5011
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 111,
+    "id": "360",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 1,
+    "winRate": "0.00%",
+    "timestamp": 1709755984766,
+    "alias": "Samira",
+    "name": "Samira",
+    "position": "jungle",
+    "skills": [],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Samira @ jungle, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          360
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 1, win 0.00%, ",
+            "items": [
+              {
+                "id": "1103",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 0, win 0.00%, ",
+            "items": null
+          },
+          {
+            "type": "Fourth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, ",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, ",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Samira",
+        "name": "[u.gg] Samira @ jungle, win 0.00%, pick 1",
+        "position": "jungle",
+        "pickCount": 1,
+        "winRate": "0.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8100,
+        "selectedPerkIds": [
+          8010,
+          8014,
           8135,
           8143,
           9103,

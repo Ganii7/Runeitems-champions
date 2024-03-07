@@ -1,12 +1,12 @@
 [
   {
-    "index": 69,
+    "index": 13,
     "id": "122",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 45945,
-    "winRate": "50.97%",
-    "timestamp": 1709669544430,
+    "pickCount": 1990,
+    "winRate": "51.86%",
+    "timestamp": 1709755984766,
     "alias": "Darius",
     "name": "Darius",
     "position": "top",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 26977, win 52.01%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 1078, win 52.41%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6851, win 54.04%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 19, win 78.95%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3047",
+                "id": "6631",
                 "count": 1
               },
               {
-                "id": "3078",
+                "id": "3111",
                 "count": 1
               },
               {
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -74,11 +74,11 @@
             "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3742",
+                "id": "4401",
                 "count": 1
               },
               {
-                "id": "4401",
+                "id": "6333",
                 "count": 1
               },
               {
@@ -91,15 +91,15 @@
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "6333",
+                "id": "2504",
+                "count": 1
+              },
+              {
+                "id": "3026",
                 "count": 1
               },
               {
                 "id": "3075",
-                "count": 1
-              },
-              {
-                "id": "3742",
                 "count": 1
               }
             ]
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Darius",
-        "name": "[u.gg] Darius @ top, win 55.54%, pick 1696",
+        "name": "[u.gg] Darius @ top, win 56.83%, pick 139",
         "position": "top",
-        "pickCount": 1696,
-        "winRate": "55.54%",
+        "pickCount": 139,
+        "winRate": "56.83%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
+          8242,
           8299,
-          8451,
           8473,
           9104,
           9111,
           5005,
           5008,
-          5011
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 69,
+    "index": 13,
     "id": "122",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 810,
-    "winRate": "47.16%",
-    "timestamp": 1709669544430,
+    "pickCount": 29,
+    "winRate": "41.38%",
+    "timestamp": 1709755984766,
     "alias": "Darius",
     "name": "Darius",
     "position": "jungle",
@@ -167,23 +167,57 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 174, win 52.30%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 24, win 45.83%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1102",
+                "count": 1
+              },
+              {
+                "id": "2003",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 36, win 61.11%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3047",
+                "id": "6692",
                 "count": 1
               },
               {
-                "id": "6631",
+                "id": "3009",
+                "count": 1
+              },
+              {
+                "id": "3071",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "4401",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
+            "items": [
+              {
+                "id": "6665",
+                "count": 1
+              },
+              {
+                "id": "6333",
                 "count": 1
               },
               {
@@ -193,46 +227,126 @@
             ]
           },
           {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "4401",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "2504",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3110",
+                "id": "6701",
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Darius",
+        "name": "[u.gg] Darius @ jungle, win 46.67%, pick 15",
+        "position": "jungle",
+        "pickCount": 15,
+        "winRate": "46.67%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8200,
+        "selectedPerkIds": [
+          8010,
+          8234,
+          8275,
+          8299,
+          9104,
+          9111,
+          5005,
+          5008,
+          5013
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "id": "122",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 11,
+    "winRate": "27.27%",
+    "timestamp": 1709755984766,
+    "alias": "Darius",
+    "name": "Darius",
+    "position": "mid",
+    "skills": [
+      "Q",
+      "W",
+      "E"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Darius @ mid, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          122
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 5, win 40.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "1055",
                 "count": 1
               },
+              {
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 2, win 100.00%, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3047",
+                "count": 1
+              },
+              {
+                "id": "3078",
+                "count": 1
+              },
+              {
+                "id": "3053",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e W \u003e E",
+            "items": [
+              {
+                "id": "3742",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e W \u003e E",
+            "items": null
+          },
+          {
+            "type": "Sixth Item Options, Q \u003e W \u003e E",
+            "items": [
               {
                 "id": "8001",
                 "count": 1
@@ -251,18 +365,18 @@
     "runes": [
       {
         "alias": "Darius",
-        "name": "[u.gg] Darius @ jungle, win 49.07%, pick 216",
-        "position": "jungle",
-        "pickCount": 216,
-        "winRate": "49.07%",
+        "name": "[u.gg] Darius @ mid, win 100.00%, pick 1",
+        "position": "mid",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8200,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8234,
-          8275,
           8299,
-          9104,
+          8429,
+          8451,
+          9105,
           9111,
           5005,
           5008,
@@ -274,159 +388,20 @@
     ]
   },
   {
-    "index": 69,
+    "index": 13,
     "id": "122",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 468,
-    "winRate": "50.00%",
-    "timestamp": 1709669544430,
-    "alias": "Darius",
-    "name": "Darius",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "E",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Darius @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          122
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 231, win 51.95%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 27, win 62.96%, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3047",
-                "count": 1
-              },
-              {
-                "id": "3078",
-                "count": 1
-              },
-              {
-                "id": "3742",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              },
-              {
-                "id": "6665",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "3143",
-                "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Darius",
-        "name": "[u.gg] Darius @ mid, win 68.42%, pick 19",
-        "position": "mid",
-        "pickCount": 19,
-        "winRate": "68.42%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8010,
-          8234,
-          8275,
-          8299,
-          9105,
-          9111,
-          5005,
-          5008,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 69,
-    "id": "122",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 105,
-    "winRate": "38.10%",
-    "timestamp": 1709669544430,
+    "pickCount": 9,
+    "winRate": "66.67%",
+    "timestamp": 1709755984766,
     "alias": "Darius",
     "name": "Darius",
     "position": "supp",
     "skills": [
+      "Q",
       "E",
-      "W",
-      "Q"
+      "W"
     ],
     "spells": null,
     "itemBuilds": [
@@ -441,63 +416,47 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 80, win 40.00%, E \u003e W \u003e Q",
+            "type": "Starting Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
+                "id": "0",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 10, win 70.00%, E \u003e W \u003e Q",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3876",
+                "id": "3877",
                 "count": 1
               },
               {
-                "id": "3009",
+                "id": "3047",
                 "count": 1
               },
+              {
+                "id": "3071",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": [
               {
                 "id": "3742",
                 "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e W \u003e Q",
-            "items": [
-              {
-                "id": "6631",
-                "count": 1
               },
               {
-                "id": "6610",
+                "id": "3053",
                 "count": 1
               }
             ]
           },
           {
-            "type": "Fifth Item Options, E \u003e W \u003e Q",
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "3075",
-                "count": 1
-              },
               {
                 "id": "6665",
                 "count": 1
@@ -505,14 +464,10 @@
             ]
           },
           {
-            "type": "Sixth Item Options, E \u003e W \u003e Q",
+            "type": "Sixth Item Options, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3053",
-                "count": 1
-              },
-              {
-                "id": "8020",
+                "id": "3161",
                 "count": 1
               }
             ]
@@ -529,22 +484,22 @@
     "runes": [
       {
         "alias": "Darius",
-        "name": "[u.gg] Darius @ supp, win 70.00%, pick 10",
+        "name": "[u.gg] Darius @ supp, win 100.00%, pick 1",
         "position": "supp",
-        "pickCount": 10,
-        "winRate": "70.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8200,
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          9923,
-          8105,
-          8126,
-          8138,
-          8234,
-          8275,
+          8010,
+          8299,
+          8444,
+          8453,
+          9104,
+          9111,
+          5005,
           5008,
-          5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -552,13 +507,13 @@
     ]
   },
   {
-    "index": 69,
+    "index": 13,
     "id": "122",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 61,
-    "winRate": "45.90%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "33.33%",
+    "timestamp": 1709755984766,
     "alias": "Darius",
     "name": "Darius",
     "position": "adc",
@@ -580,7 +535,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 41, win 58.54%, Q \u003e E \u003e W",
+            "type": "Starting Items, pick count 2, win 50.00%, Q \u003e E \u003e W",
             "items": [
               {
                 "id": "1054",
@@ -593,29 +548,29 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e E \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 0.00%, Q \u003e E \u003e W",
             "items": [
               {
-                "id": "3047",
+                "id": "3111",
                 "count": 1
               },
               {
-                "id": "3078",
+                "id": "3748",
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "4401",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e E \u003e W",
+            "items": null
+          },
+          {
+            "type": "Fifth Item Options, Q \u003e E \u003e W",
             "items": [
-              {
-                "id": "4401",
-                "count": 1
-              },
               {
                 "id": "3053",
                 "count": 1
@@ -623,34 +578,8 @@
             ]
           },
           {
-            "type": "Fifth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "6665",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3083",
-                "count": 1
-              }
-            ]
-          },
-          {
             "type": "Sixth Item Options, Q \u003e E \u003e W",
-            "items": [
-              {
-                "id": "4401",
-                "count": 1
-              },
-              {
-                "id": "3065",
-                "count": 1
-              }
-            ]
+            "items": null
           }
         ],
         "map": "any",
@@ -664,17 +593,17 @@
     "runes": [
       {
         "alias": "Darius",
-        "name": "[u.gg] Darius @ adc, win 80.00%, pick 5",
+        "name": "[u.gg] Darius @ adc, win 50.00%, pick 2",
         "position": "adc",
-        "pickCount": 5,
-        "winRate": "80.00%",
+        "pickCount": 2,
+        "winRate": "50.00%",
         "primaryStyleId": 8000,
-        "subStyleId": 8200,
+        "subStyleId": 8400,
         "selectedPerkIds": [
           8010,
-          8234,
-          8275,
+          8242,
           8299,
+          8473,
           9105,
           9111,
           5005,

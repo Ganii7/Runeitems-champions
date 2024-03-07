@@ -1,12 +1,12 @@
 [
   {
-    "index": 66,
+    "index": 119,
     "id": "18",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 14805,
-    "winRate": "51.71%",
-    "timestamp": 1709669544430,
+    "pickCount": 757,
+    "winRate": "50.99%",
+    "timestamp": 1709755984766,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "mid",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 14039, win 51.96%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 718, win 51.11%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -41,14 +41,14 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 3624, win 55.82%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 205, win 57.07%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6672",
+                "id": "3006",
                 "count": 1
               },
               {
-                "id": "3006",
+                "id": "6672",
                 "count": 1
               },
               {
@@ -65,7 +65,7 @@
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -74,15 +74,15 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3036",
-                "count": 1
-              },
-              {
                 "id": "3072",
                 "count": 1
               },
               {
                 "id": "6673",
+                "count": 1
+              },
+              {
+                "id": "3156",
                 "count": 1
               }
             ]
@@ -91,7 +91,7 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3026",
+                "id": "3046",
                 "count": 1
               },
               {
@@ -99,7 +99,7 @@
                 "count": 1
               },
               {
-                "id": "6673",
+                "id": "7041",
                 "count": 1
               }
             ]
@@ -116,22 +116,22 @@
     "runes": [
       {
         "alias": "Tristana",
-        "name": "[u.gg] Tristana @ mid, win 56.62%, pick 823",
+        "name": "[u.gg] Tristana @ mid, win 52.88%, pick 208",
         "position": "mid",
-        "pickCount": 823,
-        "winRate": "56.62%",
+        "pickCount": 208,
+        "winRate": "52.88%",
         "primaryStyleId": 8000,
         "subStyleId": 8400,
         "selectedPerkIds": [
           8021,
           8014,
-          8451,
+          8446,
           8473,
           9101,
           9104,
           5005,
           5008,
-          5001
+          5013
         ],
         "score": 0,
         "type": ""
@@ -139,13 +139,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 119,
     "id": "18",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 13768,
-    "winRate": "50.28%",
-    "timestamp": 1709669544430,
+    "pickCount": 747,
+    "winRate": "49.40%",
+    "timestamp": 1709755984766,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "adc",
@@ -167,7 +167,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 13260, win 50.46%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 723, win 50.21%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "1055",
@@ -180,7 +180,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 5163, win 54.35%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 280, win 58.21%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6672",
@@ -213,15 +213,15 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
+                "id": "3156",
+                "count": 1
+              },
+              {
                 "id": "3036",
                 "count": 1
               },
               {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "3046",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -255,10 +255,10 @@
     "runes": [
       {
         "alias": "Tristana",
-        "name": "[u.gg] Tristana @ adc, win 60.26%, pick 229",
+        "name": "[u.gg] Tristana @ adc, win 76.47%, pick 17",
         "position": "adc",
-        "pickCount": 229,
-        "winRate": "60.26%",
+        "pickCount": 17,
+        "winRate": "76.47%",
         "primaryStyleId": 8000,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -278,13 +278,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 119,
     "id": "18",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 890,
-    "winRate": "48.65%",
-    "timestamp": 1709669544430,
+    "pickCount": 42,
+    "winRate": "52.38%",
+    "timestamp": 1709755984766,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "top",
@@ -306,10 +306,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 31, win 54.84%, E \u003e Q \u003e W",
+            "type": "Starting Items, pick count 35, win 54.29%, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "1083",
+                "id": "1055",
                 "count": 1
               },
               {
@@ -319,7 +319,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 251, win 54.98%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 12, win 66.67%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "3006",
@@ -343,7 +343,7 @@
                 "count": 1
               },
               {
-                "id": "3046",
+                "id": "6673",
                 "count": 1
               }
             ]
@@ -351,159 +351,12 @@
           {
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
-              {
-                "id": "3072",
-                "count": 1
-              },
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3036",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3026",
-                "count": 1
-              },
-              {
-                "id": "3094",
-                "count": 1
-              },
               {
                 "id": "3139",
                 "count": 1
-              }
-            ]
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Tristana",
-        "name": "[u.gg] Tristana @ top, win 65.63%, pick 32",
-        "position": "top",
-        "pickCount": 32,
-        "winRate": "65.63%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8005,
-          8014,
-          8135,
-          8139,
-          9104,
-          9111,
-          5005,
-          5008,
-          5011
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 66,
-    "id": "18",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 67,
-    "winRate": "41.79%",
-    "timestamp": 1709669544430,
-    "alias": "Tristana",
-    "name": "Tristana",
-    "position": "supp",
-    "skills": [
-      "E",
-      "Q",
-      "W"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Tristana @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          18
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 34, win 55.88%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
               },
               {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 3, win 66.67%, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "3869",
-                "count": 1
-              },
-              {
-                "id": "3006",
-                "count": 1
-              },
-              {
-                "id": "6692",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "6675",
-                "count": 1
-              },
-              {
-                "id": "3033",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, E \u003e Q \u003e W",
-            "items": [
-              {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3031",
-                "count": 1
-              },
-              {
-                "id": "6701",
+                "id": "3026",
                 "count": 1
               }
             ]
@@ -516,11 +369,7 @@
                 "count": 1
               },
               {
-                "id": "6699",
-                "count": 1
-              },
-              {
-                "id": "3814",
+                "id": "3026",
                 "count": 1
               }
             ]
@@ -537,18 +386,18 @@
     "runes": [
       {
         "alias": "Tristana",
-        "name": "[u.gg] Tristana @ supp, win 60.00%, pick 10",
-        "position": "supp",
-        "pickCount": 10,
-        "winRate": "60.00%",
-        "primaryStyleId": 8100,
-        "subStyleId": 8000,
+        "name": "[u.gg] Tristana @ top, win 100.00%, pick 2",
+        "position": "top",
+        "pickCount": 2,
+        "winRate": "100.00%",
+        "primaryStyleId": 8000,
+        "subStyleId": 8400,
         "selectedPerkIds": [
-          9923,
-          8135,
-          8138,
-          8139,
-          9103,
+          8005,
+          8014,
+          8446,
+          8473,
+          9104,
           9111,
           5005,
           5008,
@@ -560,13 +409,13 @@
     ]
   },
   {
-    "index": 66,
+    "index": 119,
     "id": "18",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 65,
-    "winRate": "43.08%",
-    "timestamp": 1709669544430,
+    "pickCount": 3,
+    "winRate": "66.67%",
+    "timestamp": 1709755984766,
     "alias": "Tristana",
     "name": "Tristana",
     "position": "jungle",
@@ -593,11 +442,15 @@
               {
                 "id": "1101",
                 "count": 1
+              },
+              {
+                "id": "2003",
+                "count": 1
               }
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 18, win 50.00%, E \u003e Q \u003e W",
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
             "items": [
               {
                 "id": "6672",
@@ -619,10 +472,6 @@
               {
                 "id": "3072",
                 "count": 1
-              },
-              {
-                "id": "3046",
-                "count": 1
               }
             ]
           },
@@ -630,13 +479,119 @@
             "type": "Fifth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "3036",
+                "id": "3156",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Sixth Item Options, E \u003e Q \u003e W",
+            "items": null
+          }
+        ],
+        "map": "any",
+        "mode": "any",
+        "preferredItemSlots": null,
+        "sortrank": 1,
+        "startedFrom": "blank",
+        "type": "custom"
+      }
+    ],
+    "runes": [
+      {
+        "alias": "Tristana",
+        "name": "[u.gg] Tristana @ jungle, win 100.00%, pick 1",
+        "position": "jungle",
+        "pickCount": 1,
+        "winRate": "100.00%",
+        "primaryStyleId": 8100,
+        "subStyleId": 8000,
+        "selectedPerkIds": [
+          9923,
+          8135,
+          8138,
+          8143,
+          9103,
+          9111,
+          5005,
+          5001,
+          5001
+        ],
+        "score": 0,
+        "type": ""
+      }
+    ]
+  },
+  {
+    "index": 119,
+    "id": "18",
+    "version": "14.5.1",
+    "officialVersion": "14.5.1",
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
+    "alias": "Tristana",
+    "name": "Tristana",
+    "position": "supp",
+    "skills": [
+      "E",
+      "Q",
+      "W"
+    ],
+    "spells": null,
+    "itemBuilds": [
+      {
+        "title": "[u.gg] Tristana @ supp, 14.5.1",
+        "associatedMaps": [
+          11,
+          12
+        ],
+        "associatedChampions": [
+          18
+        ],
+        "blocks": [
+          {
+            "type": "Starting Items, pick count 2, win 50.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "1055",
                 "count": 1
               },
               {
-                "id": "3156",
+                "id": "2003",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "6676",
                 "count": 1
               },
+              {
+                "id": "6675",
+                "count": 1
+              },
+              {
+                "id": "3006",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fourth Item Options, E \u003e Q \u003e W",
+            "items": [
+              {
+                "id": "3036",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "Fifth Item Options, E \u003e Q \u003e W",
+            "items": [
               {
                 "id": "3072",
                 "count": 1
@@ -647,11 +602,7 @@
             "type": "Sixth Item Options, E \u003e Q \u003e W",
             "items": [
               {
-                "id": "6673",
-                "count": 1
-              },
-              {
-                "id": "3026",
+                "id": "3095",
                 "count": 1
               }
             ]
@@ -668,22 +619,22 @@
     "runes": [
       {
         "alias": "Tristana",
-        "name": "[u.gg] Tristana @ jungle, win 58.33%, pick 12",
-        "position": "jungle",
-        "pickCount": 12,
-        "winRate": "58.33%",
+        "name": "[u.gg] Tristana @ supp, win 100.00%, pick 1",
+        "position": "supp",
+        "pickCount": 1,
+        "winRate": "100.00%",
         "primaryStyleId": 8100,
         "subStyleId": 8000,
         "selectedPerkIds": [
           9923,
+          8014,
           8135,
           8138,
           8143,
           9104,
-          9111,
           5005,
           5008,
-          5011
+          5001
         ],
         "score": 0,
         "type": ""

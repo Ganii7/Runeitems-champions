@@ -1,12 +1,12 @@
 [
   {
-    "index": 99,
+    "index": 134,
     "id": "120",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 23991,
-    "winRate": "50.35%",
-    "timestamp": 1709669544430,
+    "pickCount": 1074,
+    "winRate": "51.58%",
+    "timestamp": 1709755984766,
     "alias": "Hecarim",
     "name": "Hecarim",
     "position": "jungle",
@@ -28,7 +28,7 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 11693, win 52.71%, Q \u003e W \u003e E",
+            "type": "Starting Items, pick count 388, win 57.22%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "1102",
@@ -37,7 +37,7 @@
             ]
           },
           {
-            "type": "Mythic \u0026 Core Items, pick count 6286, win 53.60%, Q \u003e W \u003e E",
+            "type": "Mythic \u0026 Core Items, pick count 282, win 56.03%, Q \u003e W \u003e E",
             "items": [
               {
                 "id": "3158",
@@ -57,11 +57,11 @@
             "type": "Fourth Item Options, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "3071",
+                "id": "3053",
                 "count": 1
               },
               {
-                "id": "3053",
+                "id": "3071",
                 "count": 1
               }
             ]
@@ -70,15 +70,15 @@
             "type": "Fifth Item Options, Q \u003e W \u003e E",
             "items": [
               {
+                "id": "3110",
+                "count": 1
+              },
+              {
                 "id": "3053",
                 "count": 1
               },
               {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "3071",
+                "id": "6665",
                 "count": 1
               }
             ]
@@ -91,11 +91,11 @@
                 "count": 1
               },
               {
-                "id": "6333",
+                "id": "6610",
                 "count": 1
               },
               {
-                "id": "6610",
+                "id": "6333",
                 "count": 1
               }
             ]
@@ -112,10 +112,10 @@
     "runes": [
       {
         "alias": "Hecarim",
-        "name": "[u.gg] Hecarim @ jungle, win 52.99%, pick 3884",
+        "name": "[u.gg] Hecarim @ jungle, win 58.86%, pick 158",
         "position": "jungle",
-        "pickCount": 3884,
-        "winRate": "52.99%",
+        "pickCount": 158,
+        "winRate": "58.86%",
         "primaryStyleId": 8200,
         "subStyleId": 8100,
         "selectedPerkIds": [
@@ -135,13 +135,13 @@
     ]
   },
   {
-    "index": 99,
+    "index": 134,
     "id": "120",
-    "version": "14.3.1",
+    "version": "14.5.1",
     "officialVersion": "14.5.1",
-    "pickCount": 50,
-    "winRate": "38.00%",
-    "timestamp": 1709669544430,
+    "pickCount": 2,
+    "winRate": "50.00%",
+    "timestamp": 1709755984766,
     "alias": "Hecarim",
     "name": "Hecarim",
     "position": "top",
@@ -163,266 +163,10 @@
         ],
         "blocks": [
           {
-            "type": "Starting Items, pick count 8, win 50.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3070",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 8, win 62.50%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3158",
-                "count": 1
-              },
-              {
-                "id": "3161",
-                "count": 1
-              },
-              {
-                "id": "3004",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6610",
-                "count": 1
-              },
-              {
-                "id": "3078",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6694",
-                "count": 1
-              },
-              {
-                "id": "6333",
-                "count": 1
-              },
-              {
-                "id": "4401",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Hecarim",
-        "name": "[u.gg] Hecarim @ top, win 100.00%, pick 3",
-        "position": "top",
-        "pickCount": 3,
-        "winRate": "100.00%",
-        "primaryStyleId": 8000,
-        "subStyleId": 8200,
-        "selectedPerkIds": [
-          8010,
-          8234,
-          8275,
-          8299,
-          9104,
-          9111,
-          5008,
-          5008,
-          5001
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 99,
-    "id": "120",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 12,
-    "winRate": "16.67%",
-    "timestamp": 1709669544430,
-    "alias": "Hecarim",
-    "name": "Hecarim",
-    "position": "supp",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Hecarim @ supp, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          120
-        ],
-        "blocks": [
-          {
-            "type": "Starting Items, pick count 10, win 20.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "2003",
-                "count": 1
-              },
-              {
-                "id": "3865",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Mythic \u0026 Core Items, pick count 1, win 100.00%, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3876",
-                "count": 1
-              },
-              {
-                "id": "3009",
-                "count": 1
-              },
-              {
-                "id": "3161",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3814",
-                "count": 1
-              },
-              {
-                "id": "3118",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Fifth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "6699",
-                "count": 1
-              }
-            ]
-          },
-          {
-            "type": "Sixth Item Options, Q \u003e W \u003e E",
-            "items": null
-          }
-        ],
-        "map": "any",
-        "mode": "any",
-        "preferredItemSlots": null,
-        "sortrank": 1,
-        "startedFrom": "blank",
-        "type": "custom"
-      }
-    ],
-    "runes": [
-      {
-        "alias": "Hecarim",
-        "name": "[u.gg] Hecarim @ supp, win 50.00%, pick 2",
-        "position": "supp",
-        "pickCount": 2,
-        "winRate": "50.00%",
-        "primaryStyleId": 8200,
-        "subStyleId": 8100,
-        "selectedPerkIds": [
-          8230,
-          8135,
-          8138,
-          8232,
-          8234,
-          8275,
-          5008,
-          5010,
-          5013
-        ],
-        "score": 0,
-        "type": ""
-      }
-    ]
-  },
-  {
-    "index": 99,
-    "id": "120",
-    "version": "14.3.1",
-    "officialVersion": "14.5.1",
-    "pickCount": 4,
-    "winRate": "25.00%",
-    "timestamp": 1709669544430,
-    "alias": "Hecarim",
-    "name": "Hecarim",
-    "position": "mid",
-    "skills": [
-      "Q",
-      "W",
-      "E"
-    ],
-    "spells": null,
-    "itemBuilds": [
-      {
-        "title": "[u.gg] Hecarim @ mid, 14.5.1",
-        "associatedMaps": [
-          11,
-          12
-        ],
-        "associatedChampions": [
-          120
-        ],
-        "blocks": [
-          {
             "type": "Starting Items, pick count 2, win 50.00%, Q \u003e W \u003e E",
             "items": [
               {
-                "id": "1055",
-                "count": 1
-              },
-              {
-                "id": "2003",
+                "id": "2033",
                 "count": 1
               }
             ]
@@ -439,19 +183,14 @@
                 "count": 1
               },
               {
-                "id": "3050",
+                "id": "3110",
                 "count": 1
               }
             ]
           },
           {
             "type": "Fourth Item Options, Q \u003e W \u003e E",
-            "items": [
-              {
-                "id": "3053",
-                "count": 1
-              }
-            ]
+            "items": null
           },
           {
             "type": "Fifth Item Options, Q \u003e W \u003e E",
@@ -473,8 +212,8 @@
     "runes": [
       {
         "alias": "Hecarim",
-        "name": "[u.gg] Hecarim @ mid, win 100.00%, pick 1",
-        "position": "mid",
+        "name": "[u.gg] Hecarim @ top, win 100.00%, pick 1",
+        "position": "top",
         "pickCount": 1,
         "winRate": "100.00%",
         "primaryStyleId": 8000,
@@ -482,12 +221,12 @@
         "selectedPerkIds": [
           8010,
           8299,
-          8313,
           8345,
-          9104,
+          8352,
+          9105,
           9111,
-          5007,
-          5010,
+          5008,
+          5008,
           5001
         ],
         "score": 0,
