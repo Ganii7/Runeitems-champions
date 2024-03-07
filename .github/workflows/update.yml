@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4.1.1
 
       - name: Download artifact
         id: download-artifact
@@ -21,16 +21,24 @@ jobs:
           workflow_search: true
           workflow_conclusion: success
           name: packages
-          path: extract_here
+          path: actions
           if_no_artifact_found: fail
           repo: cangzhang/champ-r
 
+
+      - name: Cleanup
+        run: rm actions/u.gg/index.json actions/u.gg/package.json
+      
+      - name: Execute python
+        uses: actions/setup-python@v5
+        with:
+            python-version: '3.10' 
+      - run: python actions/item_builder.py
+
       - name: Extract and cleanup
         run: |
-          mv extract_here/u.gg/* .
-          rm -r extract_here
-          rm index.json package.json
-          ls
+          mv actions/u.gg/* .
+          rm -r actions/u.gg
 
       - name: Configure Git
         run: |
