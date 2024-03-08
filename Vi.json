@@ -11,7 +11,11 @@
             "hideIfSummonerSpell": "",
             "items": [
                 {
-                    "id": "1103",
+                    "id": "1101",
+                    "count": 1
+                },
+                {
+                    "id": "2003",
                     "count": 1
                 },
                 {
@@ -46,7 +50,7 @@
                     "count": 1
                 },
                 {
-                    "id": "6665",
+                    "id": "3026",
                     "count": 1
                 }
             ],
@@ -57,15 +61,11 @@
             "hideIfSummonerSpell": "",
             "items": [
                 {
-                    "id": "3026",
+                    "id": "3156",
                     "count": 1
                 },
                 {
-                    "id": "6692",
-                    "count": 1
-                },
-                {
-                    "id": "3075",
+                    "id": "6695",
                     "count": 1
                 }
             ],
