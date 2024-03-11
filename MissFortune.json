@@ -59,7 +59,12 @@
         },
         {
             "hideIfSummonerSpell": "",
-            "items": [],
+            "items": [
+                {
+                    "id": "3072",
+                    "count": 1
+                }
+            ],
             "showIfSummonerSpell": "",
             "type": "Alternative items"
         }
