@@ -61,10 +61,6 @@
             "hideIfSummonerSpell": "",
             "items": [
                 {
-                    "id": "4005",
-                    "count": 1
-                },
-                {
                     "id": "3504",
                     "count": 1
                 },
