@@ -19,7 +19,7 @@
                     "count": 1
                 },
                 {
-                    "id": "3006",
+                    "id": "3087",
                     "count": 1
                 }
             ],
@@ -30,6 +30,10 @@
             "hideIfSummonerSpell": "",
             "items": [
                 {
+                    "id": "3087",
+                    "count": 1
+                },
+                {
                     "id": "3006",
                     "count": 1
                 },
@@ -39,10 +43,6 @@
                 },
                 {
                     "id": "3031",
-                    "count": 1
-                },
-                {
-                    "id": "3094",
                     "count": 1
                 },
                 {
@@ -61,7 +61,7 @@
             "hideIfSummonerSpell": "",
             "items": [
                 {
-                    "id": "3085",
+                    "id": "3094",
                     "count": 1
                 },
                 {
