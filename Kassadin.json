@@ -19,7 +19,7 @@
                     "count": 1
                 },
                 {
-                    "id": "3118",
+                    "id": "6657",
                     "count": 1
                 }
             ],
@@ -30,11 +30,7 @@
             "hideIfSummonerSpell": "",
             "items": [
                 {
-                    "id": "3118",
-                    "count": 1
-                },
-                {
-                    "id": "3020",
+                    "id": "6657",
                     "count": 1
                 },
                 {
@@ -42,15 +38,19 @@
                     "count": 1
                 },
                 {
-                    "id": "3041",
+                    "id": "3020",
                     "count": 1
                 },
                 {
-                    "id": "3089",
+                    "id": "3118",
                     "count": 1
                 },
                 {
                     "id": "3157",
+                    "count": 1
+                },
+                {
+                    "id": "3041",
                     "count": 1
                 }
             ],
@@ -59,7 +59,16 @@
         },
         {
             "hideIfSummonerSpell": "",
-            "items": [],
+            "items": [
+                {
+                    "id": "3110",
+                    "count": 1
+                },
+                {
+                    "id": "3089",
+                    "count": 1
+                }
+            ],
             "showIfSummonerSpell": "",
             "type": "Alternative items"
         }

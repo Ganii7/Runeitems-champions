@@ -11,11 +11,7 @@
             "hideIfSummonerSpell": "",
             "items": [
                 {
-                    "id": "1056",
-                    "count": 1
-                },
-                {
-                    "id": "2003",
+                    "id": "2033",
                     "count": 1
                 },
                 {
@@ -42,15 +38,15 @@
                     "count": 1
                 },
                 {
-                    "id": "3089",
-                    "count": 1
-                },
-                {
                     "id": "4645",
                     "count": 1
                 },
                 {
                     "id": "3157",
+                    "count": 1
+                },
+                {
+                    "id": "3135",
                     "count": 1
                 }
             ],
@@ -61,7 +57,15 @@
             "hideIfSummonerSpell": "",
             "items": [
                 {
-                    "id": "3137",
+                    "id": "3089",
+                    "count": 1
+                },
+                {
+                    "id": "3041",
+                    "count": 1
+                },
+                {
+                    "id": "6653",
                     "count": 1
                 }
             ],
