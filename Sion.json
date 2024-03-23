@@ -42,11 +42,11 @@
                     "count": 1
                 },
                 {
-                    "id": "6665",
+                    "id": "2502",
                     "count": 1
                 },
                 {
-                    "id": "2502",
+                    "id": "6665",
                     "count": 1
                 }
             ],
@@ -55,7 +55,16 @@
         },
         {
             "hideIfSummonerSpell": "",
-            "items": [],
+            "items": [
+                {
+                    "id": "3075",
+                    "count": 1
+                },
+                {
+                    "id": "3065",
+                    "count": 1
+                }
+            ],
             "showIfSummonerSpell": "",
             "type": "Alternative items"
         }
