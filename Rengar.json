@@ -15,6 +15,10 @@
                     "count": 1
                 },
                 {
+                    "id": "2003",
+                    "count": 1
+                },
+                {
                     "id": "6697",
                     "count": 1
                 }
@@ -55,12 +59,7 @@
         },
         {
             "hideIfSummonerSpell": "",
-            "items": [
-                {
-                    "id": "6696",
-                    "count": 1
-                }
-            ],
+            "items": [],
             "showIfSummonerSpell": "",
             "type": "Alternative items"
         }
