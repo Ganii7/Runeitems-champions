@@ -63,6 +63,10 @@
                 {
                     "id": "3102",
                     "count": 1
+                },
+                {
+                    "id": "3041",
+                    "count": 1
                 }
             ],
             "showIfSummonerSpell": "",
